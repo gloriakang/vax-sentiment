@@ -1,3 +1,5 @@
 *.gml
 *.net
 *ipynb_checkpoints/
+*.png
+.DS_Store
