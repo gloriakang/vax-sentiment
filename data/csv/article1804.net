@@ -1,0 +1,94 @@
+*vertices 42
+1 "new version of Gardasil" 0.0 0.0 ellipse
+2 "free vaccine" 0.0 0.0 ellipse
+3 girls 0.0 0.0 ellipse
+4 vaccinated 0.0 0.0 ellipse
+5 "free vaccine eligible girls" 0.0 0.0 ellipse
+6 "genital warts" 0.0 0.0 ellipse
+7 "young age group" 0.0 0.0 ellipse
+8 "strong evidence" 0.0 0.0 ellipse
+9 "abnormal cells" 0.0 0.0 ellipse
+10 Gardasil 0.0 0.0 ellipse
+11 "Gardasil vaccine" 0.0 0.0 ellipse
+12 "delaying Gardasil" 0.0 0.0 ellipse
+13 "HPV strains" 0.0 0.0 ellipse
+14 "one dose Gardasil" 0.0 0.0 ellipse
+15 "positive health impact" 0.0 0.0 ellipse
+16 "policy makers" 0.0 0.0 ellipse
+17 fast 0.0 0.0 ellipse
+18 "cervical dysplasia" 0.0 0.0 ellipse
+19 parents 0.0 0.0 ellipse
+20 "daughters' health" 0.0 0.0 ellipse
+21 "delaying vaccination" 0.0 0.0 ellipse
+22 "vaccination recommendations" 0.0 0.0 ellipse
+23 "sexually active" 0.0 0.0 ellipse
+24 "variety of medical conditions" 0.0 0.0 ellipse
+25 "cervical cancer" 0.0 0.0 ellipse
+26 "sense of urgency" 0.0 0.0 ellipse
+27 physicians 0.0 0.0 ellipse
+28 "HPV vaccine benefits" 0.0 0.0 ellipse
+29 "prevention opportunities" 0.0 0.0 ellipse
+30 HPV 0.0 0.0 ellipse
+31 "United States" 0.0 0.0 ellipse
+32 boys 0.0 0.0 ellipse
+33 protection 0.0 0.0 ellipse
+34 "vaccinated girls" 0.0 0.0 ellipse
+35 women 0.0 0.0 ellipse
+36 Cervarix 0.0 0.0 ellipse
+37 benefits 0.0 0.0 ellipse
+38 CDC 0.0 0.0 ellipse
+39 "HPV vaccine" 0.0 0.0 ellipse
+40 "high school girls who received Gardasil" 0.0 0.0 ellipse
+41 "high school girls" 0.0 0.0 ellipse
+42 "three doses Gardasil" 0.0 0.0 ellipse
+*edges
+1 31 1.0 source "new version of Gardasil" source new version of Gardasil edge "approved for use in" edge approved for use in target "United States" target United States label "new version of Gardasil - approved for use in - United States" label new version of Gardasil - approved for use in - United States
+1 10 1.0 source "new version of Gardasil" source new version of Gardasil edge "similar to" edge similar to target Gardasil target Gardasil label "new version of Gardasil - similar to - Gardasil" label new version of Gardasil - similar to - Gardasil
+1 13 1.0 source "new version of Gardasil" source new version of Gardasil edge "targets nine" edge targets nine target "HPV strains" target HPV strains label "new version of Gardasil - targets nine - HPV strains" label new version of Gardasil - targets nine - HPV strains
+2 4 1.0 source vaccinated source vaccinated edge "few girls vaccinated if not eligible for" edge few girls vaccinated if not eligible for target "free vaccine" target free vaccine label "vaccinated - few girls vaccinated if not eligible for - free vaccine" label vaccinated - few girls vaccinated if not eligible for - free vaccine
+3 10 1.0 source girls source girls edge "should get vaccinated with" edge should get vaccinated with target Gardasil target Gardasil comments "when 11 or 12" comments when 11 or 12 label "girls - should get vaccinated with - Gardasil" label girls - should get vaccinated with - Gardasil
+3 42 1.0 source girls source girls edge "only 38% between ages 13 and 17 had received" edge only 38% between ages 13 and 17 had received target "three doses Gardasil" target three doses Gardasil comments "CDC report" comments CDC report label "girls - only 38% between ages 13 and 17 had received - three doses Gardasil" label girls - only 38% between ages 13 and 17 had received - three doses Gardasil
+3 23 1.0 source girls source girls edge "should get vaccinated with Gardasil before" edge should get vaccinated with Gardasil before target "sexually active" target sexually active comments "CDC recommends" comments CDC recommends label "girls - should get vaccinated with Gardasil before - sexually active" label girls - should get vaccinated with Gardasil before - sexually active
+3 30 1.0 source girls source girls edge "should get vaccinated with Gardasil before exposed to" edge should get vaccinated with Gardasil before exposed to target HPV target HPV comments "CDC recommends" comments CDC recommends label "girls - should get vaccinated with Gardasil before exposed to - HPV" label girls - should get vaccinated with Gardasil before exposed to - HPV
+3 14 1.0 source girls source girls edge "only 57% between ages 13 and 17 had received" edge only 57% between ages 13 and 17 had received target "one dose Gardasil" target one dose Gardasil comments "CDC report" comments CDC report label "girls - only 57% between ages 13 and 17 had received - one dose Gardasil" label girls - only 57% between ages 13 and 17 had received - one dose Gardasil
+5 18 1.0 source "free vaccine eligible girls" source free vaccine eligible girls edge "2.32 fewer cases" edge 2.32 fewer cases target "cervical dysplasia" target cervical dysplasia comments "than [non-free vaccine eligible girls]" comments than [non-free vaccine eligible girls] label "free vaccine eligible girls - 2.32 fewer cases - cervical dysplasia" label free vaccine eligible girls - 2.32 fewer cases - cervical dysplasia
+5 6 1.0 source "free vaccine eligible girls" source free vaccine eligible girls edge ".34 fewer cases" edge .34 fewer cases target "genital warts" target genital warts comments "than [non-free vaccine eligible girls]" comments than [non-free vaccine eligible girls] label "free vaccine eligible girls - .34 fewer cases - genital warts" label free vaccine eligible girls - .34 fewer cases - genital warts
+5 42 1.0 source "free vaccine eligible girls" source free vaccine eligible girls edge "even if eligible on 50.6% got" edge even if eligible on 50.6% got target "three doses Gardasil" target three doses Gardasil label "free vaccine eligible girls - even if eligible on 50.6% got - three doses Gardasil" label free vaccine eligible girls - even if eligible on 50.6% got - three doses Gardasil
+6 10 1.0 source Gardasil source Gardasil edge "appeared to reduce risk of" edge appeared to reduce risk of target "genital warts" target genital warts label "Gardasil - appeared to reduce risk of - genital warts" label Gardasil - appeared to reduce risk of - genital warts
+6 39 1.0 source "HPV vaccine" source HPV vaccine edge "protection against" edge protection against target "genital warts" target genital warts comments "in women" comments in women label "HPV vaccine - protection against - genital warts" label HPV vaccine - protection against - genital warts
+6 30 1.0 source "genital warts" source genital warts edge "also caused by" edge also caused by target HPV target HPV label "genital warts - also caused by - HPV" label genital warts - also caused by - HPV
+6 34 1.0 source "vaccinated girls" source vaccinated girls edge ".83 fewer cases" edge .83 fewer cases target "genital warts" target genital warts comments "than [unvaccinated girls]" comments than [unvaccinated girls] label "vaccinated girls - .83 fewer cases - genital warts" label vaccinated girls - .83 fewer cases - genital warts
+7 28 1.0 source "HPV vaccine benefits" source HPV vaccine benefits edge "observed in" edge observed in target "young age group" target young age group comments "strengthens [vaccination recommendations]" comments strengthens [vaccination recommendations] label "HPV vaccine benefits - observed in - young age group" label HPV vaccine benefits - observed in - young age group
+8 15 1.0 source "strong evidence" source strong evidence edge of edge of target "positive health impact" target positive health impact label "strong evidence - of - positive health impact" label strong evidence - of - positive health impact
+9 18 1.0 source "cervical dysplasia" source cervical dysplasia edge "characterized by" edge characterized by target "abnormal cells" target abnormal cells label "cervical dysplasia - characterized by - abnormal cells" label cervical dysplasia - characterized by - abnormal cells
+10 36 1.0 source Cervarix source Cervarix edge "similar to" edge similar to target Gardasil target Gardasil label "Cervarix - similar to - Gardasil" label Cervarix - similar to - Gardasil
+10 13 1.0 source Gardasil source Gardasil edge "targets four main" edge targets four main target "HPV strains" target HPV strains label "Gardasil - targets four main - HPV strains" label Gardasil - targets four main - HPV strains
+10 38 1.0 source CDC source CDC edge "recommends boys get vaccinated when 11 or 12" edge recommends boys get vaccinated when 11 or 12 target Gardasil target Gardasil comments "when 11 or 12" comments when 11 or 12 label "CDC - recommends boys get vaccinated when 11 or 12 - Gardasil" label CDC - recommends boys get vaccinated when 11 or 12 - Gardasil
+10 38 1.0 source CDC source CDC edge "recommends girls get vaccinated when 11 or 12" edge recommends girls get vaccinated when 11 or 12 target Gardasil target Gardasil comments "when 11 or 12" comments when 11 or 12 label "CDC - recommends girls get vaccinated when 11 or 12 - Gardasil" label CDC - recommends girls get vaccinated when 11 or 12 - Gardasil
+10 32 1.0 source boys source boys edge "should get vaccinated with" edge should get vaccinated with target Gardasil target Gardasil comments "when 11 or 12" comments when 11 or 12 label "boys - should get vaccinated with - Gardasil" label boys - should get vaccinated with - Gardasil
+10 19 1.0 source parents source parents edge "many have no sense of urgency about" edge many have no sense of urgency about target Gardasil target Gardasil label "parents - many have no sense of urgency about - Gardasil" label parents - many have no sense of urgency about - Gardasil
+10 24 1.0 source Gardasil source Gardasil edge "can prevent" edge can prevent target "variety of medical conditions" target variety of medical conditions label "Gardasil - can prevent - variety of medical conditions" label Gardasil - can prevent - variety of medical conditions
+10 25 1.0 source Gardasil source Gardasil edge "billed as vaccine against" edge billed as vaccine against target "cervical cancer" target cervical cancer label "Gardasil - billed as vaccine against - cervical cancer" label Gardasil - billed as vaccine against - cervical cancer
+11 15 1.0 source "positive health impact" source positive health impact edge of edge of target "Gardasil vaccine" target Gardasil vaccine comments "on [teens]" comments on [teens] label "positive health impact - of - Gardasil vaccine" label positive health impact - of - Gardasil vaccine
+12 20 1.0 source "delaying Gardasil" source delaying Gardasil edge "puts at risk" edge puts at risk target "daughters' health" target daughters' health label "delaying Gardasil - puts at risk - daughters' health" label delaying Gardasil - puts at risk - daughters' health
+12 19 1.0 source parents source parents edge "believe no harm in" edge believe no harm in target "delaying Gardasil" target delaying Gardasil comments "researchers say" comments researchers say label "parents - believe no harm in - delaying Gardasil" label parents - believe no harm in - delaying Gardasil
+13 36 1.0 source Cervarix source Cervarix edge "approved for use in United States targets two" edge approved for use in United States targets two target "HPV strains" target HPV strains label "Cervarix - approved for use in United States targets two - HPV strains" label Cervarix - approved for use in United States targets two - HPV strains
+16 21 1.0 source "policy makers" source policy makers edge "can use findings to substantiate arguments against" edge can use findings to substantiate arguments against target "delaying vaccination" target delaying vaccination label "policy makers - can use findings to substantiate arguments against - delaying vaccination" label policy makers - can use findings to substantiate arguments against - delaying vaccination
+17 33 1.0 source protection source protection edge "from Gardasil kicks in" edge from Gardasil kicks in target fast target fast comments "study results show" comments study results show label "protection - from Gardasil kicks in - fast" label protection - from Gardasil kicks in - fast
+18 40 1.0 source "high school girls who received Gardasil" source high school girls who received Gardasil edge "were less likely than those unvaccinated to be diagnosed with" edge were less likely than those unvaccinated to be diagnosed with target "cervical dysplasia" target cervical dysplasia comments "three doses" comments three doses label "high school girls who received Gardasil - were less likely than those unvaccinated to be diagnosed with - cervical dysplasia" label high school girls who received Gardasil - were less likely than those unvaccinated to be diagnosed with - cervical dysplasia
+18 34 1.0 source "vaccinated girls" source vaccinated girls edge "5.7 fewer cases per 1000" edge 5.7 fewer cases per 1000 target "cervical dysplasia" target cervical dysplasia comments "than [unvaccinated girls]" comments than [unvaccinated girls] label "vaccinated girls - 5.7 fewer cases per 1000 - cervical dysplasia" label vaccinated girls - 5.7 fewer cases per 1000 - cervical dysplasia
+18 34 1.0 source "cervical dysplasia" source cervical dysplasia edge "one case averted for every 175" edge one case averted for every 175 target "vaccinated girls" target vaccinated girls label "cervical dysplasia - one case averted for every 175 - vaccinated girls" label cervical dysplasia - one case averted for every 175 - vaccinated girls
+18 39 1.0 source "HPV vaccine" source HPV vaccine edge "protection against" edge protection against target "cervical dysplasia" target cervical dysplasia comments "in women" comments in women label "HPV vaccine - protection against - cervical dysplasia" label HPV vaccine - protection against - cervical dysplasia
+18 25 1.0 source "cervical dysplasia" source cervical dysplasia edge "can lead to" edge can lead to target "cervical cancer" target cervical cancer label "cervical dysplasia - can lead to - cervical cancer" label cervical dysplasia - can lead to - cervical cancer
+19 26 1.0 source parents source parents edge "many have no" edge many have no target "sense of urgency" target sense of urgency comments "about Gardasil" comments about Gardasil label "parents - many have no - sense of urgency" label parents - many have no - sense of urgency
+19 20 1.0 source parents source parents edge "are putting at risk" edge are putting at risk target "daughters' health" target daughters' health comments "researchers say" comments researchers say label "parents - are putting at risk - daughters' health" label parents - are putting at risk - daughters' health
+21 27 1.0 source physicians source physicians edge "can use findings to substantiate arguments against" edge can use findings to substantiate arguments against target "delaying vaccination" target delaying vaccination label "physicians - can use findings to substantiate arguments against - delaying vaccination" label physicians - can use findings to substantiate arguments against - delaying vaccination
+21 29 1.0 source "delaying vaccination" source delaying vaccination edge "may result in missed" edge may result in missed target "prevention opportunities" target prevention opportunities comments "study authors concluded" comments study authors concluded label "delaying vaccination - may result in missed - prevention opportunities" label delaying vaccination - may result in missed - prevention opportunities
+22 28 1.0 source "HPV vaccine benefits" source HPV vaccine benefits edge strengthens edge strengthens target "vaccination recommendations" target vaccination recommendations label "HPV vaccine benefits - strengthens - vaccination recommendations" label HPV vaccine benefits - strengthens - vaccination recommendations
+23 32 1.0 source boys source boys edge "should get vaccinated with Gardasil before" edge should get vaccinated with Gardasil before target "sexually active" target sexually active comments "CDC recommends" comments CDC recommends label "boys - should get vaccinated with Gardasil before - sexually active" label boys - should get vaccinated with Gardasil before - sexually active
+24 25 1.0 source "variety of medical conditions" source variety of medical conditions edge "some may lead to" edge some may lead to target "cervical cancer" target cervical cancer label "variety of medical conditions - some may lead to - cervical cancer" label variety of medical conditions - some may lead to - cervical cancer
+25 39 1.0 source "HPV vaccine" source HPV vaccine edge prevents edge prevents target "cervical cancer" target cervical cancer comments "in women" comments in women label "HPV vaccine - prevents - cervical cancer" label HPV vaccine - prevents - cervical cancer
+25 35 1.0 source "cervical cancer" source cervical cancer edge "typically strikes in 40s or 50s" edge typically strikes in 40s or 50s target women target women label "cervical cancer - typically strikes in 40s or 50s - women" label cervical cancer - typically strikes in 40s or 50s - women
+28 41 1.0 source "HPV vaccine benefits" source HPV vaccine benefits edge "can be seen in" edge can be seen in target "high school girls" target high school girls label "HPV vaccine benefits - can be seen in - high school girls" label HPV vaccine benefits - can be seen in - high school girls
+30 32 1.0 source boys source boys edge "should get vaccinated with Gardasil before exposed to" edge should get vaccinated with Gardasil before exposed to target HPV target HPV comments "CDC recommends" comments CDC recommends label "boys - should get vaccinated with Gardasil before exposed to - HPV" label boys - should get vaccinated with Gardasil before exposed to - HPV
+37 39 1.0 source "HPV vaccine" source HPV vaccine edge has edge has target benefits target benefits label "HPV vaccine - has - benefits" label HPV vaccine - has - benefits

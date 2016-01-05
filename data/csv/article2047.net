@@ -1,0 +1,115 @@
+*vertices 52
+1 "Senate Education Committee" 0.0 0.0 ellipse
+2 "low-income family" 0.0 0.0 ellipse
+3 "committee hearing room" 0.0 0.0 ellipse
+4 "committee members" 0.0 0.0 ellipse
+5 "Ben Allen" 0.0 0.0 ellipse
+6 "personal belief" 0.0 0.0 ellipse
+7 protest 0.0 0.0 ellipse
+8 "state-required vaccinations" 0.0 0.0 ellipse
+9 "immunization waivers" 0.0 0.0 ellipse
+10 "parent's option" 0.0 0.0 ellipse
+11 children 0.0 0.0 ellipse
+12 "public education" 0.0 0.0 ellipse
+13 "changes to SB277" 0.0 0.0 ellipse
+14 amendent 0.0 0.0 ellipse
+15 "safety against communicable diseases" 0.0 0.0 ellipse
+16 "vaccinated children" 0.0 0.0 ellipse
+17 "vaccine safety" 0.0 0.0 ellipse
+18 "SB277 opponents" 0.0 0.0 ellipse
+19 "vaccine exemptions" 0.0 0.0 ellipse
+20 "personal beliefs" 0.0 0.0 ellipse
+21 "single working parent" 0.0 0.0 ellipse
+22 "SB277 change" 0.0 0.0 ellipse
+23 parents 0.0 0.0 ellipse
+24 "Connie Leyva" 0.0 0.0 ellipse
+25 California 0.0 0.0 ellipse
+26 "Chairwoman Carol Liu" 0.0 0.0 ellipse
+27 "students enrolled in independent study program" 0.0 0.0 ellipse
+28 "Senate committee" 0.0 0.0 ellipse
+29 home-school 0.0 0.0 ellipse
+30 SB277 0.0 0.0 ellipse
+31 "reach everyone" 0.0 0.0 ellipse
+32 protested 0.0 0.0 ellipse
+33 "religious exemptions" 0.0 0.0 ellipse
+34 concerns 0.0 0.0 ellipse
+35 school 0.0 0.0 ellipse
+36 "SB277 proposal" 0.0 0.0 ellipse
+37 exemption 0.0 0.0 ellipse
+38 "Saron Runner" 0.0 0.0 ellipse
+39 "proposed restrictions" 0.0 0.0 ellipse
+40 "deprive young people of right to an education" 0.0 0.0 ellipse
+41 "personal belief exemption" 0.0 0.0 ellipse
+42 "young people" 0.0 0.0 ellipse
+43 "Disneyland measles outbreak" 0.0 0.0 ellipse
+44 "fair balance" 0.0 0.0 ellipse
+45 immunization 0.0 0.0 ellipse
+46 "Tina Kimmel" 0.0 0.0 ellipse
+47 "immunization waviers" 0.0 0.0 ellipse
+48 "Senate panel" 0.0 0.0 ellipse
+49 "former research scientist" 0.0 0.0 ellipse
+50 "Richard Pan" 0.0 0.0 ellipse
+51 options 0.0 0.0 ellipse
+52 kindergarteners 0.0 0.0 ellipse
+*edges
+1 30 1.0 source SB277 source SB277 edge cleared edge cleared target "Senate Education Committee" target Senate Education Committee comments "on [bipartisan vote]" comments on [bipartisan vote] label "SB277 - cleared - Senate Education Committee" label SB277 - cleared - Senate Education Committee
+2 30 1.0 source SB277 source SB277 edge "will not help" edge will not help target "low-income family" target low-income family label "SB277 - will not help - low-income family" label SB277 - will not help - low-income family
+2 24 1.0 source "Connie Leyva" source Connie Leyva edge "concerned SB277 will not go far enough to help" edge concerned SB277 will not go far enough to help target "low-income family" target low-income family comments "who can't home-school" comments who can't home-school label "Connie Leyva - concerned SB277 will not go far enough to help - low-income family" label Connie Leyva - concerned SB277 will not go far enough to help - low-income family
+3 18 1.0 source "SB277 opponents" source SB277 opponents edge packed edge packed target "committee hearing room" target committee hearing room label "SB277 opponents - packed - committee hearing room" label SB277 opponents - packed - committee hearing room
+4 14 1.0 source amendent source amendent edge "proposed by" edge proposed by target "committee members" target committee members label "amendent - proposed by - committee members" label amendent - proposed by - committee members
+5 30 1.0 source "Ben Allen" source Ben Allen edge "thinks it won't reach everyone" edge thinks it won't reach everyone target SB277 target SB277 comments "Ben Allen told education committee" comments Ben Allen told education committee label "Ben Allen - thinks it won't reach everyone - SB277" label Ben Allen - thinks it won't reach everyone - SB277
+5 30 1.0 source "Ben Allen" source Ben Allen edge "thinks it will increase safety" edge thinks it will increase safety target SB277 target SB277 comments "Ben Allen told education committee" comments Ben Allen told education committee label "Ben Allen - thinks it will increase safety - SB277" label Ben Allen - thinks it will increase safety - SB277
+5 29 1.0 source "Ben Allen" source Ben Allen edge "altered SB277 to make it possible for multiple families to join in" edge altered SB277 to make it possible for multiple families to join in target home-school target home-school label "Ben Allen - altered SB277 to make it possible for multiple families to join in - home-school" label Ben Allen - altered SB277 to make it possible for multiple families to join in - home-school
+5 39 1.0 source "Ben Allen" source Ben Allen edge "altered SB277 with" edge altered SB277 with target "proposed restrictions" target proposed restrictions comments "to make it possible for [multiple families] to join in home-schooling [unvaccinated children]" comments to make it possible for [multiple families] to join in home-schooling [unvaccinated children] label "Ben Allen - altered SB277 with - proposed restrictions" label Ben Allen - altered SB277 with - proposed restrictions
+6 8 1.0 source "state-required vaccinations" source state-required vaccinations edge "on grounds of" edge on grounds of target "personal belief" target personal belief label "state-required vaccinations - on grounds of - personal belief" label state-required vaccinations - on grounds of - personal belief
+7 18 1.0 source "SB277 opponents" source SB277 opponents edge "many said would continue" edge many said would continue target protest target protest label "SB277 opponents - many said would continue - protest" label SB277 opponents - many said would continue - protest
+8 11 1.0 source children source children edge "exempted from" edge exempted from target "state-required vaccinations" target state-required vaccinations label "children - exempted from - state-required vaccinations" label children - exempted from - state-required vaccinations
+9 20 1.0 source "immunization waivers" source immunization waivers edge "kindergarteners have because of parents'" edge kindergarteners have because of parents' target "personal beliefs" target personal beliefs label "immunization waivers - kindergarteners have because of parents' - personal beliefs" label immunization waivers - kindergarteners have because of parents' - personal beliefs
+10 41 1.0 source "personal belief exemption" source personal belief exemption edge is edge is target "parent's option" target parent's option comments "to exempt their children" comments to exempt their children label "personal belief exemption - is - parent's option" label personal belief exemption - is - parent's option
+11 30 1.0 source children source children edge worried edge worried target SB277 target SB277 comments "would deprive [young people] of [right to an education]" comments would deprive [young people] of [right to an education] label "children - worried - SB277" label children - worried - SB277
+11 40 1.0 source children source children edge "worried SB277 would" edge worried SB277 would target "deprive young people of right to an education" target deprive young people of right to an education label "children - worried SB277 would - deprive young people of right to an education" label children - worried SB277 would - deprive young people of right to an education
+11 36 1.0 source children source children edge "many testified against" edge many testified against target "SB277 proposal" target SB277 proposal label "children - many testified against - SB277 proposal" label children - many testified against - SB277 proposal
+11 17 1.0 source children source children edge "said they didn't believe in" edge said they didn't believe in target "vaccine safety" target vaccine safety label "children - said they didn't believe in - vaccine safety" label children - said they didn't believe in - vaccine safety
+12 30 1.0 source SB277 source SB277 edge "would deprive young people of" edge would deprive young people of target "public education" target public education label "SB277 - would deprive young people of - public education" label SB277 - would deprive young people of - public education
+12 32 1.0 source protested source protested edge "that SB277 would deprive young people of" edge that SB277 would deprive young people of target "public education" target public education comments "by parents" comments by parents label "protested - that SB277 would deprive young people of - public education" label protested - that SB277 would deprive young people of - public education
+12 42 1.0 source "young people" source young people edge "would be deprived of" edge would be deprived of target "public education" target public education label "young people - would be deprived of - public education" label young people - would be deprived of - public education
+13 30 1.0 source SB277 source SB277 edge "authors agreed to" edge authors agreed to target "changes to SB277" target changes to SB277 label "SB277 - authors agreed to - changes to SB277" label SB277 - authors agreed to - changes to SB277
+13 23 1.0 source "changes to SB277" source changes to SB277 edge "make it easier for" edge make it easier for target parents target parents label "changes to SB277 - make it easier for - parents" label changes to SB277 - make it easier for - parents
+13 29 1.0 source "changes to SB277" source changes to SB277 edge "make it easier for parents to" edge make it easier for parents to target home-school target home-school label "changes to SB277 - make it easier for parents to - home-school" label changes to SB277 - make it easier for parents to - home-school
+14 33 1.0 source amendent source amendent edge "would have retained existing" edge would have retained existing target "religious exemptions" target religious exemptions label "amendent - would have retained existing - religious exemptions" label amendent - would have retained existing - religious exemptions
+15 30 1.0 source SB277 source SB277 edge "will increase everyone's" edge will increase everyone's target "safety against communicable diseases" target safety against communicable diseases comments "Ben Allen told education committee" comments Ben Allen told education committee label "SB277 - will increase everyone's - safety against communicable diseases" label SB277 - will increase everyone's - safety against communicable diseases
+16 30 1.0 source SB277 source SB277 edge "would require more" edge would require more target "vaccinated children" target vaccinated children comments "in California" comments in California label "SB277 - would require more - vaccinated children" label SB277 - would require more - vaccinated children
+16 35 1.0 source "vaccinated children" source vaccinated children edge "more required before entering" edge more required before entering target school target school label "vaccinated children - more required before entering - school" label vaccinated children - more required before entering - school
+17 23 1.0 source parents source parents edge "said they didn't believe in" edge said they didn't believe in target "vaccine safety" target vaccine safety label "parents - said they didn't believe in - vaccine safety" label parents - said they didn't believe in - vaccine safety
+19 30 1.0 source SB277 source SB277 edge removes edge removes target "vaccine exemptions" target vaccine exemptions comments "in California" comments in California label "SB277 - removes - vaccine exemptions" label SB277 - removes - vaccine exemptions
+20 52 1.0 source kindergarteners source kindergarteners edge "have immunization waivers because of parents'" edge have immunization waivers because of parents' target "personal beliefs" target personal beliefs label "kindergarteners - have immunization waivers because of parents' - personal beliefs" label kindergarteners - have immunization waivers because of parents' - personal beliefs
+21 30 1.0 source SB277 source SB277 edge "will not help" edge will not help target "single working parent" target single working parent label "SB277 - will not help - single working parent" label SB277 - will not help - single working parent
+21 24 1.0 source "Connie Leyva" source Connie Leyva edge "concerned SB277 will not go far enough to help" edge concerned SB277 will not go far enough to help target "single working parent" target single working parent comments "who can't home-school" comments who can't home-school label "Connie Leyva - concerned SB277 will not go far enough to help - single working parent" label Connie Leyva - concerned SB277 will not go far enough to help - single working parent
+22 37 1.0 source "SB277 change" source SB277 change edge added edge added target exemption target exemption comments "for [students enrolled in independent study program run by public school system]" comments for [students enrolled in independent study program run by public school system] label "SB277 change - added - exemption" label SB277 change - added - exemption
+23 29 1.0 source parents source parents edge "if they decide against immunization can" edge if they decide against immunization can target home-school target home-school label "parents - if they decide against immunization can - home-school" label parents - if they decide against immunization can - home-school
+23 30 1.0 source parents source parents edge "more than 100 protested" edge more than 100 protested target SB277 target SB277 label "parents - more than 100 protested - SB277" label parents - more than 100 protested - SB277
+23 30 1.0 source parents source parents edge worried edge worried target SB277 target SB277 comments "would deprive [young people] of [right to an education]" comments would deprive [young people] of [right to an education] label "parents - worried - SB277" label parents - worried - SB277
+23 40 1.0 source parents source parents edge "worried SB277 would" edge worried SB277 would target "deprive young people of right to an education" target deprive young people of right to an education label "parents - worried SB277 would - deprive young people of right to an education" label parents - worried SB277 would - deprive young people of right to an education
+23 45 1.0 source parents source parents edge "can home-school if they decide against" edge can home-school if they decide against target immunization target immunization label "parents - can home-school if they decide against - immunization" label parents - can home-school if they decide against - immunization
+23 36 1.0 source parents source parents edge "many testified against" edge many testified against target "SB277 proposal" target SB277 proposal label "parents - many testified against - SB277 proposal" label parents - many testified against - SB277 proposal
+24 30 1.0 source "Connie Leyva" source Connie Leyva edge "voted against" edge voted against target SB277 target SB277 label "Connie Leyva - voted against - SB277" label Connie Leyva - voted against - SB277
+25 30 1.0 source SB277 source SB277 edge "removes vaccine exemptions in" edge removes vaccine exemptions in target California target California label "SB277 - removes vaccine exemptions in - California" label SB277 - removes vaccine exemptions in - California
+26 30 1.0 source "Chairwoman Carol Liu" source Chairwoman Carol Liu edge "voted for" edge voted for target SB277 target SB277 comments "even though she said it has a "long way to go" to fully address her concerns" comments even though she said it has a "long way to go" to fully address her concerns label "Chairwoman Carol Liu - voted for - SB277" label Chairwoman Carol Liu - voted for - SB277
+26 34 1.0 source "Chairwoman Carol Liu" source Chairwoman Carol Liu edge "voiced similar" edge voiced similar target concerns target concerns comments "to parents and children" comments to parents and children label "Chairwoman Carol Liu - voiced similar - concerns" label Chairwoman Carol Liu - voiced similar - concerns
+27 37 1.0 source exemption source exemption edge "added to SB277 for" edge added to SB277 for target "students enrolled in independent study program" target students enrolled in independent study program comments "run by public school system" comments run by public school system label "exemption - added to SB277 for - students enrolled in independent study program" label exemption - added to SB277 for - students enrolled in independent study program
+28 30 1.0 source SB277 source SB277 edge "passed by key" edge passed by key target "Senate committee" target Senate committee label "SB277 - passed by key - Senate committee" label SB277 - passed by key - Senate committee
+29 30 1.0 source SB277 source SB277 edge "will not help those who can't" edge will not help those who can't target home-school target home-school label "SB277 - will not help those who can't - home-school" label SB277 - will not help those who can't - home-school
+29 50 1.0 source "Richard Pan" source Richard Pan edge "altered SB277 to make it possible for multiple families to join in" edge altered SB277 to make it possible for multiple families to join in target home-school target home-school label "Richard Pan - altered SB277 to make it possible for multiple families to join in - home-school" label Richard Pan - altered SB277 to make it possible for multiple families to join in - home-school
+30 31 1.0 source SB277 source SB277 edge won't edge won't target "reach everyone" target reach everyone comments "Ben Allen told education committee" comments Ben Allen told education committee label "SB277 - won't - reach everyone" label SB277 - won't - reach everyone
+30 38 1.0 source "Saron Runner" source Saron Runner edge "voted against" edge voted against target SB277 target SB277 label "Saron Runner - voted against - SB277" label Saron Runner - voted against - SB277
+30 39 1.0 source SB277 source SB277 edge "altered with" edge altered with target "proposed restrictions" target proposed restrictions label "SB277 - altered with - proposed restrictions" label SB277 - altered with - proposed restrictions
+30 40 1.0 source SB277 source SB277 edge would edge would target "deprive young people of right to an education" target deprive young people of right to an education label "SB277 - would - deprive young people of right to an education" label SB277 - would - deprive young people of right to an education
+30 41 1.0 source SB277 source SB277 edge "would eliminate" edge would eliminate target "personal belief exemption" target personal belief exemption label "SB277 - would eliminate - personal belief exemption" label SB277 - would eliminate - personal belief exemption
+30 44 1.0 source SB277 source SB277 edge "has struck" edge has struck target "fair balance" target fair balance comments "thinks Ben Allen" comments thinks Ben Allen label "SB277 - has struck - fair balance" label SB277 - has struck - fair balance
+30 46 1.0 source "Tina Kimmel" source Tina Kimmel edge "is shocked and disappointed about" edge is shocked and disappointed about target SB277 target SB277 label "Tina Kimmel - is shocked and disappointed about - SB277" label Tina Kimmel - is shocked and disappointed about - SB277
+30 48 1.0 source SB277 source SB277 edge "approved by key" edge approved by key target "Senate panel" target Senate panel label "SB277 - approved by key - Senate panel" label SB277 - approved by key - Senate panel
+39 50 1.0 source "Richard Pan" source Richard Pan edge "altered SB277 with" edge altered SB277 with target "proposed restrictions" target proposed restrictions comments "to make it possible for [multiple families] to join in home-schooling [unvaccinated children]" comments to make it possible for [multiple families] to join in home-schooling [unvaccinated children] label "Richard Pan - altered SB277 with - proposed restrictions" label Richard Pan - altered SB277 with - proposed restrictions
+39 43 1.0 source "proposed restrictions" source proposed restrictions edge "introduced partly in response to" edge introduced partly in response to target "Disneyland measles outbreak" target Disneyland measles outbreak label "proposed restrictions - introduced partly in response to - Disneyland measles outbreak" label proposed restrictions - introduced partly in response to - Disneyland measles outbreak
+44 51 1.0 source "fair balance" source fair balance edge "provides more" edge provides more target options target options comments "to parents concerned about vaccinating" comments to parents concerned about vaccinating label "fair balance - provides more - options" label fair balance - provides more - options
+46 49 1.0 source "Tina Kimmel" source Tina Kimmel edge is edge is target "former research scientist" target former research scientist comments "with [CA Department of Public Health]" comments with [CA Department of Public Health] label "Tina Kimmel - is - former research scientist" label Tina Kimmel - is - former research scientist
+47 52 1.0 source kindergarteners source kindergarteners edge "more than 13,500 have" edge more than 13,500 have target "immunization waviers" target immunization waviers comments "because of [parents' personal beliefs]" comments because of [parents' personal beliefs] label "kindergarteners - more than 13,500 have - immunization waviers" label kindergarteners - more than 13,500 have - immunization waviers

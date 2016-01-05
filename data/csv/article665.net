@@ -1,0 +1,67 @@
+*vertices 35
+1 "vaccine campaign" 0.0 0.0 ellipse
+2 "promising news" 0.0 0.0 ellipse
+3 "eliminated virus" 0.0 0.0 ellipse
+4 Carribean 0.0 0.0 ellipse
+5 smallpox 0.0 0.0 ellipse
+6 "pregnant women" 0.0 0.0 ellipse
+7 "World Health Organization" 0.0 0.0 ellipse
+8 polio 0.0 0.0 ellipse
+9 "MMR vaccine" 0.0 0.0 ellipse
+10 "rubella cases" 0.0 0.0 ellipse
+11 "severe symptoms" 0.0 0.0 ellipse
+12 "rubella virus" 0.0 0.0 ellipse
+13 "birth defects" 0.0 0.0 ellipse
+14 "rubella elimination" 0.0 0.0 ellipse
+15 "fear of vaccines" 0.0 0.0 ellipse
+16 "rubella outbreak" 0.0 0.0 ellipse
+17 rubella 0.0 0.0 ellipse
+18 "new transmission" 0.0 0.0 ellipse
+19 measles 0.0 0.0 ellipse
+20 "rubella elimination effort" 0.0 0.0 ellipse
+21 miscarriage 0.0 0.0 ellipse
+22 "elimination of rubella" 0.0 0.0 ellipse
+23 eliminated 0.0 0.0 ellipse
+24 "measles virus" 0.0 0.0 ellipse
+25 "bad news" 0.0 0.0 ellipse
+26 "overseas infections" 0.0 0.0 ellipse
+27 "adult vaccination program" 0.0 0.0 ellipse
+28 "German measles" 0.0 0.0 ellipse
+29 "rubella transmission" 0.0 0.0 ellipse
+30 children 0.0 0.0 ellipse
+31 "number of outbreaks" 0.0 0.0 ellipse
+32 "elsewhere in the globe" 0.0 0.0 ellipse
+33 "Western Hemisphere" 0.0 0.0 ellipse
+34 "Pan American Health Organization" 0.0 0.0 ellipse
+35 "elite list" 0.0 0.0 ellipse
+*edges
+1 22 1.0 source "vaccine campaign" source vaccine campaign edge "leads to" edge leads to target "elimination of rubella" target elimination of rubella comments "in the Americas" comments in the Americas label "vaccine campaign - leads to - elimination of rubella" label vaccine campaign - leads to - elimination of rubella
+1 20 1.0 source "vaccine campaign" source vaccine campaign edge for edge for target "rubella elimination effort" target rubella elimination effort label "vaccine campaign - for - rubella elimination effort" label vaccine campaign - for - rubella elimination effort
+2 7 1.0 source "World Health Organization" source World Health Organization edge announced edge announced target "promising news" target promising news label "World Health Organization - announced - promising news" label World Health Organization - announced - promising news
+2 34 1.0 source "Pan American Health Organization" source Pan American Health Organization edge announced edge announced target "promising news" target promising news label "Pan American Health Organization - announced - promising news" label Pan American Health Organization - announced - promising news
+2 12 1.0 source "promising news" source promising news edge "is that there have been no new transmission of" edge is that there have been no new transmission of target "rubella virus" target rubella virus comments "in Western Hemisphere" comments in Western Hemisphere label "promising news - is that there have been no new transmission of - rubella virus" label promising news - is that there have been no new transmission of - rubella virus
+3 8 1.0 source polio source polio edge "has been declared" edge has been declared target "eliminated virus" target eliminated virus comments "in Western Hemisphere" comments in Western Hemisphere label "polio - has been declared - eliminated virus" label polio - has been declared - eliminated virus
+3 35 1.0 source "eliminated virus" source eliminated virus edge is edge is target "elite list" target elite list label "eliminated virus - is - elite list" label eliminated virus - is - elite list
+3 5 1.0 source smallpox source smallpox edge "has been declared" edge has been declared target "eliminated virus" target eliminated virus comments "in Western Hemisphere" comments in Western Hemisphere label "smallpox - has been declared - eliminated virus" label smallpox - has been declared - eliminated virus
+3 12 1.0 source "rubella virus" source rubella virus edge "in the Western Hemisphere declared" edge in the Western Hemisphere declared target "eliminated virus" target eliminated virus comments "in Western Hemisphere" comments in Western Hemisphere label "rubella virus - in the Western Hemisphere declared - eliminated virus" label rubella virus - in the Western Hemisphere declared - eliminated virus
+4 27 1.0 source Carribean source Carribean edge "countries also used" edge countries also used target "adult vaccination program" target adult vaccination program label "Carribean - countries also used - adult vaccination program" label Carribean - countries also used - adult vaccination program
+6 21 1.0 source miscarriage source miscarriage edge "rubella can cause in" edge rubella can cause in target "pregnant women" target pregnant women label "miscarriage - rubella can cause in - pregnant women" label miscarriage - rubella can cause in - pregnant women
+6 17 1.0 source rubella source rubella edge "can cause in" edge can cause in target "pregnant women" target pregnant women label "rubella - can cause in - pregnant women" label rubella - can cause in - pregnant women
+6 13 1.0 source "birth defects" source birth defects edge "rubella can cause in" edge rubella can cause in target "pregnant women" target pregnant women label "birth defects - rubella can cause in - pregnant women" label birth defects - rubella can cause in - pregnant women
+7 19 1.0 source "World Health Organization" source World Health Organization edge "optimistic that can be eliminated" edge optimistic that can be eliminated target measles target measles label "World Health Organization - optimistic that can be eliminated - measles" label World Health Organization - optimistic that can be eliminated - measles
+9 14 1.0 source "MMR vaccine" source MMR vaccine edge "widespread use partly to thank for" edge widespread use partly to thank for target "rubella elimination" target rubella elimination label "MMR vaccine - widespread use partly to thank for - rubella elimination" label MMR vaccine - widespread use partly to thank for - rubella elimination
+10 32 1.0 source "rubella cases" source rubella cases edge "keep coming in from" edge keep coming in from target "elsewhere in the globe" target elsewhere in the globe label "rubella cases - keep coming in from - elsewhere in the globe" label rubella cases - keep coming in from - elsewhere in the globe
+10 26 1.0 source "overseas infections" source overseas infections edge "responsible for several in Western Hempishere" edge responsible for several in Western Hempishere target "rubella cases" target rubella cases comments "in Western Hemisphere" comments in Western Hemisphere label "overseas infections - responsible for several in Western Hempishere - rubella cases" label overseas infections - responsible for several in Western Hempishere - rubella cases
+11 17 1.0 source rubella source rubella edge "doesn't cause" edge doesn't cause target "severe symptoms" target severe symptoms comments "in vast majority" comments in vast majority label "rubella - doesn't cause - severe symptoms" label rubella - doesn't cause - severe symptoms
+12 33 1.0 source "rubella virus" source rubella virus edge "has been declared eliminated in" edge has been declared eliminated in target "Western Hemisphere" target Western Hemisphere label "rubella virus - has been declared eliminated in - Western Hemisphere" label rubella virus - has been declared eliminated in - Western Hemisphere
+12 18 1.0 source "rubella virus" source rubella virus edge "none in 2009" edge none in 2009 target "new transmission" target new transmission comments "in Western Hemisphere" comments in Western Hemisphere label "rubella virus - none in 2009 - new transmission" label rubella virus - none in 2009 - new transmission
+13 17 1.0 source rubella source rubella edge "can cause in pregnant women" edge can cause in pregnant women target "birth defects" target birth defects label "rubella - can cause in pregnant women - birth defects" label rubella - can cause in pregnant women - birth defects
+13 30 1.0 source children source children edge "up to 20,000 a year in Latin American and the Carribean are born with rubella-related" edge up to 20,000 a year in Latin American and the Carribean are born with rubella-related target "birth defects" target birth defects comments "says World Health Organization before effective rubella vaccine" comments says World Health Organization before effective rubella vaccine label "children - up to 20,000 a year in Latin American and the Carribean are born with rubella-related - birth defects" label children - up to 20,000 a year in Latin American and the Carribean are born with rubella-related - birth defects
+13 16 1.0 source "rubella outbreak" source rubella outbreak edge "last major in the United States also saw up to 20,000 a year children with rubella-related" edge last major in the United States also saw up to 20,000 a year children with rubella-related target "birth defects" target birth defects label "rubella outbreak - last major in the United States also saw up to 20,000 a year children with rubella-related - birth defects" label rubella outbreak - last major in the United States also saw up to 20,000 a year children with rubella-related - birth defects
+15 31 1.0 source "fear of vaccines" source fear of vaccines edge "in recent years has led to" edge in recent years has led to target "number of outbreaks" target number of outbreaks comments "in United States" comments in United States label "fear of vaccines - in recent years has led to - number of outbreaks" label fear of vaccines - in recent years has led to - number of outbreaks
+17 21 1.0 source rubella source rubella edge "can cause in pregnant women" edge can cause in pregnant women target miscarriage target miscarriage label "rubella - can cause in pregnant women - miscarriage" label rubella - can cause in pregnant women - miscarriage
+17 28 1.0 source rubella source rubella edge "is commonly called" edge is commonly called target "German measles" target German measles label "rubella - is commonly called - German measles" label rubella - is commonly called - German measles
+19 23 1.0 source measles source measles edge "in the near future can be" edge in the near future can be target eliminated target eliminated label "measles - in the near future can be - eliminated" label measles - in the near future can be - eliminated
+20 24 1.0 source "rubella elimination effort" source rubella elimination effort edge "also targeted" edge also targeted target "measles virus" target measles virus label "rubella elimination effort - also targeted - measles virus" label rubella elimination effort - also targeted - measles virus
+24 25 1.0 source "measles virus" source measles virus edge "elimination has" edge elimination has target "bad news" target bad news label "measles virus - elimination has - bad news" label measles virus - elimination has - bad news
+27 29 1.0 source "adult vaccination program" source adult vaccination program edge "helped cut" edge helped cut target "rubella transmission" target rubella transmission label "adult vaccination program - helped cut - rubella transmission" label adult vaccination program - helped cut - rubella transmission

@@ -1,0 +1,69 @@
+*vertices 36
+1 "vaccine debate" 0.0 0.0 ellipse
+2 "personal preference" 0.0 0.0 ellipse
+3 states 0.0 0.0 ellipse
+4 "no brainer" 0.0 0.0 ellipse
+5 "presidential candidates" 0.0 0.0 ellipse
+6 "right to personal exemptions" 0.0 0.0 ellipse
+7 "measles outbreaks" 0.0 0.0 ellipse
+8 "Senator Rand Paul" 0.0 0.0 ellipse
+9 "nonmedical reasons for exemptions" 0.0 0.0 ellipse
+10 "state-level issue" 0.0 0.0 ellipse
+11 "opting out of immunization" 0.0 0.0 ellipse
+12 voluntary 0.0 0.0 ellipse
+13 "American Medical Association" 0.0 0.0 ellipse
+14 religion 0.0 0.0 ellipse
+15 vaccination 0.0 0.0 ellipse
+16 "vaccine exemptions" 0.0 0.0 ellipse
+17 "policy makers" 0.0 0.0 ellipse
+18 "community health" 0.0 0.0 ellipse
+19 "nonmedical reasons for exemption" 0.0 0.0 ellipse
+20 "whooping cough" 0.0 0.0 ellipse
+21 "vaccinations should be voluntary" 0.0 0.0 ellipse
+22 measles 0.0 0.0 ellipse
+23 "highly contagious disease" 0.0 0.0 ellipse
+24 physicians 0.0 0.0 ellipse
+25 "immunized people" 0.0 0.0 ellipse
+26 "spread of disease" 0.0 0.0 ellipse
+27 "protect the kid next to you" 0.0 0.0 ellipse
+28 vaccinations 0.0 0.0 ellipse
+29 "Hilary Clinton" 0.0 0.0 ellipse
+30 "end personal exemptions" 0.0 0.0 ellipse
+31 "vaccine safety" 0.0 0.0 ellipse
+32 "Disneyland measles outbreak" 0.0 0.0 ellipse
+33 controversy 0.0 0.0 ellipse
+34 immunization 0.0 0.0 ellipse
+35 "state legislatures" 0.0 0.0 ellipse
+36 "mental disorders" 0.0 0.0 ellipse
+*edges
+1 31 1.0 source "vaccine debate" source vaccine debate edge "was revived about" edge was revived about target "vaccine safety" target vaccine safety label "vaccine debate - was revived about - vaccine safety" label vaccine debate - was revived about - vaccine safety
+1 5 1.0 source "presidential candidates" source presidential candidates edge "were asked for their position in" edge were asked for their position in target "vaccine debate" target vaccine debate label "presidential candidates - were asked for their position in - vaccine debate" label presidential candidates - were asked for their position in - vaccine debate
+2 11 1.0 source "opting out of immunization" source opting out of immunization edge "should not be solely as a matter of" edge should not be solely as a matter of target "personal preference" target personal preference label "opting out of immunization - should not be solely as a matter of - personal preference" label opting out of immunization - should not be solely as a matter of - personal preference
+3 7 1.0 source states source states edge "others also reported" edge others also reported target "measles outbreaks" target measles outbreaks label "states - others also reported - measles outbreaks" label states - others also reported - measles outbreaks
+4 28 1.0 source vaccinations source vaccinations edge "are a" edge are a target "no brainer" target no brainer comments "said AMA member Dr. James Felsen" comments said AMA member Dr. James Felsen label "vaccinations - are a - no brainer" label vaccinations - are a - no brainer
+5 6 1.0 source "right to personal exemptions" source right to personal exemptions edge "controversy extended to potential" edge controversy extended to potential target "presidential candidates" target presidential candidates label "right to personal exemptions - controversy extended to potential - presidential candidates" label right to personal exemptions - controversy extended to potential - presidential candidates
+6 33 1.0 source "right to personal exemptions" source right to personal exemptions edge "quickly became lightening rod of" edge quickly became lightening rod of target controversy target controversy label "right to personal exemptions - quickly became lightening rod of - controversy" label right to personal exemptions - quickly became lightening rod of - controversy
+8 36 1.0 source "Senator Rand Paul" source Senator Rand Paul edge "suggested immunization could lead to profound" edge suggested immunization could lead to profound target "mental disorders" target mental disorders label "Senator Rand Paul - suggested immunization could lead to profound - mental disorders" label Senator Rand Paul - suggested immunization could lead to profound - mental disorders
+8 21 1.0 source "Senator Rand Paul" source Senator Rand Paul edge said edge said target "vaccinations should be voluntary" target vaccinations should be voluntary label "Senator Rand Paul - said - vaccinations should be voluntary" label Senator Rand Paul - said - vaccinations should be voluntary
+9 13 1.0 source "American Medical Association" source American Medical Association edge "members voted to eliminate" edge members voted to eliminate target "nonmedical reasons for exemptions" target nonmedical reasons for exemptions label "American Medical Association - members voted to eliminate - nonmedical reasons for exemptions" label American Medical Association - members voted to eliminate - nonmedical reasons for exemptions
+10 28 1.0 source vaccinations source vaccinations edge "remain contentious" edge remain contentious target "state-level issue" target state-level issue label "vaccinations - remain contentious - state-level issue" label vaccinations - remain contentious - state-level issue
+11 17 1.0 source "policy makers" source policy makers edge "should not permit individuals from" edge should not permit individuals from target "opting out of immunization" target opting out of immunization comments "solely as a matter of personal preference" comments solely as a matter of personal preference label "policy makers - should not permit individuals from - opting out of immunization" label policy makers - should not permit individuals from - opting out of immunization
+12 28 1.0 source vaccinations source vaccinations edge "should be" edge should be target voluntary target voluntary label "vaccinations - should be - voluntary" label vaccinations - should be - voluntary
+13 30 1.0 source "American Medical Association" source American Medical Association edge "voted to" edge voted to target "end personal exemptions" target end personal exemptions comments "personal vaccination exemptions" comments personal vaccination exemptions label "American Medical Association - voted to - end personal exemptions" label American Medical Association - voted to - end personal exemptions
+13 30 1.0 source "American Medical Association" source American Medical Association edge "supports on both state and federal levels to" edge supports on both state and federal levels to target "end personal exemptions" target end personal exemptions label "American Medical Association - supports on both state and federal levels to - end personal exemptions" label American Medical Association - supports on both state and federal levels to - end personal exemptions
+13 35 1.0 source "American Medical Association" source American Medical Association edge "persuaded to end personal exemptions" edge persuaded to end personal exemptions target "state legislatures" target state legislatures label "American Medical Association - persuaded to end personal exemptions - state legislatures" label American Medical Association - persuaded to end personal exemptions - state legislatures
+13 24 1.0 source "American Medical Association" source American Medical Association edge "is the country's largest association of" edge is the country's largest association of target physicians target physicians label "American Medical Association - is the country's largest association of - physicians" label American Medical Association - is the country's largest association of - physicians
+14 22 1.0 source religion source religion edge "is used to dodge crucial immunizations against diseases such as" edge is used to dodge crucial immunizations against diseases such as target measles target measles label "religion - is used to dodge crucial immunizations against diseases such as - measles" label religion - is used to dodge crucial immunizations against diseases such as - measles
+14 34 1.0 source religion source religion edge "is used to dodge crucial" edge is used to dodge crucial target immunization target immunization label "religion - is used to dodge crucial - immunization" label religion - is used to dodge crucial - immunization
+14 20 1.0 source religion source religion edge "is used to dodge crucial immunizations against diseases such as" edge is used to dodge crucial immunizations against diseases such as target "whooping cough" target whooping cough label "religion - is used to dodge crucial immunizations against diseases such as - whooping cough" label religion - is used to dodge crucial immunizations against diseases such as - whooping cough
+14 19 1.0 source "nonmedical reasons for exemption" source nonmedical reasons for exemption edge "such as" edge such as target religion target religion comments "religious reasons" comments religious reasons label "nonmedical reasons for exemption - such as - religion" label nonmedical reasons for exemption - such as - religion
+15 29 1.0 source "Hilary Clinton" source Hilary Clinton edge "took a firmer stance than she had in previous years by supporting" edge took a firmer stance than she had in previous years by supporting target vaccination target vaccination label "Hilary Clinton - took a firmer stance than she had in previous years by supporting - vaccination" label Hilary Clinton - took a firmer stance than she had in previous years by supporting - vaccination
+16 32 1.0 source "Disneyland measles outbreak" source Disneyland measles outbreak edge "occurred because of" edge occurred because of target "vaccine exemptions" target vaccine exemptions label "Disneyland measles outbreak - occurred because of - vaccine exemptions" label Disneyland measles outbreak - occurred because of - vaccine exemptions
+17 18 1.0 source "community health" source community health edge "protecting it requires" edge protecting it requires target "policy makers" target policy makers label "community health - protecting it requires - policy makers" label community health - protecting it requires - policy makers
+20 34 1.0 source "whooping cough" source whooping cough edge "is crucial" edge is crucial target immunization target immunization label "whooping cough - is crucial - immunization" label whooping cough - is crucial - immunization
+22 34 1.0 source measles source measles edge "is crucial" edge is crucial target immunization target immunization label "measles - is crucial - immunization" label measles - is crucial - immunization
+23 32 1.0 source "Disneyland measles outbreak" source Disneyland measles outbreak edge "117 people in Orange County, California were infected by" edge 117 people in Orange County, California were infected by target "highly contagious disease" target highly contagious disease label "Disneyland measles outbreak - 117 people in Orange County, California were infected by - highly contagious disease" label Disneyland measles outbreak - 117 people in Orange County, California were infected by - highly contagious disease
+25 26 1.0 source "immunized people" source immunized people edge "help prevent the" edge help prevent the target "spread of disease" target spread of disease comments "said board member Dr. Patrice Harris, according to Forbes" comments said board member Dr. Patrice Harris, according to Forbes label "immunized people - help prevent the - spread of disease" label immunized people - help prevent the - spread of disease
+27 28 1.0 source vaccinations source vaccinations edge "said AMA member Dr. James Felsen" edge said AMA member Dr. James Felsen target "protect the kid next to you" target protect the kid next to you label "vaccinations - said AMA member Dr. James Felsen - protect the kid next to you" label vaccinations - said AMA member Dr. James Felsen - protect the kid next to you
+28 36 1.0 source vaccinations source vaccinations edge "could lead to profound" edge could lead to profound target "mental disorders" target mental disorders label "vaccinations - could lead to profound - mental disorders" label vaccinations - could lead to profound - mental disorders
+30 35 1.0 source "state legislatures" source state legislatures edge "American Medical Association members persuaded to" edge American Medical Association members persuaded to target "end personal exemptions" target end personal exemptions label "state legislatures - American Medical Association members persuaded to - end personal exemptions" label state legislatures - American Medical Association members persuaded to - end personal exemptions

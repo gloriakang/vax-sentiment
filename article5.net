@@ -1,0 +1,111 @@
+*vertices 58
+1 "resurgence in potentially fatal childhood infectious diseases" 0.0 0.0 ellipse
+2 "decline in vaccination rates" 0.0 0.0 ellipse
+3 "children at higher risk for autism" 0.0 0.0 ellipse
+4 "population immunity" 0.0 0.0 ellipse
+5 "MMR vaccine-ASD link" 0.0 0.0 ellipse
+6 "sibling with ASD" 0.0 0.0 ellipse
+7 "brain damage" 0.0 0.0 ellipse
+8 "refuse vaccinations" 0.0 0.0 ellipse
+9 "vaccine refusal" 0.0 0.0 ellipse
+10 "vaccine delay" 0.0 0.0 ellipse
+11 "NIH and partners" 0.0 0.0 ellipse
+12 "Wakefield study" 0.0 0.0 ellipse
+13 "environmental risk factors for ASD" 0.0 0.0 ellipse
+14 families 0.0 0.0 ellipse
+15 "delay vaccinations" 0.0 0.0 ellipse
+16 children 0.0 0.0 ellipse
+17 "not vaccinating children" 0.0 0.0 ellipse
+18 seizures 0.0 0.0 ellipse
+19 death 0.0 0.0 ellipse
+20 "MMR vaccine" 0.0 0.0 ellipse
+21 "ASD rate" 0.0 0.0 ellipse
+22 parents 0.0 0.0 ellipse
+23 "debunked study" 0.0 0.0 ellipse
+24 "herd immunity" 0.0 0.0 ellipse
+25 ASD 0.0 0.0 ellipse
+26 "MMR vaccine-autism link" 0.0 0.0 ellipse
+27 California 0.0 0.0 ellipse
+28 "infectious disease" 0.0 0.0 ellipse
+29 "autism diagnosis" 0.0 0.0 ellipse
+30 "children with immunosuppressive diseases" 0.0 0.0 ellipse
+31 "parental responsibility" 0.0 0.0 ellipse
+32 "potentially fatal childhood infectious disease" 0.0 0.0 ellipse
+33 measles 0.0 0.0 ellipse
+34 "public health" 0.0 0.0 ellipse
+35 scientists 0.0 0.0 ellipse
+36 "children with cancer" 0.0 0.0 ellipse
+37 "ear infections" 0.0 0.0 ellipse
+38 "autism spectrum disorder" 0.0 0.0 ellipse
+39 community 0.0 0.0 ellipse
+40 vaccinations 0.0 0.0 ellipse
+41 "infectious diseases" 0.0 0.0 ellipse
+42 "potentially fatal infection" 0.0 0.0 ellipse
+43 vaccine 0.0 0.0 ellipse
+44 "United States" 0.0 0.0 ellipse
+45 "ASD risk" 0.0 0.0 ellipse
+46 "misplaced fear of ASD" 0.0 0.0 ellipse
+47 "pharmacological interventions" 0.0 0.0 ellipse
+48 challenge 0.0 0.0 ellipse
+49 "resurgence of measles" 0.0 0.0 ellipse
+50 pneumonia 0.0 0.0 ellipse
+51 "prevent outbreaks" 0.0 0.0 ellipse
+52 "vaccine avoidance" 0.0 0.0 ellipse
+53 "behavioral interventions" 0.0 0.0 ellipse
+54 "genetic risk factors for ASD" 0.0 0.0 ellipse
+55 "no evidence" 0.0 0.0 ellipse
+56 "serious consequences" 0.0 0.0 ellipse
+57 researchers 0.0 0.0 ellipse
+58 "parents of child with ASD" 0.0 0.0 ellipse
+*edges
+1 2 1.0 source "decline in vaccination rates" source decline in vaccination rates edge "have also seen" edge have also seen target "resurgence in potentially fatal childhood infectious diseases" target resurgence in potentially fatal childhood infectious diseases label "decline in vaccination rates - have also seen - resurgence in potentially fatal childhood infectious diseases" label decline in vaccination rates - have also seen - resurgence in potentially fatal childhood infectious diseases
+2 49 1.0 source "decline in vaccination rates" source decline in vaccination rates edge "have also seen" edge have also seen target "resurgence of measles" target resurgence of measles label "decline in vaccination rates - have also seen - resurgence of measles" label decline in vaccination rates - have also seen - resurgence of measles
+3 26 1.0 source "MMR vaccine-autism link" source MMR vaccine-autism link edge "no evidence even in" edge no evidence even in target "children at higher risk for autism" target children at higher risk for autism label "MMR vaccine-autism link - no evidence even in - children at higher risk for autism" label MMR vaccine-autism link - no evidence even in - children at higher risk for autism
+3 21 1.0 source "ASD rate" source ASD rate edge "higher among" edge higher among target "children at higher risk for autism" target children at higher risk for autism label "ASD rate - higher among - children at higher risk for autism" label ASD rate - higher among - children at higher risk for autism
+3 29 1.0 source "children at higher risk for autism" source children at higher risk for autism edge "actually less likely to receive" edge actually less likely to receive target "autism diagnosis" target autism diagnosis comments "if received vaccination" comments if received vaccination label "children at higher risk for autism - actually less likely to receive - autism diagnosis" label children at higher risk for autism - actually less likely to receive - autism diagnosis
+3 5 1.0 source "MMR vaccine-ASD link" source MMR vaccine-ASD link edge "not among" edge not among target "children at higher risk for autism" target children at higher risk for autism label "MMR vaccine-ASD link - not among - children at higher risk for autism" label MMR vaccine-ASD link - not among - children at higher risk for autism
+3 6 1.0 source "children at higher risk for autism" source children at higher risk for autism edge have edge have target "sibling with ASD" target sibling with ASD label "children at higher risk for autism - have - sibling with ASD" label children at higher risk for autism - have - sibling with ASD
+4 51 1.0 source "population immunity" source population immunity edge "high level required to" edge high level required to target "prevent outbreaks" target prevent outbreaks label "population immunity - high level required to - prevent outbreaks" label population immunity - high level required to - prevent outbreaks
+4 36 1.0 source "population immunity" source population immunity edge "high level important for" edge high level important for target "children with cancer" target children with cancer label "population immunity - high level important for - children with cancer" label population immunity - high level important for - children with cancer
+4 30 1.0 source "population immunity" source population immunity edge "high level important for" edge high level important for target "children with immunosuppressive diseases" target children with immunosuppressive diseases label "population immunity - high level important for - children with immunosuppressive diseases" label population immunity - high level important for - children with immunosuppressive diseases
+5 57 1.0 source researchers source researchers edge "once again found no" edge once again found no target "MMR vaccine-ASD link" target MMR vaccine-ASD link label "researchers - once again found no - MMR vaccine-ASD link" label researchers - once again found no - MMR vaccine-ASD link
+7 33 1.0 source measles source measles edge "can lead to" edge can lead to target "brain damage" target brain damage label "measles - can lead to - brain damage" label measles - can lead to - brain damage
+8 22 1.0 source parents source parents edge "many for young children" edge many for young children target "refuse vaccinations" target refuse vaccinations label "parents - many for young children - refuse vaccinations" label parents - many for young children - refuse vaccinations
+9 34 1.0 source "vaccine refusal" source vaccine refusal edge "can have major negative impact on" edge can have major negative impact on target "public health" target public health label "vaccine refusal - can have major negative impact on - public health" label vaccine refusal - can have major negative impact on - public health
+10 34 1.0 source "vaccine delay" source vaccine delay edge "can have major negative impact on" edge can have major negative impact on target "public health" target public health label "vaccine delay - can have major negative impact on - public health" label vaccine delay - can have major negative impact on - public health
+11 47 1.0 source "NIH and partners" source NIH and partners edge "large effort to develop more effective" edge large effort to develop more effective target "pharmacological interventions" target pharmacological interventions comments "for children with ASD" comments for children with ASD label "NIH and partners - large effort to develop more effective - pharmacological interventions" label NIH and partners - large effort to develop more effective - pharmacological interventions
+11 54 1.0 source "NIH and partners" source NIH and partners edge "large effort to understand" edge large effort to understand target "genetic risk factors for ASD" target genetic risk factors for ASD label "NIH and partners - large effort to understand - genetic risk factors for ASD" label NIH and partners - large effort to understand - genetic risk factors for ASD
+11 13 1.0 source "NIH and partners" source NIH and partners edge "large effort to understand" edge large effort to understand target "environmental risk factors for ASD" target environmental risk factors for ASD label "NIH and partners - large effort to understand - environmental risk factors for ASD" label NIH and partners - large effort to understand - environmental risk factors for ASD
+11 53 1.0 source "NIH and partners" source NIH and partners edge "large effort to develop more effective" edge large effort to develop more effective target "behavioral interventions" target behavioral interventions comments "for children with ASD" comments for children with ASD label "NIH and partners - large effort to develop more effective - behavioral interventions" label NIH and partners - large effort to develop more effective - behavioral interventions
+12 23 1.0 source "Wakefield study" source Wakefield study edge is edge is target "debunked study" target debunked study label "Wakefield study - is - debunked study" label Wakefield study - is - debunked study
+12 46 1.0 source "misplaced fear of ASD" source misplaced fear of ASD edge "can be traced back to" edge can be traced back to target "Wakefield study" target Wakefield study label "misplaced fear of ASD - can be traced back to - Wakefield study" label misplaced fear of ASD - can be traced back to - Wakefield study
+14 25 1.0 source ASD source ASD edge "remains challenge for" edge remains challenge for target families target families label "ASD - remains challenge for - families" label ASD - remains challenge for - families
+15 22 1.0 source parents source parents edge "many for young children" edge many for young children target "delay vaccinations" target delay vaccinations label "parents - many for young children - delay vaccinations" label parents - many for young children - delay vaccinations
+16 31 1.0 source "parental responsibility" source parental responsibility edge to edge to target children target children label "parental responsibility - to - children" label parental responsibility - to - children
+17 56 1.0 source "not vaccinating children" source not vaccinating children edge has edge has target "serious consequences" target serious consequences label "not vaccinating children - has - serious consequences" label not vaccinating children - has - serious consequences
+18 33 1.0 source measles source measles edge "can lead to" edge can lead to target seizures target seizures label "measles - can lead to - seizures" label measles - can lead to - seizures
+19 33 1.0 source measles source measles edge "can lead to" edge can lead to target death target death label "measles - can lead to - death" label measles - can lead to - death
+20 38 1.0 source "autism spectrum disorder" source autism spectrum disorder edge "study after study found no link with" edge study after study found no link with target "MMR vaccine" target MMR vaccine label "autism spectrum disorder - study after study found no link with - MMR vaccine" label autism spectrum disorder - study after study found no link with - MMR vaccine
+20 45 1.0 source "ASD risk" source ASD risk edge "did not increase with receipt of" edge did not increase with receipt of target "MMR vaccine" target MMR vaccine comments "for children at higher risk of ASD" comments for children at higher risk of ASD label "ASD risk - did not increase with receipt of - MMR vaccine" label ASD risk - did not increase with receipt of - MMR vaccine
+22 28 1.0 source parents source parents edge "critical they protect their children against" edge critical they protect their children against target "infectious disease" target infectious disease label "parents - critical they protect their children against - infectious disease" label parents - critical they protect their children against - infectious disease
+22 33 1.0 source parents source parents edge "critical they protect their children against" edge critical they protect their children against target measles target measles label "parents - critical they protect their children against - measles" label parents - critical they protect their children against - measles
+22 46 1.0 source parents source parents edge "delay based on" edge delay based on target "misplaced fear of ASD" target misplaced fear of ASD label "parents - delay based on - misplaced fear of ASD" label parents - delay based on - misplaced fear of ASD
+22 46 1.0 source parents source parents edge "refuse based on" edge refuse based on target "misplaced fear of ASD" target misplaced fear of ASD label "parents - refuse based on - misplaced fear of ASD" label parents - refuse based on - misplaced fear of ASD
+24 42 1.0 source "herd immunity" source herd immunity edge "provides protection against" edge provides protection against target "potentially fatal infection" target potentially fatal infection label "herd immunity - provides protection against - potentially fatal infection" label herd immunity - provides protection against - potentially fatal infection
+24 30 1.0 source "children with immunosuppressive diseases" source children with immunosuppressive diseases edge "depend on" edge depend on target "herd immunity" target herd immunity label "children with immunosuppressive diseases - depend on - herd immunity" label children with immunosuppressive diseases - depend on - herd immunity
+24 36 1.0 source "children with cancer" source children with cancer edge "depend on" edge depend on target "herd immunity" target herd immunity label "children with cancer - depend on - herd immunity" label children with cancer - depend on - herd immunity
+25 48 1.0 source ASD source ASD edge remains edge remains target challenge target challenge label "ASD - remains - challenge" label ASD - remains - challenge
+25 35 1.0 source ASD source ASD edge "remains challenge for" edge remains challenge for target scientists target scientists label "ASD - remains challenge for - scientists" label ASD - remains challenge for - scientists
+26 55 1.0 source "MMR vaccine-autism link" source MMR vaccine-autism link edge "even in children at higher risk for autism" edge even in children at higher risk for autism target "no evidence" target no evidence label "MMR vaccine-autism link - even in children at higher risk for autism - no evidence" label MMR vaccine-autism link - even in children at higher risk for autism - no evidence
+27 49 1.0 source California source California edge "had distressing" edge had distressing target "resurgence of measles" target resurgence of measles label "California - had distressing - resurgence of measles" label California - had distressing - resurgence of measles
+30 40 1.0 source "children with immunosuppressive diseases" source children with immunosuppressive diseases edge "cannot receive" edge cannot receive target vaccinations target vaccinations label "children with immunosuppressive diseases - cannot receive - vaccinations" label children with immunosuppressive diseases - cannot receive - vaccinations
+31 39 1.0 source "parental responsibility" source parental responsibility edge to edge to target community target community label "parental responsibility - to - community" label parental responsibility - to - community
+32 33 1.0 source measles source measles edge is edge is target "potentially fatal childhood infectious disease" target potentially fatal childhood infectious disease label "measles - is - potentially fatal childhood infectious disease" label measles - is - potentially fatal childhood infectious disease
+33 44 1.0 source "United States" source United States edge "688 people in 27 states in 2014 contracted" edge 688 people in 27 states in 2014 contracted target measles target measles label "United States - 688 people in 27 states in 2014 contracted - measles" label United States - 688 people in 27 states in 2014 contracted - measles
+33 37 1.0 source measles source measles edge "can lead to" edge can lead to target "ear infections" target ear infections label "measles - can lead to - ear infections" label measles - can lead to - ear infections
+33 50 1.0 source measles source measles edge "can lead to" edge can lead to target pneumonia target pneumonia label "measles - can lead to - pneumonia" label measles - can lead to - pneumonia
+33 40 1.0 source measles source measles edge "protect against by staying current with" edge protect against by staying current with target vaccinations target vaccinations label "measles - protect against by staying current with - vaccinations" label measles - protect against by staying current with - vaccinations
+36 40 1.0 source "children with cancer" source children with cancer edge "cannot receive" edge cannot receive target vaccinations target vaccinations label "children with cancer - cannot receive - vaccinations" label children with cancer - cannot receive - vaccinations
+38 43 1.0 source "autism spectrum disorder" source autism spectrum disorder edge "study after study found no link with" edge study after study found no link with target vaccine target vaccine comments "any vaccine" comments any vaccine label "autism spectrum disorder - study after study found no link with - vaccine" label autism spectrum disorder - study after study found no link with - vaccine
+40 41 1.0 source "infectious diseases" source infectious diseases edge "protect against by staying current with" edge protect against by staying current with target vaccinations target vaccinations label "infectious diseases - protect against by staying current with - vaccinations" label infectious diseases - protect against by staying current with - vaccinations
+52 58 1.0 source "parents of child with ASD" source parents of child with ASD edge "among most likely for" edge among most likely for target "vaccine avoidance" target vaccine avoidance label "parents of child with ASD - among most likely for - vaccine avoidance" label parents of child with ASD - among most likely for - vaccine avoidance
