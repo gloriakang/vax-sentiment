@@ -1,3 +1,9 @@
 *ipynb_checkpoints/
+*incomplete/
+
+*.xls
+*.xlsx
 *.png
+
+
 .DS_Store
