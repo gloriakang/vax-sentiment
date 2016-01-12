@@ -1,0 +1,226 @@
+#aol-comments div,#aol-comments dl,#aol-comments dt,#aol-comments dd,#aol-comments ul,#aol-comments ol,#aol-comments li,#aol-comments h1,#aol-comments h2,#aol-comments h3,#aol-comments h4,#aol-comments h5,#aol-comments h6,#aol-comments pre,#aol-comments code,#aol-comments form,#aol-comments fieldset,#aol-comments legend,#aol-comments input,#aol-comments button,#aol-comments textarea,#aol-comments p,#aol-comments blockquote,#aol-comments th,#aol-comments td{margin:0;padding:0}#aol-comments table{border-collapse:collapse;border-spacing:0}#aol-comments fieldset,#aol-comments img{border:0}#aol-comments address,#aol-comments caption,#aol-comments cite,#aol-comments code,#aol-comments dfn,#aol-comments em,#aol-comments strong,#aol-comments th,#aol-comments var,#aol-comments optgroup{font-style:inherit;font-weight:inherit}#aol-comments del,#aol-comments ins{text-decoration:none}#aol-comments li{list-style:none}#aol-comments caption,#aol-comments th{text-align:left}#aol-comments h1,#aol-comments h2,#aol-comments h3,#aol-comments h4,#aol-comments h5,#aol-comments h6{font-size:100%;font-weight:normal}#aol-comments q:before,#aol-comments q:after{content:''}#aol-comments abbr,#aol-comments acronym{border:0;font-variant:normal}#aol-comments sup{vertical-align:baseline}#aol-comments sub{vertical-align:baseline}#aol-comments legend{color:#000}#aol-comments input,#aol-comments button,#aol-comments textarea,#aol-comments select,#aol-comments optgroup,#aol-comments option{font-family:inherit;font-size:inherit;font-style:inherit;font-weight:inherit}#aol-comments input,#aol-comments button,#aol-comments textarea,#aol-comments select{*font-size:100%}
+
+#aol-comments{font:12px/17px Arial,Helvetica,sans-serif;position:relative;padding:40px 0;color:#333}
+#aol-comments form b, .comment b{font-weight:normal}
+#aol-comments a{color:#1096BB;text-decoration:none}
+#aol-comments .loading-image{position:absolute;top:8px;right:5px}
+#aol-comments h4{font-size:18px;line-height:18px;font-weight:bold;}
+#aol-comments .avatar img{width:36px;height:36px}
+
+/*Mini Profile*/
+#aol-comments .mini-profile{padding:14px 0;overflow:hidden;position:relative;float:left;width:100%;border-top:4px solid #000;margin:8px 0 0}
+.mini-profile .avatar{display:inline;float:left;height:auto;margin:0 9px 0 0;position:static;width:auto;}
+#aol-comments .toggle-auth{display:block;line-height:24px;font-size:14px;font-weight:bold;float:left;position:relative}
+.mini-profile .toggle-auth .auth-icons{width:125px;height:18px;background:transparent url(http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite) 0 -282px no-repeat;position:absolute;left:0;top:25px;z-index:5}
+.mini-profile .auth-logout-link{font-size:12px;line-height:36px;display:inline}
+
+/*Comment Form*/
+#aol-comments #aol-comments-form{clear:both;padding:0 0 30px;position:relative;overflow:hidden;zoom:1}
+#aol-comments-form .loading-image{bottom:12px;right:0;top:auto}
+#aol-comments-form label{overflow:hidden;text-indent:-9999px;position:absolute}
+#aol-comments-form #aol-comments-textarea{border:0;width:100%;height:100px;color:#808080;font:12px/17px Arial,Helvetica,sans-serif;overflow:auto}
+
+#aol-comments .comments-share{float:right;margin:5px;}
+#aol-comments .comment-post-label{display:inline-block;padding:3px;position:static;text-indent:0;font-size:12px;font-weight:normal}
+#aol-comments .comment-post-label input{height:12px;margin:0 5px 0 0;vertical-align:middle;width:12px;}
+#aol-comments .comment-post-label .facebook{background:transparent url(http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite) no-repeat scroll -24px -105px;height:12px;vertical-align:middle;width:12px;display:inline-block;margin-right:5px;padding:0}
+#aol-comments .share-facebook{display:none}
+
+#aol-comments .text-wrapper{border:1px solid #DDD;padding:5px;display:block;background-color:#fff}
+#aol-comments .post-fb-label{float:right;font-size:10px;font-weight:normal;line-height:10px;margin:12px 0 0 5px;overflow:hidden}
+#aol-comments .post-fb{float:right;margin:10px 0 0}
+#aol-comments .comment-button{float:right;margin:10px 0 0;background:transparent url(http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite) 0 0 no-repeat;display:block;overflow:hidden;clear:both;height:32px}
+#aol-comments .button-hover{background:transparent url(http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite) no-repeat scroll 0 -33px}
+#aol-comments .comment-button button{background:none;border:none;display:block;font-size:13px;line-height:31px;cursor:pointer;margin:0;color:#000;width:75px;text-align:center;height:31px}
+#aol-comments .comment-button button::-moz-focus-inner{border:0px}
+#aol-comments .char-limit{float:left;margin:12px 0 0;display:block;color:#808080;font-size:10px;line-height:10px}
+#aol-comments .cancel{float:right;margin:16px 16px;font-size:13px}
+#aol-comments .comments-moderation-text{clear:left;color:#808080;float:left;margin:6px 0 0}
+
+/*Reply Comment Form*/
+#aol-comments .reply-comment-form{padding:18px 18px 30px;clear:both;background-color:#EDEDED;border:1px solid #DDD;border-bottom:0;margin-bottom:-1px;overflow:hidden;zoom:1;position:relative}
+.reply-comment-form fieldset{overflow:hidden;position:relative}
+.reply-comment-form label{font-size:14px;line-height:14px;font-weight:bold;display:block}
+.reply-comment-form .text-wrapper{margin:12px 0 0}
+.reply-comment-form .reply-comment-textarea{width:100%;height:90px;color:#808080;font:12px/17px Arial,Helvetica,sans-serif;border:none;overflow:auto;border:0}
+#aol-comments .reply-comment-form .loading-image{bottom:10px;top:auto;right:20px}
+
+/*Num of Comments and Filter*/
+#aol-comments .comments-meta{position:relative;border-top:1px solid #DDD;padding:15px 0;clear:both}
+#aol-comments .comments-meta .sort-comments{position:absolute;top:15px;right:0;font-size:14px;line-height:14px}
+#aol-comments .comments-meta .loading-image{right:166px;top:15px}
+#aol-comments .comments-disabled{background:#FFFEE5;font-size:14px;text-align:center;margin:10px 0;border:1px solid #EFDBA4;}
+.sort-comments #aol-comments-filter{width:100px;text-align:left}
+
+/* Permalink */
+#aol-comments .comment-permalink .comment-body{background:#fff}
+#aol-comments .comment-permalink .comment-hover{background:#ededed}
+#aol-comments .comment-permalink .thread{background:transparent}
+#aol-comments .comment-permalink{background:#FFFEE5;border:1px solid #EFDBA4;margin-bottom:20px;padding:10px;}
+#aol-comments .comment-permalink em{font-style:italic;}
+#aol-comments .comment-permalink .permalink-meta{margin-bottom:15px;position:relative;}
+#aol-comments .comment-permalink .permalink-back{background:url("http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite") no-repeat scroll -83px 0 transparent;display:inline-block;font-weight:bold;line-height:28px;margin:0 7px 0 17px;text-align:center;width:74px;}
+#aol-comments .comment-permalink .permalink-replies{display:inline-block;vertical-align:text-bottom;line-height:22px}
+#aol-comments .comment-permalink .collapse-permalink{background:url("http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite") no-repeat scroll -286px 0 transparent;cursor:pointer;display:block;height:21px;position:absolute;right:0;top:0;width:21px;}
+#aol-comments .comment-permalink .collapse-permalink:hover{background-position:-255px 0;}
+
+/*Comment*/
+#aol-comments .comment{clear:both;width:100%;position:relative}
+#aol-comments .comment-body{border:1px solid #DDD;padding:20px 0 20px 20px;overflow:hidden;margin:0 0 -1px;position:relative;zoom:1}
+#aol-comments .comment-hover{background-color:#EDEDED}
+.comment .avatar{display:inline;float:left;height:auto;margin:0 20px 0 0;position:relative;top:auto;width:auto;}
+.avatar .social-icon{position:absolute;bottom:0;right:0;width:12px;height:12px;background:transparent url(http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite) no-repeat scroll 100% 100%}
+#aol-profile .avatar .aol, #aol-comments .avatar .aol{background-position:0 -104px}
+#aol-profile .avatar .twitter, #aol-comments .avatar .twitter{background-position:-46px -104px}
+#aol-profile .avatar .facebook, #aol-comments .avatar .facebook{background-position:-24px -104px}
+#aol-profile .avatar .lifestream, #aol-comments .avatar .lifestream{background-position:-69px -104px}
+#aol-profile .avatar .google, #aol-comments .avatar .google{background-position:-92px -104px}
+#aol-profile .avatar .yahoo, #aol-comments .avatar .yahoo{background-position:-114px -104px}
+
+.comment .display-name{margin:0 100px 0 68px;display:block;font-size:14px;line-height:14px;font-weight:bold}
+#aol-comments .comment p{margin:7px 100px 0 68px}
+.comment .comment-meta{margin:10px 100px 0 68px;display:block;color:#808080;font-size:11px;line-height:11px;font-weight:bold;overflow:hidden}
+.comment-meta .date{float:left;margin:0 2px 0 0;line-height:13px;}
+.comment .report-abuse,.comment .permalink{display:none;background:transparent url(http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite) 2px -208px no-repeat;float:left;padding:0 0 0 8px;font-weight:normal}
+.comment .rating-reply{position:absolute;right:15px;top:20px;width:56px;display:block}
+.rating-reply .rank{color:#808080;text-align:center;width:100%;display:block;height:24px;line-height:14px;font-size:14px;font-weight:bold}
+.rating-reply .rank-hover{background-color:#EDEDED}
+.rating-reply .rate-comment{display:none}
+.rate-comment b{display:block;overflow:hidden;float:left;text-indent:-9999px;width:27px;height:25px;background:#fff url(http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite) 0 -68px no-repeat;cursor:pointer}
+.rating-reply .rate-up{background-position:0 -68px no-repeat;border-right:1px solid #ccc}
+.rating-reply .rate-down{background-position:-28px -68px}
+.rating-reply .rate-up-hover{background-position:-65px -68px}
+.rating-reply .rate-down-hover{background-position:-93px -68px}
+.rating-reply .reply{display:none;clear:both;font-size:13px;font-weight:bold;line-height:13px;padding:7px 0 0;text-align:center;width:100%}
+
+/*Comment Thread*/
+#aol-comments .toggle-thread{border:1px solid #DDD;border-top-style:dotted;margin:0 0 -1px;display:block;position:relative;overflow:hidden;cursor:pointer;background-color:#fff}
+.toggle-thread .toggle-link{background:transparent url(http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite) 6px -125px no-repeat;font-weight:bold;display:block;font-size:12px;line-height:12px;padding:11px 0 10px 20px}
+.toggle-thread .expanded{background:transparent url(http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite) 6px -155px no-repeat}
+#aol-comments .thread .toggle-thread{background-color:#F5F5F5}
+#aol-comments .thread{background-color:#fff;padding:0 0 0 20px;clear:both}
+#aol-comments .thread .comment-body{background-color:#F5F5F5}
+#aol-comments .thread .rank{background-color:#F5F5F5}
+#aol-comments .thread .comment-hover{background-color:#EDEDED}
+#aol-comments .thread .rank-hover{background-color:#EDEDED}
+.thread .avatar{margin:0 20px 0 0}
+#aol-comments .thread .avatar img{width:32px;height:32px}
+.thread .display-name{margin:0 100px 0 52px}
+#aol-comments .thread p{margin:7px 100px 0 52px}
+.thread .comment-meta{margin:10px 100px 0 52px}
+
+/*Inline moderation*/
+#aol-comments .comment .moderation,#aol-comments .comment .moderation-status{background:#EDEDED;border-top:1px solid #ddd;bottom:0;display:block;font-size:11px;height:26px;left:0;position:absolute;width:100%;z-index:100}
+#aol-comments .comment .moderation-status{background:none;border:0;color:#B53232;text-align:right;width:98%;font-weight:bold;z-index:10}
+#aol-comments .comment .moderation-status span{color:#b76d00}
+#aol-comments .user-moderator-text{color:#aaa;float:right;font-size:15px;line-height:36px;background:url("http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite") no-repeat scroll -285px -95px transparent;padding-left:30px}
+
+#aol-comments .moderation .mark-comment{display:block;position:absolute;right:0;top:3px;z-index:99;width:270px;overflow:hidden;margin:0}
+#aol-comments .moderation .mark-comment li{float:left;padding-right:6px;text-decoration:none;list-style:none}
+#aol-comments .moderation .mark-comment li.first:hover{background:none}
+#aol-comments .moderation .mark-comment li label{display:inline-block;cursor:pointer;color:#1096BB}
+#aol-comments .moderation .mark-comment li label input{float:left;height:20px;margin:0;width:15px;}
+#aol-comments .moderation .mark-comment strong{font-weight:bold}
+
+#aol-comments.aol-comments-moderation .comment-body{padding-bottom:40px}
+#aol-comments.aol-comments-moderation .comment  .feature{position:absolute;z-index:110;left:5px;top:5px;padding:0 0 0 18px;display:block;background:url("http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite") no-repeat scroll -294px -69px transparent}
+#aol-comments.aol-comments-moderation .comment .featured{background-position:-294px -38px}
+
+/*Comment Pagination*/
+#aol-comments .pagination{padding:10px 0;border-top:1px solid #DDD;position:relative;border-bottom:1px solid #DDD;height:auto;margin:0;background:none}
+#aol-comments .pagination .load-more-comments,#aol-profile-details .aol-profile-load-more{font-weight:bold;font-size:12px;line-height:12px;padding:0 0 0 20px;background:#fff url(http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite) 6px -136px no-repeat}
+
+/*message box*/
+.aol-message-box b{font-weight:normal;display:block}
+.aol-message-box{width:350px;border:1px solid black;-moz-box-shadow:3px 3px 4px #000;-webkit-box-shadow:3px 3px 4px #000;box-shadow:3px 3px 4px #000;position:absolute;z-index:9999999}
+.aol-message-box .message-type{float:left;display:block}
+.aol-message-box .message-close{float:right;display:block;font-family:cursive;cursor:pointer}
+.aol-message-box .heading, .aol-message-box .message{display:block;clear:both;overflow:hidden;padding:10px}
+.aol-message-box .heading{background:#2c9dbe;color:#fff;font-size:18px}
+.aol-message-box .message{background-color:#fff}
+.aol-message-box .confirmation{text-align:right;padding:10px;background:#fff}
+
+/*Featured Comments*/
+#aol-comments .featured-comments{padding-bottom:20px}
+.featured-comments .comment-body{background-color:#EDEDED}
+.featured-comments .rank{background:none}
+
+/* User Profiles */
+#aol-profile{text-align:left;display:none;background:#fff;left:50%;margin-left:-290px;margin-top:-265px;position:fixed;top:50%;width:580px;overflow:hidden;z-index:10000000;border:1px solid #919191;-moz-box-shadow:0 0 20px rgba(0,0,0,0.5);-webkit-box-shadow:0 0 20px rgba(0,0,0,0.5);box-shadow:0 0 20px rgba(0,0,0,0.5);}
+#aol-profile a{text-decoration:none;}
+#aol-profile .follow-user a,#aol-profile .user-activity a{color:#1096BB}
+#aol-profile .follow-user .aol-profile-follow{color:#456D39}
+#aol-profile .loading-large{display:block;margin:200px auto;}
+
+#aol-profile-head{border-bottom:2px solid #000000;position:relative;padding:20px 0 15px;overflow:hidden}
+#aol-profile-head .avatar{float:left;margin:0 10px 0 20px;position:relative;padding-top:3px;}
+#aol-profile-head .avatar img{height:80px;width:80px;}
+#aol-profile-head .display-name{color:#000;font-size:25px;line-height:27px;display:block}
+#aol-profile-head .profile-stats{border-bottom:1px solid #ddd;color:#7F7F7F;display:block;font-size:12px;margin:0 20px 0 110px;padding:3px 0;}
+#aol-profile-head .profile-stats a{text-decoration:none}
+#aol-profile-head .follow-user{background:#fff;font-size:12px;top:80px;font-weight:normal;position:absolute;right:20px;}
+#aol-profile-head .close{background:url("http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite") no-repeat scroll -159px 0 transparent;cursor:pointer;height:21px;position:absolute;right:15px;top:15px;width:21px;}
+#aol-profile-head .close:hover{background-position:-180px 0;}
+#aol-profile-head .user-badges{display:block;margin-left:100px;padding-top:5px;}
+#aol-profile-head .badge-m{cursor:pointer;display:inline-block;height:26px;width:26px;margin-right:5px;background:url("http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite") no-repeat scroll transparent;}
+
+#aol-badge-overlay {background:#fff;border:1px solid #000;overflow:hidden;padding:15px;position:absolute;width:270px;z-index:10000001;-moz-box-shadow:2px 2px 2px rgba(0, 0, 0, 0.2);-webkit-box-shadow:2px 2px 2px rgba(0, 0, 0, 0.2);box-shadow:2px 2px 2px rgba(0, 0, 0, 0.2);}
+#aol-badge-overlay .aol-badge-title{display:block;font-size:18px;line-height:18px;padding-bottom:5px;}
+#aol-badge-overlay .badge-l{cursor:pointer;float:left;height:50px;width:50px;margin-right:10px;background:url("http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite") no-repeat scroll transparent;}
+
+/* demo badges */
+#aol-profile-head .badge-m-s1{background-position:-40px -395px;}
+#aol-profile-head .badge-m-s2{background-position:-170px -395px;}
+#aol-profile-head .badge-m-s3{background-position:-300px -395px;}
+#aol-badge-overlay .badge-l-s1{background-position:-80px -371px;}
+#aol-badge-overlay .badge-l-s2{background-position:-210px -371px;}
+#aol-badge-overlay .badge-l-s3{background-position:-340px -371px;}
+
+#aol-profile-head .user-connect-fb{background:#E9F8FD;float:left;margin-top:15px;padding:15px 20px;width:540px;}
+#aol-profile-head .user-connect-fb .close{background:#0F9BD0;border:1px solid #0F9BD0;color:#FFFFFF;font-size:12px;font-weight:normal;margin-left:15px;padding:0 5px 0 15px;position:static;-moz-border-radius:13px;-webkit-border-radius:13px;border-radius:13px;}
+
+#aol-profile-details{width:5000px;}
+#aol-profile-details .user-activity{border-bottom:1px dotted #ddd;padding:15px 50px 15px 20px;}
+#aol-profile-details .user-activity:hover{background:#F5F5F5;}
+#aol-profile-details .avatar{float:left;position:relative;margin-right:10px;}
+#aol-profile-details .avatar img{height:37px;width:37px;}
+#aol-profile-details .display-name{color:#1099CD;float:left;font-size:11px;font-weight:bold;line-height:16px;padding-right:4px;}
+#aol-profile-details .activity-type{color:#666666;float:left;font-size:11px;font-weight:normal;line-height:14px;}
+#aol-profile-details .activity-type strong{color:#000000;font-size:11px;font-weight:normal;line-height:16px;}
+#aol-profile-details .permalink{float:left;font-size:12px;line-height:16px;padding:4px 0 2px;width:430px;}
+#aol-profile-details .aol-profile-slide{float:left;width:580px;}
+#aol-profile-details .aol-profile-follow-status{background:url("http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite") no-repeat scroll -392px -285px transparent;color:#456E37;font-size:11px;font-weight:bold;line-height:37px;margin-left:10px;padding-left:12px;}
+#aol-profile-details p{padding:0 0 0 47px;font-size:12px;line-height:16px;clear:both}
+#aol-profile-details p.comment:before{background:url("http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite") no-repeat scroll -23px -308px transparent;content:"";width:16px;height:13px;display:inline-block;}
+#aol-profile-details p.comment:after{background:url("http://o.aolcdn.com/os/aol-comments/images/15-comments-sprite") no-repeat scroll 0px -308px transparent;content:"";display:inline-block;height:13px;width:13px;margin-bottom:-2px;margin-left:3px}
+#aol-profile-details .aol-profile-pref{border-top:1px solid #ddd;display:none;}
+#aol-profile-details .aol-profile-pref.selected{display:block;}
+#aol-profile-details .aol-profile-pref form{margin:30px;overflow:hidden;position:relative;}
+#aol-profile-details .aol-profile-pref fieldset{border-bottom:1px dotted #EEEEEE;float:left;margin-bottom:20px;padding:0 5% 40px;width:40%;}
+#aol-profile-details .aol-profile-pref input{margin:0 10px 0 0;padding:0;}
+#aol-profile-details .aol-profile-pref legend{display:block;font-size:18px;margin-bottom:15px;}
+#aol-profile-details .aol-profile-pref label{color:#1096BB;display:block;font-size:16px;padding:10px 0;}
+#aol-profile-details .aol-profile-pref .aol-profile-save{clear:both;clear:both;display:block;font:bold 20px Arial,sans-serif;margin:0 auto;padding:5px 20px;width:170px;}
+#aol-profile-details .tab-contents{height:362px;overflow-y:auto;position:relative}
+#aol-profile-details .aol-profile-user{border-bottom:1px dotted #aaa;overflow:hidden;padding:10px 15px;}
+#aol-profile-details .aol-profile-user:hover{background:#F5F5F5;}
+#aol-profile-details .aol-profile-user:hover a{display:block}
+#aol-profile-details .aol-profile-user .avatar{border:none}
+#aol-profile-details .aol-profile-user .display-name{font-size:12px;line-height:37px;border:0;margin:0;padding:0;}
+#aol-profile-details .aol-profile-user .aol-profile-unblock,#aol-profile-details .aol-profile-user .aol-profile-block,#aol-profile-details .aol-profile-user .aol-profile-follow,#aol-profile-details .aol-profile-user .aol-profile-unfollow{float:right;margin-left:5px;display:none}
+#aol-profile-details .aol-profile-tabs{border-bottom:2px solid #ddd;-moz-box-shadow:0 1px 3px #ddd;-webkit-box-shadow:0 1px 3px #ddd;box-shadow:0 1px 3px #ddd;}
+#aol-profile-details .aol-profile-tabs b{border-bottom:3px solid #FFFFFF;color:#00AEEF;cursor:pointer;display:inline-block;font:bold 12px/12px Arial;margin:0 18px;padding:13px 2px 12px;}
+#aol-profile-details .aol-profile-tabs b img {display:inline-block;height:12px;line-height:12px;vertical-align:middle;}
+#aol-profile-details .aol-profile-tabs b.selected,#aol-profile-details .aol-profile-tabs b:hover{border-bottom:3px solid #000000;color:#000000;}
+#aol-profile-details .aol-profile-load-more{background-position:6px -127px;border-bottom:1px dotted #DDDDDD;cursor:pointer;display:block;margin-bottom:10px;padding:10px 0 10px 20px;}
+#aol-profile-details .aol-profile-load-more:hover{background-color:#f7f7f7}
+#aol-profile-details .aol-profile-emptymsg{display:block;padding:20px;font-weight:normal;color:#333;font-size:17px;border-bottom:1px dotted #ddd;text-align:center}
+
+/* Styling for buttons */
+.aol-profile-unfollow,.aol-profile-block,.aol-profile-save,.aol-profile-follow{-moz-border-radius:3px;-webkit-border-radius:3px;border-radius:3px;display:inline-block;font-weight:bold;cursor:pointer;}
+.aol-profile-unfollow,.aol-profile-block{border:1px solid #ccc;color:#1199CD;background-color:#f9f9f9;background-image:-moz-linear-gradient(top, #fff, #EFF0EB);background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0, #fff),color-stop(1, #EFF0EB));background-image:-webkit-linear-gradient(#fff, #EFF0EB);background-image:linear-gradient(top, #fff, #EFF0EB);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#FFFFFF', EndColorStr='#EFF0EB');}
+.aol-profile-save,.aol-profile-follow{border:1px solid #456D39;color:#456D39;background-color:#C9FEBA;background-image:-moz-linear-gradient(top, #C9FEBA, #98D585);background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0, #C9FEBA),color-stop(1, #98D585));background-image:-webkit-linear-gradient(#C9FEBA, #98D585);background-image:linear-gradient(top, #C9FEBA, #98D585);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#C9FEBA', EndColorStr='#98D585');}
+.aol-profile-follow,.aol-profile-unfollow,.aol-profile-block{padding:5px 10px;}
+.aol-profile-disabled{color:#888;border:1px solid #999;background:#eee;background-image:-moz-linear-gradient(top, #eee, #ccc);background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0, #eee),color-stop(1, #ccc));background-image:-webkit-linear-gradient(#eee, #ccc);background-image:linear-gradient(top, #eee, #ccc);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#EEEEEE', EndColorStr='#CCCCCC');}
+.aol-profile-unfollow:hover,.aol-profile-block:hover{background-color:#f9f9f9;background-image:-moz-linear-gradient(top, #fff, #ddd);background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0, #fff),color-stop(1, #ddd));background-image:-webkit-linear-gradient(#fff, #ddd);background-image:linear-gradient(top, #fff, #ddd);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#FFFFFF', EndColorStr='#DDDDDD');}
+.aol-profile-follow:hover,.aol-profile-save:hover{border:1px solid #456D39;color:#456D39;background-color:#C9FEBA;background-image:-moz-linear-gradient(top, #C9FEBA, #82bf71);background-image:-webkit-gradient(linear,left top,left bottom,color-stop(0, #C9FEBA),color-stop(1, #82bf71));background-image:-webkit-linear-gradient(#C9FEBA, #82bf71);background-image:linear-gradient(top, #C9FEBA, #82bf71);filter:progid:DXImageTransform.Microsoft.gradient(startColorStr='#C9FEBA', EndColorStr='#82bf71');}

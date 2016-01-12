@@ -1,0 +1,262 @@
+/*
+Theme Name: CDC Template Package
+Theme URI: 
+Author: CDC
+Author URI: http://www.cdc.gov
+Description: 
+Version: 1.0
+License: 
+License URI: 
+Tags: 
+*/
+
+.alignright { float: right; }
+.alignleft { float: left; }
+
+#body figure, #body img  {
+    border: 1px solid #e5e5e5;
+    padding: 5px;
+    -webkit-box-shadow: 0 0 8px rgba(0,0,0,.13);
+    -moz-box-shadow: 0 0 8px rgba(0,0,0,.13);
+    box-shadow: 0 0 8px rgba(0,0,0,.13);
+    margin: 0px;
+}
+
+#body figure img {
+    padding: 0px;
+    border: none;
+    -webkit-box-shadow:  none;
+    -moz-box-shadow: none;
+    box-shadow: none;
+    margin: 0px;
+}
+
+#body figure.alignright {
+    margin: 0 0 10px 10px;
+}
+
+#body figure.alignleft {
+    margin: 0 10px 10px 0;
+}
+
+#body img.alignright {
+    margin: 5px 0 10px 10px;
+}
+
+#body img.alignleft {
+    margin: 5px 10px 10px 0;
+}
+
+#body img {
+    padding: 5px;
+}
+
+#body figure figcaption {
+    padding: 5px;
+    font-size: 0.9em;
+    line-height: 1.5em;
+}
+
+#body h3 { clear: both; }
+
+.posted-on, .byline, .cat-links, .comments-link, .comment-metadata time {
+    margin-right: 10px;
+    font-size: smaller;
+    font-weight: bold;
+}
+
+.posted-on {
+    display: block;
+    clear: both;
+}
+
+.pagetitle .posted-on {
+    margin-bottom: 5px;
+}
+
+textarea#comment {
+    width: 75%;
+}
+
+html.one textarea#comment, html.two textarea#comment {
+    width: 100%;
+}
+
+.cdc-comment-notes {
+    font-size: 0.9em;
+    line-height: 1.5em;
+    margin-bottom: 10px;
+}
+
+.comment {
+    margin-bottom: 15px;
+}
+
+.comment article {
+    border-bottom: 1px dotted lightgray;
+    margin-bottom: 15px;
+}
+
+ol.comment-list {
+    margin-left: 0px;
+}
+
+.comment.depth-2 {
+    margin-left: 15px;
+}
+
+.comment.depth-3 {
+    margin-left: 30px;
+}
+
+.comment.depth-4, .comment.depth-5, .comment.depth-6, .comment.depth-7, .comment.depth-8  {
+    margin-left: 45px;
+}
+
+.cdc-listing-post {
+    margin-bottom: 10px;
+    clear: both;
+    overflow: hidden;
+    /*border-bottom: 1px solid grey;*/
+}
+
+#body .cdc-listing-post figure, #body .cdc-listing-post img {
+    max-width: 150px;
+    margin-bottom: 15px;
+}
+
+#body .cdc-listing-post.cdc-listing-post-first figure, #body .cdc-listing-post.cdc-listing-post-first img {
+    max-width: 100%;
+    margin-bottom: auto;
+}
+
+.cdc-listing-post .cdc-post-separator {
+    margin: 20px auto;
+    width: 75%;
+    border-top: 1px solid #c0c0c0;
+    clear: both;
+}
+
+#wrapper .widget-area [class*=module] ul {
+    list-style: none;
+    display: block;
+}
+
+#wrapper .widget-area [class*=module] ul li:first-child {
+    border: none;
+}
+
+#wrapper .widget-area [class*=module] ul li {
+    margin: 0;
+    border-top: 1px dotted silver;
+    display: inline-block;
+    width: 100%;
+    padding: 5px 0;
+}
+#wrapper .widget-area [class*=module] select {
+    max-width: 96%;
+    margin-left: 2%;
+    margin-right: 3px;
+}
+
+#body .cdc-listing-post h3 a {
+    text-decoration: none;
+}
+
+#body .cdc-listing-post h3 a:hover {
+    text-decoration: underline;
+}
+
+.cdc-post-thumbnail {
+    float: left;
+    margin-right: 10px;
+}
+
+.widget-area input[type='search'] {
+    max-width: 90%;
+}
+
+#wrapper #contentArea .search-form {
+    margin-bottom: 5px;
+    margin-top: 20px;
+}
+
+#wrapper #contentArea .search-form label {
+    display: inline;
+}
+
+#wrapper #contentArea .search-form .search-submit {
+    margin-top: -10px;
+    display: inline;
+}
+
+.gallery { margin: 0 auto 18px; }
+.gallery .gallery-item {
+	float: left;
+	margin-top: 0;
+	text-align: center;
+	width: 31%;
+}
+.gallery-columns-2 .gallery-item { width: 48%; }
+.gallery-columns-4 .gallery-item { width: 23%; }
+.gallery img {
+	box-shadow: 0px 0px 4px #999;
+	border: 1px solid white;
+	padding: 8px;
+	background: #f2f2f2;
+}
+.gallery img:hover {
+	background: white;
+}
+.gallery-columns-2 .attachment-medium {
+	max-width: 92%;
+	height: auto;
+}
+.gallery-columns-4 .attachment-thumbnail {
+	max-width: 84%;
+	height: auto;
+}
+.gallery .gallery-caption {
+	color: #888;
+	font-size: 12px;
+	margin: 0 0 12px;
+}
+.gallery dl, .gallery dt { margin: 0; }
+.gallery br+br { display: none; }
+
+.one .gallery .gallery-item,
+.one .gallery-columns-2 .gallery-item,
+.one .gallery-columns-3 .gallery-item {
+	float: left;
+	margin-top: 0;
+	text-align: center;
+	width: 100%;
+}
+
+.two .gallery .gallery-item {
+    float: left;
+    margin-top: 0;
+    text-align: center;
+    width: 31%;
+}
+.two .gallery-columns-2 .gallery-item,
+.two .gallery-columns-3 .gallery-item {
+	float: left;
+	margin-top: 0;
+	text-align: center;
+	width: 48%;
+}
+
+.gallery-caption { display: none; }
+
+#TB_closeWindow, #TB_caption { height: auto !important; }
+
+#TB_secondLine { font-weight: bold; }
+
+#share-bar {
+  margin-bottom: 0px;
+}
+
+.homePostListingIntro {
+    margin-bottom: 10px;
+}

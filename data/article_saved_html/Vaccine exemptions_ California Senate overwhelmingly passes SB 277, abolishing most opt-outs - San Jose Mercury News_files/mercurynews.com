@@ -1,0 +1,1 @@
+PARSELY.pInit({"apikey":"mercurynews.com","settings":{"debug":false,"widget":false,"tracker":true},"customizations":null,"track_ip_addresses":true,"bundle":"/code/ptrack-v0.4.2-engaged-time.js","track_third_party_cookies":true,"uuid":"a2bcb908-4eb3-4fce-b24d-6f3f73e69fa0","network_uuid":"7a5f1137-cc3e-4eec-bcbf-3857bd0f0c2b","apikey_uuid":"a2bcb908-4eb3-4fce-b24d-6f3f73e69fa0"});

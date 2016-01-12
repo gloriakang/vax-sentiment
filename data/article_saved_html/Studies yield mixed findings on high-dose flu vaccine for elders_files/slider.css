@@ -1,0 +1,81 @@
+label { display: block; } 
+
+.slider {
+ border-style:solid;
+  border-width:1px;
+  border-color:#999;
+  /*width:632px;*/
+	width:478px;
+  height: 262px;
+  background: url(/images/2012redesign/slider/slider_background_632x100.png) no-repeat 0px 90px;
+  }
+  
+  
+  
+  .slider-title {
+	  font-family:Georgia, Times, serif;
+	  padding-left:10px;
+	  padding-top:5px;
+	  border-bottom:1px #999;
+	  display:inline-block;
+	  
+  }
+  
+  
+
+
+#carousel_inner {
+float:left; /* important for inline positioning */
+width:360; /* important (this width = width of list item(including margin) * items shown */
+overflow: hidden;  /* important (hide the items outside the div) */
+/* non-important styling bellow */
+background:none;
+}
+
+#carousel_ul {
+position:relative;
+left:-210px; /* important (this should be negative number of list items width(including margin) */
+list-style-type: none; /* removing the default styling for unordered list items */
+margin: 0px;
+padding: 0px;
+width:9999px; /* important */
+/* non-important styling bellow */
+padding-bottom:10px;
+}
+
+#carousel_ul li{
+float: left; /* important for inline positioning of the list items */
+width:170px;  /* fixed width, important */
+/* just styling bellow*/
+padding:0px;
+height:210px;
+background:none;
+margin-top:10px;
+margin-bottom:10px;
+margin-left:10px;
+margin-right:5px;
+}
+
+#carousel_ul li img {
+.margin-bottom:-4px; /* IE is making a 4px gap bellow an image inside of an anchor (<a href...>) so this is to fix that */
+/* styling */
+cursor:pointer;
+cursor: hand;
+border:0px;
+}
+#left_scroll, #right_scroll{
+height:100px;
+width:35px;
+background:none;
+padding-top:50px;
+;
+}
+#left_scroll img, #right_scroll img{
+border:0; /* remove the default border of linked image */
+/*styling*/
+cursor: pointer;
+cursor: hand;
+
+}
+
+

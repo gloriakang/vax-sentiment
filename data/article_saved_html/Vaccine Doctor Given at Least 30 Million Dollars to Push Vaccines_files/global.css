@@ -1,0 +1,156 @@
+/* Preview Video Start */
+
+.previewvideodiv {
+    border: 2px solid #D6E9F3;
+    clear: left;
+    font: 14px arial;
+    margin:0 auto 25px;
+    position: relative;
+	text-align:center;
+	display:table;
+	}
+.previewvideodiv .whiteline {
+    background: #fff url(//media.mercola.com/assets/images/panel-bg-gray.jpg) repeat-x scroll center bottom;
+    border: 2px solid #FFFFFF;
+    margin: 0;
+    padding: 0;
+}
+.previewvideodiv object, .previewvideodiv iframe, .previewvideodiv embed {
+    width: 495px !important; padding:0 12px;
+}
+.previewvideodiv .MsgBoardStyle
+{
+	margin:0 !important;
+	font-family: Arial;
+    font-size: 12px;
+    color:#000;
+    float:none;
+	text-align:right;
+    position:relative;
+    right:10px;
+    top:-30px;
+	width:450px;
+}
+.previewvideodiv .MsgBoardStyle img {float:right;}
+.previewvideodiv .previewvideotext { margin:10px; }
+.previewvideodiv .previewvideo-form { 
+	margin:0; padding:0; margin:0 auto; 
+    border: 1px solid #D6E9F3;
+    border-radius: 8px 8px 8px 8px;
+    float: left;
+    padding: 8px;
+    position: relative;
+	left:12px;
+    width: auto; }
+.previewvideodiv .previewvideo-form .txtboxform {
+	-moz-border-bottom-colors: none;
+    -moz-border-image: none;
+    -moz-border-left-colors: none;
+    -moz-border-right-colors: none;
+    -moz-border-top-colors: none;
+    border-color: -moz-use-text-color -moz-use-text-color #FFFFFF;
+    border-radius: 4px 4px 4px 4px;
+    border-style: none none solid;
+    border-width: 0 0 0px;
+    box-shadow: 1px 1px 2px #eee inset;
+    color: #777;
+    font-size: 16px;
+    height: 100%;
+    padding: 13px 72px 13px 13px;
+    text-shadow: 1px 1px 0 #FFFFFF;
+    width: 390px;
+	}
+.previewvideodiv .previewvideo-form .subscribeBtn {
+	background:  url(//media.mercola.com/assets/images/teaser-video-btn.jpg) repeat-x scroll left bottom #1B8ED7;
+    border: 0 none;
+    border-radius: 3px 3px 3px 3px;
+    height: 29px;
+    position: absolute;
+    right: 15px;
+    text-align: center;
+    text-shadow: -1px -1px 0 #555555;
+    top: 17px;
+    width: 167px;
+    z-index: 3;
+	}
+.clearfloat { clear:both; }
+/* Preview Video End */
+
+
+/* Email to a friend Start */
+.FBdiv iframe { width:90px; }
+.twitdiv iframe{ width:118px !important;}
+.twitdiv  { margin:0 5px 0 0; cursor:pointer; }
+.googlediv { margin:0 0 0 12px; cursor:pointer; }
+.sharebtndiv { padding-top:5px; }
+.emailtodiv { margin:0; padding:0; margin-left:5px; position:relative; top:-2px; }
+.emailtodiv img{ margin:0; padding:0; float:left; }
+.emailcount { margin:0; padding:0; height:12px;  float:right; margin-top:5px; padding:1px 5px 3px; border:solid 1px #cde3ea; font:bold 11px arial; color:#215d7f; background:#eff9fe; }
+.emailtodiv2 { background: url(//media.mercola.com/themes/mercola/images/cssprites.png); height:42px; width:48px; font-size:20px; font-family:Arial; color:#2a7090; text-align:center; font-weight:bold; padding-top:3px;}
+.emailcount2 { margin:0; padding:0; height:12px; padding:1px 5px 2px; border:solid 1px #cde3ea; font:bold 11px arial; color:#215d7f; background:#eff9fe; width:48px; text-align:center; }
+.handlink  {  cursor:pointer;  }
+.hidden { display:none; }
+#shadowbox_body_inner .hrpop { background: url("//media.mercola.com/assets/images/hr.png") no-repeat scroll center center transparent; clear: left; height: 8px; padding: 5px 0; }
+
+.modalHolder { width:95%; margin:0 auto; text-align:left; padding:20px 0;}
+
+	.modalHolder .leftHead { background: url('//media.mercola.com/assets/images/reportFooter_tl.png') left top no-repeat; }
+    .modalHolder .rightHead { background: url('//media.mercola.com/assets/images/reportFooter_tr.png') right top no-repeat; padding:0 20px; }
+    .modalHolder .midHead { background: url('//media.mercola.com/assets/images/reportFooter_t.jpg') repeat-x; }
+	.modalHolder .midHead .marginDiv { padding: 20px 20px 0 20px; position:relative;}
+	.modalHolder .midHead .marginDiv strong {font:normal 24px georgia; }
+    .modalHolder .leftContent { background: url('//media.mercola.com/assets/images/reportFooter_l.gif') repeat-y;}
+    .modalHolder .ContentArea { background:#F9FAFB; font:12px Arial; color:#666; }
+    .modalHolder .ContentArea .marginDiv { padding:0 20px; }
+	.modalHolder .rightContent { background: url('//media.mercola.com/assets/images/reportFooter_r.gif') repeat-y right; padding:0 20px;  }
+	.modalHolder .leftFoot { background: url('//media.mercola.com/assets/images/reportFooter_bl.png') left top no-repeat; }
+    .modalHolder .rightFoot { background: url('//media.mercola.com/assets/images/reportFooter_br.png') right top no-repeat; padding:0 20px; }
+    .modalHolder .midFoot { background: url('//media.mercola.com/assets/images/reportFooter_b.gif') repeat-x; height:25px; }
+	.modalHolder .closeBtn { position: absolute; top: -20px; right: -45px; }
+	
+.ContactImporterHolder .modalHolder { width:88%; margin:0 auto; text-align:left; padding:10px 0;}
+.ContactImporterHolder .modalHolder .midHead .marginDiv { padding: 25px 7px 0 10px; position:relative;}
+.ContactImporterHolder .modalHolder .ContentArea .marginDiv { padding:0 7px; }
+.ContactImporterHolder .modalHolder .rightContent { background: url('//media.mercola.com/themes/mercola/images/reportFooter_r.gif') repeat-y right; padding:0 10px;  }
+.ContactImporterHolder .modalHolder .closeBtn { position: absolute;top: 20px; right: 10px; }
+.ContactImporterHolder .modalHolder .feedbackBtn { position:absolute; right:6px; top:-5px }
+.ContactImporterHolder .modalHolder .midHead .marginDiv strong {font:normal 32px georgia; }
+
+/* Email to a friend End */
+.emailToFriend .modalHolder .closeBtn { position:absolute; top:20px; right:10px; }
+.emailToFriend .modalHolder .midHead .marginDiv strong {font:normal 32px georgia; color:#000; }
+
+.ChangeEmailAddressHolder .modalHolder .closeBtn { position:absolute; top:20px; right:10px; }
+.ChangeEmailAddressHolder .modalHolder .midHead .marginDiv strong {font:normal 32px georgia; }
+
+/* CSS Sprites */
+
+.print {  background: url(//media.mercola.com/themes/mercola/images/cssprites.png) -200px -100px; width:32px; height:31px; }
+.emailcount2 { margin-top: 14px; }
+.lockicon { background: url(//media.mercola.com/themes/mercola/images/cssprites.png) -150px -100px; width:43px; height:49px; float:left; }
+.btn-register { background: url(//media.mercola.com/themes/mercola/images/cssprites.png) -100px 0px; width:102px; height:29px; cursor:pointer; float:left;}
+.btn-signin { background: url(//media.mercola.com/themes/mercola/images/cssprites.png) -100px -50px; width:102px; height:29px; cursor:pointer; float:left; }
+.btn-register-es { background: url(//media.mercola.com/themes/articulos/images/cssprites-esp.png) -100px 0px; width:102px; height:29px; cursor:pointer; float:left;}
+.btn-signin-es { background: url(//media.mercola.com/themes/articulos/images/cssprites-esp.png) -100px -50px; width:102px; height:29px; cursor:pointer; float:left; }
+.modaltext { float:left; font: normal 24px georgia; padding:0 5px; height:29px; }
+.clear { clear:both; }
+.modal-close { background: url(//media.mercola.com/themes/mercola/images/cssprites.png) -250px 0px; width:80px; height:41px; }
+.modalHolder .closeBtn { position: absolute; top: -10px; right: -35px; !important; }
+.etafclose {  background: url(//media.mercola.com/themes/mercola/images/cssprites.png) -100px -100px; width:29px; height:29px; cursor:pointer; }
+
+.emailtodiv2 span {
+font-size: 16px;
+display: block;
+padding-top: 7px;
+color: #333;
+}
+
+.social-icons td {
+padding-right: 7px;
+}
+
+@media only screen and (max-width:340px)
+{
+    .lockicon { margin-bottom:25px; }
+    .modaltext { padding:0 5px!important; }
+}

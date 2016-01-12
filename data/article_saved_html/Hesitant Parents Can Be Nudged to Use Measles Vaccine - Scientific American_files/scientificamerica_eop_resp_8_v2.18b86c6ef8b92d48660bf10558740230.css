@@ -1,0 +1,156 @@
+/* ------------------
+	Scientific America :: EOP - RESP - 8 - v2
+------------------------- */
+
+@font-face {
+    font-family: 'Futura';
+    src: url('../../fonts/Futura/futura_normal.eot');
+    src: url('../../fonts/Futura/futura_normal.eot?#iefix') format('embedded-opentype'),
+         url('../../fonts/Futura/futura_normal.woff') format('woff'),
+         url('../../fonts/Futura/futura_normal.ttf') format('truetype'),
+         url('../../fonts/Futura/futura_normal.svg#droid_serifregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+*, *:before, *:after {
+-moz-box-sizing: border-box;
+-webkit-box-sizing: border-box;
+box-sizing: border-box;
+}
+
+/* ------------------
+  Widget Container
+------------------------- */
+#grv_widget {
+  position: relative;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+}
+
+/* ------------------
+  Widget Title
+------------------------- */
+.grv_stories_header {
+  color: rgb(0, 0, 0);
+  display: block;
+  font-family: 'Futura', Times, sans-serif;	
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 35px;
+  margin: 10px 0px 10px 0px;
+  padding: 0;
+}
+
+/* ------------------
+  Articles
+------------------------- */
+ul.grv_articles {
+  margin: 4px 0 0 0;
+  padding: 0;
+  list-style: none;
+  overflow: hidden;
+  position: relative;
+}
+li.grv_article {
+  float: left;
+  height: 161px;
+  width: 22%;
+  position: relative;
+  margin: 0 4% 4% 0;
+  padding: 0;
+}
+
+
+li.grv_article.grv_is_sponsored {
+	background-color: rgb(241, 241,241);
+	border: 1px dotted rgb(178,178,178);
+}
+
+
+li.grv_article.grv_is_sponsored .grv_article_title {
+	color: #19437c;
+	padding: 0 5px;
+}
+li.grv_article.grv_num_3,
+li.grv_article.grv_num_7{
+  margin-right: 0;
+}
+
+a.grv_article_title {
+	color: #19437c;
+	display: block;
+	font-family: 'Futura', Times, sans-serif;	
+	font-size: 12px;
+	font-weight: bold;
+	line-height: 14px;
+	height: 56px;
+	overflow: hidden;
+	margin: 10px 0 0 0;
+	text-align: center;
+	text-decoration: none;
+	position: relative;
+	z-index: 10;
+}
+
+a.grv_article_title:hover {
+  text-decoration: underline; 
+}
+
+li.grv_article a.grv_img_link {
+  height: 90px;
+  display: block;
+  overflow: hidden;
+  position: relative;
+  margin-bottom: 4px;
+  z-index: 2;
+}
+
+/* HAS IMAGE */
+.grv_post_type {
+  display: block;
+  height: 100%;
+  width: 100%;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  background: transparent;
+  -webkit-box-shadow: inset 0px 0px 80px rgba(0,0,0,0.18);
+  -moz-box-shadow:    inset 0px 0px 80px rgba(0,0,0,0.18);
+  box-shadow:         inset 0px 0px 80px rgba(0,0,0,0.18);
+}
+
+/* SPONSORED */
+.grv_is_sponsored .grv_sponsored{
+	background:  rgba(209, 66, 61, 1);
+	color: rgba(255, 255, 255, .9);
+	display: block;
+	font-size: 10px;
+	line-height: 10px;
+	padding: 4px 5px 2px;
+	position: absolute;
+	top: 74px;
+	left: 0px;
+	right: 0px;
+	text-align: center;
+	z-index: 11;
+}
+
+/* GRAVITY ATTRIBUTION */
+#grv_badge {
+  display: none;
+}
+
+#grvWidgetStylesLoaded_scientificamerica_eop_resp_8_a2d1e26da15905cd4b91c84f36d424bd_css {
+  width: 1px;
+  height: 1px;
+  visibility: hidden;
+}
+
+#grvWidgetStylesLoaded_scientificamerica_eop_resp_8_v2_18b86c6ef8b92d48660bf10558740230_css {
+  width: 1px;
+  height: 1px;
+  visibility: hidden;
+}

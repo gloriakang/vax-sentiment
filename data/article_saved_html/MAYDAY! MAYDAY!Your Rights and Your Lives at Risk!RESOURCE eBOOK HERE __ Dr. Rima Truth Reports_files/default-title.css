@@ -1,0 +1,201 @@
+/* Standardize child theme styling */
+.builder-module.builder-module-top,
+.builder-module.builder-module-single {
+	margin-top: 0;
+}
+.builder-module.builder-module-bottom,
+.builder-module.builder-module-single {
+	margin-bottom: 0;
+}
+.builder-module-sidebar {
+	padding: 0;
+}
+.post {
+	margin-left: 0;
+	margin-right: 0;
+}
+#comments {
+	margin-left: 0;
+	margin-right: 0;
+}
+#comments ol.commentlist {
+	background: transparent;
+}
+.builder-module-sidebar {
+	background: transparent;
+}
+
+.builder-module .left .builder-module-element,
+.builder-module .middle .builder-module-element {
+	margin-right: 0;
+}
+.builder-module .middle .builder-module-element,
+.builder-module .right .builder-module-element {
+	margin-left: 0;
+}
+
+.builder-module-image .builder-module-element-outer-wrapper {
+	width: 100% !important;
+}
+.builder-module-image .builder-module-element img {
+	max-width: 100%;
+}
+
+.builder-module {
+	border-left: 0 !important;
+	border-right: 0 !important;
+}
+
+.site-title a:hover,
+.site-tagline a:hover {
+	font-size: inherit;
+}
+
+
+
+/* Style Manager generated css */
+
+
+
+/* Style Manager custom css */
+body {
+background-image: url(http://savemylifedrrima.com/wp-content/uploads/mainbg-subpages1.jpg);
+background-position: top center;
+background-color: #d7fdfe;
+background-repeat: repeat-x;
+
+
+}
+
+.header-space {
+	display:block;
+	height: 133px;
+}
+
+.alignnone img {
+	padding: 0px;
+	border: none;
+	background: none;
+	margin: none;
+}
+
+.builder-module-navigation ul {
+	margin-top: 10px;
+	margin-left: 10px;
+	margin-bottom: 10px;
+} 
+.builder-module-navigation ul li a {
+	background-image: url(http://savemylifedrrima.com/wp-content/uploads/menubg1.png);
+	background-repeat: no-repeat;
+	width:159px;
+	text-align:center;
+	padding-top:13px;
+	padding-bottom:12px;
+	margin-left:3px;
+	margin-right:2px;
+
+}
+.builder-module-navigation ul li a:hover {
+	background-image: url(http://savemylifedrrima.com/wp-content/uploads/menubg-over1.png);
+}
+.builder-module-navigation ul li ul li a, li li {
+	font-size: 11px;
+	display: block;
+	height: 53px;
+}/*
+.builder-module-navigation ul li ul li a:hover {
+background-image: url(http://savemylifedrrima.com/wp-content/uploads/menubg-over1.png);
+}*/
+
+.entry-title {
+	/* display:none; */
+}
+
+.loop {
+padding-left:5px;
+}
+.entry-content {
+font-size: 14px;
+}
+
+.body-white-bg {
+padding: 15px;
+background-color: #fff;
+}
+.sms a{
+	float: left;
+}
+.sms {
+	height: 84px;
+	width: 316px;
+}
+.widget.widget-1.widget-top.widget_execphp {
+	margin-bottom: 0px;
+}
+.rave-header {
+	display:block;
+	width:308px;
+	height:53px;
+	background-image: url(http://savemylifedrrima.com/wp-content/uploads/widget-header-bg.png);
+}
+.rave-header h1 {
+	font-family: Verdana;
+	color: #FFFFFF;
+	font-size: 16px;
+	font-weight:bold;
+	padding-top: 14px;
+	padding-left:15px;
+	
+}
+.rave-body {
+	background-color: #ffffff;
+	display: block;
+	min-height: 120px;
+	margin-left:14px;
+	margin-right: 9px;
+	width:295px;
+}
+.rave-text {
+	padding:15px;
+}
+.af-form-wrapper {
+	background-image: url(http://savemylifedrrima.com/wp-content/uploads/optinbg.png);
+	background-repeat: no-repeat;
+	background-position: center top;
+	display: block;
+	height: 340px;
+	width: 315px;
+	text-align: center;
+}
+.af-element.buttonContaine {
+	height: 31px;
+	width: 217px;
+}
+.af-textWrap input{
+	height: 31px;
+	width: 287px;
+	background: transparent;
+	border-top-width: 0px;
+	border-right-width: 0px;
+	border-bottom-width: 0px;
+	border-left-width: 0px;
+	border-top-style: solid;
+	border-right-style: solid;
+	border-bottom-style: solid;
+	border-left-style: solid;
+}
+.af-element {
+	padding-bottom:10px;
+}
+.optin-spacer {
+	height: 243px;	
+}
+.entry-content a {
+	color:#09F;
+}
+.entry-header, .entry-footer {
+background-color: #fff;
+}
+.loop-header {
+	display: none;
+}

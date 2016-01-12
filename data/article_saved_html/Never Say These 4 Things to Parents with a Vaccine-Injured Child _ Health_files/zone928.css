@@ -1,0 +1,39 @@
+@CHARSET "UTF-8";
+
+@import url('_common_dz.css');
+
+div.adblade-dyna.zone-928 div.zone div.ad {
+	width: 25%;
+}
+
+@media only screen and (max-width: 600px) {
+    div.adblade-dyna.zone-928 div.zone div.ad {
+	    width: 50%;
+    }
+
+    div.adblade-dyna a.description {
+        height: 3.51em;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    div.adblade-dyna.zone-928 a.description {
+        height: 4.68em;
+    }
+}
+
+@media only screen and (max-width: 380px) {
+    div.adblade-dyna.zone-928 a.description {
+        height: 5.85em;
+    }
+}
+
+@media only screen and (max-width: 300px) {
+    div.adblade-dyna.zone-928 div.zone div.ad {
+	    width: 100%;
+    }
+
+    div.adblade-dyna.zone-928 a.description {
+        height: 3.51em;
+    }
+}

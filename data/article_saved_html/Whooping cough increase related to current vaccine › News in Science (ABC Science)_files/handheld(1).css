@@ -1,0 +1,263 @@
+
+/* Created by: GP, Sep 2006 */
+
+
+body {font-family:Arial,Helvetica,sans-serif; margin:0; padding:0; color:#000; background:#fff;}
+div {margin:0; padding:0;}
+img {border:0;}
+
+p, ul, ol, pre, blockquote, address {line-height:1.4; margin:0 0 1em 0; padding:0;}
+blockquote {margin-left:1em;}
+hr {height:0; margin:0; padding:0; border:0; border-bottom:1px dashed #bbb;}
+
+.clear, .clearer {clear:both; height:1px; line-height:1px;}
+.boxed {border:1px solid #999; margin-bottom:12px;}
+.floatleft {float:left;}
+.clearLeft {clear:left;}
+p#functions {display:none;}
+
+/* Layout structure ---------------------------------------------- */
+#skipToNav {background:#CECFD5;}
+#wrapperHeader {}
+#wrapperBody {}
+#wrapperContent {}
+#content {}
+#contentInner {}
+#story {background:#fff; border:1px solid #27363B;}
+#browse {background:#33474E; color:#fff;}
+#sidebar {background:#27363B; color:#fff;}
+#footerWrapper {}
+#footer {/*See footer section */}
+
+
+/* Headings */
+h1 {font-size:1.5em;    margin:0.5em 0 3px 0; padding:0; color:#000;}
+	#header	h1 {background:#023A07; text-align:center; margin:0;}
+	#header h1 a {background-color:transparent;}
+	#header h1 img {float:none;}
+h2 {font-size:1.35em;   margin:3px 0 3px 0;   padding:0; color:#000;}
+h3 {font-size:1.083em;  margin:1.5em 0 1em 0; padding:0; color:#ff0302;}
+h4 {font-size:1.0em;    margin:1.5em 0 0 0; padding:0; color:#000;}
+h5 {font-size:0.92em;   margin:1.5em 0 0 0; padding:0; color:#000;}
+h6 {font-size:0.833em;  margin:1.5em 0 0 0; padding:0; color:#000;}
+
+h1, h3.indexTitle, #browse h3 {
+	display:block; color:#1F2C30;
+	margin:0 0 3px 0; padding:8px 0 8px 5px;
+	background:#AAC1C9 url(img/bg_heading.jpg) top left repeat-y;
+}
+
+h2 em {float:right; color:#666; font-weight:normal; font-size:0.69em;}
+/* Default Links */
+a {color:#05A0E2; text-decoration:none;}
+a:visited {color:#05A0E2; text-decoration:none;}
+a:hover {color:#0089BF; text-decoration:underline;background-color:#EFF9FF;}
+
+a span {display:none;}
+a.readMore {display:none;}
+
+/* heading links */
+h1 a, h2 a, h4 a {color:#05A0E2;}
+h1 a:visited, h2 a:visited, h4 a:visited {color:#05A0E2;}
+h1 a:hover, h2 a:hover, h4 a:hover {color:#000;background-color:#EFF9FF;}
+
+h3 a {color:#05A0E2;}
+h3 a:visited {color:#05A0E2;}
+h3 a:hover {color:#0089BF;background-color:#EFF9FF;}
+
+/* Links to multimedia elements */
+a.audio {
+	padding:3px 1px 0 18px!important; 
+	background:url(img/icon_audio.gif) 0 0 no-repeat;
+}
+a.event {
+	padding:0 1px 6px 24px;
+	background:url(img/icon_event.gif) 0 0 no-repeat;
+}
+a.forum {
+	padding:0 1px 0 24px;
+	background:url(img/icon_forum.gif) 0 0 no-repeat;
+}
+a.game {
+	padding:0 1px 0 24px;
+	background:url(img/icon_game.gif) 0 0 no-repeat;
+}
+a.mp3 {
+	padding:0 1px 3px 24px!important;
+	background:url(img/icon_mp3.gif) 0 0 no-repeat;
+}
+a.photo {
+	padding:0 1px 0 24px!important;
+	background:url(img/icon_photo.gif) 0 0 no-repeat;
+}
+a.pod {
+	padding:0 1px 6px 18px!important; 
+	background:url(img/icon_pod.gif) 0 0 no-repeat;
+}
+a.quiz {
+	padding:0 1px 0 24px;
+	background:url(img/icon_quiz.gif) 0 0 no-repeat;
+}
+a.radio {
+	padding:2px 1px 6px 24px;
+	background:url(img/icon_radio.gif) 0 0 no-repeat;
+}
+a.text {
+	padding:0 1px 6px 24px;
+	background:url(img/icon_text.gif) 0 0 no-repeat;
+}
+a.tv {
+	padding:0 1px 0 24px;
+	background:url(img/icon_tv.gif) 0 0 no-repeat;
+}
+a.video {
+	padding:0 1px 0 21px!important;
+	background:url(img/icon_video.gif) 0 0 no-repeat;
+}
+a.vote {
+	padding:0 1px 3px 24px;
+	background:url(img/icon_vote.gif) 0 0 no-repeat;
+}
+
+a.rss {
+	padding:0 1px 3px 24px; 
+	background:url(img/icon_feeds.png) 0 1px no-repeat;
+}
+#browse a.rss:link, #browse a.rss:visited, #browse a.rss:active, #browse a.rss:hover {
+	padding:3px 1px 3px 24px; margin:0 3px 3px 3px; display:block;
+	background:#2F4248 url(img/icon_feeds.png) 5px 5px no-repeat;
+}
+#browse a.rss:hover {background-color:#33474E; text-decoration:none;}
+
+/* lists */
+ul li {list-style:none; margin:0 0 0.2em 1em; padding-left:10px;}
+ol li {margin:0 20px 0.5em 2em;}
+dl {margin:1em 0 2em 0; padding:0;}
+dt {margin:1em 0 0 0; font-style:italic;}
+dd {margin:0.4em 0 0.3em 2em; line-height:1.2;}
+
+/* tables */
+table {clear:left; margin:1em 0; border:0; border-top:1px solid #aaa; border-left:1px solid #aaa;}
+tr.alt {background:#e7e7e7;}
+th, td {padding:3px; vertical-align:top; border:0; border-bottom:1px solid #aaa; border-right:1px solid #aaa;}
+th {background:#d7d7d7;}
+caption {font-weight:bold; margin:0.5em 0;}
+
+/* forms */
+form, fieldset {margin:0; padding:0;}
+fieldset {border:none;}
+input, select, textarea {font-size:1em;}
+
+/* -------------------------------------------------- */
+/* Navs */
+
+/* global Nav */
+
+#gN_Nav {margin:5px 0; padding:5px; color:#fff; background:#666;}
+#gN_Nav p {margin:0; padding:0;}
+#gN_Nav a {color:#eee;}
+#gN_form {}
+#gN_Nav form label {display:none;}
+#gN_Nav {display:none;}
+#gN_query {padding:0; width:50%;}
+#gN_submit {padding:0; font-size:0.9em;}
+
+/* site navs */
+#siteNav li {margin:0 0 0.2em 1em; font-weight:bold; float:left; line-height:1.2; 
+	background:url(../../parents/css/images/li_arrow_red.gif) 0px 5px no-repeat;}
+#siteNav li ul {display:none; margin-bottom:0.5em;}
+#siteNav li ul li {display:none; }
+
+
+
+/* -------------------------------------------------- */
+/* Content */
+#mainContent {}
+.featureImg {margin:0 0 1em 0;}
+.logo {margin:5px 0;}
+.icon {clear:both; margin:0;}
+
+/* Top-of-page highlight box (mostly index pages) */
+#topHighlights {
+	background-color:#192428; color:#fff; position:relative;
+}
+#topHighlights h2, #topHighlights p {padding:0 0.5em;}
+#topHighlights ul, #topHighlights li {padding:0 0 0.25em 0; margin:0 0 0 3px;}
+.highlightImgBox {text-align:center; margin:0.5em 0 0 0;}
+
+/* -------------------------------------------------- */
+/* Browse */
+#browse h3 a {color:#1F2C30; background:transparent}
+#browse h4 {
+	font-size:1em; font-weight:bold;
+	margin:3px; padding:0;
+	background:#1F2C30;
+}
+#browse h4 a:link, #browse h4 a:visited {
+	padding:3px 0 3px 3px; display:block; color:#26BBE2; 
+}
+#browse h4 a:hover {background-color:#33474E; text-decoration:none;}
+
+#browse ul, #browse li {
+	list-style:none; margin:0; padding:0; border:0; text-indent:0; 
+}
+#browse li a:link, #browse li a:visited, #browse li a:hover {
+	margin:0; padding:3px 0 3px 3px; line-height:1.2; 
+	border-bottom:1px solid #27363B; display:block; 
+}
+
+#browse li a:hover {
+	background-color:#33474E; text-decoration:none;
+	border-bottom:1px solid #597C87;
+} 
+
+/* columns for Parenting in Pictures, Children and Media pages */
+.iconBlock {margin:1em 0;}
+.iconBlock h3 {margin:0.3em 0;}
+
+/* -------------------------------------------------- */
+/* Sidebar */
+
+#sidebar {}
+#sidebar a {color:#000; font-weight:bold;}
+
+#sidebar h3 {margin:0 0 0.8em 0; padding:0.8em 0 0 0;}
+#sidebar h4 {margin:0 0 0 0;}
+#sidebar ul li {margin-left:0; margin-right:0; padding-bottom:0.5em; border-bottom:1px dashed #B2A684;}
+#sidebar hr {height:0; margin:0 0 0.5em 0; padding:0; border:0; border-bottom:1px dashed #B2A684;}
+#sidebar img.icon {display:none;}
+
+/* -------------------------------------------------- */
+/* Footer */
+
+#footer {clear:both; margin:1em 0; text-align:left;}
+#footer p {margin:0 0 1em 0;}
+#footer .rcnfooter {padding:0 8px 0 22px; background:url(../../parents/css/images/rcn-logo-xsm.gif) center left no-repeat;}
+#footer .abcfooter {padding:0 8px 0 28px; background:url(../../parents/css/images/abc-logo-xsm.gif) center left no-repeat;}
+
+#footer a:link, #footer a:visited {color:#000; text-decoration:underline;}
+#footer a:hover {color:#000; text-decoration:none;}
+
+/* -------------------------------------------------- */
+/* Miscellaneous pages */
+
+/* Children and Media */
+#media a {color:#000; font-weight:bold;}
+
+/* Parenting in Pictures */
+.pipPanel .pipPanelImg {margin:0 0 0.5em 0;}
+
+#pipMenu {margin-bottom:2em; padding:0;}
+#pipMenu h3 {font-weight:bold;  margin:3px 0 1em 5px; padding:5px 0 5px 51px; background:url(../../parents/css/images/pip_logo_b.gif) top left no-repeat;}
+#pipMenu ul {margin:0 5px 0.5em 5px; padding-left:0;}
+#pipMenu ul li {padding-bottom:0; border-bottom:0;}
+
+/* Playground Radio */
+#radio a {color:#ff0302; font-weight:bold;}
+
+/* Talking with kids  */
+#talkMenu {margin-bottom:2em; padding:0;}
+#talkMenu h3 {font-weight:bold;  margin:3px 0 1em 5px; padding:11px 0 10px 58px; background:url(/parents/images/icons/talking.jpg) top left no-repeat;}
+#talkMenu ul {margin:0 5px 0.5em 5px; padding-left:0;}
+#talkMenu ul li {padding-bottom:0; border-bottom:0;}
+

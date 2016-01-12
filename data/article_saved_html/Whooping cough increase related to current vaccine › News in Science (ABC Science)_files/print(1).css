@@ -1,0 +1,124 @@
+/* default print style sheet */
+
+body {
+	text-align:center; font-family: Georgia, "Times New Roman", Times, serif;
+	margin:0; padding:0;
+}
+div {text-align:left; margin:0; padding:0;}
+p {margin:0; padding:6pt 0 3pt 0;}
+ul {margin:0; padding:6px 10px 8px 10px;}
+ul li {margin:0 0 0 15px; list-style-image:url(/tv/templates/navs/bullet.gif)}
+
+/* headings */
+h2 {font-size:14pt; color:#036; margin:1px 0 1px 0; padding:4px 4px 4px 10px;}
+h2.indexTitle {
+	font-size:18pt; font-weight:bold; font-style:normal;
+	margin:0; padding:0; color:#000;
+}
+h3 {font-size:16pt; color:#036; margin:0; padding:4px 4px 2px 10px;}
+h4 {font-size:16pt; color:#036; margin:0; padding:4px 4px 4px 10px;}
+
+/* links */
+a:link, a:visited  {color:#333; text-decoration:underline; padding:0 0.25em;}
+a:link:after, a:visited:after {
+  content:" (" attr(href) " ) ";
+  font-size:8pt; font-weight:normal; text-decoration:none!important;
+  word-spacing:3px;
+}
+
+/* misc general styles */
+#skipToNav, #gN_Nav, #localNav, .print, .rhNav, .bottomNav, .footerNav img, .bottomnav, #storyPhotosNav,
+.scienceBanner, #story hr, .footer img,
+#browse, #artShareLinks, #functions, #sidebar, #featuresFooter, #footer .right, 
+#wrapperSiteNav, #footer .left img, #scienceSearch, #siteMap, #sitemapSubscribe {
+	visibility:hidden!important; display:none!important;
+}
+.scienceContent {width:100%;}
+
+p#domainInfo {text-align:center; font-size:9pt; border-top:1pt solid #ccc; padding:2em;}
+/* ------------------------------------------------------------------------------- */
+/* centre column */
+
+/*TV-radio guide formats */
+#tvRadio table tfoot,
+#tvRadio ul#oaTabs {
+	display:none; visibility:hidden;
+}
+#tvRadio table caption {
+	text-align:left; font-weight:bold; text-transform:uppercase;
+	margin:12pt 0 6pt 0;
+}
+#tvRadio table small {font-weight:normal; font-style:italic; font-size:8pt;}
+#tvRadio h2.hide {
+	display:block; visibility:visible;
+	margin:18pt 0 12pt 0; padding: 6pt 0;
+	border-bottom:1px solid #333; color:#000;
+}
+
+/* ----- */
+#story {margin:0; padding:0;}
+#story p {font-size:11pt; line-height:1.25; margin:0; padding:0 0 4pt 0;}
+p.caption {font-size:8pt; font-style:normal; text-align:left;}
+
+.byline {font-size:0.78em; line-height:1.4;color: #999;}
+.date   {float:right; color:#999;}
+.author {
+	display:block;
+	font-size: 0.72em;
+	margin:0 2px 2em 0;
+}
+.txdate {font-style:italic; font-size:0.92em;}
+
+#story .right, #storyRelatedMedia  {
+	float:right;width:285px;
+	padding:0; margin:0 0.25em 1em 1em; 
+}
+.imgBox {
+	width:285px;
+	padding:0; margin:0; text-align:center;
+}
+
+#header a:link:after, #header a:visited:after,
+.imgBox a:link:after, .imgBox a:visited:after,
+.footerNav a:link:after, .footerNav a:visited:after,
+#footer .left a:link:after, #footer .left a:visited:after {
+  content:""; text-decoration:none;
+}
+
+.imgBox .featureImg {
+	width:285px; 
+	float:none; margin:0; padding:0; border:0;
+	border:1px solid #27363B;
+}
+#related {/*
+	position:absolute; left:0; bottom:0.5em; /* puts div at bottom of #story
+	margin:0; padding:0; display:block;
+	} * html #related {
+		bottom:8.5em; width:50em; z-index:200;	*/
+}
+#story h3, #related h3 {
+	font-weight: bold; font-size:1em;
+	margin:1em 0 0 0; padding:0; color:#000;
+}
+#related h3 {margin:0 0 0.25em 0;}
+#related li {
+	padding:1pt; margin:0; text-indent: 0;color:#333; line-height:1; font-size:9pt;
+}
+#related a {text-decoration:none!important;}
+
+/* ------------------------------------------------------------------ */
+/* Main logo */
+h1 {line-height:1; font-size:12pt; margin-bottom:3pt;}
+#mainLogo {clear:left;}
+.contentHeading {
+	font-weight:bold; 
+	border-bottom:1px solid #333; 
+	margin:0 0 1em 0!important; padding:0.25em;
+}
+p.tags {margin:1em 0 0 0!important; padding:1em!important; 
+	border-top:1pt solid #333;
+	border-bottom:1pt solid #333;
+}
+p.tags a {display:block; clear:right;}
+
+blockquote, q, p blockquote, p q {font-size: 10pt;}

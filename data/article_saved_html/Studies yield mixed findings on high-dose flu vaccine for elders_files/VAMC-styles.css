@@ -1,0 +1,1243 @@
+/* VHA VAMC HOMEPAGE STYLES */
+#rightContent {
+	position: absolute; 
+	margin-top: 451px; 
+	top: 451px; 
+	right: 0px; 
+	bottom: 0px; 
+	height: 100%; 
+}
+
+.VHA-administration-logo {
+	position: relative;
+	left: 0px; 
+	top: -80px; 
+	margin-bottom: -54px; 
+}
+
+#ivh h2 { 
+	/* color: #404040; */
+	font-size: 1.25em; 
+	line-height: .7em; 
+	padding: 0px; 
+	margin: 0px; }
+
+#ivh h3.subsection {
+	font-size: 1.1em; 
+	position: relative; 
+	top: -18px; 
+	width: 280px; }	
+
+#ivh { 
+	background: white; 
+	border: 1px #dddddd solid; 
+	display: block;
+	position: relative; 
+	padding: 10px; 
+	margin-bottom: 10px; 
+	height: 280px; 
+	width: 438px; }
+
+.panes div > #ivh div {
+	background: transparent; 
+	border: 0px; 
+	margin: 0px; 
+	padding: 0px; }
+
+#ivh div {
+	display: block;
+	margin: 0px; 
+	padding: 0px;
+	background: transparent; 
+	border: 0; }
+
+.panes div > ul {
+	padding-left: 20px; 
+}
+.panes div > div {
+	mion-height: 0px; 
+}
+
+.sectionheads { width: 408px; }
+
+.toplayer,.panes .sectionheads > .toplayer { 
+	/* z-index: 10; */
+	display: block; 
+	height: 20px;
+	margin-bottom: 10px; 
+	border-bottom: 1px #dddddd solid; }
+
+/* .bottomlayer { z-index: 0 } */
+
+div#ivhfeeds { 
+	display: inline; 
+	min-height: 0px; 
+	float: right; 
+	font-size:.75em; 
+	color:#707070; 
+	text-transform:uppercase; 
+	font-family: verdana,helvetica,sans-serif; }
+
+#ivhfeeds a { 
+	font-size:.75em;  } 
+
+.sectiontitle { 
+	display: inline; 
+	min-height: 0px;
+	color: #707070;
+	text-transform: uppercase; 
+	font-size: 1em; 
+	font-family: verdana,helvetica,sans-serif; }
+
+#ivhinclude { 
+	position: relative; 
+	top: 20px; 
+	border-top: 1px #dddddd solid; }
+
+#innerContent .storyimg { 
+	margin-top: 6px; 
+	margin-bottom: 20px; 
+	border: 3px solid #e0e9f0; }
+
+#IVHnew {
+	display: block;
+	width: 430px; 
+	height: 130px; 
+	position: relative; 
+	left: 0px; 
+	top: 0px; 
+	font-family: verdana,helvetica,sans-serif; 
+	font-size: 1em; 
+	margin-top: 0px; 
+	margin-bottom: 0px; 
+	padding-top: 0px; 
+	line-height: 1.5em; 
+}
+
+#IVHnew img {
+	float: left; 
+	margin: 0px 16px 0px 0px; 
+}
+
+#IVHnew h2 {
+	font-size: 1.25em; 
+	position: relative; 
+	top: 0px; 
+	margin-top: 0px; 
+	margin-bottom: 6px; 
+	padding-top: 0px; 
+	padding-bottom: 0px; 
+	/* z-index: 10; */
+}
+
+#ivh p {
+	width: 216px; 
+	float: right; 
+	padding: 0px;  
+}
+
+#ivh h2 {
+	width: 216px; 
+	float: right; 
+}
+
+#ivh h2 {
+	line-height: 1.25em; 
+	margin-left: 0px; 
+	padding-left: 0p; }
+
+#ivh #IVHmore {
+	display: block;
+	position: absolute; 
+	left: 224px; 
+	top: 218px; 
+	width: 216px; 
+	height: 18px;  
+	padding-right: 0px; 
+	padding-left: 0px; 
+	text-align: left; 
+	color: #707070; 
+	font-size: .7em;  
+	line-height: 18px; 
+	background: #f5f5f5 url('/TS_SHARED/va_administrations/VHA/VAMC/images/slidernav_bg.gif') repeat-x; 
+}
+
+#slidernavleft {
+	display: block;
+	position: absolute; 
+	left: 216px; 
+	top: 218px; 
+	width: 10px; 
+	height: 18px;  
+	margin: 0px; 
+	padding: 0px; 
+}
+
+#slidernavright {
+	display: block;
+	position: absolute; 
+	left: 430px; 
+	top: 218px; 
+	width: 10px; 
+	height: 18px;  
+	margin: 0px; 
+	padding: 0px; 
+}
+
+#IVHcontrols { 
+	display: block; 
+	float: left; 
+	font-size: 10px; 
+}
+
+#innerContent #local img, #innerContent #ivh img {
+    margin-bottom: 0px;
+	margin-top: 20px;
+}
+
+#innerContent #ivhnew > a > img {
+	border: 3px solid #E0E9F0;
+}
+
+#innerContent #sliderNavWrapperLocal img {
+	margin-top: 0px;
+}
+
+#IVHmore a:active,#IVHmore a:visited,#IVHmore a:hover {
+	color: #0083BE; 
+}
+
+#morestories { 
+	display: block; 
+	margin-right: 5px;  
+	float: right; 
+	font-size: 10px; 
+}
+	
+
+#vamcStories {
+	display: block; 
+	width: 242px; 
+	float: right;
+}
+
+.basicContainer ul {
+	list-style-type: none; 
+}
+
+.basicContainer ul li {
+	color: #666; 
+	margin-bottom: .5em; 
+	padding-right: 20px; 
+}
+
+.administration-logo {
+	position: absolute; 
+	bottom: -20px; 
+	background-color: transparent; 
+}
+
+#vamcImage {
+	margin-top: 0px; 
+	border: 3px solid #e0e9f0; }
+
+#topicsNav {
+	border: 3px solid #e0e9f0;
+	padding: 10px; 
+	margin: 0px 20px 20px 0px;
+	width: 454px; 
+	font-size: 1.5em;
+	line-height: 1.5em; 
+	min-height: 48px; 
+	color: #ffffff; 
+background: rgb(0,131,190); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(0,131,190,1) 0%, rgba(0,63,114,1) 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,rgba(0,131,190,1)), color-stop(100%,rgba(0,63,114,1))); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  rgba(0,131,190,1) 0%,rgba(0,63,114,1) 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  rgba(0,131,190,1) 0%,rgba(0,63,114,1) 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  rgba(0,131,190,1) 0%,rgba(0,63,114,1) 100%); /* IE10+ */
+background: linear-gradient(to bottom,  rgba(0,131,190,1) 0%,rgba(0,63,114,1) 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#0083be', endColorstr='#003f72',GradientType=0 ); /* IE6-9 */
+}
+
+.topicsImage {
+	float: left; 
+	margin-right: 20px; 
+	margin-bottom: 20px; 
+	border: 3px solid #e0e9f0; 
+}
+
+#innerContent .topicsImage {
+	padding: 0px; 
+}
+
+#az {
+	color: #ffffff; 
+	padding-left: 10px; 
+}
+
+#az span {
+	display: block; 
+	float: right; 
+	width: 330px; 
+}
+
+#az span > a {
+	color: #c5d6e8; 
+	text-decoration: none; 
+}
+
+#az span > a:visited,#az span > a:active {
+	color: #c5d6e8; 
+	text-decoration: none; 
+}
+
+#az span > a:hover {
+	color: #ffffff; 
+	text-decoration: underline; 
+}
+
+#shareButtons {
+	position: relative; 
+	right: 10px; 
+}
+
+
+/* GENERAL VHA STYLES */
+
+.clearfix:after { 
+   content: " ";
+   display: block; 
+   height: 0; 
+   clear: both;
+}
+
+#innerContent > h2 {
+	margin-top: 0px; 
+	margin-bottom: 1em; 
+}
+
+.VHA-administration-logo {
+	position: relative;
+	left: 0px; 
+	top: -80px; 
+	margin-bottom: -54px; 
+	width: 180px; 
+}
+
+.vhaBadge {
+	float: left; 
+	margin-right: 15px; 
+	margin-bottom: 10px;
+}
+
+#innerContentWrapper #submit {
+	margin-bottom: -9px; 
+}
+
+#tier4innerContent li.no-bullet {
+	list-style-type: none; 
+	margin: 0px 0px 0px -20px; 
+	padding: 0px 0px 0px 16px; 
+}
+
+#tier4innerContent > h4,#innerContent h4 {
+	text-align: left; 
+}
+
+#innerContent .widget-title h4 {
+	text-align: center; 
+}
+
+.basicContainerWide {
+	background: #ffffff; /* Old browsers */
+	background: -moz-linear-gradient(top,  #f6f6f6 0%, #f4f4f4 100%); /* FF3.6+ */
+	background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#ffffff), color-stop(100%,#f4f4f4)); /* Chrome,Safari4+ */
+	background: -webkit-linear-gradient(top,  #f6f6f6 0%,#f4f4f4 100%); /* Chrome10+,Safari5.1+ */
+	background: -o-linear-gradient(top,  #f6f6f6 0%,#f4f4f4 100%); /* Opera 11.10+ */
+	background: -ms-linear-gradient(top,  #f6f6f6 0%,#f4f4f4 100%); /* IE10+ */
+	background: linear-gradient(to bottom,  #f6f6f6 0%,#f4f4f4 100%); /* W3C */
+	filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f6f6f6', endColorstr='#f4f4f4',GradientType=0 ); /* IE6-9 */
+    border: 1px solid #E6E6E6;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-top: 10px;
+    padding-top: 12px; 
+    padding-bottom: 20px;
+    padding-left: 20px;
+    width: 680px;
+}
+
+.basicContainerWideInner {
+	background: white; 
+	border: 1px #dddddd solid; 
+	display: block;
+	padding: 10px; 
+	margin-bottom: 0px; 
+	margin-top: 10px; 
+	margin-left: -10px; 
+	width: 658px; 
+}
+
+.basicContainerWideInner th,.basicContainerWideInner td {
+	vertical-align: top; 
+}
+
+.basicContainerWideInner td {
+	padding-top: 1.5em; 
+}
+
+.basicContainerWideInner th {
+	color: #003f72; 
+	font-family: Myriad Pro,Helvetica,Arial,sans-serif; 
+}
+
+.basicContainerWideInner ol {
+	margin-left: 20px; 
+	padding-bottom: 2em; 
+}
+
+#tier4innerContent .basicContainerWideInner img {
+	padding-bottom: 0px; 
+}
+
+#tier4innerContent .basicContainerWideInner .floatLeft {
+	float: left; 
+	margin-right: 1em; 	
+}
+
+.basicContainerInner {
+	background: white; 
+	border: 1px #dddddd solid; 
+	display: block;
+	padding: 10px; 
+	margin-bottom: 0px; 
+	margin-top: 10px; 
+	margin-left: -10px; 
+	width: 438px; 
+}
+
+.basicContainerInner h3, .basicContainerWideInner h3,.basicContainerWide h3 {
+	margin-top: 0px; 
+}
+
+.basicContainerInner h4, .basicContainerWideInner h4,.basicContainerWide h4 {
+	text-align: left; 
+}
+
+#innerContent .basicContainerInner ul {
+	margin-left: 1em; 
+}
+
+#innerRightContent h3,#innerRightContent p {
+	padding-left: 8px; 
+}
+
+#innerRightContent .widget ul {
+	margin-bottom: 10px; 
+}
+
+#innerRightContent .widget ul li {
+	padding-top: 0px; 
+}
+
+#innerRightContent .badge {
+	padding: 0px 0px 0px 18px; 
+}
+
+.rightColPadding {
+	padding: 0px 20px; 
+}
+
+
+.contactDetails {
+	float: left; 
+	margin-right: 10px; 
+	background: white; 
+	border: 1px #dddddd solid; 
+	display: block;
+	padding: 10px 0px 0px 10px; 
+	margin-bottom: 0px; 
+	margin-top: 10px; 
+	margin-left: 0px; 
+	width: 313px; 
+	min-height: 154px; 
+}
+
+#tier4innerContent .contactDetails img {
+	padding: 0px; 
+	margin-bottom: 1em; 
+	margin-right: 1em; 
+	float: left; 
+	padding-right: 0px; 
+	border:3px solid #E0E9F0;
+	width: 110px; 
+	height: 136px; 
+}
+
+.feeds {
+	float: right; 
+	font-size: 1em; 
+	margin-top: -46px; 
+}
+
+.vamc_rssIcon {
+	margin-bottom: -2px; 
+}
+
+.subtext {
+	font-size: .8em; 
+	line-height: 1em; 
+}
+
+
+/* VAMC HOMEPAGE EMERGENCY NOTIFICATIONS */
+
+#emergency {
+	padding: 0px; 
+	margin: 0px; 
+	float: right; 
+	width: 740px;
+	line-height: 0px;
+}
+
+#emergencyLocal {
+	padding: 10px 20px; 
+}
+
+#emergencyLocal h2 {
+	color: #ffffff; 
+}
+
+#emergencyLocal p {
+	color: #ffffff; 
+}
+
+#emergencyNational {
+	padding: 10px 20px; 
+}
+
+#emergencyNational h2 {
+	color: #ffffff; 
+}
+
+#emergencyNational p {
+	color: #ffffff; 
+}
+
+
+/* EMERGENCY PAGE */
+
+#situationUpdate {
+	padding: 10px 20px; 
+	margin: 0px; 
+	float: right; 
+	width: 440px; 
+}
+
+.emergencyRed { 
+background: #a90329; /* Old browsers */
+background: -moz-linear-gradient(top, #a90329 0%, #8f0222 44%, #6d0019 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#a90329), color-stop(44%,#8f0222), color-stop(100%,#6d0019)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top, #a90329 0%,#8f0222 44%,#6d0019 100%); /* IE10+ */
+background: linear-gradient(to bottom, #a90329 0%,#8f0222 44%,#6d0019 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#a90329', endColorstr='#6d0019',GradientType=0 ); /* IE6-9 */
+}
+
+.emergencyOrange {
+background: #c66d00; /* Old browsers */
+background: -moz-linear-gradient(top,  #c66d00 1%, #b2541a 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#c66d00), color-stop(100%,#b2541a)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #c66d00 1%,#b2541a 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #c66d00 1%,#b2541a 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #c66d00 1%,#b2541a 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #c66d00 1%,#b2541a 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#c66d00', endColorstr='#b2541a',GradientType=0 ); /* IE6-9 */
+}
+
+.emergencyYellow {
+background: #f9db95; /* Old browsers */
+background: -moz-linear-gradient(top,  #f9db95 2%, #f9cf6b 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(2%,#f9db95), color-stop(100%,#f9cf6b)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #f9db95 2%,#f9cf6b 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #f9db95 2%,#f9cf6b 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #f9db95 2%,#f9cf6b 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #f9db95 2%,#f9cf6b 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9db95', endColorstr='#f9cf6b',GradientType=0 ); /* IE6-9 */
+}
+
+#tier4container #situationUpdate dl,#tier4container #situationUpdate dt {
+	border: 0px; 
+}
+
+.emergencyRed h2,.emergencyRed h3,.emergencyRed p,.emergencyRed #pubDate, .emergencyRed .subscribe a,#innerContent .emergencyRed th,#innerContent .emergencyRed td,#innerContent .emergencyRed li,.emergencyRed dt,.emergencyRed dd,.emergencyOrange h2,.emergencyOrange h3,.emergencyOrange p,.emergencyOrange #pubDate, .emergencyOrange .subscribe a,#innerContent .emergencyOrange th,#innerContent .emergencyOrange td,#innerContent .emergencyOrange li,.emergencyOrange dd,.emergencyOrange dt {
+	color: #ffffff; 
+}
+
+.emergencyRed a:link,.emergencyRed a:active,.emergencyRed a:visited {
+	color: #ffcccc; 
+	text-decoration: underline; 
+}
+
+.emergencyRed a:hover {
+	color: #ffeeee; 
+}
+
+.emergencyOrange a:link,.emergencyOrange a:active,.emergencyOrange a:visited {
+	color: #ffcc99; 
+	text-decoration: underline; 
+}
+
+.emergencyOrange a:hover {
+	color: #ffffff; 
+}
+
+#emergency .emergencyYellow h2,#emergency .emergencyYellow h3,#emergency .emergencyYellow p,#emergency .emergencyYellow #pubDate,#emergency  .emergencyYellow .subscribe a,#emergency .emergencyYellow table,#emergency .emergencyYellow li,#emergency .emergencyYellow dd,#emergency .emergencyYellow dt {
+	color: #444444; 
+}
+
+.emergencyYellow h2,.emergencyYellow h3,.emergencyYellow p,.emergencyYellow #pubDate, .emergencyYellow .subscribe a,.emergencyYellow table,.emergencyYellow li,.emergencyYellow dd,#innerContent .emergencyYellow dt {
+	color: #444444; 
+}
+
+#situationUpdate .subscribe {
+	float: right; 
+}
+
+.statusTable {
+	display: block; 
+	margin-bottom: 2em; 
+}
+
+.statusFacility {
+	width: 180px; 
+}
+
+.statusState {
+	width: 160px; 
+}
+
+.statusOptional {
+	width: 140px; 
+}
+
+span.statusOpen,span.statusChanged,span.statusClosed {
+	display: inline-block; 
+	width: 16px; 
+	height: 16px; 
+	margin-bottom: -3px; 
+	margin-right: 8px; 
+}
+
+.statusOpen {
+	background: url("/TS_SHARED/va_administrations/VHA/VAMC/images/icon_statusOpen.png") no-repeat left top;
+}
+
+.statusChanged {
+	background: url("/TS_SHARED/va_administrations/VHA/VAMC/images/icon_statusChanged.png") no-repeat left top;
+}
+
+.statusClosed {
+	background: url("/TS_SHARED/va_administrations/VHA/VAMC/images/icon_statusClosed.png") no-repeat left top;
+}
+
+
+/* VAMC HOMEPAGE BANNERS */
+
+#container #gallery {
+	height: 258px; 
+	width: 520px; 
+	margin-left: 0px; 
+	overflow: hidden; 
+	margin: 27px -20px 0px -20px; 
+}
+
+#container #slides {
+	height: 210px; 
+	width: 520px;
+}
+
+#container #slide {
+	height: 210px; 
+	width: 340px; 
+}
+
+#container .slide .description {
+	height: 210px !important; 
+	width: 138px; 
+	padding: 20px; 
+	left: 340px; 
+}
+
+#container #slider-controls {
+	top: 186px; 
+}
+
+#container #menu {
+	height: 50px;
+} 
+
+#container #gallery li {
+	height: 40px; 
+	width: 173px;
+}
+
+#container #gallery li a {
+	height: 40px; 
+	width: 173px;
+}
+
+
+/* VAMC HOMEPAGE LOCAL STORIES */
+
+#local h2 { 
+	/* color: #404040; */
+	font-size: 1.25em; 
+	line-height: .7em; 
+	padding: 0px; 
+	margin: 0px; }
+
+#local h3.subsection {
+	font-size: 1.1em; 
+	position: relative; 
+	top: -18px; 
+	width: 280px; }	
+
+#local { 
+	background: white; 
+	border: 1px #dddddd solid; 
+	display: block;
+	position: relative; 
+	padding: 10px; 
+	margin-top: 10px; 
+	margin-bottom: 10px; 
+	height: 250px; 
+	width: 438px; }
+
+.panes div > #local div {
+	background: transparent; 
+	border: 0px; 
+	margin: 0px; 
+	padding: 0px; }
+
+#local div {
+	display: block;
+	margin: 0px; 
+	padding: 0px;
+	background: transparent; 
+	border: 0; }
+
+div#localfeeds { 
+	display: inline; 
+	min-height: 0px; 
+	float: right; 
+	font-size:.75em; 
+	color:#707070; 
+	text-transform:uppercase; 
+	font-family: verdana,helvetica,sans-serif; }
+
+#localfeeds a { 
+	font-size:.75em;  } 
+
+#localinclude { 
+	position: relative; 
+	top: 20px; 
+	border-top: 1px #dddddd solid; }
+
+#localnew {
+	display: block;
+	width: 430px; 
+	height: 130px; 
+	position: relative; 
+	left: 0px; 
+	top: 0px; 
+	font-family: verdana,helvetica,sans-serif; 
+	font-size: 1em; 
+	margin-top: 0px; 
+	margin-bottom: 0px; 
+	padding-top: 0px; 
+	line-height: 1.5em; 
+}
+
+#localnew img,#ivhnew img {
+	float: left; 
+	margin: 0px 16px 0px 0px; 
+}
+
+#localnew h2 {
+	font-size: 1.25em; 
+	position: relative; 
+	top: 0px; 
+	margin-top: 0px; 
+	margin-bottom: 6px; 
+	padding-top: 0px; 
+	padding-bottom: 0px; 
+	/* z-index: 10; */
+}
+
+#local p {
+	width: 216px; 
+	float: right; 
+	padding: 0px;  
+}
+
+#local h2 {
+	width: 216px; 
+	float: right; 
+}
+
+#local h2 {
+	line-height: 1.25em; 
+	margin-left: 0px; 
+	padding-left: 0p; }
+
+#local #localmore {
+	display: block;
+	position: absolute; 
+	left: 224px; 
+	top: 188px; 
+	width: 216px; 
+	height: 18px;  
+	padding-right: 0px; 
+	padding-left: 0px; 
+	text-align: left; 
+	color: #707070; 
+	font-size: .7em;  
+	line-height: 18px; 
+	background: #f5f5f5 url('/TS_SHARED/va_administrations/VHA/VAMC/images/slidernav_bg.gif') repeat-x; 
+}
+
+#slidernavleftLocal {
+	display: block;
+	position: absolute; 
+	left: 216px; 
+	top: 188px; 
+	width: 10px; 
+	height: 18px;  
+	margin: 0px; 
+	padding: 0px; 
+}
+
+#slidernavrightLocal {
+	display: block;
+	position: absolute; 
+	left: 430px; 
+	top: 188px; 
+	width: 10px; 
+	height: 18px;  
+	margin: 0px; 
+	padding: 0px; 
+}
+
+#localcontrols { 
+	display: block; 
+	float: left; 
+	font-size: 10px; 
+}
+
+#localmore a:active,#localmore a:visited,#localmore a:hover {
+	color: #0083BE; 
+}
+
+/* VAMC HOMEPAGE IVH FEED */
+
+#ivh {
+	height: 200px; 
+}
+
+
+/* FEATURE PAGES STYLES */
+
+#featureStory p {
+	margin-bottom: 0px; 
+}
+
+.caption {
+	padding-bottom: 1.5em; 
+	line-height: 1.5em; 
+	margin-top: 0px; 
+	color: #707070; 
+	font-size: 1em; 
+	padding-top: 8px; 
+}
+
+#featureStory p.blockQuote {
+	border-top: #cccccc 1px solid; 
+	border-bottom: #cccccc 1px solid; 
+	padding-top: 1em;
+	padding-bottom: 1em; 
+	margin-top: 0em;
+	margin-bottom: 1em; 
+	text-align: center; 
+	line-height: 2em; 
+	align: center; 
+	font-family: Myriad Pro,helvetica,sans-serif; 
+	font-size: 1.75em; 
+	font-weight: bold; 
+}
+
+#featureStory span.ldquo:after {
+	content: "\201C"; 
+	font-size: 2em; 
+	vertical-align: middle; 
+}
+
+#featureStory span.rdquo:after {
+	content: "\201D"; 
+	font-size: 2em; 
+	vertical-align: middle;
+}
+
+#byline {
+	font-size: .9em; 
+	color: #808080; 
+	font-weight: bold; 
+	padding-bottom: .5em; 
+	line-height: 1em; 
+	margin-top: -.5em; 
+}
+
+.photoByline {
+	font-size: .9em; 
+	text-transform: uppercase; 
+}
+
+#pubDate {
+	font-size: .9em; 
+	color: #a0a0a0; 
+	padding-bottom: 1em; 
+	line-height: 1em; 
+	margin-bottom: 1em; 
+}
+
+#vamc_calendar {
+	background: white; 
+	border: 1px #dddddd solid; 
+	display: block;
+	padding: 10px; 
+	margin-bottom: 0px; 
+	margin-top: 10px; 
+	margin-left: -10px; 
+	width: 438px; }
+
+#innerContentWrapper {
+	height: 100% !important;
+}
+
+#shareButtons {
+	width: 100%; 
+	margin-right: -10px;
+	margin-top: .75em; 
+	margin-bottom: 2em;  
+	padding-top: 1.25em;  
+	padding-bottom: .75em; 
+	float: right; 
+	border-top: #cccccc 1px solid; 
+	border-bottom: #cccccc 1px solid; 
+}
+
+#shareButtons span {
+	margin-right: 0px; 
+	margin-left: 0px; 
+	margin-bottom: -2px; 
+}
+
+#innerContent {
+	position: relative; 
+}
+
+#shareFloat {
+	z-index: 1; 
+	position: fixed; 
+	top: 262px; 
+	float: right; 
+	margin-left: 500px;  
+	margin-bottom: 100px; 
+	text-align: center;
+}
+
+#shareFloat #widget {
+	min-height: 80px; 
+	height: 150px !important; 
+	display: block;
+}
+
+#shareFloat #widget-email {
+	margin-bottom: 20px; 
+	text-align: left; 
+}
+
+#shareFloat span { 
+	margin: 2px;  
+	float: none; 
+}
+
+#shareFloat ul,#shareFloat p {
+	text-align: left; 
+}
+
+#shareFloat ul {
+     clear: left; 
+}
+
+#shareFloat p {
+	margin-bottom: 0px; 
+	padding-left: 10px; 
+}
+
+
+#vha3column #widget {
+	min-height: 80px; 
+	height: 150px !important; 
+	text-align: center;
+	
+}
+
+
+#vha3column span { 
+	margin: 2px;  
+	float: none; 
+}
+
+#vha3column p {
+	margin-bottom: 0px; 
+	padding-left: 10px; 
+}
+
+.faqsanswers {
+
+    margin: 0;
+    padding: 0; 
+    margin-bottom: 10px; 
+}
+
+
+/* FEATURES INDEX PAGE STYLES */
+
+#localFeatureList dt, #ivhFeatureList dt {
+	clear: both; 
+}
+
+#localFeatureList dd, #ivhFeatureList dd {
+	min-height: 10em; 
+}
+
+dt .storyimg {
+	float: left; 
+	margin-right: 1em; 
+	margin-top: 0px; 
+}
+
+#tier4container dl {
+	margin-bottom: 4em; 
+	border-bottom: 1px solid #f0f0f0; 
+}
+
+
+/* NEWS PAGES STYLES */
+
+.newsTwitter {
+	width: 340px;
+	float: right; 
+	height:427px;
+ 	overflow:visible;
+}
+
+.newsTwitter .stream {
+	height: 343px; 
+}
+
+.newsFacebook {
+	width: 340px;
+}
+
+#tier4innerContent img.newsPhoto {
+	padding-bottom: 0px; 
+}
+
+#tier4innerContent #ivhfeedsNews {
+	float: right; 
+	padding-right: 10px; 
+	margin-bottom: -20px; 
+}
+
+
+/* SERVICES DETAIL STYLES */
+
+#directoryReturn {
+	float: right; 
+	margin-top: -30px; 
+	padding-top: 0px; 
+	width: 200px; 
+	text-align: center; 
+	color: #ffffff; 
+	-moz-border-radius: 3px;
+	border-radius: 3px;
+	background: #1e5799; /* Old browsers */
+/* IE9 SVG, needs conditional override of 'filter' to 'none' */
+background: url(data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiA/Pgo8c3ZnIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgd2lkdGg9IjEwMCUiIGhlaWdodD0iMTAwJSIgdmlld0JveD0iMCAwIDEgMSIgcHJlc2VydmVBc3BlY3RSYXRpbz0ibm9uZSI+CiAgPGxpbmVhckdyYWRpZW50IGlkPSJncmFkLXVjZ2ctZ2VuZXJhdGVkIiBncmFkaWVudFVuaXRzPSJ1c2VyU3BhY2VPblVzZSIgeDE9IjAlIiB5MT0iMCUiIHgyPSIwJSIgeTI9IjEwMCUiPgogICAgPHN0b3Agb2Zmc2V0PSIxJSIgc3RvcC1jb2xvcj0iIzFlNTc5OSIgc3RvcC1vcGFjaXR5PSIxIi8+CiAgICA8c3RvcCBvZmZzZXQ9IjEwMCUiIHN0b3AtY29sb3I9IiMwMDNmNzIiIHN0b3Atb3BhY2l0eT0iMSIvPgogIDwvbGluZWFyR3JhZGllbnQ+CiAgPHJlY3QgeD0iMCIgeT0iMCIgd2lkdGg9IjEiIGhlaWdodD0iMSIgZmlsbD0idXJsKCNncmFkLXVjZ2ctZ2VuZXJhdGVkKSIgLz4KPC9zdmc+);
+background: -moz-linear-gradient(top,  #1e5799 1%, #003f72 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(1%,#1e5799), color-stop(100%,#003f72)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #1e5799 1%,#003f72 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #1e5799 1%,#003f72 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #1e5799 1%,#003f72 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #1e5799 1%,#003f72 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1e5799', endColorstr='#003f72',GradientType=0 ); /* IE6-8 */
+}
+
+#directoryReturn a {
+	display: block; 
+	color: #ffffff; 
+	padding: 8px; 
+}
+
+#detailDescription {
+	float: left; 
+	width: 480px; 
+	height: 100%; 
+}
+
+#detailContactInfo {
+	float: left;
+	margin-top: 1em; 
+	margin-left: 20px; 
+	width: 180px; 
+	height: 100%; 
+}
+
+#detailContactInfo ul,#detailContactInfo li {
+	line-height: 1.5em; 
+	font-size: 1em; 
+	padding: 0px;  
+}
+
+h3#detailLocation {
+	background: url("/TS_SHARED/va_administrations/VHA/VAMC/images/icon_pushpin.png") no-repeat left center;
+} 
+
+h3#detailPhone {
+	background: url("/TS_SHARED/va_administrations/VHA/VAMC/images/icon_phone.png") no-repeat left center;
+}
+
+h3#detailHours {
+	background: url("/TS_SHARED/va_administrations/VHA/VAMC/images/icon_clock.png") no-repeat left center;
+}
+
+h3#detailLocation,h3#detailPhone,h3#detailHours {
+	line-height: 2em; 
+	padding-left: 30px; 
+}
+
+
+/* FACILITY INDEX PAGES */
+
+.facility {
+	min-height: 148px; 
+}
+
+.facilityThumbnail {
+	width: 180px; 	
+	height: 130px; 
+	overflow: hidden; 
+
+	float: left; 
+	margin-right: 14px; 
+	border: 3px solid #e0e9f0;
+}
+
+#tier4innerContent .facilityThumbnail {
+	padding: 0px; 
+}
+
+.facility h3 {
+	margin-top: 0px; 
+}
+
+
+/* FACILITY PAGES */
+
+.facilityPhoto {
+	width: 480px; 
+	height: 330px; 
+	margin-bottom: 1em;
+}
+
+#getDirections {
+            margin-bottom: 60px; 
+            margin-left: 8px; 
+}
+
+#directionsInput {
+            width: 170px; 
+}
+
+#directionsButton {
+            font-size: 1em; 
+            background: #003F72; 
+            text-decoration: none; 
+            cursor: pointer; 
+            margin-top: 6px; 
+            width: 170px; 
+            float:left; 
+            background: linear-gradient(to bottom, #1E5799 1%, #003F72 100%) repeat scroll 0 0 transparent; 
+            border-radius: 3px 3px 3px 3px; 
+            color: #FFFFFF; 
+            padding: 4px; 
+            text-align: center;
+}
+
+
+/* CAREERS PAGES */
+
+#careersIntro {
+	float: right;
+	width: 180px; 
+	padding: 20px; 
+	border: 1px solid #f0f0f0; 
+	background: #ffffff;
+	margin-top: 12px;
+}
+
+#careersSlider { 
+	border: 1px solid #f0f0f0; 
+	width: 464px;
+	margin-top: 12px;
+}
+
+.careersButton {
+	margin: 10px 0px;
+	padding-right: 20px;  
+	text-align: center; 
+background: #2067ad; /* Old browsers */
+background: -moz-linear-gradient(top,  #2067ad 0%, #003f72 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#2067ad), color-stop(100%,#003f72)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,  #2067ad 0%,#003f72 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,  #2067ad 0%,#003f72 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,  #2067ad 0%,#003f72 100%); /* IE10+ */
+background: linear-gradient(to bottom,  #2067ad 0%,#003f72 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#2067ad', endColorstr='#003f72',GradientType=0 ); /* IE6-9 */
+}
+
+.careersButton a {
+	display: block;
+	width: 100%; 
+	height: 100%; 
+	padding: 10px; 
+}
+
+.careersButton a:link,.careersButton a:active,.careersButton a:visited,.careersButton a:hover {
+	color: #ffffff; 
+	text-shadow: 1px 1px #096ab9, -1px -1px #053a64;
+}
+
+/*
+.careersButton a:hover {
+	text-decoration: underline; 
+}
+*/
+
+.formColumn1 {
+	width: 240px; 
+}

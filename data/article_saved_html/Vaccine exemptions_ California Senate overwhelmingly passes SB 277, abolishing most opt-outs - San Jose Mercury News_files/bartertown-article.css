@@ -1,0 +1,500 @@
+/* 
+*********
+Bartertown Layout - Article Styles 
+****************************/
+.region2 { display:none; }
+.region3 {width:654px !important;}
+
+/* Clean up the original CSS */
+.articlePosition1{
+        /* Padding on the left is causing overlap with right-rail */
+	/*margin: 0 0 10px 10px;*/
+        margin: 0 0 10px 0;
+	text-align:left;
+}
+.articlePosition3, .articlePosition5 {
+  margin:10px 0 10px 10px;
+  float: right;
+}
+.articlePosition2, .articlePosition4, .articlePosition6 {
+  margin:10px 20px 10px 0;
+  float: left;
+}
+
+.articleViewerGroup{
+	float: right;
+}
+.articleEmbeddedViewerBox{
+	text-align:left;
+	margin:0px 0px 10px 0px;
+}
+.articleImageBox{
+    border-style:none;
+    color:#888;
+}
+.articleImageCaption{
+    font:11px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+    color:#888;
+    text-align: left;
+}
+
+#dfmHeader .masthead h2
+{
+bottom: 7px;
+position: absolute;
+}
+
+#dfmHeader .masthead h3
+{
+bottom: 52px;
+position: absolute;
+}
+
+.packagesGrpBox{
+	margin: 0px 0px 10px 5px;
+}
+.packagesGrpBox ul li {
+    padding-bottom: 5px;
+}
+.packagesHeader{
+text-align: left;
+-webkit-user-select: none;
+color: rgb(57, 84, 122);
+display: block;
+font: bold 18px/21px Oxygen, 'Trebuchet MS', Merriweather, 'Helvetica Neue', Helvetica, Arial, sans-serif;
+height: auto; 
+margin: 0 0 9px 0;
+text-rendering: optimizelegibility;
+text-transform: uppercase;
+}
+.packageTitle{
+  list-style:none;
+  font-weight:bold;
+}
+.packageDate{
+	list-style: none;
+	font-weight:bold;
+	color: #000;
+}
+.packagesBox{
+	padding-bottom:3px;
+}
+.packagesBox ul {
+	margin:0;
+	padding: 0 0 0 10px;
+}
+#articleBody .rss-item, #articleBody .rss-item a {
+background-image:none;
+padding:0!important;
+}
+#articleBody ul.rss-items {
+padding-bottom:0;
+margin-bottom:0!important;
+}
+
+/* Ed: adding breathing room to these overly scrunched together list items 09-09-14*/
+#articleBody li.rss-item {
+	padding-bottom: 10px!important;
+}
+
+#articleBody .rss-item br { display:none; }
+.packageItem, .rss-item, .rss-item a {
+/* color: rgb(51, 51, 51); */
+display: list-item;
+font: 12px/14px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+height: auto;
+list-style-image: none;
+list-style-position: outside;
+list-style-type: disc;
+position: relative;
+text-align: left;
+}
+.articleFooterLinks{
+	width:100%;
+	text-align:center;
+}
+p.expiredArticleMsg{
+font-weight:bold;
+color:#f00;
+text-align:center;
+}
+.articleBody .articleEmbeddedAdBox, .articleBody .articleAdHeader {
+display:block;
+margin: 0 auto;
+text-align: center;
+}
+
+
+
+
+
+/* ********* Embedded Image Viewer/Gallery Styles ************ */
+
+#photoviewer {
+  width:200px;
+  padding: 0;
+  border: 1px solid #000;
+  background-color: #666;
+  margin: 0px 0px 10px 0px;
+  text-align: left;
+}
+#photoviewer .clicktoenlargephoto {
+  margin: 0;
+  height: 14px;
+  padding: 5px;
+
+    font:11px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #fff;
+  background-color: #7f7f7f;
+  border-bottom: 1px solid #ccc;
+  display: block;
+}
+#photoviewer .photocontainer {
+    margin: 0 auto;
+  padding: 0;
+  background-color: #666;
+  overflow: hidden;
+  display: table;
+  _position: relative;
+}
+
+#photoviewer .photocell {
+  _position: absolute;
+  _top: 50%;
+  text-align: center;
+  display: table-cell;
+  vertical-align: middle;
+}
+
+#photoviewer .photocell a:link img, #photoviewer .photocell a:visited img {
+  border-style:none;
+}
+
+#photoviewer .photo {
+  _position: relative;
+  _top: -50%;
+}
+*html #photoviewer p {
+  padding: 5px;
+}
+#photoviewer div.caption {
+  margin: 0;
+  padding: 5px;
+
+    font:11px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  color: #000;
+  background-color: #fff;
+  border-top: 1px solid #555;
+  border-bottom: 1px solid #555;    
+}
+#photoviewer ul {
+  float: left;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  font-family: Arial, Helvetica, sans-serif; 
+  font-size: 10px;
+  background-color: #999;
+  max-height: 25px;
+}
+#photoviewer ul li {
+  float: left;
+  margin: 0;
+  padding: 0;
+  border-right: 1px solid #555;
+  height:23px;
+}
+#photoviewer ul li a {
+  display: block;
+  padding: 2px 5px 0px 5px;
+  color: #333;
+}  
+#photoviewer ul li.on {
+  color: #666;
+  text-decoration: none;
+  background-color: #ccc;
+}
+#photoviewer ul li.previous {
+  float: left;
+  margin: 0;
+  padding: 0 35px 0 0;
+  height:23px;
+}
+#photoviewer ul li.next {
+  float: right;
+  margin: 0;
+  padding: 0;
+  border: none;
+  background-color: transparent;
+  height:23px;
+}
+#photoviewer ul li.previous a, #photoviewer ul li.next a  {
+  display: block;
+  color: #333;
+  border: none;
+  background-color: transparent;
+  padding: 2px 5px 0px 5px; 
+}
+#photoviewer table.controlbox {
+  float: left;
+  margin: 0;
+  padding: 0;
+
+    font:11px 'Helvetica Neue', Helvetica, Arial, sans-serif;
+  background-color: #999;
+  max-height: 25px;
+  width: 100%;
+}
+#photoviewer td li {
+  float: left;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+  list-style-image: none;
+  border-right: 1px solid #555;
+}
+#photoviewer tr td li {
+  border-left: 1px solid #555;
+}
+
+#photoviewer td li a {
+  display: block;
+  padding: 5px;
+  color: #333;
+}  
+#photoviewer td li.on {
+  color: #666;
+  text-decoration: none;
+  background-color: #ccc;
+}
+#photoviewer td li.previous {
+  float: left;
+  margin: 0;
+  border: none;
+}
+#photoviewer td li.next {
+  float: right;
+  margin: 0;
+  border: none;
+  background-color: transparent;
+}
+#photoviewer td li.previous a, #photoviewer td li.next a  {
+  display: block;
+  color: #333;
+  border: none;
+  background-color: transparent;
+}
+#photoviewer .footer {
+  clear: both;
+  margin: 0;
+  padding: 0;
+}
+
+#photoviewer div.controlbox {
+  height: 23px;
+  border-bottom:1px solid #000; 
+}
+
+#photoviewer li {
+  list-style-type: none;
+}
+
+
+/* BEGIN STYLES FOR RELATED AND TAKE ACTION */
+.region3 #actionRelated { 
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+    padding: 15px 0;
+    margin: 15px 0;
+}
+.region3 #relatedCL {
+    width: 395px; float:left;
+}
+.region3 #relatedCL a.complexListingTitle {
+    margin-top: 0 !important;
+    font-size: 18px !important;
+}
+.region3 .complexListingBox .listingItemTitle,
+.region3 .complexListingBox .listingArticleBlurb {
+    width: 410px !important;
+}
+.span2 {
+    float: right !important;
+    margin-top: 0px;
+    width: 200px !important;
+}
+/* END STYLES FOR RELATED AND TAKE ACTION */
+
+.articleOptions { height: 25px; display:none !important;}
+.articleOptions a img { margin-left: 10px; }
+#region3 .articleImageCaption { margin-top:0; }
+
+.articlePosition2 .articleImageBox, .articlePosition4 .articleImageBox, .articlePosition6 .articleImageBox { margin-right:10px; }
+.articlePosition1 .articleImageBox, .articlePosition3 .articleImageBox, .articlePosition5 .articleImageBox { margin-left:10px; }
+
+/* Adjust the "Next Article In" so it's not as janky */
+body #jPopUp #popCat { margin-top: -8px; }
+
+
+.subhead, .articleSubTitle {
+  color: #555555;
+  font-family: "Merriweather", Georgia, "Times New Roman", Times, serif !important;
+  text-transform: none;
+  -webkit-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  -o-user-select: text;
+  user-select: text;
+  font-size: 140% !important;
+  font-weight: bold !important;
+  /* margin: 22.652px 0; */
+}
+
+#region3 .complexListingMoreHeadlines { display:none!important; }
+
+.share-bar { margin-left:-15px!important; }
+.share-bar { margin-left:0!important; }
+
+/* removed div#disqus_thread (Ed 04-14-14) */
+/* div#disqus_thread { width:660px!important; } */
+.shareBarFacebook { overflow:visible; }
+
+/* Hide wallpaper ads, should they exist */
+body { background-image:none!important; }
+#ut_spdiv { display:none!important; }
+
+#mc-embed-container {width: 654px;}
+
+/* On certain browsers, such as safari on ipad, the content goes right up against the left side of the screen. This fixes that. 
+9/23 - I moved this into jQuery code to look if ipad or iphone and add the padding -Dan
+div.region3 .articleBox { padding-left:15px; } */
+
+#takeAction ul { border-bottom: 0px none; }
+
+/* IE browsers need a different height for dfmHeader */
+#dfmHeader {height:135px\9 !important; height:154px \9 !important;}
+
+
+
+.articleBody ul,
+.articleBody ol {
+  margin: 22.652px 20px 22.652px;
+}
+.articleBody ul {
+  list-style: disc;
+}
+.articleBody ol {
+  list-style: decimal;
+}
+
+/* To override Crowdy News widget's CSS - Joe */
+h1 { white-space: normal!important; } 
+
+@media only screen and (min-width: 320px) and (max-width: 1200px) {
+.articleBox { max-width: 654px; width:654px; }
+}
+
+
+
+/*
+
+@media only screen and (min-width: 320px) and (max-width: 600px) {
+  #articleBody {
+    max-width: 654px; }
+}
+@media only screen and (min-width: 481px) {
+  .container-content { width:285px; }
+ }
+@media only screen and (min-width: 768px) {
+  .container-content { width:570px; }
+ }
+@media only screen and (min-width: 990px) {
+  footer .container {
+    width: 100%; }
+*/
+
+/* linked in button testing */
+#shareBarWrapper #linkedIn .IN-widget span .IN-top .IN-top .IN-top {
+  background:none !important;
+}
+#shareBarWrapper #linkedIn .IN-widget span .IN-top .IN-top .IN-top .IN-top {
+  text-indent:0px !important;
+}
+
+
+/*Disqus*/
+#dfm_disqus_comments{
+	width: 100%;
+	border-bottom: 4px solid #dddddd;
+	padding-bottom: 20px;
+	margin-bottom: 22.652px;
+	padding-top: 6px;
+}
+
+.bylineCommentCount {
+	float:right;
+	color: #39547a;
+	font-weight:normal;
+}
+
+.timestamp {
+	width: 100%;
+	white-space: normal;
+}
+/*End:Disqus*/
+
+/*Styles for tab table styles from MWC*/
+
+
+
+/*Targets Subheads in the body*/
+
+/* Rating star */
+
+.dfm_fullStar, .dfm_halfStar{
+	height:20px;
+	position:relative;
+	top:2px;
+}
+.dfm_fullStar{
+	width:20px;
+	content:url('http://local.digitalfirstmedia.com/common/dfm/assets/img/FullStar.png');
+
+}
+.dfm_halfStar{
+	width:10px;
+	content:url('http://local.digitalfirstmedia.com/common/dfm/assets/img/HalfStar.png');
+}
+
+/*END: Rating star */
+
+
+/* 
+add space between the 'most-clicked' article list and the Ad box below it 
+(Ed 09-22-14)
+*/
+#the-most-list {
+	margin-bottom: 20px;
+}
+
+/*
+add space to the list items (esp. links) in the right rail 
+(Ed 05-04-15)
+*/
+
+#the-most-list ul {
+	margin-left: 10px;
+}
+
+
+
+/* 
+style the H2 tags that now display for SEO 
+(Ed 09-30-14) 
+*/
+#articleSubTitle h2 {
+    font-size: 14px;
+    font-weight: bold;
+    color: #555555;
+}
+

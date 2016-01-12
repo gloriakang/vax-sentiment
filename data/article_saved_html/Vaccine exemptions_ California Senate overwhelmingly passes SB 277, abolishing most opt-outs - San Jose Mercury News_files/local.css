@@ -1,0 +1,580 @@
+/* Mercury News local CSS */
+/* cleaned up and corrected 030215 */
+
+#gregbox-outer {
+	background:#7da7bb!important;
+}
+
+div.shadowText,div.shadowTextAlt {
+	background:url(http://i-ppjol.s3.amazonaws.com/signin/pp_sign-in_button-7da7bb.png) no-repeat scroll 0 0 transparent!important;
+}
+
+* html #gregbox-content {
+	border:6px solid #7da7bb!important;
+}
+
+#podcastBlock .contentblock {
+	overflow:hidden;
+	width:298px!important;
+}
+
+/* This is being overwriten by mn_Global.css. Remove once site goes live */
+#region8and9box .region8 {
+	padding-left:0!important;
+}
+
+#region8 {
+	margin-right:0;
+	width:315px;
+}
+
+#mnRSSIndex h1 {
+	display:inline-block;
+	margin:20px 0 5.663px;
+	-moz-user-select:none;
+	color:#39547A!important;
+	font:bold 20px "Trebuchet MS",Merriweather,"Helvetica Neue",Helvetica,Arial,sans-serif!important;
+	text-transform:uppercase;
+	background:none;
+	text-indent:0;
+	width:auto;
+	height:auto;
+}
+
+#mnRSSIndex a {
+	color:#000;
+}
+
+.region1 .middle-column .complexListingTitle {
+	display:none;
+}
+
+/* dont put this live, just during edits */
+/* #pressplusOverlay, #ppUI { display: none !important; } */
+/* *********************************** */
+/* alignment for release - EPB20150214 */
+/* *********************************** */
+#region8 .complexListingBox .complexListingTitle,#region9 .complexListingBox .complexListingTitle {
+	font-size:24px!important;
+	line-height:1.2!important;
+	margin-bottom:10px;
+	letter-spacing:1px;
+	margin-bottom:0;
+	border-top:1px solid #aab!important;
+	border-bottom:1px solid #ddd!important;
+	color:#39547a!important;
+	width:300px;
+	display:block;
+	background:url(http://extras.mercurynews.com/css/images/hittinthemcorners.gif) right no-repeat;
+}
+
+/* ABSOLUTELY NO MOSHING! */
+#region8 .complexListingBox,#region9 .complexListingBox {
+	margin-bottom:0;
+}
+
+/* first hed closer to CLtitle LATEST NEWS */
+#region2 div:nth-child(1) .complexListingLink {
+	padding-top:8px!important;
+}
+
+/* bump LATEST NEWS CLtitle up */
+#region2 h2.complexListingTitle {
+	margin-top:15px!important;
+}
+
+/* bump down OFF-secondaries */
+#secondary {
+	margin-top:7px;
+}
+
+/* rule line CP1 hed */
+#region3 .complexListingBox .layout5FeatureItemBox:nth-child(1)>a.listingItemTitle {
+	border-top:2px solid #eee;
+	margin-top:5px!important;
+/*margin-bottom: -5px!important;*/
+	padding-top:13px!important;
+}
+
+/* **************************************** */
+/* I'll reorganize this later - EPB20150214 */
+/* **************************************** */
+/* --- in-article ad, left align EPB20141021 --- */
+.articleBody .articleEmbeddedAdBox {
+	display:inline-block;
+	float:left;
+	margin-bottom:10px;
+}
+
+.articleBody .articleEmbeddedAdBox .articleAdHeader {
+	display:inline-block;
+	float:left;
+	color:#ccc;
+	font:12px/1.5em "Helvetica Neue",Arial,Helvetica,Geneva,sans-serif;
+}
+
+/* --- fix EPB20150112 embed positioning in firefox */
+.articleBody #dfp-EMBEDDED {
+	clear:left;
+	width:300px;
+}
+
+/* end embedded ad */
+/* ---------------------------- */
+/*                              */
+/*    BARTERTOWN  OVERRIDES     */
+/*     stuff here was done      */
+/*  by @epaulbaca at @mercnews  */
+/*                              */
+/* ---------------------------- */
+.articleBody p {
+	font-size:1.07em!important;
+	line-height:1.76em!important;
+	margin-bottom:18px;
+}
+
+.articleBody p.subhead {
+	font-weight:700;
+	text-transform:uppercase;
+	color:#595959;
+	margin:20px 0 8px;
+}
+
+.articleImageCaption {
+	font:.8em/1.3em "Helvetica Neue",Arial,Helvetica,Geneva,sans-serif;
+	color:#555;
+	padding-top:4px;
+}
+
+/* more space after header freeform */
+.articlePositionHeader {
+	margin-bottom:8px;
+}
+
+/* bolder complexlistings in region3 - EPB20140211, per rkeith */
+.region3 .complexListingBox a.complexListingLink {
+	font-weight:700!important;
+	font-size:1em!important;
+}
+
+.region3 .complexListingBox a.complexListingLink:hover {
+	color:#444!important;
+	text-decoration:none!important;
+}
+
+/* margin on CP1 head */
+.region3 .listingItemTitle {
+	margin:18px 0 2px!important;
+}
+
+/* margin on OFF heads */
+.region3 .secondary-stories .listingItemTitle {
+	margin:4px 0 12px!important;
+}
+
+/* 'latest news' CLtitle margin-top */
+div#region2 table.complexListingBox div a.complexListingTitle {
+	margin-top:20px!important;
+}
+
+/* related stories - packages box */
+.packagesGrpBox {
+	padding:10px;
+	width:180px!important;
+	background-color:#eee;
+	margin-left:12px;
+}
+
+.packagesBox ul {
+	margin:0 0 0 14px;
+	padding:0;
+}
+
+.packagesBox li.packageItem {
+	list-style-position:outside;
+	list-style:square;
+	color:#aaa;
+	padding-bottom:10px;
+}
+
+.packagesBox li.packageDate {
+	color:#777;
+	font:bold .8em "Helvetica Neue",Arial,Helvetica,Geneva,sans-serif;
+	padding:0;
+	margin:0 0 4px;
+	border-bottom:1px solid #ccc;
+}
+
+/* ---------------------------- */
+/*                              */
+/*         EPB20140426          */
+/*      #beyondBartertown       */
+/*                              */
+/* ---------------------------- */
+/* breathing room for article media icon */
+.complexListingLink img {
+	margin-left:8px;
+	margin-top:-2px;
+}
+
+/* override CP1 blurb text; a little larger, less black, reduce bottom spacing */
+div.layout5FeatureItemBox .listingArticleBlurb {
+	font-size:1.12em!important;
+	color:#666!important;
+	margin-bottom:18px;
+}
+
+/* because CP1 blurb inserts an unwanted <a> line, below the blurb */
+div.layout5FeatureItemBox a.listingArticleLinkTo {
+	display:none!important;
+}
+
+/* unwanted space above the skyboxes/OFFs */
+#newmc {
+	margin-top:-25px;
+}
+
+/* red bar a:hover link red color */
+.alert-heading a:hover {
+	color:#f99!important;
+}
+
+.alert-heading a:visited {
+	color:#fff!important;
+}
+
+/* ListingItemTitle: link font size update */
+#cl_with_rounded_corners_bottom a.listingItemTitle:link {
+	font-size:14px!important;
+}
+
+#cl_with_rounded_corners_bottom a.listingItemTitle:active {
+	font-size:14px!important;
+}
+
+/* blurb link spacing fix */
+span.listingArticleBlurb p {
+	padding-left:8px;
+	margin:5px 0;
+	line-height:16px!important;
+}
+
+span.listingArticleBlurb p img {
+	margin:-3px 3px 0 -8px;
+}
+
+span.listingArticleBlurb p a {
+	color:#49637b;
+	font-size:13px;
+	font-family:"Helvetica Neue",Helvetica,Arial,sans-serif;
+}
+
+/* byline area specifics */
+p.bylinejb {
+	display:inline;
+	margin:0 10px 0 0;
+	padding-right:10px;
+	float:left;
+	border-right:1px solid #ccc;
+}
+
+a p.bylinejb {
+	color:#555;
+	word-spacing:2px;
+}
+
+a p.bylinejb:hover {
+	color:#a33030;
+}
+
+p.bylineaffiliation {
+	margin:0;
+	display:inline;
+	font-weight:400;
+}
+
+p.bylineaffiliation a {
+	font-weight:400;
+	color:#ccc;
+}
+
+/* remove superfluous br after byline */
+td.articleBox br:first-of-type {
+	display:none;
+}
+
+/* make articleDate and articleSecondaryDate load as white, js fixed meta class will display */
+.articleDate,.articleSecondaryDate {
+	color:#fff;
+}
+
+#articleDate.articleSecondaryDate.meta {
+	color:#a9a9a9;
+}
+
+/* ----------- end ------------ */
+/* ---------------------------- */
+/*                              */
+/*     MOST POPULAR WIDGET      */
+/*                              */
+/* ---------------------------- */
+#sidebarmostpop .complexListingLink {
+	padding:6px 0;
+}
+
+#sidebarmostpop .complexListingTitle a {
+	font-size:1.5em!important;
+	border:0!important;
+}
+
+#sidebarmostpop div.tabbedbox {
+	border-bottom:1px solid #ccc;
+}
+
+#sidebarmostpop .righttab a {
+	padding:5px!important;
+}
+
+#sidebarmostpop .activetab {
+	padding:5px!important;
+}
+
+#sidebarmostpop .tabbedbox .righttab a:active {
+	text-decoration:none;
+}
+
+#sidebarmostpop li.listNoImage {
+	color:#bbb;
+	font-size:13px;
+}
+
+#sidebarmostpop li.listNoImage img {
+	margin:0 0 2px 4px;
+}
+
+/* EPB20140417 now we've moved mostpopular to right on article pages, no longer need this div */
+#actionRelated {
+	display:none;
+}
+
+/*-- end MOST POPULAR WIDGET --*/
+/* ---------------------------- */
+/*                              */
+/*      MOST POPULAR LISTS      */
+/*                              */
+/* ---------------------------- */
+#the-most-popular {
+	padding:10px;
+	margin:10px 0;
+	border-top:1px solid #eee;
+	border-bottom:1px solid #eee;
+	clear:both;
+	background:url(http://extras.mercurynews.com/css/images/mostpop_bk.gif) left center no-repeat #f4efe0;
+}
+
+#the-most-popular h3 {
+	text-align:center;
+	margin:0;
+	font:bold 1.1em/1.7em "Helvetica Neue",Arial,Helvetica,Geneva,sans-serif;
+	color:#9b4224;
+}
+
+#the-most-popular ul {
+	text-align:center;
+}
+
+#the-most-popular ul li {
+	color:#888;
+	padding:0 10px;
+	display:inline-block;
+	margin-right:10px;
+}
+
+#the-most-popular ul li:last-child {
+	color:#3a3aa2;
+	clear:both;
+	float:none;
+	display:block;
+	margin:5px 0 -9px;
+}
+
+#the-most-popular ul li:last-child a {
+	color:#b77c0f;
+	background-color:rgba(96,89,72,0.15);
+	padding:4px 15px;
+}
+
+#the-most-popular ul li:last-child a:hover {
+	color:#b77c0f!important;
+	background-color:rgba(255,255,255,0);
+}
+
+#the-most-popular ul li a {
+	color:#203565;
+}
+
+#the-most-list {
+	margin:0 auto;
+}
+
+/* ---------------------------- */
+/*                              */
+/*        VENDOR-RELATED        */
+/*                              */
+/* ---------------------------- */
+/* NDN embed hover & added style overrides */
+/* hover message on larger screens */
+@media only screen and (min-width : 1224px) {
+	.ndn_playerOverlay::before {
+		content:"Hover over the video to play";
+		font:.65em/1.4em "Trebuchet MS","Lucida Grande",Lucida,Verdana,sans-serif;
+		text-align:center;
+		background-color:#000;
+		color:#fff;
+		padding:2px 20px;
+		opacity:1;
+		display:block;
+	}
+}
+
+/* ---- end NDN specifics ---- */
+/* ************************************************************************ */
+/* CSS for the Dan slider, the 'DP top stories' article rotator bar injected in region2 */
+/* ************************************************************************ */
+/* Hide the Hot Topics bar on articles */
+body.btArticle span#mn_Global span#MNGiSection div#regionParent div#header div#hot-topics * {
+	display:none;
+}
+
+body.btArticle span#mn_Global span#MNGiSection div#regionParent div#header div#hot-topics {
+	border:none;
+	-webkit-box-shadow:none;
+	-moz-box-shadow:none;
+	box-shadow:none;
+	padding:0;
+	height:0;
+}
+
+#dp-top-stories-bar-wrap.dp-top-stories-fixed {
+	position:fixed;
+	left:0;
+	top:0;
+	-webkit-box-shadow:0 2px 2px rgba(20,20,20,0.40);
+	-moz-box-shadow:0 2px 2px rgba(20,20,20,0.40);
+	box-shadow:0 2px 2px rgba(20,20,20,0.40);
+}
+
+#dp-top-stories-bar-wrap {
+	height:72px;
+	width:100%;
+	border-bottom:1px solid #ddd;
+	background:#fff;
+	z-index:5000;
+}
+
+#dp-top-stories-bar {
+	position:relative;
+	margin:0 auto;
+	width:1008px;
+	height:70px;
+	overflow:hidden;
+	padding:4px 0;
+	z-index:0;
+}
+
+#dp-top-stories-bar .dp-top-stories-item {
+	display:inline-block;
+	margin:0 4px;
+	float:left;
+	height:62px;
+	width:22%;
+	overflow:hidden;
+	border-right:1px solid #ddd;
+}
+
+div.slick-active {
+	border-left:1px solid #ddd;
+}
+
+div.slick-active ~ div.slick-active {
+	border-left:none;
+}
+
+#dp-top-stories-bar .dp-top-stories-item a.dp-top-stories-img {
+	float:left;
+	display:inline-block;
+	border:0;
+	max-height:100%;
+	max-width:25%;
+	padding:5px;
+}
+
+#dp-top-stories-bar .dp-top-stories-item a.dp-top-stories-img img {
+	max-height:60px;
+	max-width:100%;
+}
+
+#dp-top-stories-bar .dp-top-stories-item a.dp-top-stories-link {
+	float:left;
+	display:inline-block;
+	margin:5px;
+	width:65%;
+	color:#222;
+	font-weight:600;
+	font-family:'Open Sans',Helvetica,Arial,sans-serif;
+	line-height:1.2;
+	font-size:.9em;
+}
+
+#dp-top-stories-bar button {
+	position:absolute;
+	top:3px;
+	right:10px;
+	height:30px;
+	width:30px;
+	border:1px solid #bbb;
+	background:#fff;
+	-webkit-border-radius:1px;
+	-moz-border-radius:1px;
+	border-radius:1px;
+	-webkit-box-shadow:1px 1px 3px 0 rgba(20,20,20,0.40);
+	-moz-box-shadow:1px 1px 3px 0 rgba(20,20,20,0.40);
+	box-shadow:1px 1px 3px 0 rgba(20,20,20,0.40);
+	cursor:pointer;
+}
+
+#dp-top-stories-bar button.slick-prev {
+	top:3px;
+}
+
+#dp-top-stories-bar button.slick-next {
+	top:35px;
+}
+
+#dp-top-stories-bar button.slick-prev:hover, 
+#dp-top-stories-bar button.slick-next:hover {
+	background:#f5f5f5;
+}
+
+#dp-top-stories-bar button.slick-prev span {
+	display:block;
+	border-width:7.5px 15px 7.5px 0;
+	border-color:transparent #999 transparent transparent;
+	border-style:inset solid inset inset;
+}
+
+#dp-top-stories-bar button.slick-next span {
+	display:block;
+	border-width:7.5px 0 7.5px 15px;
+	border-color:transparent transparent transparent #999;
+	border-style:inset inset inset solid;
+	cursor:pointer;
+}
+
+/* ************************************************************************ */
+/* --- end --- declarations for Dan slider DP top stories */
+/* ************************************************************************ */
+/* hide infinite scroll next-article in-article ad - no support for incremental in-article ads at this time */
+.next-article .articleEmbeddedAdBox {
+	display:none!important;
+}

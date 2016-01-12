@@ -1,0 +1,157 @@
+/* ------------------
+	Aol: Daily Finance - EOP - Resp - 9
+------------------------- */
+@font-face{
+  font-family:PTSansRegular;
+  src:url(../../fonts/PTSansRegular/3-PTS55F-webfont.eot);
+  src:url(../../fonts/PTSansRegular/3-PTS55F-webfont.eot?#iefix) format('embedded-opentype'),
+      url(../../fonts/PTSansRegular/3-PTS55F-webfont.woff) format('woff'),
+      url(../../fonts/PTSansRegular/PTS55F-webfont.svg#PTSansRegular) format('svg'),
+      url(../../fonts/PTSansRegular/PTS55F-webfont.ttf) format('truetype');
+  font-weight:400;
+  font-style:normal;
+}
+
+::selection {
+  background: #b3d4fc;
+  text-shadow: none;
+}
+
+/* ------------------
+  Widget Container
+------------------------- */
+#grv_widget {
+	margin: 0;
+	padding: 10px;
+  position: relative;
+  background: rgb(243, 243, 243);
+  border: 1px solid rgb(204, 204, 204);
+	font-family: PTSansRegular,helvetica,arial,sans-serif;
+}
+
+/* ------------------
+  Widget Title
+------------------------- */
+.grv_stories_header {
+	border-bottom: solid 3px #333;
+	color: #333;
+  margin: 0;
+	padding: 10px 10px 10px 0;
+	font-size: 20px;
+	font-weight: 400;
+	font-style: normal;
+}
+
+
+/* ------------------
+  Articles
+------------------------- */
+ul.grv_articles {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+li.grv_article {
+	display: block;
+	float: left;
+	width: 32%;
+  padding: 0px;
+  margin: 0px 2% 0px 0px;
+  position: relative;
+}
+
+li.grv_article.grv_num_2,
+li.grv_article.grv_num_5,
+li.grv_article.grv_num_8 {
+	margin-right: 0;
+}
+
+a.grv_article_title {
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 16px;
+  height: 48px;
+  color: #333;
+  display: block;
+  position: relative;
+  padding-top: 110px;
+  z-index: 10;
+}
+
+a.grv_article_title:hover {
+  text-decoration: underline;
+}
+
+/* HAS IMAGE */
+
+.grv_has_image a.grv_img_link {
+  height: 90px;
+  width: 100%;
+  display: block;
+  overflow: hidden;
+  background: transparent;
+  position: absolute;
+  top: 10px;
+  left: 0px;
+}
+
+/* SPONSORED */
+
+.grv_is_sponsored .grv_display_name {
+	background: rgba(0, 0, 0, 0.5);
+	color: rgba(255, 255, 255, 0.9);
+	display: block;
+	font-family: PTSansRegular,helvetica,arial,sans-serif;
+	font-size: 11px;
+	font-weight: normal;
+	height: 18px;
+	letter-spacing: .05em;
+	line-height: 18px;
+	overflow: hidden;
+	pointer-events: none;
+	position: absolute;
+	top: 82px;
+	left: 0px;
+	right: 0px;
+	text-align: center;
+	text-decoration: none;
+	z-index: 10;
+}
+
+.grv_is_sponsored .grv_display_name:before {
+	content: 'Promoted by ';
+}
+
+/* ------------------
+ 	Gravity Attribution
+------------------------- */
+#grv_badge {
+   display: block;
+   position: absolute;
+   top: 25px;
+   right: 0px;
+}
+
+/* ------------------
+ 	LESS THAN 322
+------------------------- */
+
+.grv_less_322 .grv_article_title {
+	font-size: 12px;
+	line-height: 14px;
+	height: 42px;
+}
+
+.grv_less_322 .grv_is_sponsored .grv_display_name {
+	font-size: 9px;
+}
+
+.grv_less_322 .grv_is_sponsored .grv_display_name:before {
+	content: none;
+}
+
+#grvWidgetStylesLoaded_aol_dailyfinance_eop_resp_9_0abb175d488ce9a97f299635d75148e1_css {
+  width: 1px;
+  height: 1px;
+  visibility: hidden;
+}
