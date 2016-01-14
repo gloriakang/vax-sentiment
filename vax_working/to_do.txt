@@ -1,0 +1,12 @@
+
+- need to save html from article_list into article_html
+- CSVtoGML1.py is original script; need to fix
+- convert csv to network file
+- learn pandas for data manipulation
+- use pandas to convert csv to gml, net
+- problem: convert script written in regards to networkx 1.8; everything else run in 1.10
+- need to write python script in 1.10
+
+- Latex file for manuscript
+
+- gephi files

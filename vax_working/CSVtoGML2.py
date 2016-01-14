@@ -1,27 +1,16 @@
-# coding: utf-8
-
-# ## CSV to GML
-
-# In[1]:
-
-#import pkg_resources
-#pkg_resources.require("networkx==1.8")
 
 import pandas as pd
 import numpy as np
 import networkx as nx
-#from copy import deepcopy
+from copy import deepcopy
 import sys
 
-#import matplotlib.pyplot as plt
-#%matplotlib inline  
+import matplotlib.pyplot as plt
+%matplotlib inline  
 
 from glob import glob
-#fileName = 'article0'
 fileName = sys.argv[1]
 
-
-# In[2]:
 
 def getFiles(fileName):
     matches = glob('*'+fileName+'*')
@@ -29,7 +18,7 @@ def getFiles(fileName):
     data = pd.DataFrame.from_csv(bigFile)
     return clearSource(data)
     
-    
+
 def clearSource(data):
     columns = ['source','target']
     pre = len(data)
@@ -40,11 +29,6 @@ def clearSource(data):
     return data
     
     
-#data = getFiles(fileName)
-
-
-# In[3]:
-
 def getStuff(data,labels):
     forEdges = labels == ['edge']
     columns = list(data.columns.values)
@@ -67,7 +51,6 @@ def getStuff(data,labels):
                         items[name] = dict()
                     items[name][col.replace(label+'-','')] = row[col]
     return items
-    
 
 def getNodes(data):
     return getStuff(data,['source','target'])
@@ -75,12 +58,7 @@ def getNodes(data):
 
 def getEdges(data):
     return getStuff(data,['edge'])
-      
     
-#allNodes = getNodes(data); allEdges = getEdges(data)
-
-
-# In[4]:
 
 def addNodes(graph,nodes):
     for key,value in nodes.iteritems():
@@ -93,24 +71,16 @@ def addEdges(graph,edges):
         value['edge'] = key.split(' - ')[1]
         graph.add_edge(value['source'],value['target'],attr_dict = value)
     return graph
-
-
+    
 def createNetwork(edges,nodes):
-    graph = nx.MultiGraph()
+    graph = nx.MultiDiGraph()
     graph = addNodes(graph,nodes)
     graph = addEdges(graph,edges)
     return graph
-
-
-#fullGraph = createNetwork(allEdges,allNodes)
-
-
-# In[5]:
+    
 
 def drawIt(graph,what='graph'):
-#   style=nx.shell_layout(graph)
     style=nx.spring_layout(graph)
-#   style=nx.nx_agraph.graphviz_layout(graph)
     size = graph.number_of_nodes()
     print "Drawing %s of size %s:" % (what,size)
     if size > 20:
@@ -123,15 +93,6 @@ def drawIt(graph,what='graph'):
         nx.draw(graph,style)
     plt.show()
 
-def describeGraph(graph):
-    components = nx.connected_components(graph)
-    isolated = [entry[0] for entry in components if len(entry)==1]
-    params = (graph.number_of_edges(),graph.number_of_nodes(),len(components),len(isolated))
-    print "Graph has %s nodes, %s edges, %s connected components, and %s isolated nodes\n" % params
-    drawIt(graph)
-    for sub in components:
-        drawIt(graph.subgraph(sub),what='component')
-    print "Isolated nodes:", isolated
 
 def getGraph(fileRef):
     data = getFiles(fileName)
@@ -141,13 +102,11 @@ def getGraph(fileRef):
     fileOut = fileRef.split('.')[0]+'.gml'
     print "Writing GML file to %s" % fileOut
     nx.write_gml(graph, fileOut)
-    
-#    describeGraph(graph)
-#    return graph, nodes, edges
+    components = nx.connected_components(graph)
+    isolated = [entry[0] for entry in components if len(entry)==1]
+    params = (graph.number_of_edges(),graph.number_of_nodes(),len(components),len(isolated))
+    print "Graph has %s nodes, %s edges, %s connected components, and %s isolated nodes" % params
+    print
 
 
-# In[6]:
-
-#fileName = 'article'
-#graph, nodes, edges = getGraph(fileName)
 getGraph(fileName)
