@@ -1,0 +1,147 @@
+*vertices 78
+1 "autism trigger" 0.0 0.0 ellipse
+2 "vaccine manufacturers" 0.0 0.0 ellipse
+3 "vaccine manufactuers" 0.0 0.0 ellipse
+4 "pharmaceutical companies" 0.0 0.0 ellipse
+5 "Bush Administration" 0.0 0.0 ellipse
+6 "Rho-GAM shots" 0.0 0.0 ellipse
+7 elderly 0.0 0.0 ellipse
+8 evidence 0.0 0.0 ellipse
+9 "trace amounts of thimerosal" 0.0 0.0 ellipse
+10 "autistic children" 0.0 0.0 ellipse
+11 amniocentesis 0.0 0.0 ellipse
+12 RH- 0.0 0.0 ellipse
+13 "thimerosal manufactuers" 0.0 0.0 ellipse
+14 questions 0.0 0.0 ellipse
+15 "thimerosal-free vaccines" 0.0 0.0 ellipse
+16 "more severe autism" 0.0 0.0 ellipse
+17 "bleeding during pregnancy" 0.0 0.0 ellipse
+18 "recent increase of autism" 0.0 0.0 ellipse
+19 autism 0.0 0.0 ellipse
+20 preservative 0.0 0.0 ellipse
+21 "pregnant women" 0.0 0.0 ellipse
+22 mercury 0.0 0.0 ellipse
+23 "vaccines caused their children's autism" 0.0 0.0 ellipse
+24 genetics 0.0 0.0 ellipse
+25 "American Academy of Pediatrics" 0.0 0.0 ellipse
+26 culprit 0.0 0.0 ellipse
+27 doctor 0.0 0.0 ellipse
+28 alzheimer's 0.0 0.0 ellipse
+29 "autism rise" 0.0 0.0 ellipse
+30 "vaccines with thimerosal" 0.0 0.0 ellipse
+31 "autism numbers" 0.0 0.0 ellipse
+32 "single dose vaccines" 0.0 0.0 ellipse
+33 debate 0.0 0.0 ellipse
+34 vaccines 0.0 0.0 ellipse
+35 "thimerosal-autism link" 0.0 0.0 ellipse
+36 trigger 0.0 0.0 ellipse
+37 parents 0.0 0.0 ellipse
+38 ""reduction" of thimerosal" 0.0 0.0 ellipse
+39 thimerosal 0.0 0.0 ellipse
+40 "I do not believe in thimerosal" 0.0 0.0 ellipse
+41 "Andrew Wakefield" 0.0 0.0 ellipse
+42 "thimerosal removal" 0.0 0.0 ellipse
+43 "Homeland Security Bill" 0.0 0.0 ellipse
+44 "mercury additive" 0.0 0.0 ellipse
+45 "severe autism" 0.0 0.0 ellipse
+46 "I believe in vaccines" 0.0 0.0 ellipse
+47 diseases 0.0 0.0 ellipse
+48 "outright lie" 0.0 0.0 ellipse
+49 "genetic tendencies" 0.0 0.0 ellipse
+50 "multi-dose vaccines" 0.0 0.0 ellipse
+51 spectrum 0.0 0.0 ellipse
+52 "flu shot while pregnant" 0.0 0.0 ellipse
+53 "my son's autism" 0.0 0.0 ellipse
+54 "multi-dose vials" 0.0 0.0 ellipse
+55 "prevented pharmaceutical companies from lawsuits for thimerosal harm" 0.0 0.0 ellipse
+56 "1 in 68" 0.0 0.0 ellipse
+57 "environmental issues" 0.0 0.0 ellipse
+58 "too much of a jump" 0.0 0.0 ellipse
+59 "childhood vaccines with thimerosal" 0.0 0.0 ellipse
+60 "The Vaccine and Autism Congressional Hearing" 0.0 0.0 ellipse
+61 "flu shot" 0.0 0.0 ellipse
+62 "thimerosal in vaccines" 0.0 0.0 ellipse
+63 CDC 0.0 0.0 ellipse
+64 "vaccine-autism link" 0.0 0.0 ellipse
+65 "safety of vaccines" 0.0 0.0 ellipse
+66 "adult brain cells" 0.0 0.0 ellipse
+67 "vaccine safety" 0.0 0.0 ellipse
+68 children 0.0 0.0 ellipse
+69 "11 people" 0.0 0.0 ellipse
+70 oxymoron 0.0 0.0 ellipse
+71 person 0.0 0.0 ellipse
+72 "severe autism issues" 0.0 0.0 ellipse
+73 "high levels of thimerosal" 0.0 0.0 ellipse
+74 "better diagnosis" 0.0 0.0 ellipse
+75 "increased number of vaccines" 0.0 0.0 ellipse
+76 "deadly diseases" 0.0 0.0 ellipse
+77 "comprehensive studies" 0.0 0.0 ellipse
+78 "control group" 0.0 0.0 ellipse
+*arcs
+2 39 1.0 source "vaccine manufacturers" source vaccine manufacturers edge "had cut back on" edge had cut back on target thimerosal target thimerosal label "vaccine manufacturers - had cut back on - thimerosal" label vaccine manufacturers - had cut back on - thimerosal
+3 9 1.0 source "vaccine manufactuers" source vaccine manufactuers edge "in many cases use" edge in many cases use target "trace amounts of thimerosal" target trace amounts of thimerosal label "vaccine manufactuers - in many cases use - trace amounts of thimerosal" label vaccine manufactuers - in many cases use - trace amounts of thimerosal
+5 4 1.0 source "Bush Administration" source Bush Administration edge "granted ability to claim vaccines were thimerosal-free even if they contained trace amounts of thimerosal" edge granted ability to claim vaccines were thimerosal-free even if they contained trace amounts of thimerosal target "pharmaceutical companies" target pharmaceutical companies label "Bush Administration - granted ability to claim vaccines were thimerosal-free even if they contained trace amounts of thimerosal - pharmaceutical companies" label Bush Administration - granted ability to claim vaccines were thimerosal-free even if they contained trace amounts of thimerosal - pharmaceutical companies
+5 15 1.0 source "Bush Administration" source Bush Administration edge "granted pharmaceutical companies the ability to claim" edge granted pharmaceutical companies the ability to claim target "thimerosal-free vaccines" target thimerosal-free vaccines label "Bush Administration - granted pharmaceutical companies the ability to claim - thimerosal-free vaccines" label Bush Administration - granted pharmaceutical companies the ability to claim - thimerosal-free vaccines
+6 21 1.0 source "Rho-GAM shots" source Rho-GAM shots edge "given to" edge given to target "pregnant women" target pregnant women comments "at 28 weeks if they had a negative blood type" comments at 28 weeks if they had a negative blood type label "Rho-GAM shots - given to - pregnant women" label Rho-GAM shots - given to - pregnant women
+7 61 1.0 source elderly source elderly edge "I found this comparison interesting given the number of getting" edge I found this comparison interesting given the number of getting target "flu shot" target flu shot label "elderly - I found this comparison interesting given the number of getting - flu shot" label elderly - I found this comparison interesting given the number of getting - flu shot
+8 64 1.0 source evidence source evidence edge "there is none" edge there is none target "vaccine-autism link" target vaccine-autism link label "evidence - there is none - vaccine-autism link" label evidence - there is none - vaccine-autism link
+9 75 1.0 source "trace amounts of thimerosal" source trace amounts of thimerosal edge "how many have caused an issue due to" edge how many have caused an issue due to target "increased number of vaccines" target increased number of vaccines label "trace amounts of thimerosal - how many have caused an issue due to - increased number of vaccines" label trace amounts of thimerosal - how many have caused an issue due to - increased number of vaccines
+9 51 1.0 source "trace amounts of thimerosal" source trace amounts of thimerosal edge therefore edge therefore target spectrum target spectrum comments "[different processing of mercury reflects different manifestations of autism "spectrum]" comments [different processing of mercury reflects different manifestations of autism "spectrum] label "trace amounts of thimerosal - therefore - spectrum" label trace amounts of thimerosal - therefore - spectrum
+9 68 1.0 source "trace amounts of thimerosal" source trace amounts of thimerosal edge "differently affect" edge differently affect target children target children label "trace amounts of thimerosal - differently affect - children" label trace amounts of thimerosal - differently affect - children
+10 12 1.0 source "autistic children" source autistic children edge "15% had mothers that were" edge 15% had mothers that were target RH- target RH- comments "11 years ago there was a study" comments 11 years ago there was a study label "autistic children - 15% had mothers that were - RH-" label autistic children - 15% had mothers that were - RH-
+14 67 1.0 source questions source questions edge "remain about" edge remain about target "vaccine safety" target vaccine safety label "questions - remain about - vaccine safety" label questions - remain about - vaccine safety
+15 39 1.0 source "thimerosal-free vaccines" source thimerosal-free vaccines edge "even if claimed package insert would still list" edge even if claimed package insert would still list target thimerosal target thimerosal label "thimerosal-free vaccines - even if claimed package insert would still list - thimerosal" label thimerosal-free vaccines - even if claimed package insert would still list - thimerosal
+15 9 1.0 source "thimerosal-free vaccines" source thimerosal-free vaccines edge "pharamaceutical companies claimed even if they contained" edge pharamaceutical companies claimed even if they contained target "trace amounts of thimerosal" target trace amounts of thimerosal label "thimerosal-free vaccines - pharamaceutical companies claimed even if they contained - trace amounts of thimerosal" label thimerosal-free vaccines - pharamaceutical companies claimed even if they contained - trace amounts of thimerosal
+16 34 1.0 source "more severe autism" source more severe autism edge "if we had not been diligent with their" edge if we had not been diligent with their target vaccines target vaccines label "more severe autism - if we had not been diligent with their - vaccines" label more severe autism - if we had not been diligent with their - vaccines
+18 58 1.0 source "recent increase of autism" source recent increase of autism edge is edge is target "too much of a jump" target too much of a jump comments "in 15-year time frame" comments in 15-year time frame label "recent increase of autism - is - too much of a jump" label recent increase of autism - is - too much of a jump
+19 28 1.0 source autism source autism edge "brain cells same patterns with" edge brain cells same patterns with target alzheimer's target alzheimer's label "autism - brain cells same patterns with - alzheimer's" label autism - brain cells same patterns with - alzheimer's
+21 17 1.0 source "pregnant women" source pregnant women edge "were given thimerosal if there was any" edge were given thimerosal if there was any target "bleeding during pregnancy" target bleeding during pregnancy label "pregnant women - were given thimerosal if there was any - bleeding during pregnancy" label pregnant women - were given thimerosal if there was any - bleeding during pregnancy
+21 11 1.0 source "pregnant women" source pregnant women edge "were given thimerosal if was done" edge were given thimerosal if was done target amniocentesis target amniocentesis label "pregnant women - were given thimerosal if was done - amniocentesis" label pregnant women - were given thimerosal if was done - amniocentesis
+24 29 1.0 source genetics source genetics edge "may play role in" edge may play role in target "autism rise" target autism rise label "genetics - may play role in - autism rise" label genetics - may play role in - autism rise
+25 64 1.0 source "American Academy of Pediatrics" source American Academy of Pediatrics edge "assure there is no evidence of" edge assure there is no evidence of target "vaccine-autism link" target vaccine-autism link label "American Academy of Pediatrics - assure there is no evidence of - vaccine-autism link" label American Academy of Pediatrics - assure there is no evidence of - vaccine-autism link
+27 64 1.0 source doctor source doctor edge "caught falsifying data which claimed there was" edge caught falsifying data which claimed there was target "vaccine-autism link" target vaccine-autism link label "doctor - caught falsifying data which claimed there was - vaccine-autism link" label doctor - caught falsifying data which claimed there was - vaccine-autism link
+27 41 1.0 source doctor source doctor edge "formerly well respected caught falsifying data was" edge formerly well respected caught falsifying data was target "Andrew Wakefield" target Andrew Wakefield label "doctor - formerly well respected caught falsifying data was - Andrew Wakefield" label doctor - formerly well respected caught falsifying data was - Andrew Wakefield
+28 7 1.0 source alzheimer's source alzheimer's edge "is in" edge is in target elderly target elderly label "alzheimer's - is in - elderly" label alzheimer's - is in - elderly
+29 57 1.0 source "autism rise" source autism rise edge "CDC claims due to" edge CDC claims due to target "environmental issues" target environmental issues label "autism rise - CDC claims due to - environmental issues" label autism rise - CDC claims due to - environmental issues
+29 74 1.0 source "autism rise" source autism rise edge "CDC claims due to" edge CDC claims due to target "better diagnosis" target better diagnosis label "autism rise - CDC claims due to - better diagnosis" label autism rise - CDC claims due to - better diagnosis
+29 49 1.0 source "autism rise" source autism rise edge "CDC claims due to" edge CDC claims due to target "genetic tendencies" target genetic tendencies label "autism rise - CDC claims due to - genetic tendencies" label autism rise - CDC claims due to - genetic tendencies
+30 45 1.0 source "vaccines with thimerosal" source vaccines with thimerosal edge "may have led to" edge may have led to target "severe autism" target severe autism label "vaccines with thimerosal - may have led to - severe autism" label vaccines with thimerosal - may have led to - severe autism
+31 56 1.0 source "autism numbers" source autism numbers edge "increased from 1 in 88 to" edge increased from 1 in 88 to target "1 in 68" target 1 in 68 comments "Since 2009 when both regular flu shots AND H1N1 flu shots were given to babies and pregnant women" comments Since 2009 when both regular flu shots AND H1N1 flu shots were given to babies and pregnant women label "autism numbers - increased from 1 in 88 to - 1 in 68" label autism numbers - increased from 1 in 88 to - 1 in 68
+34 33 1.0 source vaccines source vaccines edge "are hot topic for" edge are hot topic for target debate target debate label "vaccines - are hot topic for - debate" label vaccines - are hot topic for - debate
+34 47 1.0 source vaccines source vaccines edge "protect us from other debilitating" edge protect us from other debilitating target diseases target diseases label "vaccines - protect us from other debilitating - diseases" label vaccines - protect us from other debilitating - diseases
+34 76 1.0 source vaccines source vaccines edge "have eradicated many once" edge have eradicated many once target "deadly diseases" target deadly diseases label "vaccines - have eradicated many once - deadly diseases" label vaccines - have eradicated many once - deadly diseases
+37 23 1.0 source parents source parents edge "many continue to insist that" edge many continue to insist that target "vaccines caused their children's autism" target vaccines caused their children's autism comments "in spite of [Wakefield's falsified study]" comments in spite of [Wakefield's falsified study] label "parents - many continue to insist that - vaccines caused their children's autism" label parents - many continue to insist that - vaccines caused their children's autism
+38 70 1.0 source ""reduction" of thimerosal" source "reduction" of thimerosal edge "is really an" edge is really an target oxymoron target oxymoron label ""reduction" of thimerosal - is really an - oxymoron" label "reduction" of thimerosal - is really an - oxymoron
+39 1 1.0 source thimerosal source thimerosal edge is edge is target "autism trigger" target autism trigger label "thimerosal - is - autism trigger" label thimerosal - is - autism trigger
+39 26 1.0 source thimerosal source thimerosal edge "some believe is" edge some believe is target culprit target culprit label "thimerosal - some believe is - culprit" label thimerosal - some believe is - culprit
+39 44 1.0 source thimerosal source thimerosal edge is edge is target "mercury additive" target mercury additive label "thimerosal - is - mercury additive" label thimerosal - is - mercury additive
+39 6 1.0 source thimerosal source thimerosal edge "also in" edge also in target "Rho-GAM shots" target Rho-GAM shots comments "doctor testified" comments doctor testified label "thimerosal - also in - Rho-GAM shots" label thimerosal - also in - Rho-GAM shots
+39 32 1.0 source thimerosal source thimerosal edge "not necessary in" edge not necessary in target "single dose vaccines" target single dose vaccines label "thimerosal - not necessary in - single dose vaccines" label thimerosal - not necessary in - single dose vaccines
+39 32 1.0 source thimerosal source thimerosal edge "does not affect efficacy of" edge does not affect efficacy of target "single dose vaccines" target single dose vaccines label "thimerosal - does not affect efficacy of - single dose vaccines" label thimerosal - does not affect efficacy of - single dose vaccines
+39 32 1.0 source thimerosal source thimerosal edge "not a necessary component of" edge not a necessary component of target "single dose vaccines" target single dose vaccines label "thimerosal - not a necessary component of - single dose vaccines" label thimerosal - not a necessary component of - single dose vaccines
+39 34 1.0 source thimerosal source thimerosal edge "should be taken out of" edge should be taken out of target vaccines target vaccines label "thimerosal - should be taken out of - vaccines" label thimerosal - should be taken out of - vaccines
+39 36 1.0 source thimerosal source thimerosal edge "is the" edge is the target trigger target trigger label "thimerosal - is the - trigger" label thimerosal - is the - trigger
+39 13 1.0 source thimerosal source thimerosal edge "pads pockets of" edge pads pockets of target "thimerosal manufactuers" target thimerosal manufactuers comments "addition to single dose vaccines" comments addition to single dose vaccines label "thimerosal - pads pockets of - thimerosal manufactuers" label thimerosal - pads pockets of - thimerosal manufactuers
+39 60 1.0 source thimerosal source thimerosal edge "testimony given from respected research doctor at Baylor College of Medicine at" edge testimony given from respected research doctor at Baylor College of Medicine at target "The Vaccine and Autism Congressional Hearing" target The Vaccine and Autism Congressional Hearing label "thimerosal - testimony given from respected research doctor at Baylor College of Medicine at - The Vaccine and Autism Congressional Hearing" label thimerosal - testimony given from respected research doctor at Baylor College of Medicine at - The Vaccine and Autism Congressional Hearing
+39 21 1.0 source thimerosal source thimerosal edge "was also given if there was any bleeding during pregnancy or if amniocentesis was done" edge was also given if there was any bleeding during pregnancy or if amniocentesis was done target "pregnant women" target pregnant women label "thimerosal - was also given if there was any bleeding during pregnancy or if amniocentesis was done - pregnant women" label thimerosal - was also given if there was any bleeding during pregnancy or if amniocentesis was done - pregnant women
+42 48 1.0 source "thimerosal removal" source thimerosal removal edge "statement was" edge statement was target "outright lie" target outright lie label "thimerosal removal - statement was - outright lie" label thimerosal removal - statement was - outright lie
+43 55 1.0 source "Homeland Security Bill" source Homeland Security Bill edge "snuck in last minute provision which" edge snuck in last minute provision which target "prevented pharmaceutical companies from lawsuits for thimerosal harm" target prevented pharmaceutical companies from lawsuits for thimerosal harm comments "So if thimerosal is so safe and not an issue, why was this provision snuck in, in the eleventh hour of the Homeland Security Bill?" comments So if thimerosal is so safe and not an issue, why was this provision snuck in, in the eleventh hour of the Homeland Security Bill? label "Homeland Security Bill - snuck in last minute provision which - prevented pharmaceutical companies from lawsuits for thimerosal harm" label Homeland Security Bill - snuck in last minute provision which - prevented pharmaceutical companies from lawsuits for thimerosal harm
+44 50 1.0 source "mercury additive" source mercury additive edge "used to stabilize" edge used to stabilize target "multi-dose vaccines" target multi-dose vaccines label "mercury additive - used to stabilize - multi-dose vaccines" label mercury additive - used to stabilize - multi-dose vaccines
+46 40 1.0 source "I believe in vaccines" source I believe in vaccines edge but edge but target "I do not believe in thimerosal" target I do not believe in thimerosal label "I believe in vaccines - but - I do not believe in thimerosal" label I believe in vaccines - but - I do not believe in thimerosal
+50 20 1.0 source "multi-dose vaccines" source multi-dose vaccines edge "maybe it's time to eliminate because multi-dose vials require" edge maybe it's time to eliminate because multi-dose vials require target preservative target preservative label "multi-dose vaccines - maybe it's time to eliminate because multi-dose vials require - preservative" label multi-dose vaccines - maybe it's time to eliminate because multi-dose vials require - preservative
+52 73 1.0 source "flu shot while pregnant" source flu shot while pregnant edge "I never took because I knew flu shots had" edge I never took because I knew flu shots had target "high levels of thimerosal" target high levels of thimerosal label "flu shot while pregnant - I never took because I knew flu shots had - high levels of thimerosal" label flu shot while pregnant - I never took because I knew flu shots had - high levels of thimerosal
+53 62 1.0 source "my son's autism" source my son's autism edge "was directly caused by" edge was directly caused by target "thimerosal in vaccines" target thimerosal in vaccines label "my son's autism - was directly caused by - thimerosal in vaccines" label my son's autism - was directly caused by - thimerosal in vaccines
+54 20 1.0 source "multi-dose vials" source multi-dose vials edge need edge need target preservative target preservative label "multi-dose vials - need - preservative" label multi-dose vials - need - preservative
+61 39 1.0 source "flu shot" source flu shot edge "contains up to 50 micrograms of" edge contains up to 50 micrograms of target thimerosal target thimerosal label "flu shot - contains up to 50 micrograms of - thimerosal" label flu shot - contains up to 50 micrograms of - thimerosal
+61 9 1.0 source "flu shot" source flu shot edge "does not contain" edge does not contain target "trace amounts of thimerosal" target trace amounts of thimerosal label "flu shot - does not contain - trace amounts of thimerosal" label flu shot - does not contain - trace amounts of thimerosal
+63 64 1.0 source CDC source CDC edge "assure there is no evidence of" edge assure there is no evidence of target "vaccine-autism link" target vaccine-autism link label "CDC - assure there is no evidence of - vaccine-autism link" label CDC - assure there is no evidence of - vaccine-autism link
+63 48 1.0 source CDC source CDC edge "statement about thimerosal removal was" edge statement about thimerosal removal was target "outright lie" target outright lie label "CDC - statement about thimerosal removal was - outright lie" label CDC - statement about thimerosal removal was - outright lie
+63 38 1.0 source CDC source CDC edge claims edge claims target ""reduction" of thimerosal" target "reduction" of thimerosal label "CDC - claims - "reduction" of thimerosal" label CDC - claims - "reduction" of thimerosal
+65 19 1.0 source "safety of vaccines" source safety of vaccines edge "questionable in relation to" edge questionable in relation to target autism target autism label "safety of vaccines - questionable in relation to - autism" label safety of vaccines - questionable in relation to - autism
+66 39 1.0 source "adult brain cells" source adult brain cells edge "sent off some type of shoots to "get away" from" edge sent off some type of shoots to "get away" from target thimerosal target thimerosal label "adult brain cells - sent off some type of shoots to "get away" from - thimerosal" label adult brain cells - sent off some type of shoots to "get away" from - thimerosal
+66 28 1.0 source "adult brain cells" source adult brain cells edge "same patterns in autism and" edge same patterns in autism and target alzheimer's target alzheimer's comments "said doctor" comments said doctor label "adult brain cells - same patterns in autism and - alzheimer's" label adult brain cells - same patterns in autism and - alzheimer's
+71 22 1.0 source person source person edge "each processes differently" edge each processes differently target mercury target mercury label "person - each processes differently - mercury" label person - each processes differently - mercury
+72 59 1.0 source "severe autism issues" source severe autism issues edge "our sons don't have due to our insistence in ensuring that they didn't" edge our sons don't have due to our insistence in ensuring that they didn't target "childhood vaccines with thimerosal" target childhood vaccines with thimerosal label "severe autism issues - our sons don't have due to our insistence in ensuring that they didn't - childhood vaccines with thimerosal" label severe autism issues - our sons don't have due to our insistence in ensuring that they didn't - childhood vaccines with thimerosal
+77 35 1.0 source "comprehensive studies" source comprehensive studies edge "none have conclusively disproven" edge none have conclusively disproven target "thimerosal-autism link" target thimerosal-autism link label "comprehensive studies - none have conclusively disproven - thimerosal-autism link" label comprehensive studies - none have conclusively disproven - thimerosal-autism link
+77 35 1.0 source "comprehensive studies" source comprehensive studies edge "none have conclusively proven" edge none have conclusively proven target "thimerosal-autism link" target thimerosal-autism link label "comprehensive studies - none have conclusively proven - thimerosal-autism link" label comprehensive studies - none have conclusively proven - thimerosal-autism link
+78 69 1.0 source "control group" source control group edge "when they 'researched' the effects of giving 2 flu shots in 2009 when the H1N1 strain came out was" edge when they 'researched' the effects of giving 2 flu shots in 2009 when the H1N1 strain came out was target "11 people" target 11 people comments "are you kidding me?" comments are you kidding me? label "control group - when they 'researched' the effects of giving 2 flu shots in 2009 when the H1N1 strain came out was - 11 people" label control group - when they 'researched' the effects of giving 2 flu shots in 2009 when the H1N1 strain came out was - 11 people

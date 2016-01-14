@@ -1,0 +1,44 @@
+*vertices 24
+1 "children with family history of autism" 0.0 0.0 ellipse
+2 "unvaccinated children" 0.0 0.0 ellipse
+3 "autism spectrum disorders" 0.0 0.0 ellipse
+4 argument 0.0 0.0 ellipse
+5 "Disneyland measles outbreak" 0.0 0.0 ellipse
+6 "vaccines do not cause autism" 0.0 0.0 ellipse
+7 autism 0.0 0.0 ellipse
+8 "The Lancet" 0.0 0.0 ellipse
+9 "vaccines are safe" 0.0 0.0 ellipse
+10 "JAMA paper" 0.0 0.0 ellipse
+11 "MMR vaccine" 0.0 0.0 ellipse
+12 "public health organizations" 0.0 0.0 ellipse
+13 "vaccines are effective" 0.0 0.0 ellipse
+14 vaccines 0.0 0.0 ellipse
+15 "Institute of Medicine" 0.0 0.0 ellipse
+16 "MMR vaccine does not cause autism" 0.0 0.0 ellipse
+17 "vaccine debate" 0.0 0.0 ellipse
+18 "MMR vaccines" 0.0 0.0 ellipse
+19 "MMR vaccine-autism link" 0.0 0.0 ellipse
+20 CDC 0.0 0.0 ellipse
+21 "thimerosal is safe" 0.0 0.0 ellipse
+22 "Federal Circuit" 0.0 0.0 ellipse
+23 "scientific paper" 0.0 0.0 ellipse
+24 studies 0.0 0.0 ellipse
+*arcs
+1 19 1.0 source "children with family history of autism" source children with family history of autism edge "researchers found no association for" edge researchers found no association for target "MMR vaccine-autism link" target MMR vaccine-autism link label "children with family history of autism - researchers found no association for - MMR vaccine-autism link" label children with family history of autism - researchers found no association for - MMR vaccine-autism link
+5 2 1.0 source "Disneyland measles outbreak" source Disneyland measles outbreak edge "was caused by" edge was caused by target "unvaccinated children" target unvaccinated children label "Disneyland measles outbreak - was caused by - unvaccinated children" label Disneyland measles outbreak - was caused by - unvaccinated children
+8 6 1.0 source "The Lancet" source The Lancet edge "agree that" edge agree that target "vaccines do not cause autism" target vaccines do not cause autism label "The Lancet - agree that - vaccines do not cause autism" label The Lancet - agree that - vaccines do not cause autism
+10 19 1.0 source "JAMA paper" source JAMA paper edge "study of 95,000 children finds no" edge study of 95,000 children finds no target "MMR vaccine-autism link" target MMR vaccine-autism link label "JAMA paper - study of 95,000 children finds no - MMR vaccine-autism link" label JAMA paper - study of 95,000 children finds no - MMR vaccine-autism link
+10 17 1.0 source "JAMA paper" source JAMA paper edge "should end once and for all" edge should end once and for all target "vaccine debate" target vaccine debate label "JAMA paper - should end once and for all - vaccine debate" label JAMA paper - should end once and for all - vaccine debate
+11 7 1.0 source "MMR vaccine" source MMR vaccine edge "researchers were unable to find any association with" edge researchers were unable to find any association with target autism target autism label "MMR vaccine - researchers were unable to find any association with - autism" label MMR vaccine - researchers were unable to find any association with - autism
+12 6 1.0 source "public health organizations" source public health organizations edge "agree that" edge agree that target "vaccines do not cause autism" target vaccines do not cause autism label "public health organizations - agree that - vaccines do not cause autism" label public health organizations - agree that - vaccines do not cause autism
+14 7 1.0 source vaccines source vaccines edge "do not cause" edge do not cause target autism target autism label "vaccines - do not cause - autism" label vaccines - do not cause - autism
+15 16 1.0 source "Institute of Medicine" source Institute of Medicine edge "examined large body of epidemiological evidence and confirmed in 2004 that" edge examined large body of epidemiological evidence and confirmed in 2004 that target "MMR vaccine does not cause autism" target MMR vaccine does not cause autism label "Institute of Medicine - examined large body of epidemiological evidence and confirmed in 2004 that - MMR vaccine does not cause autism" label Institute of Medicine - examined large body of epidemiological evidence and confirmed in 2004 that - MMR vaccine does not cause autism
+15 6 1.0 source "Institute of Medicine" source Institute of Medicine edge "in 2011 reviewed another eight major vaccines and found that" edge in 2011 reviewed another eight major vaccines and found that target "vaccines do not cause autism" target vaccines do not cause autism label "Institute of Medicine - in 2011 reviewed another eight major vaccines and found that - vaccines do not cause autism" label Institute of Medicine - in 2011 reviewed another eight major vaccines and found that - vaccines do not cause autism
+18 3 1.0 source "MMR vaccines" source MMR vaccines edge "massive study finds no link to" edge massive study finds no link to target "autism spectrum disorders" target autism spectrum disorders label "MMR vaccines - massive study finds no link to - autism spectrum disorders" label MMR vaccines - massive study finds no link to - autism spectrum disorders
+19 4 1.0 source "MMR vaccine-autism link" source MMR vaccine-autism link edge "it seems silly that this is still" edge it seems silly that this is still target argument target argument label "MMR vaccine-autism link - it seems silly that this is still - argument" label MMR vaccine-autism link - it seems silly that this is still - argument
+20 16 1.0 source CDC source CDC edge "in 2013 tracked 256 children with autism and investigated whether they had received the MMR vaccine and found" edge in 2013 tracked 256 children with autism and investigated whether they had received the MMR vaccine and found target "MMR vaccine does not cause autism" target MMR vaccine does not cause autism label "CDC - in 2013 tracked 256 children with autism and investigated whether they had received the MMR vaccine and found - MMR vaccine does not cause autism" label CDC - in 2013 tracked 256 children with autism and investigated whether they had received the MMR vaccine and found - MMR vaccine does not cause autism
+22 6 1.0 source "Federal Circuit" source Federal Circuit edge "agree that" edge agree that target "vaccines do not cause autism" target vaccines do not cause autism label "Federal Circuit - agree that - vaccines do not cause autism" label Federal Circuit - agree that - vaccines do not cause autism
+23 19 1.0 source "scientific paper" source scientific paper edge "there has never been a single high-quality to suggest" edge there has never been a single high-quality to suggest target "MMR vaccine-autism link" target MMR vaccine-autism link label "scientific paper - there has never been a single high-quality to suggest - MMR vaccine-autism link" label scientific paper - there has never been a single high-quality to suggest - MMR vaccine-autism link
+24 9 1.0 source studies source studies edge "numerous have found" edge numerous have found target "vaccines are safe" target vaccines are safe comments "over past 15 years" comments over past 15 years label "studies - numerous have found - vaccines are safe" label studies - numerous have found - vaccines are safe
+24 13 1.0 source studies source studies edge "numerous have found" edge numerous have found target "vaccines are effective" target vaccines are effective label "studies - numerous have found - vaccines are effective" label studies - numerous have found - vaccines are effective
+24 21 1.0 source studies source studies edge "from several countries proved that" edge from several countries proved that target "thimerosal is safe" target thimerosal is safe label "studies - from several countries proved that - thimerosal is safe" label studies - from several countries proved that - thimerosal is safe

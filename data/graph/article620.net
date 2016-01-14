@@ -1,0 +1,146 @@
+*vertices 76
+1 Mississippi 0.0 0.0 ellipse
+2 "measles outbreak" 0.0 0.0 ellipse
+3 "exemption rate" 0.0 0.0 ellipse
+4 danger 0.0 0.0 ellipse
+5 sales 0.0 0.0 ellipse
+6 "vaccine exemption" 0.0 0.0 ellipse
+7 "multi-state measles outbreak" 0.0 0.0 ellipse
+8 "community-level immunization rates" 0.0 0.0 ellipse
+9 "part of the story" 0.0 0.0 ellipse
+10 "social-network phenomenon" 0.0 0.0 ellipse
+11 "vaccine rates" 0.0 0.0 ellipse
+12 states 0.0 0.0 ellipse
+13 cluster 0.0 0.0 ellipse
+14 "immunization rates" 0.0 0.0 ellipse
+15 "young children" 0.0 0.0 ellipse
+16 "infant disability" 0.0 0.0 ellipse
+17 "serious childhood diseases" 0.0 0.0 ellipse
+18 "vaccination rate" 0.0 0.0 ellipse
+19 "driving factors" 0.0 0.0 ellipse
+20 "wealthier regions" 0.0 0.0 ellipse
+21 community 0.0 0.0 ellipse
+22 "religious exemptions" 0.0 0.0 ellipse
+23 "MMR vaccine" 0.0 0.0 ellipse
+24 "annual tuition" 0.0 0.0 ellipse
+25 vaccination 0.0 0.0 ellipse
+26 "vaccination exemptions" 0.0 0.0 ellipse
+27 people 0.0 0.0 ellipse
+28 ideas 0.0 0.0 ellipse
+29 "private schools" 0.0 0.0 ellipse
+30 parents 0.0 0.0 ellipse
+31 "public health officials" 0.0 0.0 ellipse
+32 "herd immunity" 0.0 0.0 ellipse
+33 "West Virginia" 0.0 0.0 ellipse
+34 "measles vaccine" 0.0 0.0 ellipse
+35 "Waldorf School of Princeton" 0.0 0.0 ellipse
+36 "public schools" 0.0 0.0 ellipse
+37 "state-level immunization rates" 0.0 0.0 ellipse
+38 "state-level policies" 0.0 0.0 ellipse
+39 vaccinated 0.0 0.0 ellipse
+40 "vaccination rates" 0.0 0.0 ellipse
+41 "measles comeback" 0.0 0.0 ellipse
+42 "government policy" 0.0 0.0 ellipse
+43 "Los Angeles" 0.0 0.0 ellipse
+44 California 0.0 0.0 ellipse
+45 "recommended vaccine schedule" 0.0 0.0 ellipse
+46 measles 0.0 0.0 ellipse
+47 "medical exemption" 0.0 0.0 ellipse
+48 "state vaccination rates" 0.0 0.0 ellipse
+49 idea 0.0 0.0 ellipse
+50 "low rates of vaccination" 0.0 0.0 ellipse
+51 virus 0.0 0.0 ellipse
+52 Merck 0.0 0.0 ellipse
+53 variation 0.0 0.0 ellipse
+54 doctors 0.0 0.0 ellipse
+55 schools 0.0 0.0 ellipse
+56 "Los Angeles County" 0.0 0.0 ellipse
+57 "state immunization rates" 0.0 0.0 ellipse
+58 vaccine 0.0 0.0 ellipse
+59 high 0.0 0.0 ellipse
+60 "vaccine is worse than disease" 0.0 0.0 ellipse
+61 community-level 0.0 0.0 ellipse
+62 "Disneyland outbreak" 0.0 0.0 ellipse
+63 preschoolers 0.0 0.0 ellipse
+64 "personal exemptions" 0.0 0.0 ellipse
+65 disease 0.0 0.0 ellipse
+66 "single measles case" 0.0 0.0 ellipse
+67 "community members" 0.0 0.0 ellipse
+68 state-level 0.0 0.0 ellipse
+69 immunization 0.0 0.0 ellipse
+70 "vaccinated students" 0.0 0.0 ellipse
+71 "infant death" 0.0 0.0 ellipse
+72 "low vaccination rates" 0.0 0.0 ellipse
+73 threat 0.0 0.0 ellipse
+74 "at risk" 0.0 0.0 ellipse
+75 "low immunization cluster" 0.0 0.0 ellipse
+76 "communicable diseases" 0.0 0.0 ellipse
+*arcs
+1 47 1.0 source Mississippi source Mississippi edge "has limited" edge has limited target "medical exemption" target medical exemption comments "for MMR vaccine" comments for MMR vaccine label "Mississippi - has limited - medical exemption" label Mississippi - has limited - medical exemption
+1 23 1.0 source Mississippi source Mississippi edge "limits vaccine exemptions for" edge limits vaccine exemptions for target "MMR vaccine" target MMR vaccine label "Mississippi - limits vaccine exemptions for - MMR vaccine" label Mississippi - limits vaccine exemptions for - MMR vaccine
+2 12 1.0 source "measles outbreak" source measles outbreak edge "sickened 147 people in six" edge sickened 147 people in six target states target states label "measles outbreak - sickened 147 people in six - states" label measles outbreak - sickened 147 people in six - states
+6 20 1.0 source "vaccine exemption" source vaccine exemption edge "increased rates in" edge increased rates in target "wealthier regions" target wealthier regions comments "of Los Angeles" comments of Los Angeles label "vaccine exemption - increased rates in - wealthier regions" label vaccine exemption - increased rates in - wealthier regions
+8 4 1.0 source "community-level immunization rates" source community-level immunization rates edge "variation is putting kids in" edge variation is putting kids in target danger target danger label "community-level immunization rates - variation is putting kids in - danger" label community-level immunization rates - variation is putting kids in - danger
+11 12 1.0 source "vaccine rates" source vaccine rates edge "are not just problems of" edge are not just problems of target states target states label "vaccine rates - are not just problems of - states" label vaccine rates - are not just problems of - states
+11 21 1.0 source "vaccine rates" source vaccine rates edge "are issues of" edge are issues of target community target community label "vaccine rates - are issues of - community" label vaccine rates - are issues of - community
+12 22 1.0 source states source states edge "most allow" edge most allow target "religious exemptions" target religious exemptions label "states - most allow - religious exemptions" label states - most allow - religious exemptions
+12 14 1.0 source states source states edge "all have" edge all have target "immunization rates" target immunization rates comments "for MMR vaccine" comments for MMR vaccine label "states - all have - immunization rates" label states - all have - immunization rates
+12 23 1.0 source states source states edge "all have immunization rates for" edge all have immunization rates for target "MMR vaccine" target MMR vaccine label "states - all have immunization rates for - MMR vaccine" label states - all have immunization rates for - MMR vaccine
+12 23 1.0 source states source states edge "require children to receive" edge require children to receive target "MMR vaccine" target MMR vaccine label "states - require children to receive - MMR vaccine" label states - require children to receive - MMR vaccine
+12 64 1.0 source states source states edge "most allow" edge most allow target "personal exemptions" target personal exemptions label "states - most allow - personal exemptions" label states - most allow - personal exemptions
+13 10 1.0 source cluster source cluster edge is edge is target "social-network phenomenon" target social-network phenomenon label "cluster - is - social-network phenomenon" label cluster - is - social-network phenomenon
+19 45 1.0 source "driving factors" source driving factors edge "vary significantly of parents to opt out of" edge vary significantly of parents to opt out of target "recommended vaccine schedule" target recommended vaccine schedule comments "at community-level" comments at community-level label "driving factors - vary significantly of parents to opt out of - recommended vaccine schedule" label driving factors - vary significantly of parents to opt out of - recommended vaccine schedule
+19 30 1.0 source "driving factors" source driving factors edge "vary significantly for" edge vary significantly for target parents target parents comments "to opt out of recommended vaccine schedule" comments to opt out of recommended vaccine schedule label "driving factors - vary significantly for - parents" label driving factors - vary significantly for - parents
+19 61 1.0 source "driving factors" source driving factors edge "vary significantly at" edge vary significantly at target community-level target community-level comments "of parents to opt out of recommended vaccine schedule" comments of parents to opt out of recommended vaccine schedule label "driving factors - vary significantly at - community-level" label driving factors - vary significantly at - community-level
+23 15 1.0 source "MMR vaccine" source MMR vaccine edge "should protect" edge should protect target "young children" target young children label "MMR vaccine - should protect - young children" label MMR vaccine - should protect - young children
+25 2 1.0 source vaccination source vaccination edge "calls may have paid off after multi-state" edge calls may have paid off after multi-state target "measles outbreak" target measles outbreak label "vaccination - calls may have paid off after multi-state - measles outbreak" label vaccination - calls may have paid off after multi-state - measles outbreak
+25 10 1.0 source vaccination source vaccination edge "is a" edge is a target "social-network phenomenon" target social-network phenomenon label "vaccination - is a - social-network phenomenon" label vaccination - is a - social-network phenomenon
+26 63 1.0 source "vaccination exemptions" source vaccination exemptions edge "rates increased by 26% from 2011-2012 to 2013-2014" edge rates increased by 26% from 2011-2012 to 2013-2014 target preschoolers target preschoolers comments "reaching 9.1%" comments reaching 9.1% label "vaccination exemptions - rates increased by 26% from 2011-2012 to 2013-2014 - preschoolers" label vaccination exemptions - rates increased by 26% from 2011-2012 to 2013-2014 - preschoolers
+26 44 1.0 source "vaccination exemptions" source vaccination exemptions edge "rates increased in" edge rates increased in target California target California label "vaccination exemptions - rates increased in - California" label vaccination exemptions - rates increased in - California
+27 49 1.0 source people source people edge "must be inoculated against" edge must be inoculated against target idea target idea label "people - must be inoculated against - idea" label people - must be inoculated against - idea
+28 51 1.0 source ideas source ideas edge "spread like" edge spread like target virus target virus label "ideas - spread like - virus" label ideas - spread like - virus
+29 36 1.0 source "private schools" source private schools edge "in New Jersey have lower rates of vaccination than" edge in New Jersey have lower rates of vaccination than target "public schools" target public schools comments "in New Jersey" comments in New Jersey label "private schools - in New Jersey have lower rates of vaccination than - public schools" label private schools - in New Jersey have lower rates of vaccination than - public schools
+30 45 1.0 source parents source parents edge "opt out of" edge opt out of target "recommended vaccine schedule" target recommended vaccine schedule label "parents - opt out of - recommended vaccine schedule" label parents - opt out of - recommended vaccine schedule
+30 61 1.0 source parents source parents edge "driving factors to opt out of recommended vaccine schedule vary significantly at" edge driving factors to opt out of recommended vaccine schedule vary significantly at target community-level target community-level label "parents - driving factors to opt out of recommended vaccine schedule vary significantly at - community-level" label parents - driving factors to opt out of recommended vaccine schedule vary significantly at - community-level
+31 46 1.0 source "public health officials" source public health officials edge "still worry about" edge still worry about target measles target measles label "public health officials - still worry about - measles" label public health officials - still worry about - measles
+32 46 1.0 source "herd immunity" source herd immunity edge "between 83% and 94% vaccinated for" edge between 83% and 94% vaccinated for target measles target measles label "herd immunity - between 83% and 94% vaccinated for - measles" label herd immunity - between 83% and 94% vaccinated for - measles
+33 47 1.0 source "West Virginia" source West Virginia edge "has limited" edge has limited target "medical exemption" target medical exemption comments "for MMR vaccine" comments for MMR vaccine label "West Virginia - has limited - medical exemption" label West Virginia - has limited - medical exemption
+33 23 1.0 source "West Virginia" source West Virginia edge "limits vaccine exemptions for" edge limits vaccine exemptions for target "MMR vaccine" target MMR vaccine label "West Virginia - limits vaccine exemptions for - MMR vaccine" label West Virginia - limits vaccine exemptions for - MMR vaccine
+34 5 1.0 source "measles vaccine" source measles vaccine edge "24% higher" edge 24% higher target sales target sales comments "says Merck" comments says Merck label "measles vaccine - 24% higher - sales" label measles vaccine - 24% higher - sales
+35 18 1.0 source "Waldorf School of Princeton" source Waldorf School of Princeton edge "in New Jersey has lowest" edge in New Jersey has lowest target "vaccination rate" target vaccination rate comments "59% students vaccinated" comments 59% students vaccinated label "Waldorf School of Princeton - in New Jersey has lowest - vaccination rate" label Waldorf School of Princeton - in New Jersey has lowest - vaccination rate
+35 24 1.0 source "Waldorf School of Princeton" source Waldorf School of Princeton edge "over $19,000" edge over $19,000 target "annual tuition" target annual tuition label "Waldorf School of Princeton - over $19,000 - annual tuition" label Waldorf School of Princeton - over $19,000 - annual tuition
+37 9 1.0 source "state-level immunization rates" source state-level immunization rates edge "only tell" edge only tell target "part of the story" target part of the story label "state-level immunization rates - only tell - part of the story" label state-level immunization rates - only tell - part of the story
+38 46 1.0 source "state-level policies" source state-level policies edge "could address issues driving low vaccination rates for" edge could address issues driving low vaccination rates for target measles target measles label "state-level policies - could address issues driving low vaccination rates for - measles" label state-level policies - could address issues driving low vaccination rates for - measles
+38 72 1.0 source "state-level policies" source state-level policies edge "could address issues driving" edge could address issues driving target "low vaccination rates" target low vaccination rates comments "for measles and other communicable diseases" comments for measles and other communicable diseases label "state-level policies - could address issues driving - low vaccination rates" label state-level policies - could address issues driving - low vaccination rates
+38 76 1.0 source "state-level policies" source state-level policies edge "could address issues driving low vaccination rates for other" edge could address issues driving low vaccination rates for other target "communicable diseases" target communicable diseases label "state-level policies - could address issues driving low vaccination rates for other - communicable diseases" label state-level policies - could address issues driving low vaccination rates for other - communicable diseases
+41 40 1.0 source "measles comeback" source measles comeback edge "could occur because of declining" edge could occur because of declining target "vaccination rates" target vaccination rates label "measles comeback - could occur because of declining - vaccination rates" label measles comeback - could occur because of declining - vaccination rates
+43 6 1.0 source "Los Angeles" source Los Angeles edge "has increased rates of" edge has increased rates of target "vaccine exemption" target vaccine exemption comments "in wealthier regions" comments in wealthier regions label "Los Angeles - has increased rates of - vaccine exemption" label Los Angeles - has increased rates of - vaccine exemption
+43 20 1.0 source "Los Angeles" source Los Angeles edge "has increased rates of vaccine exemption in" edge has increased rates of vaccine exemption in target "wealthier regions" target wealthier regions comments "for preschoolers" comments for preschoolers label "Los Angeles - has increased rates of vaccine exemption in - wealthier regions" label Los Angeles - has increased rates of vaccine exemption in - wealthier regions
+46 41 1.0 source measles source measles edge "could stage permanent" edge could stage permanent target "measles comeback" target measles comeback label "measles - could stage permanent - measles comeback" label measles - could stage permanent - measles comeback
+48 42 1.0 source "state vaccination rates" source state vaccination rates edge "variation is driven by variation in" edge variation is driven by variation in target "government policy" target government policy label "state vaccination rates - variation is driven by variation in - government policy" label state vaccination rates - variation is driven by variation in - government policy
+48 53 1.0 source "state vaccination rates" source state vaccination rates edge has edge has target variation target variation label "state vaccination rates - has - variation" label state vaccination rates - has - variation
+49 60 1.0 source idea source idea edge that edge that target "vaccine is worse than disease" target vaccine is worse than disease label "idea - that - vaccine is worse than disease" label idea - that - vaccine is worse than disease
+50 29 1.0 source "low rates of vaccination" source low rates of vaccination edge "more in" edge more in target "private schools" target private schools comments "than public schools in NJ" comments than public schools in NJ label "low rates of vaccination - more in - private schools" label low rates of vaccination - more in - private schools
+52 34 1.0 source Merck source Merck edge "had 24% higher sales in 2015 than in 2014 for" edge had 24% higher sales in 2015 than in 2014 for target "measles vaccine" target measles vaccine label "Merck - had 24% higher sales in 2015 than in 2014 for - measles vaccine" label Merck - had 24% higher sales in 2015 than in 2014 for - measles vaccine
+53 4 1.0 source variation source variation edge "community level immunization rate putting kids in" edge community level immunization rate putting kids in target danger target danger label "variation - community level immunization rate putting kids in - danger" label variation - community level immunization rate putting kids in - danger
+54 49 1.0 source doctors source doctors edge "must inoculate people against" edge must inoculate people against target idea target idea label "doctors - must inoculate people against - idea" label doctors - must inoculate people against - idea
+55 13 1.0 source schools source schools edge "with low vaccination rates" edge with low vaccination rates target cluster target cluster comments California comments California label "schools - with low vaccination rates - cluster" label schools - with low vaccination rates - cluster
+55 13 1.0 source schools source schools edge "with low rates of vaccination tend to" edge with low rates of vaccination tend to target cluster target cluster label "schools - with low rates of vaccination tend to - cluster" label schools - with low rates of vaccination tend to - cluster
+55 70 1.0 source schools source schools edge "111 of 615 had fewer than 83%" edge 111 of 615 had fewer than 83% target "vaccinated students" target vaccinated students comments "below the WHO standard for herd immunity against measles" comments below the WHO standard for herd immunity against measles label "schools - 111 of 615 had fewer than 83% - vaccinated students" label schools - 111 of 615 had fewer than 83% - vaccinated students
+55 70 1.0 source schools source schools edge "615 of 5,775 had fewer than 94%" edge 615 of 5,775 had fewer than 94% target "vaccinated students" target vaccinated students label "schools - 615 of 5,775 had fewer than 94% - vaccinated students" label schools - 615 of 5,775 had fewer than 94% - vaccinated students
+55 32 1.0 source schools source schools edge "are below the WHO standard for" edge are below the WHO standard for target "herd immunity" target herd immunity comments "against measles" comments against measles label "schools - are below the WHO standard for - herd immunity" label schools - are below the WHO standard for - herd immunity
+56 3 1.0 source "Los Angeles County" source Los Angeles County edge "had 2.2%" edge had 2.2% target "exemption rate" target exemption rate comments "in 2013-2014" comments in 2013-2014 label "Los Angeles County - had 2.2% - exemption rate" label Los Angeles County - had 2.2% - exemption rate
+57 59 1.0 source "state immunization rates" source state immunization rates edge "vary but remain generally" edge vary but remain generally target high target high label "state immunization rates - vary but remain generally - high" label state immunization rates - vary but remain generally - high
+58 65 1.0 source vaccine source vaccine edge "is worse than " edge is worse than  target disease target disease label "vaccine - is worse than  - disease" label vaccine - is worse than  - disease
+61 14 1.0 source community-level source community-level edge "variation is putting kids in danger" edge variation is putting kids in danger target "immunization rates" target immunization rates label "community-level - variation is putting kids in danger - immunization rates" label community-level - variation is putting kids in danger - immunization rates
+62 7 1.0 source "Disneyland outbreak" source Disneyland outbreak edge became edge became target "multi-state measles outbreak" target multi-state measles outbreak label "Disneyland outbreak - became - multi-state measles outbreak" label Disneyland outbreak - became - multi-state measles outbreak
+66 62 1.0 source "single measles case" source single measles case edge started edge started target "Disneyland outbreak" target Disneyland outbreak comments "one sick visitor" comments one sick visitor label "single measles case - started - Disneyland outbreak" label single measles case - started - Disneyland outbreak
+67 39 1.0 source "community members" source community members edge "between 83% and 94% must be" edge between 83% and 94% must be target vaccinated target vaccinated label "community members - between 83% and 94% must be - vaccinated" label community members - between 83% and 94% must be - vaccinated
+67 32 1.0 source "community members" source community members edge "estimates between 83% and 94% must be vaccinated to achieve against measles" edge estimates between 83% and 94% must be vaccinated to achieve against measles target "herd immunity" target herd immunity comments "World Health Organization" comments World Health Organization label "community members - estimates between 83% and 94% must be vaccinated to achieve against measles - herd immunity" label community members - estimates between 83% and 94% must be vaccinated to achieve against measles - herd immunity
+68 14 1.0 source state-level source state-level edge "only tell part of the story" edge only tell part of the story target "immunization rates" target immunization rates label "state-level - only tell part of the story - immunization rates" label state-level - only tell part of the story - immunization rates
+69 17 1.0 source immunization source immunization edge "best ways parents can protect children from" edge best ways parents can protect children from target "serious childhood diseases" target serious childhood diseases label "immunization - best ways parents can protect children from - serious childhood diseases" label immunization - best ways parents can protect children from - serious childhood diseases
+69 16 1.0 source immunization source immunization edge "great strides in drastically reducing" edge great strides in drastically reducing target "infant disability" target infant disability comments "says Donna Leusner, spokesperson for NJ Department of Public Health" comments says Donna Leusner, spokesperson for NJ Department of Public Health label "immunization - great strides in drastically reducing - infant disability" label immunization - great strides in drastically reducing - infant disability
+69 71 1.0 source immunization source immunization edge "great strides in drastically reducing" edge great strides in drastically reducing target "infant death" target infant death comments "says Donna Leusner, spokesperson for NJ Department of Public Health" comments says Donna Leusner, spokesperson for NJ Department of Public Health label "immunization - great strides in drastically reducing - infant death" label immunization - great strides in drastically reducing - infant death
+72 13 1.0 source "low vaccination rates" source low vaccination rates edge "in schools" edge in schools target cluster target cluster label "low vaccination rates - in schools - cluster" label low vaccination rates - in schools - cluster
+72 74 1.0 source "low vaccination rates" source low vaccination rates edge "at community level are putting children" edge at community level are putting children target "at risk" target at risk label "low vaccination rates - at community level are putting children - at risk" label low vaccination rates - at community level are putting children - at risk
+75 73 1.0 source "low immunization cluster" source low immunization cluster edge "is real" edge is real target threat target threat comments "experts say" comments experts say label "low immunization cluster - is real - threat" label low immunization cluster - is real - threat

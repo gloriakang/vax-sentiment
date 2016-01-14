@@ -1,0 +1,106 @@
+*vertices 50
+1 "pushing vaccines on sick children" 0.0 0.0 ellipse
+2 "vaccinating children" 0.0 0.0 ellipse
+3 "false sense of security" 0.0 0.0 ellipse
+4 "uninformed consent" 0.0 0.0 ellipse
+5 "coercion methods" 0.0 0.0 ellipse
+6 "Baker College nursing school instructors" 0.0 0.0 ellipse
+7 "Alysia Osoff" 0.0 0.0 ellipse
+8 "blatant violations of the Hippocratic Oath" 0.0 0.0 ellipse
+9 "vaccine safety" 0.0 0.0 ellipse
+10 "critical thinking" 0.0 0.0 ellipse
+11 illegal 0.0 0.0 ellipse
+12 unethical 0.0 0.0 ellipse
+13 "Baker College nursing school" 0.0 0.0 ellipse
+14 "vaccine bullying curriculum" 0.0 0.0 ellipse
+15 parents 0.0 0.0 ellipse
+16 "pediatrics instructor" 0.0 0.0 ellipse
+17 "trust of patients" 0.0 0.0 ellipse
+18 nurse 0.0 0.0 ellipse
+19 "top students" 0.0 0.0 ellipse
+20 advice 0.0 0.0 ellipse
+21 "American Nursing Association's Code of Ethics" 0.0 0.0 ellipse
+22 "unethical advice" 0.0 0.0 ellipse
+23 "false consent" 0.0 0.0 ellipse
+24 silenced 0.0 0.0 ellipse
+25 "circuit court" 0.0 0.0 ellipse
+26 "threaten parents" 0.0 0.0 ellipse
+27 "Director of Nursing at Baker College" 0.0 0.0 ellipse
+28 "assault and battery" 0.0 0.0 ellipse
+29 "push vaccines on sick children" 0.0 0.0 ellipse
+30 "medical fascism propaganda" 0.0 0.0 ellipse
+31 "informed consent protocols" 0.0 0.0 ellipse
+32 legality 0.0 0.0 ellipse
+33 "labor and delivery floor" 0.0 0.0 ellipse
+34 dissenters 0.0 0.0 ellipse
+35 lawsuit 0.0 0.0 ellipse
+36 "proper protocol" 0.0 0.0 ellipse
+37 "nursing school at Baker College" 0.0 0.0 ellipse
+38 antibodies 0.0 0.0 ellipse
+39 "practice of family center care" 0.0 0.0 ellipse
+40 target 0.0 0.0 ellipse
+41 "solid marks" 0.0 0.0 ellipse
+42 punishment 0.0 0.0 ellipse
+43 "nursing students" 0.0 0.0 ellipse
+44 "false grounds" 0.0 0.0 ellipse
+45 "Tdap vaccine" 0.0 0.0 ellipse
+46 "lie about vaccine safety" 0.0 0.0 ellipse
+47 ethicality 0.0 0.0 ellipse
+48 "Nichole Rolfe" 0.0 0.0 ellipse
+49 "Nichole Rolfe lawsuit" 0.0 0.0 ellipse
+50 "Connie Smith" 0.0 0.0 ellipse
+*arcs
+1 31 1.0 source "pushing vaccines on sick children" source pushing vaccines on sick children edge violates edge violates target "informed consent protocols" target informed consent protocols label "pushing vaccines on sick children - violates - informed consent protocols" label pushing vaccines on sick children - violates - informed consent protocols
+4 28 1.0 source "uninformed consent" source uninformed consent edge "obtaining for a medical procedure under false pretenses is" edge obtaining for a medical procedure under false pretenses is target "assault and battery" target assault and battery comments "under criminal and civil law" comments under criminal and civil law label "uninformed consent - obtaining for a medical procedure under false pretenses is - assault and battery" label uninformed consent - obtaining for a medical procedure under false pretenses is - assault and battery
+4 21 1.0 source "uninformed consent" source uninformed consent edge "obtaining for a medical procedure under false pretenses violates" edge obtaining for a medical procedure under false pretenses violates target "American Nursing Association's Code of Ethics" target American Nursing Association's Code of Ethics label "uninformed consent - obtaining for a medical procedure under false pretenses violates - American Nursing Association's Code of Ethics" label uninformed consent - obtaining for a medical procedure under false pretenses violates - American Nursing Association's Code of Ethics
+4 17 1.0 source "uninformed consent" source uninformed consent edge "obtaining for a medical procedure under false pretenses is contrary to the gaining and security the" edge obtaining for a medical procedure under false pretenses is contrary to the gaining and security the target "trust of patients" target trust of patients label "uninformed consent - obtaining for a medical procedure under false pretenses is contrary to the gaining and security the - trust of patients" label uninformed consent - obtaining for a medical procedure under false pretenses is contrary to the gaining and security the - trust of patients
+4 39 1.0 source "uninformed consent" source uninformed consent edge "obtaining for a medical procedure under false pretenses is contrary to the" edge obtaining for a medical procedure under false pretenses is contrary to the target "practice of family center care" target practice of family center care label "uninformed consent - obtaining for a medical procedure under false pretenses is contrary to the - practice of family center care" label uninformed consent - obtaining for a medical procedure under false pretenses is contrary to the - practice of family center care
+5 21 1.0 source "coercion methods" source coercion methods edge "are in violation of" edge are in violation of target "American Nursing Association's Code of Ethics" target American Nursing Association's Code of Ethics label "coercion methods - are in violation of - American Nursing Association's Code of Ethics" label coercion methods - are in violation of - American Nursing Association's Code of Ethics
+5 15 1.0 source "coercion methods" source coercion methods edge "being taught to coerce" edge being taught to coerce target parents target parents comments "into vaccinating children" comments into vaccinating children label "coercion methods - being taught to coerce - parents" label coercion methods - being taught to coerce - parents
+6 1 1.0 source "Baker College nursing school instructors" source Baker College nursing school instructors edge "instructed Nichole Rolfe and classmates" edge instructed Nichole Rolfe and classmates target "pushing vaccines on sick children" target pushing vaccines on sick children label "Baker College nursing school instructors - instructed Nichole Rolfe and classmates - pushing vaccines on sick children" label Baker College nursing school instructors - instructed Nichole Rolfe and classmates - pushing vaccines on sick children
+6 46 1.0 source "Baker College nursing school instructors" source Baker College nursing school instructors edge "told Nichole Rolfe to" edge told Nichole Rolfe to target "lie about vaccine safety" target lie about vaccine safety label "Baker College nursing school instructors - told Nichole Rolfe to - lie about vaccine safety" label Baker College nursing school instructors - told Nichole Rolfe to - lie about vaccine safety
+6 22 1.0 source "Baker College nursing school instructors" source Baker College nursing school instructors edge "began dispensing" edge began dispensing target "unethical advice" target unethical advice comments "how to deceive parents into vaccinating children" comments how to deceive parents into vaccinating children label "Baker College nursing school instructors - began dispensing - unethical advice" label Baker College nursing school instructors - began dispensing - unethical advice
+6 26 1.0 source "Baker College nursing school instructors" source Baker College nursing school instructors edge "told Nichole Rolfe to" edge told Nichole Rolfe to target "threaten parents" target threaten parents label "Baker College nursing school instructors - told Nichole Rolfe to - threaten parents" label Baker College nursing school instructors - told Nichole Rolfe to - threaten parents
+6 3 1.0 source "Baker College nursing school instructors" source Baker College nursing school instructors edge "were giving families" edge were giving families target "false sense of security" target false sense of security label "Baker College nursing school instructors - were giving families - false sense of security" label Baker College nursing school instructors - were giving families - false sense of security
+7 29 1.0 source "Alysia Osoff" source Alysia Osoff edge "allegedly told Nichole Rolfe and other students to" edge allegedly told Nichole Rolfe and other students to target "push vaccines on sick children" target push vaccines on sick children label "Alysia Osoff - allegedly told Nichole Rolfe and other students to - push vaccines on sick children" label Alysia Osoff - allegedly told Nichole Rolfe and other students to - push vaccines on sick children
+7 49 1.0 source "Alysia Osoff" source Alysia Osoff edge "is specifically named in" edge is specifically named in target "Nichole Rolfe lawsuit" target Nichole Rolfe lawsuit label "Alysia Osoff - is specifically named in - Nichole Rolfe lawsuit" label Alysia Osoff - is specifically named in - Nichole Rolfe lawsuit
+7 15 1.0 source "Alysia Osoff" source Alysia Osoff edge "allegedly told Nichole Rolfe and other students to lie to" edge allegedly told Nichole Rolfe and other students to lie to target parents target parents label "Alysia Osoff - allegedly told Nichole Rolfe and other students to lie to - parents" label Alysia Osoff - allegedly told Nichole Rolfe and other students to lie to - parents
+7 48 1.0 source "Alysia Osoff" source Alysia Osoff edge "allegedly told to push vaccines on sick children" edge allegedly told to push vaccines on sick children target "Nichole Rolfe" target Nichole Rolfe label "Alysia Osoff - allegedly told to push vaccines on sick children - Nichole Rolfe" label Alysia Osoff - allegedly told to push vaccines on sick children - Nichole Rolfe
+7 16 1.0 source "Alysia Osoff" source Alysia Osoff edge is edge is target "pediatrics instructor" target pediatrics instructor label "Alysia Osoff - is - pediatrics instructor" label Alysia Osoff - is - pediatrics instructor
+10 47 1.0 source "critical thinking" source critical thinking edge "about curriculum" edge about curriculum target ethicality target ethicality comments "of what she was being taught" comments of what she was being taught label "critical thinking - about curriculum - ethicality" label critical thinking - about curriculum - ethicality
+10 32 1.0 source "critical thinking" source critical thinking edge "about curriculum" edge about curriculum target legality target legality comments "of what she was being taught" comments of what she was being taught label "critical thinking - about curriculum - legality" label critical thinking - about curriculum - legality
+14 11 1.0 source "vaccine bullying curriculum" source vaccine bullying curriculum edge "is for all intents and purposes" edge is for all intents and purposes target illegal target illegal label "vaccine bullying curriculum - is for all intents and purposes - illegal" label vaccine bullying curriculum - is for all intents and purposes - illegal
+14 12 1.0 source "vaccine bullying curriculum" source vaccine bullying curriculum edge is edge is target unethical target unethical label "vaccine bullying curriculum - is - unethical" label vaccine bullying curriculum - is - unethical
+14 5 1.0 source "vaccine bullying curriculum" source vaccine bullying curriculum edge includes edge includes target "coercion methods" target coercion methods label "vaccine bullying curriculum - includes - coercion methods" label vaccine bullying curriculum - includes - coercion methods
+14 37 1.0 source "vaccine bullying curriculum" source vaccine bullying curriculum edge "is at" edge is at target "nursing school at Baker College" target nursing school at Baker College label "vaccine bullying curriculum - is at - nursing school at Baker College" label vaccine bullying curriculum - is at - nursing school at Baker College
+15 2 1.0 source parents source parents edge "taught to coerce into" edge taught to coerce into target "vaccinating children" target vaccinating children label "parents - taught to coerce into - vaccinating children" label parents - taught to coerce into - vaccinating children
+15 33 1.0 source parents source parents edge "walking into the" edge walking into the target "labor and delivery floor" target labor and delivery floor label "parents - walking into the - labor and delivery floor" label parents - walking into the - labor and delivery floor
+15 45 1.0 source parents source parents edge "were lied to in order to coerce them into getting" edge were lied to in order to coerce them into getting target "Tdap vaccine" target Tdap vaccine label "parents - were lied to in order to coerce them into getting - Tdap vaccine" label parents - were lied to in order to coerce them into getting - Tdap vaccine
+20 7 1.0 source advice source advice edge "was legally morally and ethically wrong from" edge was legally morally and ethically wrong from target "Alysia Osoff" target Alysia Osoff label "advice - was legally morally and ethically wrong from - Alysia Osoff" label advice - was legally morally and ethically wrong from - Alysia Osoff
+23 4 1.0 source "false consent" source false consent edge is edge is target "uninformed consent" target uninformed consent label "false consent - is - uninformed consent" label false consent - is - uninformed consent
+34 42 1.0 source dissenters source dissenters edge "are facing" edge are facing target punishment target punishment label "dissenters - are facing - punishment" label dissenters - are facing - punishment
+35 25 1.0 source lawsuit source lawsuit edge "filed in" edge filed in target "circuit court" target circuit court label "lawsuit - filed in - circuit court" label lawsuit - filed in - circuit court
+43 30 1.0 source "nursing students" source nursing students edge "today are being brainwashed into" edge today are being brainwashed into target "medical fascism propaganda" target medical fascism propaganda label "nursing students - today are being brainwashed into - medical fascism propaganda" label nursing students - today are being brainwashed into - medical fascism propaganda
+44 6 1.0 source "false grounds" source false grounds edge "were that Nichole Rolfe had harassed" edge were that Nichole Rolfe had harassed target "Baker College nursing school instructors" target Baker College nursing school instructors label "false grounds - were that Nichole Rolfe had harassed - Baker College nursing school instructors" label false grounds - were that Nichole Rolfe had harassed - Baker College nursing school instructors
+45 38 1.0 source "Tdap vaccine" source Tdap vaccine edge "admittedly doesn't confer for up to six months" edge admittedly doesn't confer for up to six months target antibodies target antibodies label "Tdap vaccine - admittedly doesn't confer for up to six months - antibodies" label Tdap vaccine - admittedly doesn't confer for up to six months - antibodies
+45 38 1.0 source "Tdap vaccine" source Tdap vaccine edge "possibly does not confer" edge possibly does not confer target antibodies target antibodies label "Tdap vaccine - possibly does not confer - antibodies" label Tdap vaccine - possibly does not confer - antibodies
+45 15 1.0 source "Tdap vaccine" source Tdap vaccine edge "advised to push on" edge advised to push on target parents target parents label "Tdap vaccine - advised to push on - parents" label Tdap vaccine - advised to push on - parents
+48 40 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "claims that she became" edge claims that she became target target target target comments "of teachers" comments of teachers label "Nichole Rolfe - claims that she became - target" label Nichole Rolfe - claims that she became - target
+48 9 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "told to lie to parents about" edge told to lie to parents about target "vaccine safety" target vaccine safety label "Nichole Rolfe - told to lie to parents about - vaccine safety" label Nichole Rolfe - told to lie to parents about - vaccine safety
+48 10 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "was merely asking questions and" edge was merely asking questions and target "critical thinking" target critical thinking label "Nichole Rolfe - was merely asking questions and - critical thinking" label Nichole Rolfe - was merely asking questions and - critical thinking
+48 24 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "when she questioned rationale was" edge when she questioned rationale was target silenced target silenced label "Nichole Rolfe - when she questioned rationale was - silenced" label Nichole Rolfe - when she questioned rationale was - silenced
+48 8 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "actually questioned these and other" edge actually questioned these and other target "blatant violations of the Hippocratic Oath" target blatant violations of the Hippocratic Oath label "Nichole Rolfe - actually questioned these and other - blatant violations of the Hippocratic Oath" label Nichole Rolfe - actually questioned these and other - blatant violations of the Hippocratic Oath
+48 6 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "had harassed" edge had harassed target "Baker College nursing school instructors" target Baker College nursing school instructors label "Nichole Rolfe - had harassed - Baker College nursing school instructors" label Nichole Rolfe - had harassed - Baker College nursing school instructors
+48 5 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "became target of teachers after questioning" edge became target of teachers after questioning target "coercion methods" target coercion methods label "Nichole Rolfe - became target of teachers after questioning - coercion methods" label Nichole Rolfe - became target of teachers after questioning - coercion methods
+48 41 1.0 source "Nichole Rolfe" source Nichole Rolfe edge earned edge earned target "solid marks" target solid marks label "Nichole Rolfe - earned - solid marks" label Nichole Rolfe - earned - solid marks
+48 13 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "wrongfully let go from" edge wrongfully let go from target "Baker College nursing school" target Baker College nursing school comments "for trying to abide by proper protocol" comments for trying to abide by proper protocol label "Nichole Rolfe - wrongfully let go from - Baker College nursing school" label Nichole Rolfe - wrongfully let go from - Baker College nursing school
+48 14 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "says she was dismissed for raising concern's about" edge says she was dismissed for raising concern's about target "vaccine bullying curriculum" target vaccine bullying curriculum label "Nichole Rolfe - says she was dismissed for raising concern's about - vaccine bullying curriculum" label Nichole Rolfe - says she was dismissed for raising concern's about - vaccine bullying curriculum
+48 44 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "dismissed from program on" edge dismissed from program on target "false grounds" target false grounds label "Nichole Rolfe - dismissed from program on - false grounds" label Nichole Rolfe - dismissed from program on - false grounds
+48 37 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "says she was wrongfully dismissed from" edge says she was wrongfully dismissed from target "nursing school at Baker College" target nursing school at Baker College label "Nichole Rolfe - says she was wrongfully dismissed from - nursing school at Baker College" label Nichole Rolfe - says she was wrongfully dismissed from - nursing school at Baker College
+48 18 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "is more qualified to be a" edge is more qualified to be a target nurse target nurse comments "than fellow students" comments than fellow students label "Nichole Rolfe - is more qualified to be a - nurse" label Nichole Rolfe - is more qualified to be a - nurse
+48 19 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "was one of" edge was one of target "top students" target top students label "Nichole Rolfe - was one of - top students" label Nichole Rolfe - was one of - top students
+48 35 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "has filed" edge has filed target lawsuit target lawsuit comments "against Baker College" comments against Baker College label "Nichole Rolfe - has filed - lawsuit" label Nichole Rolfe - has filed - lawsuit
+48 36 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "trying to abide by" edge trying to abide by target "proper protocol" target proper protocol label "Nichole Rolfe - trying to abide by - proper protocol" label Nichole Rolfe - trying to abide by - proper protocol
+48 45 1.0 source "Nichole Rolfe" source Nichole Rolfe edge "says she and classmates were advised to push" edge says she and classmates were advised to push target "Tdap vaccine" target Tdap vaccine label "Nichole Rolfe - says she and classmates were advised to push - Tdap vaccine" label Nichole Rolfe - says she and classmates were advised to push - Tdap vaccine
+50 27 1.0 source "Connie Smith" source Connie Smith edge is edge is target "Director of Nursing at Baker College" target Director of Nursing at Baker College label "Connie Smith - is - Director of Nursing at Baker College" label Connie Smith - is - Director of Nursing at Baker College
+50 49 1.0 source "Connie Smith" source Connie Smith edge "is specifically named in" edge is specifically named in target "Nichole Rolfe lawsuit" target Nichole Rolfe lawsuit label "Connie Smith - is specifically named in - Nichole Rolfe lawsuit" label Connie Smith - is specifically named in - Nichole Rolfe lawsuit

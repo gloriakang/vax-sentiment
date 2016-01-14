@@ -1,0 +1,53 @@
+*vertices 28
+1 "spread of communicable diseases" 0.0 0.0 ellipse
+2 "choosing not to vaccinate children" 0.0 0.0 ellipse
+3 "religious reasons" 0.0 0.0 ellipse
+4 childcare 0.0 0.0 ellipse
+5 "medical issue" 0.0 0.0 ellipse
+6 kindergarten 0.0 0.0 ellipse
+7 vaccination 0.0 0.0 ellipse
+8 "personal beliefs" 0.0 0.0 ellipse
+9 children 0.0 0.0 ellipse
+10 vaccines 0.0 0.0 ellipse
+11 "change in mindset of families" 0.0 0.0 ellipse
+12 concerns 0.0 0.0 ellipse
+13 parents 0.0 0.0 ellipse
+14 "herd immunity" 0.0 0.0 ellipse
+15 "interest in vaccinations" 0.0 0.0 ellipse
+16 "personal belief reasons" 0.0 0.0 ellipse
+17 "required vaccinations" 0.0 0.0 ellipse
+18 families 0.0 0.0 ellipse
+19 "good news" 0.0 0.0 ellipse
+20 measles 0.0 0.0 ellipse
+21 "public health" 0.0 0.0 ellipse
+22 "medical exemption" 0.0 0.0 ellipse
+23 fluke 0.0 0.0 ellipse
+24 "Arizona Deparment of Health Services" 0.0 0.0 ellipse
+25 "Disneyland outbreak" 0.0 0.0 ellipse
+26 "decrease in exemption rates" 0.0 0.0 ellipse
+27 "exemption rates" 0.0 0.0 ellipse
+28 "Arizona Department of Health Services" 0.0 0.0 ellipse
+*arcs
+5 7 1.0 source "medical issue" source medical issue edge "can make dangerous" edge can make dangerous target vaccination target vaccination label "medical issue - can make dangerous - vaccination" label medical issue - can make dangerous - vaccination
+9 17 1.0 source children source children edge "can be exempted from" edge can be exempted from target "required vaccinations" target required vaccinations label "children - can be exempted from - required vaccinations" label children - can be exempted from - required vaccinations
+10 1 1.0 source vaccines source vaccines edge "scientifically proven to be best way to prevent the" edge scientifically proven to be best way to prevent the target "spread of communicable diseases" target spread of communicable diseases label "vaccines - scientifically proven to be best way to prevent the - spread of communicable diseases" label vaccines - scientifically proven to be best way to prevent the - spread of communicable diseases
+13 8 1.0 source parents source parents edge "can choose to exempt their children from required childcare and school vaccinations for" edge can choose to exempt their children from required childcare and school vaccinations for target "personal beliefs" target personal beliefs comments "in Arizona" comments in Arizona label "parents - can choose to exempt their children from required childcare and school vaccinations for - personal beliefs" label parents - can choose to exempt their children from required childcare and school vaccinations for - personal beliefs
+13 3 1.0 source parents source parents edge "can choose to exempt their children from required childcare and school vaccinations for" edge can choose to exempt their children from required childcare and school vaccinations for target "religious reasons" target religious reasons comments "in Arizona" comments in Arizona label "parents - can choose to exempt their children from required childcare and school vaccinations for - religious reasons" label parents - can choose to exempt their children from required childcare and school vaccinations for - religious reasons
+13 22 1.0 source parents source parents edge "can choose to exempt their children from required childcare and school vaccinations for" edge can choose to exempt their children from required childcare and school vaccinations for target "medical exemption" target medical exemption comments "in Arizona" comments in Arizona label "parents - can choose to exempt their children from required childcare and school vaccinations for - medical exemption" label parents - can choose to exempt their children from required childcare and school vaccinations for - medical exemption
+17 16 1.0 source "required vaccinations" source required vaccinations edge "can be exempt for" edge can be exempt for target "personal belief reasons" target personal belief reasons label "required vaccinations - can be exempt for - personal belief reasons" label required vaccinations - can be exempt for - personal belief reasons
+17 3 1.0 source "required vaccinations" source required vaccinations edge "can be exempt for" edge can be exempt for target "religious reasons" target religious reasons label "required vaccinations - can be exempt for - religious reasons" label required vaccinations - can be exempt for - religious reasons
+17 5 1.0 source "required vaccinations" source required vaccinations edge "can be exempt if child has" edge can be exempt if child has target "medical issue" target medical issue label "required vaccinations - can be exempt if child has - medical issue" label required vaccinations - can be exempt if child has - medical issue
+18 2 1.0 source families source families edge "in Arizona are choosing" edge in Arizona are choosing target "choosing not to vaccinate children" target choosing not to vaccinate children comments "in Arizona" comments in Arizona label "families - in Arizona are choosing - choosing not to vaccinate children" label families - in Arizona are choosing - choosing not to vaccinate children
+18 2 1.0 source families source families edge "in the US number is increasing" edge in the US number is increasing target "choosing not to vaccinate children" target choosing not to vaccinate children comments "in the U.S." comments in the U.S. label "families - in the US number is increasing - choosing not to vaccinate children" label families - in the US number is increasing - choosing not to vaccinate children
+18 2 1.0 source families source families edge "in Arizona number is increasing" edge in Arizona number is increasing target "choosing not to vaccinate children" target choosing not to vaccinate children comments "in Arizona" comments in Arizona label "families - in Arizona number is increasing - choosing not to vaccinate children" label families - in Arizona number is increasing - choosing not to vaccinate children
+21 14 1.0 source "public health" source public health edge "will keep watching and working to help our state reach " edge will keep watching and working to help our state reach  target "herd immunity" target herd immunity comments "against all vaccine-preventable diseases" comments against all vaccine-preventable diseases label "public health - will keep watching and working to help our state reach  - herd immunity" label public health - will keep watching and working to help our state reach  - herd immunity
+24 26 1.0 source "Arizona Deparment of Health Services" source Arizona Deparment of Health Services edge "hopes will continue next year" edge hopes will continue next year target "decrease in exemption rates" target decrease in exemption rates comments "the trend" comments the trend label "Arizona Deparment of Health Services - hopes will continue next year - decrease in exemption rates" label Arizona Deparment of Health Services - hopes will continue next year - decrease in exemption rates
+25 20 1.0 source "Disneyland outbreak" source Disneyland outbreak edge "produced largest number of cases since considered eliminated" edge produced largest number of cases since considered eliminated target measles target measles label "Disneyland outbreak - produced largest number of cases since considered eliminated - measles" label Disneyland outbreak - produced largest number of cases since considered eliminated - measles
+25 15 1.0 source "Disneyland outbreak" source Disneyland outbreak edge "created a firestorm of" edge created a firestorm of target "interest in vaccinations" target interest in vaccinations label "Disneyland outbreak - created a firestorm of - interest in vaccinations" label Disneyland outbreak - created a firestorm of - interest in vaccinations
+26 11 1.0 source "decrease in exemption rates" source decrease in exemption rates edge "may be" edge may be target "change in mindset of families" target change in mindset of families label "decrease in exemption rates - may be - change in mindset of families" label decrease in exemption rates - may be - change in mindset of families
+26 23 1.0 source "decrease in exemption rates" source decrease in exemption rates edge "might be" edge might be target fluke target fluke label "decrease in exemption rates - might be - fluke" label decrease in exemption rates - might be - fluke
+26 12 1.0 source "decrease in exemption rates" source decrease in exemption rates edge "if continues may be due to" edge if continues may be due to target concerns target concerns label "decrease in exemption rates - if continues may be due to - concerns" label decrease in exemption rates - if continues may be due to - concerns
+26 28 1.0 source "decrease in exemption rates" source decrease in exemption rates edge "if continues may be due to" edge if continues may be due to target "Arizona Department of Health Services" target Arizona Department of Health Services label "decrease in exemption rates - if continues may be due to - Arizona Department of Health Services" label decrease in exemption rates - if continues may be due to - Arizona Department of Health Services
+26 19 1.0 source "decrease in exemption rates" source decrease in exemption rates edge is edge is target "good news" target good news label "decrease in exemption rates - is - good news" label decrease in exemption rates - is - good news
+27 6 1.0 source "exemption rates" source exemption rates edge "went down in Arizona for 2014-2015 in" edge went down in Arizona for 2014-2015 in target kindergarten target kindergarten label "exemption rates - went down in Arizona for 2014-2015 in - kindergarten" label exemption rates - went down in Arizona for 2014-2015 in - kindergarten
+27 4 1.0 source "exemption rates" source exemption rates edge "went down in Arizona for 2014-2015 in" edge went down in Arizona for 2014-2015 in target childcare target childcare label "exemption rates - went down in Arizona for 2014-2015 in - childcare" label exemption rates - went down in Arizona for 2014-2015 in - childcare

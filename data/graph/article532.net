@@ -1,0 +1,90 @@
+*vertices 51
+1 "Gambhir study" 0.0 0.0 ellipse
+2 "immune response" 0.0 0.0 ellipse
+3 "infant deaths" 0.0 0.0 ellipse
+4 "Current schedule" 0.0 0.0 ellipse
+5 "clusters who refuse vaccination" 0.0 0.0 ellipse
+6 "vaccine refusal" 0.0 0.0 ellipse
+7 "vaccine refusal clusters" 0.0 0.0 ellipse
+8 "increase in cases" 0.0 0.0 ellipse
+9 adolescents 0.0 0.0 ellipse
+10 "artificial vaccine" 0.0 0.0 ellipse
+11 "artificially created vaccine" 0.0 0.0 ellipse
+12 research 0.0 0.0 ellipse
+13 "drop in vaccine efficacy" 0.0 0.0 ellipse
+14 "small clusters" 0.0 0.0 ellipse
+15 "new whooping cough vaccine" 0.0 0.0 ellipse
+16 "vaccination schedule" 0.0 0.0 ellipse
+17 "acellular pertussis vaccine" 0.0 0.0 ellipse
+18 findings 0.0 0.0 ellipse
+19 vaccination 0.0 0.0 ellipse
+20 bacteria 0.0 0.0 ellipse
+21 "whooping cough vaccine" 0.0 0.0 ellipse
+22 "low number of cases" 0.0 0.0 ellipse
+23 "whooping cough" 0.0 0.0 ellipse
+24 Vaccinations 0.0 0.0 ellipse
+25 "vaccination change" 0.0 0.0 ellipse
+26 "PLOS Computational Biology" 0.0 0.0 ellipse
+27 "artificially created" 0.0 0.0 ellipse
+28 "vaccine efficacy" 0.0 0.0 ellipse
+29 U.S. 0.0 0.0 ellipse
+30 rise 0.0 0.0 ellipse
+31 "whooping cough vaccination" 0.0 0.0 ellipse
+32 "deadly disease" 0.0 0.0 ellipse
+33 "upward trend" 0.0 0.0 ellipse
+34 protection 0.0 0.0 ellipse
+35 "whooping cough cases" 0.0 0.0 ellipse
+36 cases 0.0 0.0 ellipse
+37 "trend is upward" 0.0 0.0 ellipse
+38 data 0.0 0.0 ellipse
+39 "whole-cell vaccine" 0.0 0.0 ellipse
+40 booster 0.0 0.0 ellipse
+41 "vaccine reaction" 0.0 0.0 ellipse
+42 effective 0.0 0.0 ellipse
+43 Australia 0.0 0.0 ellipse
+44 "7-11 year olds" 0.0 0.0 ellipse
+45 children 0.0 0.0 ellipse
+46 disease 0.0 0.0 ellipse
+47 "acelluar vaccine" 0.0 0.0 ellipse
+48 "Whooping cough" 0.0 0.0 ellipse
+49 pertussis 0.0 0.0 ellipse
+50 changes 0.0 0.0 ellipse
+51 Debate 0.0 0.0 ellipse
+*arcs
+1 16 1.0 source "Gambhir study" source Gambhir study edge "suggests changes to pertussis" edge suggests changes to pertussis target "vaccination schedule" target vaccination schedule label "Gambhir study - suggests changes to pertussis - vaccination schedule" label Gambhir study - suggests changes to pertussis - vaccination schedule
+1 31 1.0 source "Gambhir study" source Gambhir study edge "did not find drop in overall level in U.S." edge did not find drop in overall level in U.S. target "whooping cough vaccination" target whooping cough vaccination label "Gambhir study - did not find drop in overall level in U.S. - whooping cough vaccination" label Gambhir study - did not find drop in overall level in U.S. - whooping cough vaccination
+1 40 1.0 source "Gambhir study" source Gambhir study edge "suggests further doses" edge suggests further doses target booster target booster label "Gambhir study - suggests further doses - booster" label Gambhir study - suggests further doses - booster
+4 50 1.0 source "Current schedule" source Current schedule edge "of pertussis vaccinations and further booster doses may require" edge of pertussis vaccinations and further booster doses may require target changes target changes comments "according to Gambhir" comments according to Gambhir label "Current schedule - of pertussis vaccinations and further booster doses may require - changes" label Current schedule - of pertussis vaccinations and further booster doses may require - changes
+5 46 1.0 source "clusters who refuse vaccination" source clusters who refuse vaccination edge "may have rise in" edge may have rise in target disease target disease comments "says Gambhir" comments says Gambhir label "clusters who refuse vaccination - may have rise in - disease" label clusters who refuse vaccination - may have rise in - disease
+6 46 1.0 source "vaccine refusal" source vaccine refusal edge "may have caused rise in" edge may have caused rise in target disease target disease comments "in small clusters says Gambhir" comments in small clusters says Gambhir label "vaccine refusal - may have caused rise in - disease" label vaccine refusal - may have caused rise in - disease
+7 46 1.0 source "vaccine refusal clusters" source vaccine refusal clusters edge "cannot account for generalised rise in" edge cannot account for generalised rise in target disease target disease comments "Gambhir says" comments Gambhir says label "vaccine refusal clusters - cannot account for generalised rise in - disease" label vaccine refusal clusters - cannot account for generalised rise in - disease
+8 3 1.0 source "increase in cases" source increase in cases edge "could result in" edge could result in target "infant deaths" target infant deaths label "increase in cases - could result in - infant deaths" label increase in cases - could result in - infant deaths
+10 2 1.0 source "artificial vaccine" source artificial vaccine edge "believed to generate" edge believed to generate target "immune response" target immune response label "artificial vaccine - believed to generate - immune response" label artificial vaccine - believed to generate - immune response
+11 32 1.0 source "artificially created vaccine" source artificially created vaccine edge "is behind an increase in cases" edge is behind an increase in cases target "deadly disease" target deadly disease label "artificially created vaccine - is behind an increase in cases - deadly disease" label artificially created vaccine - is behind an increase in cases - deadly disease
+13 39 1.0 source "drop in vaccine efficacy" source drop in vaccine efficacy edge "significant of acellular vaccine when compared to" edge significant of acellular vaccine when compared to target "whole-cell vaccine" target whole-cell vaccine comments "according to Gambhir" comments according to Gambhir label "drop in vaccine efficacy - significant of acellular vaccine when compared to - whole-cell vaccine" label drop in vaccine efficacy - significant of acellular vaccine when compared to - whole-cell vaccine
+14 30 1.0 source "small clusters" source small clusters edge "people who refuse vaccine cannot account for" edge people who refuse vaccine cannot account for target rise target rise comments "in disease" comments in disease label "small clusters - people who refuse vaccine cannot account for - rise" label small clusters - people who refuse vaccine cannot account for - rise
+15 41 1.0 source "new whooping cough vaccine" source new whooping cough vaccine edge "was developed to address public concerns" edge was developed to address public concerns target "vaccine reaction" target vaccine reaction label "new whooping cough vaccine - was developed to address public concerns - vaccine reaction" label new whooping cough vaccine - was developed to address public concerns - vaccine reaction
+17 28 1.0 source "acellular pertussis vaccine" source acellular pertussis vaccine edge "still high" edge still high target "vaccine efficacy" target vaccine efficacy comments "Gambhir says" comments Gambhir says label "acellular pertussis vaccine - still high - vaccine efficacy" label acellular pertussis vaccine - still high - vaccine efficacy
+17 39 1.0 source "acellular pertussis vaccine" source acellular pertussis vaccine edge "level of protection is lower than" edge level of protection is lower than target "whole-cell vaccine" target whole-cell vaccine label "acellular pertussis vaccine - level of protection is lower than - whole-cell vaccine" label acellular pertussis vaccine - level of protection is lower than - whole-cell vaccine
+17 39 1.0 source "acellular pertussis vaccine" source acellular pertussis vaccine edge "has lower coverage than" edge has lower coverage than target "whole-cell vaccine" target whole-cell vaccine label "acellular pertussis vaccine - has lower coverage than - whole-cell vaccine" label acellular pertussis vaccine - has lower coverage than - whole-cell vaccine
+17 27 1.0 source "acellular pertussis vaccine" source acellular pertussis vaccine edge was edge was target "artificially created" target artificially created label "acellular pertussis vaccine - was - artificially created" label acellular pertussis vaccine - was - artificially created
+17 20 1.0 source "acellular pertussis vaccine" source acellular pertussis vaccine edge "used artifically created components of" edge used artifically created components of target bacteria target bacteria label "acellular pertussis vaccine - used artifically created components of - bacteria" label acellular pertussis vaccine - used artifically created components of - bacteria
+18 12 1.0 source findings source findings edge "highlight the need to similar" edge highlight the need to similar target research target research label "findings - highlight the need to similar - research" label findings - highlight the need to similar - research
+21 36 1.0 source "whooping cough vaccine" source whooping cough vaccine edge "linked to increase in U.S." edge linked to increase in U.S. target cases target cases label "whooping cough vaccine - linked to increase in U.S. - cases" label whooping cough vaccine - linked to increase in U.S. - cases
+23 29 1.0 source "whooping cough" source whooping cough edge "is highest since 1955 in" edge is highest since 1955 in target U.S. target U.S. comments "highest since 1955" comments highest since 1955 label "whooping cough - is highest since 1955 in - U.S." label whooping cough - is highest since 1955 in - U.S.
+23 49 1.0 source "whooping cough" source whooping cough edge is edge is target pertussis target pertussis label "whooping cough - is - pertussis" label whooping cough - is - pertussis
+24 29 1.0 source Vaccinations source Vaccinations edge "have decreased whooping cough disease incidence in the" edge have decreased whooping cough disease incidence in the target U.S. target U.S. comments "in mid 1970s" comments in mid 1970s label "Vaccinations - have decreased whooping cough disease incidence in the - U.S." label Vaccinations - have decreased whooping cough disease incidence in the - U.S.
+25 38 1.0 source "vaccination change" source vaccination change edge "impact has taken time to show in" edge impact has taken time to show in target data target data label "vaccination change - impact has taken time to show in - data" label vaccination change - impact has taken time to show in - data
+26 17 1.0 source "PLOS Computational Biology" source PLOS Computational Biology edge "published a paper that found level of protection is lower from new" edge published a paper that found level of protection is lower from new target "acellular pertussis vaccine" target acellular pertussis vaccine label "PLOS Computational Biology - published a paper that found level of protection is lower from new - acellular pertussis vaccine" label PLOS Computational Biology - published a paper that found level of protection is lower from new - acellular pertussis vaccine
+28 47 1.0 source "vaccine efficacy" source vaccine efficacy edge "is still high" edge is still high target "acelluar vaccine" target acelluar vaccine label "vaccine efficacy - is still high - acelluar vaccine" label vaccine efficacy - is still high - acelluar vaccine
+33 36 1.0 source "upward trend" source upward trend edge "despite low number of" edge despite low number of target cases target cases comments "says Professor Neil Ferguson" comments says Professor Neil Ferguson label "upward trend - despite low number of - cases" label upward trend - despite low number of - cases
+34 17 1.0 source protection source protection edge "lower level with" edge lower level with target "acellular pertussis vaccine" target acellular pertussis vaccine comments "Gambhir research finds" comments Gambhir research finds label "protection - lower level with - acellular pertussis vaccine" label protection - lower level with - acellular pertussis vaccine
+35 43 1.0 source "whooping cough cases" source whooping cough cases edge "have sprialled upward in the past decade" edge have sprialled upward in the past decade target Australia target Australia comments "says co-author Associate Professor Manoj Gambhir" comments says co-author Associate Professor Manoj Gambhir label "whooping cough cases - have sprialled upward in the past decade - Australia" label whooping cough cases - have sprialled upward in the past decade - Australia
+37 22 1.0 source "trend is upward" source trend is upward edge "even though there are currently" edge even though there are currently target "low number of cases" target low number of cases comments "of whooping cough" comments of whooping cough label "trend is upward - even though there are currently - low number of cases" label trend is upward - even though there are currently - low number of cases
+39 45 1.0 source "whole-cell vaccine" source whole-cell vaccine edge "caused reactions in some" edge caused reactions in some target children target children label "whole-cell vaccine - caused reactions in some - children" label whole-cell vaccine - caused reactions in some - children
+39 42 1.0 source "whole-cell vaccine" source whole-cell vaccine edge "was very" edge was very target effective target effective comments "says Gambhir" comments says Gambhir label "whole-cell vaccine - was very - effective" label whole-cell vaccine - was very - effective
+44 23 1.0 source "7-11 year olds" source 7-11 year olds edge "reporting largest cases of" edge reporting largest cases of target "whooping cough" target whooping cough label "7-11 year olds - reporting largest cases of - whooping cough" label 7-11 year olds - reporting largest cases of - whooping cough
+44 9 1.0 source "7-11 year olds" source 7-11 year olds edge "whooping cough is shifting to from" edge whooping cough is shifting to from target adolescents target adolescents label "7-11 year olds - whooping cough is shifting to from - adolescents" label 7-11 year olds - whooping cough is shifting to from - adolescents
+48 29 1.0 source "Whooping cough" source Whooping cough edge "in the past decade is on the rise in the" edge in the past decade is on the rise in the target U.S. target U.S. label "Whooping cough - in the past decade is on the rise in the - U.S." label Whooping cough - in the past decade is on the rise in the - U.S.
+49 23 1.0 source pertussis source pertussis edge is edge is target "whooping cough" target whooping cough label "pertussis - is - whooping cough" label pertussis - is - whooping cough
+51 19 1.0 source Debate source Debate edge "in media over" edge in media over target vaccination target vaccination comments "says Gambhir" comments says Gambhir label "Debate - in media over - vaccination" label Debate - in media over - vaccination

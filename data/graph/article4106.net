@@ -1,0 +1,76 @@
+*vertices 38
+1 "safety of simultaneous vaccinations" 0.0 0.0 ellipse
+2 infant 0.0 0.0 ellipse
+3 "parent's right" 0.0 0.0 ellipse
+4 doctors 0.0 0.0 ellipse
+5 "should be questioned" 0.0 0.0 ellipse
+6 "vaccine abuse" 0.0 0.0 ellipse
+7 "vaccine damage" 0.0 0.0 ellipse
+8 "vaccine science" 0.0 0.0 ellipse
+9 "sudden infant death syndrome" 0.0 0.0 ellipse
+10 death 0.0 0.0 ellipse
+11 "vaccine violence" 0.0 0.0 ellipse
+12 "clinical trials" 0.0 0.0 ellipse
+13 "toxic substances" 0.0 0.0 ellipse
+14 doctor 0.0 0.0 ellipse
+15 "Crystal Downing" 0.0 0.0 ellipse
+16 "infant who died from simultaneous vaccinations" 0.0 0.0 ellipse
+17 vaccines 0.0 0.0 ellipse
+18 religion 0.0 0.0 ellipse
+19 "vaccine ingredients" 0.0 0.0 ellipse
+20 parents 0.0 0.0 ellipse
+21 vaccine 0.0 0.0 ellipse
+22 "aluminum adjuvants" 0.0 0.0 ellipse
+23 "vaccine-associated infant death" 0.0 0.0 ellipse
+24 "brain damage" 0.0 0.0 ellipse
+25 investigations 0.0 0.0 ellipse
+26 "simultaneous vaccinations" 0.0 0.0 ellipse
+27 child 0.0 0.0 ellipse
+28 "infant death" 0.0 0.0 ellipse
+29 "hepatitis B vaccine" 0.0 0.0 ellipse
+30 "cause of death" 0.0 0.0 ellipse
+31 "vaccine dangers" 0.0 0.0 ellipse
+32 "Matthew Downing" 0.0 0.0 ellipse
+33 "informed consent" 0.0 0.0 ellipse
+34 "normal behavior" 0.0 0.0 ellipse
+35 patients 0.0 0.0 ellipse
+36 "infant death after vaccination" 0.0 0.0 ellipse
+37 "vaccines are not safe" 0.0 0.0 ellipse
+38 infants 0.0 0.0 ellipse
+*arcs
+2 26 1.0 source infant source infant edge "suddenly died after receiving eight" edge suddenly died after receiving eight target "simultaneous vaccinations" target simultaneous vaccinations label "infant - suddenly died after receiving eight - simultaneous vaccinations" label infant - suddenly died after receiving eight - simultaneous vaccinations
+3 27 1.0 source "parent's right" source parent's right edge "is to choose what's best for their" edge is to choose what's best for their target child target child label "parent's right - is to choose what's best for their - child" label parent's right - is to choose what's best for their - child
+4 26 1.0 source doctors source doctors edge "kill infants with eight" edge kill infants with eight target "simultaneous vaccinations" target simultaneous vaccinations label "doctors - kill infants with eight - simultaneous vaccinations" label doctors - kill infants with eight - simultaneous vaccinations
+4 5 1.0 source doctors source doctors edge "who are hell-bent on the philosophy of vaccination" edge who are hell-bent on the philosophy of vaccination target "should be questioned" target should be questioned label "doctors - who are hell-bent on the philosophy of vaccination - should be questioned" label doctors - who are hell-bent on the philosophy of vaccination - should be questioned
+4 38 1.0 source doctors source doctors edge kill edge kill target infants target infants label "doctors - kill - infants" label doctors - kill - infants
+4 7 1.0 source doctors source doctors edge "cover up" edge cover up target "vaccine damage" target vaccine damage label "doctors - cover up - vaccine damage" label doctors - cover up - vaccine damage
+4 8 1.0 source doctors source doctors edge "believe as if it's a religion" edge believe as if it's a religion target "vaccine science" target vaccine science label "doctors - believe as if it's a religion - vaccine science" label doctors - believe as if it's a religion - vaccine science
+4 33 1.0 source doctors source doctors edge "many fail to give" edge many fail to give target "informed consent" target informed consent comments "because they believe in vaccine science as if it's a religion" comments because they believe in vaccine science as if it's a religion label "doctors - many fail to give - informed consent" label doctors - many fail to give - informed consent
+6 3 1.0 source "vaccine abuse" source vaccine abuse edge "continues to show the importance of a" edge continues to show the importance of a target "parent's right" target parent's right label "vaccine abuse - continues to show the importance of a - parent's right" label vaccine abuse - continues to show the importance of a - parent's right
+8 18 1.0 source "vaccine science" source vaccine science edge "many doctors believe is" edge many doctors believe is target religion target religion label "vaccine science - many doctors believe is - religion" label vaccine science - many doctors believe is - religion
+11 3 1.0 source "vaccine violence" source vaccine violence edge "continues to show the importance of a" edge continues to show the importance of a target "parent's right" target parent's right label "vaccine violence - continues to show the importance of a - parent's right" label vaccine violence - continues to show the importance of a - parent's right
+12 1 1.0 source "clinical trials" source clinical trials edge "there are none showing" edge there are none showing target "safety of simultaneous vaccinations" target safety of simultaneous vaccinations label "clinical trials - there are none showing - safety of simultaneous vaccinations" label clinical trials - there are none showing - safety of simultaneous vaccinations
+14 19 1.0 source doctor source doctor edge "rare to find MD who has investigated" edge rare to find MD who has investigated target "vaccine ingredients" target vaccine ingredients label "doctor - rare to find MD who has investigated - vaccine ingredients" label doctor - rare to find MD who has investigated - vaccine ingredients
+15 37 1.0 source "Crystal Downing" source Crystal Downing edge wrote edge wrote target "vaccines are not safe" target vaccines are not safe label "Crystal Downing - wrote - vaccines are not safe" label Crystal Downing - wrote - vaccines are not safe
+15 32 1.0 source "Crystal Downing" source Crystal Downing edge "is mother of" edge is mother of target "Matthew Downing" target Matthew Downing label "Crystal Downing - is mother of - Matthew Downing" label Crystal Downing - is mother of - Matthew Downing
+16 4 1.0 source "infant who died from simultaneous vaccinations" source infant who died from simultaneous vaccinations edge "was hidden by" edge was hidden by target doctors target doctors comments "in California" comments in California label "infant who died from simultaneous vaccinations - was hidden by - doctors" label infant who died from simultaneous vaccinations - was hidden by - doctors
+17 13 1.0 source vaccines source vaccines edge are edge are target "toxic substances" target toxic substances label "vaccines - are - toxic substances" label vaccines - are - toxic substances
+19 24 1.0 source "vaccine ingredients" source vaccine ingredients edge "cause negative reactions that result in" edge cause negative reactions that result in target "brain damage" target brain damage label "vaccine ingredients - cause negative reactions that result in - brain damage" label vaccine ingredients - cause negative reactions that result in - brain damage
+19 10 1.0 source "vaccine ingredients" source vaccine ingredients edge "cause negative reactions that result in" edge cause negative reactions that result in target death target death label "vaccine ingredients - cause negative reactions that result in - death" label vaccine ingredients - cause negative reactions that result in - death
+20 16 1.0 source parents source parents edge "were never allowed to see their son before he was cremated" edge were never allowed to see their son before he was cremated target "infant who died from simultaneous vaccinations" target infant who died from simultaneous vaccinations label "parents - were never allowed to see their son before he was cremated - infant who died from simultaneous vaccinations" label parents - were never allowed to see their son before he was cremated - infant who died from simultaneous vaccinations
+20 28 1.0 source parents source parents edge "are often told to just accept as a random event" edge are often told to just accept as a random event target "infant death" target infant death comments "even after their infant was injected with multiple toxic substances" comments even after their infant was injected with multiple toxic substances label "parents - are often told to just accept as a random event - infant death" label parents - are often told to just accept as a random event - infant death
+22 5 1.0 source "aluminum adjuvants" source aluminum adjuvants edge "in stimulating an adaptive immune response for multiple viruses" edge in stimulating an adaptive immune response for multiple viruses target "should be questioned" target should be questioned label "aluminum adjuvants - in stimulating an adaptive immune response for multiple viruses - should be questioned" label aluminum adjuvants - in stimulating an adaptive immune response for multiple viruses - should be questioned
+23 9 1.0 source "vaccine-associated infant death" source vaccine-associated infant death edge "most cases are ruled as" edge most cases are ruled as target "sudden infant death syndrome" target sudden infant death syndrome label "vaccine-associated infant death - most cases are ruled as - sudden infant death syndrome" label vaccine-associated infant death - most cases are ruled as - sudden infant death syndrome
+25 30 1.0 source investigations source investigations edge "none were conducted on the" edge none were conducted on the target "cause of death" target cause of death label "investigations - none were conducted on the - cause of death" label investigations - none were conducted on the - cause of death
+26 38 1.0 source "simultaneous vaccinations" source simultaneous vaccinations edge kill edge kill target infants target infants label "simultaneous vaccinations - kill - infants" label simultaneous vaccinations - kill - infants
+26 27 1.0 source "simultaneous vaccinations" source simultaneous vaccinations edge "will harm your" edge will harm your target child target child label "simultaneous vaccinations - will harm your - child" label simultaneous vaccinations - will harm your - child
+26 5 1.0 source "simultaneous vaccinations" source simultaneous vaccinations edge "use at once" edge use at once target "should be questioned" target should be questioned label "simultaneous vaccinations - use at once - should be questioned" label simultaneous vaccinations - use at once - should be questioned
+28 13 1.0 source "infant death" source infant death edge "after their infant was injected with multiple" edge after their infant was injected with multiple target "toxic substances" target toxic substances label "infant death - after their infant was injected with multiple - toxic substances" label infant death - after their infant was injected with multiple - toxic substances
+32 26 1.0 source "Matthew Downing" source Matthew Downing edge "became grumpy and cried a lot the day after receiving eight" edge became grumpy and cried a lot the day after receiving eight target "simultaneous vaccinations" target simultaneous vaccinations comments "said Crystal Downing" comments said Crystal Downing label "Matthew Downing - became grumpy and cried a lot the day after receiving eight - simultaneous vaccinations" label Matthew Downing - became grumpy and cried a lot the day after receiving eight - simultaneous vaccinations
+32 16 1.0 source "Matthew Downing" source Matthew Downing edge was edge was target "infant who died from simultaneous vaccinations" target infant who died from simultaneous vaccinations label "Matthew Downing - was - infant who died from simultaneous vaccinations" label Matthew Downing - was - infant who died from simultaneous vaccinations
+32 34 1.0 source "Matthew Downing" source Matthew Downing edge "following vaccination became grumpy and cried a lot the day after receiving the eight inoculations was" edge following vaccination became grumpy and cried a lot the day after receiving the eight inoculations was target "normal behavior" target normal behavior comments "thought Crystal Downing" comments thought Crystal Downing label "Matthew Downing - following vaccination became grumpy and cried a lot the day after receiving the eight inoculations was - normal behavior" label Matthew Downing - following vaccination became grumpy and cried a lot the day after receiving the eight inoculations was - normal behavior
+32 21 1.0 source "Matthew Downing" source Matthew Downing edge "had been given a vaccine not approved for his age" edge had been given a vaccine not approved for his age target vaccine target vaccine label "Matthew Downing - had been given a vaccine not approved for his age - vaccine" label Matthew Downing - had been given a vaccine not approved for his age - vaccine
+32 29 1.0 source "Matthew Downing" source Matthew Downing edge "had been given an extra dose of the" edge had been given an extra dose of the target "hepatitis B vaccine" target hepatitis B vaccine label "Matthew Downing - had been given an extra dose of the - hepatitis B vaccine" label Matthew Downing - had been given an extra dose of the - hepatitis B vaccine
+33 31 1.0 source "informed consent" source informed consent edge "should be given about" edge should be given about target "vaccine dangers" target vaccine dangers label "informed consent - should be given about - vaccine dangers" label informed consent - should be given about - vaccine dangers
+35 33 1.0 source patients source patients edge "should be allowed" edge should be allowed target "informed consent" target informed consent comments "of the dangers of vaccines" comments of the dangers of vaccines label "patients - should be allowed - informed consent" label patients - should be allowed - informed consent
+36 9 1.0 source "infant death after vaccination" source infant death after vaccination edge "medical professionals continuously just write off as" edge medical professionals continuously just write off as target "sudden infant death syndrome" target sudden infant death syndrome label "infant death after vaccination - medical professionals continuously just write off as - sudden infant death syndrome" label infant death after vaccination - medical professionals continuously just write off as - sudden infant death syndrome

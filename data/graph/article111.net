@@ -1,0 +1,160 @@
+*vertices 83
+1 neighbors 0.0 0.0 ellipse
+2 "distrust of medical establishment" 0.0 0.0 ellipse
+3 "parents' hesitant attitudes" 0.0 0.0 ellipse
+4 adults 0.0 0.0 ellipse
+5 "strong-arm tactics" 0.0 0.0 ellipse
+6 "retracted 1998 Lancet study" 0.0 0.0 ellipse
+7 "vaccine safety" 0.0 0.0 ellipse
+8 doctors 0.0 0.0 ellipse
+9 "vague choice" 0.0 0.0 ellipse
+10 "92 to 94 percent vaccination coverage" 0.0 0.0 ellipse
+11 "hesitant parents" 0.0 0.0 ellipse
+12 states 0.0 0.0 ellipse
+13 "measles vaccination rate" 0.0 0.0 ellipse
+14 "Wakefield study" 0.0 0.0 ellipse
+15 backfire 0.0 0.0 ellipse
+16 "community events" 0.0 0.0 ellipse
+17 "social norms" 0.0 0.0 ellipse
+18 "measles outbreaks" 0.0 0.0 ellipse
+19 "peer pressure" 0.0 0.0 ellipse
+20 "measles virus " 0.0 0.0 ellipse
+21 "vaccine information sources" 0.0 0.0 ellipse
+22 "make plans ahead of time" 0.0 0.0 ellipse
+23 "social media" 0.0 0.0 ellipse
+24 Libya 0.0 0.0 ellipse
+25 "small nudges" 0.0 0.0 ellipse
+26 "measles virus" 0.0 0.0 ellipse
+27 unvaccinated 0.0 0.0 ellipse
+28 interventions 0.0 0.0 ellipse
+29 "policy makers" 0.0 0.0 ellipse
+30 fence-sitters 0.0 0.0 ellipse
+31 "laws requiring MMR vaccination" 0.0 0.0 ellipse
+32 "new strategies" 0.0 0.0 ellipse
+33 vaccines 0.0 0.0 ellipse
+34 "behavioral science research" 0.0 0.0 ellipse
+35 parents 0.0 0.0 ellipse
+36 "herd immunity" 0.0 0.0 ellipse
+37 "little nudges" 0.0 0.0 ellipse
+38 "measles vaccine" 0.0 0.0 ellipse
+39 "side effects" 0.0 0.0 ellipse
+40 "Washington State public-private pilot program" 0.0 0.0 ellipse
+41 "flu shots" 0.0 0.0 ellipse
+42 "vaccine hesitancy" 0.0 0.0 ellipse
+43 "important factor" 0.0 0.0 ellipse
+44 we 0.0 0.0 ellipse
+45 "pro-vaccine parents" 0.0 0.0 ellipse
+46 victims 0.0 0.0 ellipse
+47 "86% vaccination coverage" 0.0 0.0 ellipse
+48 "antivaccine movement" 0.0 0.0 ellipse
+49 measles 0.0 0.0 ellipse
+50 Tanzania 0.0 0.0 ellipse
+51 "vaccine message" 0.0 0.0 ellipse
+52 "measles protection" 0.0 0.0 ellipse
+53 "models of disease" 0.0 0.0 ellipse
+54 "met the bar" 0.0 0.0 ellipse
+55 "United States" 0.0 0.0 ellipse
+56 "fear of vaccine-autism link" 0.0 0.0 ellipse
+57 "decision to vaccinate" 0.0 0.0 ellipse
+58 pediatricians 0.0 0.0 ellipse
+59 "MMR shots" 0.0 0.0 ellipse
+60 "parents who refuse to vaccinate their children" 0.0 0.0 ellipse
+61 schools 0.0 0.0 ellipse
+62 Ohio 0.0 0.0 ellipse
+63 friends 0.0 0.0 ellipse
+64 autism 0.0 0.0 ellipse
+65 peers 0.0 0.0 ellipse
+66 Colorado 0.0 0.0 ellipse
+67 "date and time for shot" 0.0 0.0 ellipse
+68 "vaccine-autism link" 0.0 0.0 ellipse
+69 employees 0.0 0.0 ellipse
+70 "scheduled appointment" 0.0 0.0 ellipse
+71 children 0.0 0.0 ellipse
+72 "low vaccination coverage" 0.0 0.0 ellipse
+73 "vaccine refusal rates" 0.0 0.0 ellipse
+74 "measles experience" 0.0 0.0 ellipse
+75 "community advocates" 0.0 0.0 ellipse
+76 "written down" 0.0 0.0 ellipse
+77 Americans 0.0 0.0 ellipse
+78 "preventable disease" 0.0 0.0 ellipse
+79 "vaccine mandates" 0.0 0.0 ellipse
+80 "parents who vehemently oppose vaccines" 0.0 0.0 ellipse
+81 "measles vaccine coverage" 0.0 0.0 ellipse
+82 "change in compliance" 0.0 0.0 ellipse
+83 "fence sitters" 0.0 0.0 ellipse
+*arcs
+2 42 1.0 source "distrust of medical establishment" source distrust of medical establishment edge fuels edge fuels target "vaccine hesitancy" target vaccine hesitancy label "distrust of medical establishment - fuels - vaccine hesitancy" label distrust of medical establishment - fuels - vaccine hesitancy
+3 37 1.0 source "parents' hesitant attitudes" source parents' hesitant attitudes edge "a better way is to change with" edge a better way is to change with target "little nudges" target little nudges label "parents' hesitant attitudes - a better way is to change with - little nudges" label parents' hesitant attitudes - a better way is to change with - little nudges
+4 68 1.0 source adults source adults edge "most have not made up their mind about" edge most have not made up their mind about target "vaccine-autism link" target vaccine-autism link label "adults - most have not made up their mind about - vaccine-autism link" label adults - most have not made up their mind about - vaccine-autism link
+11 38 1.0 source "hesitant parents" source hesitant parents edge "can be nudged to use" edge can be nudged to use target "measles vaccine" target measles vaccine label "hesitant parents - can be nudged to use - measles vaccine" label hesitant parents - can be nudged to use - measles vaccine
+12 28 1.0 source states source states edge "begin implementing such" edge begin implementing such target interventions target interventions label "states - begin implementing such - interventions" label states - begin implementing such - interventions
+12 32 1.0 source states source states edge "search for" edge search for target "new strategies" target new strategies comments if comments if label "states - search for - new strategies" label states - search for - new strategies
+13 55 1.0 source "measles vaccination rate" source measles vaccination rate edge "the national average is 91 percent" edge the national average is 91 percent target "United States" target United States label "measles vaccination rate - the national average is 91 percent - United States" label measles vaccination rate - the national average is 91 percent - United States
+13 62 1.0 source "measles vaccination rate" source measles vaccination rate edge "coverage is as low as 86%" edge coverage is as low as 86% target Ohio target Ohio label "measles vaccination rate - coverage is as low as 86% - Ohio" label measles vaccination rate - coverage is as low as 86% - Ohio
+13 66 1.0 source "measles vaccination rate" source measles vaccination rate edge "coverage is as low as 86%" edge coverage is as low as 86% target Colorado target Colorado label "measles vaccination rate - coverage is as low as 86% - Colorado" label measles vaccination rate - coverage is as low as 86% - Colorado
+14 6 1.0 source "Wakefield study" source Wakefield study edge "was fraudulent and" edge was fraudulent and target "retracted 1998 Lancet study" target retracted 1998 Lancet study label "Wakefield study - was fraudulent and - retracted 1998 Lancet study" label Wakefield study - was fraudulent and - retracted 1998 Lancet study
+17 57 1.0 source "social norms" source social norms edge "is strongest influence on" edge is strongest influence on target "decision to vaccinate" target decision to vaccinate label "social norms - is strongest influence on - decision to vaccinate" label social norms - is strongest influence on - decision to vaccinate
+19 57 1.0 source "peer pressure" source peer pressure edge "is strongest influence on" edge is strongest influence on target "decision to vaccinate" target decision to vaccinate comments "scientists reported in 2014 Proceedings of the Royal Society B" comments scientists reported in 2014 Proceedings of the Royal Society B label "peer pressure - is strongest influence on - decision to vaccinate" label peer pressure - is strongest influence on - decision to vaccinate
+20 74 1.0 source "measles virus " source measles virus  edge "shown by" edge shown by target "measles experience" target measles experience label "measles virus  - shown by - measles experience" label measles virus  - shown by - measles experience
+24 13 1.0 source Libya source Libya edge "has 99 percent" edge has 99 percent target "measles vaccination rate" target measles vaccination rate label "Libya - has 99 percent - measles vaccination rate" label Libya - has 99 percent - measles vaccination rate
+24 10 1.0 source Libya source Libya edge "has passed" edge has passed target "92 to 94 percent vaccination coverage" target 92 to 94 percent vaccination coverage label "Libya - has passed - 92 to 94 percent vaccination coverage" label Libya - has passed - 92 to 94 percent vaccination coverage
+26 46 1.0 source "measles virus" source measles virus edge "has trouble finding" edge has trouble finding target victims target victims label "measles virus - has trouble finding - victims" label measles virus - has trouble finding - victims
+26 36 1.0 source "measles virus" source measles virus edge "has trouble finding victims, even the unvaccinated at" edge has trouble finding victims, even the unvaccinated at target "herd immunity" target herd immunity comments ""that immunization level"" comments "that immunization level" label "measles virus - has trouble finding victims, even the unvaccinated at - herd immunity" label measles virus - has trouble finding victims, even the unvaccinated at - herd immunity
+26 53 1.0 source "measles virus" source measles virus edge "shown by" edge shown by target "models of disease" target models of disease label "measles virus - shown by - models of disease" label measles virus - shown by - models of disease
+26 27 1.0 source "measles virus" source measles virus edge "has trouble finding" edge has trouble finding target unvaccinated target unvaccinated label "measles virus - has trouble finding - unvaccinated" label measles virus - has trouble finding - unvaccinated
+28 36 1.0 source interventions source interventions edge "can push past" edge can push past target "herd immunity" target herd immunity label "interventions - can push past - herd immunity" label interventions - can push past - herd immunity
+29 79 1.0 source "policy makers" source policy makers edge "some have called for" edge some have called for target "vaccine mandates" target vaccine mandates comments "new laws" comments new laws label "policy makers - some have called for - vaccine mandates" label policy makers - some have called for - vaccine mandates
+29 31 1.0 source "policy makers" source policy makers edge "some have called for new" edge some have called for new target "laws requiring MMR vaccination" target laws requiring MMR vaccination comments "for all school-age children" comments for all school-age children label "policy makers - some have called for new - laws requiring MMR vaccination" label policy makers - some have called for new - laws requiring MMR vaccination
+30 68 1.0 source fence-sitters source fence-sitters edge "are unsure about" edge are unsure about target "vaccine-autism link" target vaccine-autism link label "fence-sitters - are unsure about - vaccine-autism link" label fence-sitters - are unsure about - vaccine-autism link
+30 33 1.0 source fence-sitters source fence-sitters edge "could be prodded toward getting" edge could be prodded toward getting target vaccines target vaccines label "fence-sitters - could be prodded toward getting - vaccines" label fence-sitters - could be prodded toward getting - vaccines
+30 11 1.0 source fence-sitters source fence-sitters edge are edge are target "hesitant parents" target hesitant parents label "fence-sitters - are - hesitant parents" label fence-sitters - are - hesitant parents
+32 36 1.0 source "new strategies" source new strategies edge "can push past" edge can push past target "herd immunity" target herd immunity label "new strategies - can push past - herd immunity" label new strategies - can push past - herd immunity
+33 9 1.0 source vaccines source vaccines edge "when presented as" edge when presented as target "vague choice" target vague choice comments "rather than [standard of care] increased odds of [parental refusal] 2013 Pediatrics study" comments rather than [standard of care] increased odds of [parental refusal] 2013 Pediatrics study label "vaccines - when presented as - vague choice" label vaccines - when presented as - vague choice
+34 3 1.0 source "behavioral science research" source behavioral science research edge "highlights a better way to change other" edge highlights a better way to change other target "parents' hesitant attitudes" target parents' hesitant attitudes label "behavioral science research - highlights a better way to change other - parents' hesitant attitudes" label behavioral science research - highlights a better way to change other - parents' hesitant attitudes
+35 68 1.0 source parents source parents edge "many more do not vaccinate their kids because they are just unsure about" edge many more do not vaccinate their kids because they are just unsure about target "vaccine-autism link" target vaccine-autism link label "parents - many more do not vaccinate their kids because they are just unsure about - vaccine-autism link" label parents - many more do not vaccinate their kids because they are just unsure about - vaccine-autism link
+35 2 1.0 source parents source parents edge "some (roughly 23 percent of reluctant group) have" edge some (roughly 23 percent of reluctant group) have target "distrust of medical establishment" target distrust of medical establishment label "parents - some (roughly 23 percent of reluctant group) have - distrust of medical establishment" label parents - some (roughly 23 percent of reluctant group) have - distrust of medical establishment
+35 70 1.0 source parents source parents edge "more likely to go through with it when informing them their child would receive vaccine at their next" edge more likely to go through with it when informing them their child would receive vaccine at their next target "scheduled appointment" target scheduled appointment comments "than if they were merely asked which vaccines they wanted their child to receive" comments than if they were merely asked which vaccines they wanted their child to receive label "parents - more likely to go through with it when informing them their child would receive vaccine at their next - scheduled appointment" label parents - more likely to go through with it when informing them their child would receive vaccine at their next - scheduled appointment
+36 18 1.0 source "herd immunity" source herd immunity edge "is 92 to 94 percent of people in a community that must be vaccinated to prevent" edge is 92 to 94 percent of people in a community that must be vaccinated to prevent target "measles outbreaks" target measles outbreaks label "herd immunity - is 92 to 94 percent of people in a community that must be vaccinated to prevent - measles outbreaks" label herd immunity - is 92 to 94 percent of people in a community that must be vaccinated to prevent - measles outbreaks
+36 10 1.0 source "herd immunity" source herd immunity edge requires edge requires target "92 to 94 percent vaccination coverage" target 92 to 94 percent vaccination coverage comments "for measles" comments for measles label "herd immunity - requires - 92 to 94 percent vaccination coverage" label herd immunity - requires - 92 to 94 percent vaccination coverage
+40 45 1.0 source "Washington State public-private pilot program" source Washington State public-private pilot program edge trains edge trains target "pro-vaccine parents" target pro-vaccine parents comments "to be [community advocates]" comments to be [community advocates] label "Washington State public-private pilot program - trains - pro-vaccine parents" label Washington State public-private pilot program - trains - pro-vaccine parents
+41 59 1.0 source "flu shots" source flu shots edge "are not as controversial as" edge are not as controversial as target "MMR shots" target MMR shots comments comparison comments comparison label "flu shots - are not as controversial as - MMR shots" label flu shots - are not as controversial as - MMR shots
+41 59 1.0 source "flu shots" source flu shots edge "not as controversial as" edge not as controversial as target "MMR shots" target MMR shots label "flu shots - not as controversial as - MMR shots" label flu shots - not as controversial as - MMR shots
+43 82 1.0 source "important factor" source important factor edge "is the" edge is the target "change in compliance" target change in compliance label "important factor - is the - change in compliance" label important factor - is the - change in compliance
+44 78 1.0 source we source we edge "will fail to prevent a very" edge will fail to prevent a very target "preventable disease" target preventable disease comments otherwise comments otherwise label "we - will fail to prevent a very - preventable disease" label we - will fail to prevent a very - preventable disease
+45 75 1.0 source "pro-vaccine parents" source pro-vaccine parents edge "are trained to be" edge are trained to be target "community advocates" target community advocates label "pro-vaccine parents - are trained to be - community advocates" label pro-vaccine parents - are trained to be - community advocates
+45 51 1.0 source "pro-vaccine parents" source pro-vaccine parents edge spread edge spread target "vaccine message" target vaccine message comments "pro-vaccine message" comments pro-vaccine message label "pro-vaccine parents - spread - vaccine message" label pro-vaccine parents - spread - vaccine message
+47 72 1.0 source "86% vaccination coverage" source 86% vaccination coverage edge is edge is target "low vaccination coverage" target low vaccination coverage label "86% vaccination coverage - is - low vaccination coverage" label 86% vaccination coverage - is - low vaccination coverage
+48 56 1.0 source "antivaccine movement" source antivaccine movement edge "is driven by" edge is driven by target "fear of vaccine-autism link" target fear of vaccine-autism link label "antivaccine movement - is driven by - fear of vaccine-autism link" label antivaccine movement - is driven by - fear of vaccine-autism link
+48 64 1.0 source "antivaccine movement" source antivaccine movement edge "is driven by fears that shots cause" edge is driven by fears that shots cause target autism target autism label "antivaccine movement - is driven by fears that shots cause - autism" label antivaccine movement - is driven by fears that shots cause - autism
+48 39 1.0 source "antivaccine movement" source antivaccine movement edge "is driven by fears that shots cause autism and other" edge is driven by fears that shots cause autism and other target "side effects" target side effects label "antivaccine movement - is driven by fears that shots cause autism and other - side effects" label antivaccine movement - is driven by fears that shots cause autism and other - side effects
+49 71 1.0 source measles source measles edge "killed more around the world in 2013" edge killed more around the world in 2013 target children target children comments "than AIDS" comments than AIDS label "measles - killed more around the world in 2013 - children" label measles - killed more around the world in 2013 - children
+49 78 1.0 source measles source measles edge "is very" edge is very target "preventable disease" target preventable disease label "measles - is very - preventable disease" label measles - is very - preventable disease
+50 13 1.0 source Tanzania source Tanzania edge "has 99 percent" edge has 99 percent target "measles vaccination rate" target measles vaccination rate label "Tanzania - has 99 percent - measles vaccination rate" label Tanzania - has 99 percent - measles vaccination rate
+50 10 1.0 source Tanzania source Tanzania edge "has passed" edge has passed target "92 to 94 percent vaccination coverage" target 92 to 94 percent vaccination coverage label "Tanzania - has passed - 92 to 94 percent vaccination coverage" label Tanzania - has passed - 92 to 94 percent vaccination coverage
+51 1 1.0 source "vaccine message" source vaccine message edge "spread by speaking directly to" edge spread by speaking directly to target neighbors target neighbors label "vaccine message - spread by speaking directly to - neighbors" label vaccine message - spread by speaking directly to - neighbors
+51 61 1.0 source "vaccine message" source vaccine message edge "spread at" edge spread at target schools target schools label "vaccine message - spread at - schools" label vaccine message - spread at - schools
+51 16 1.0 source "vaccine message" source vaccine message edge "spread at" edge spread at target "community events" target community events label "vaccine message - spread at - community events" label vaccine message - spread at - community events
+51 23 1.0 source "vaccine message" source vaccine message edge "spread on" edge spread on target "social media" target social media label "vaccine message - spread on - social media" label vaccine message - spread on - social media
+52 36 1.0 source "measles protection" source measles protection edge "rests on" edge rests on target "herd immunity" target herd immunity comments powerful comments powerful label "measles protection - rests on - herd immunity" label measles protection - rests on - herd immunity
+55 10 1.0 source "United States" source United States edge "has not passed" edge has not passed target "92 to 94 percent vaccination coverage" target 92 to 94 percent vaccination coverage label "United States - has not passed - 92 to 94 percent vaccination coverage" label United States - has not passed - 92 to 94 percent vaccination coverage
+55 60 1.0 source "United States" source United States edge "vaccination coverage dragged down by" edge vaccination coverage dragged down by target "parents who refuse to vaccinate their children" target parents who refuse to vaccinate their children label "United States - vaccination coverage dragged down by - parents who refuse to vaccinate their children" label United States - vaccination coverage dragged down by - parents who refuse to vaccinate their children
+58 11 1.0 source pediatricians source pediatricians edge "are the best route to reach" edge are the best route to reach target "hesitant parents" target hesitant parents label "pediatricians - are the best route to reach - hesitant parents" label pediatricians - are the best route to reach - hesitant parents
+58 21 1.0 source pediatricians source pediatricians edge "are one of the most important" edge are one of the most important target "vaccine information sources" target vaccine information sources label "pediatricians - are one of the most important - vaccine information sources" label pediatricians - are one of the most important - vaccine information sources
+60 54 1.0 source "parents who refuse to vaccinate their children" source parents who refuse to vaccinate their children edge "in the U.S. have not" edge in the U.S. have not target "met the bar" target met the bar comments "previously stated vaccination coverage" comments previously stated vaccination coverage label "parents who refuse to vaccinate their children - in the U.S. have not - met the bar" label parents who refuse to vaccinate their children - in the U.S. have not - met the bar
+62 47 1.0 source Ohio source Ohio edge has edge has target "86% vaccination coverage" target 86% vaccination coverage label "Ohio - has - 86% vaccination coverage" label Ohio - has - 86% vaccination coverage
+63 35 1.0 source friends source friends edge "recruiting to pass on the message could be more effective for" edge recruiting to pass on the message could be more effective for target parents target parents comments "whose distrust of the medical establishment fuesl hesitancy about vaccines" comments whose distrust of the medical establishment fuesl hesitancy about vaccines label "friends - recruiting to pass on the message could be more effective for - parents" label friends - recruiting to pass on the message could be more effective for - parents
+65 35 1.0 source peers source peers edge "recruiting to pass on the message could be more effective for" edge recruiting to pass on the message could be more effective for target parents target parents comments "whose distrust of the medical establishment fuesl hesitancy about vaccines" comments whose distrust of the medical establishment fuesl hesitancy about vaccines label "peers - recruiting to pass on the message could be more effective for - parents" label peers - recruiting to pass on the message could be more effective for - parents
+66 47 1.0 source Colorado source Colorado edge has edge has target "86% vaccination coverage" target 86% vaccination coverage label "Colorado - has - 86% vaccination coverage" label Colorado - has - 86% vaccination coverage
+67 76 1.0 source "date and time for shot" source date and time for shot edge "should be" edge should be target "written down" target written down comments "2011 study at midwestern utilities firm" comments 2011 study at midwestern utilities firm label "date and time for shot - should be - written down" label date and time for shot - should be - written down
+68 14 1.0 source "vaccine-autism link" source vaccine-autism link edge "usually stems from" edge usually stems from target "Wakefield study" target Wakefield study comments "fraudulent and retracted 1998 Lancet study" comments fraudulent and retracted 1998 Lancet study label "vaccine-autism link - usually stems from - Wakefield study" label vaccine-autism link - usually stems from - Wakefield study
+69 67 1.0 source employees source employees edge "were more likely to get flu shot when prompting to write down" edge were more likely to get flu shot when prompting to write down target "date and time for shot" target date and time for shot comments "2011 study at midwestern utilities firm" comments 2011 study at midwestern utilities firm label "employees - were more likely to get flu shot when prompting to write down - date and time for shot" label employees - were more likely to get flu shot when prompting to write down - date and time for shot
+72 49 1.0 source "low vaccination coverage" source low vaccination coverage edge "in 2014, caused 644 people in the U.S. to be sickened by" edge in 2014, caused 644 people in the U.S. to be sickened by target measles target measles comments "more than in any year since 2000" comments more than in any year since 2000 label "low vaccination coverage - in 2014, caused 644 people in the U.S. to be sickened by - measles" label low vaccination coverage - in 2014, caused 644 people in the U.S. to be sickened by - measles
+73 8 1.0 source "vaccine refusal rates" source vaccine refusal rates edge "increase when" edge increase when target doctors target doctors comments "do not stand strongly behind vaccines" comments do not stand strongly behind vaccines label "vaccine refusal rates - increase when - doctors" label vaccine refusal rates - increase when - doctors
+77 79 1.0 source Americans source Americans edge "most would support" edge most would support target "vaccine mandates" target vaccine mandates comments "Eight out of 10 Americans would support such laws, one CNN poll found" comments Eight out of 10 Americans would support such laws, one CNN poll found label "Americans - most would support - vaccine mandates" label Americans - most would support - vaccine mandates
+79 48 1.0 source "vaccine mandates" source vaccine mandates edge "would probably reinforce the" edge would probably reinforce the target "antivaccine movement" target antivaccine movement label "vaccine mandates - would probably reinforce the - antivaccine movement" label vaccine mandates - would probably reinforce the - antivaccine movement
+79 5 1.0 source "vaccine mandates" source vaccine mandates edge are edge are target "strong-arm tactics" target strong-arm tactics label "vaccine mandates - are - strong-arm tactics" label vaccine mandates - are - strong-arm tactics
+79 15 1.0 source "vaccine mandates" source vaccine mandates edge "would probably" edge would probably target backfire target backfire label "vaccine mandates - would probably - backfire" label vaccine mandates - would probably - backfire
+80 4 1.0 source "parents who vehemently oppose vaccines" source parents who vehemently oppose vaccines edge "Fortunately make up only about 9 percent of" edge Fortunately make up only about 9 percent of target adults target adults comments "according to Gallup poll" comments according to Gallup poll label "parents who vehemently oppose vaccines - Fortunately make up only about 9 percent of - adults" label parents who vehemently oppose vaccines - Fortunately make up only about 9 percent of - adults
+80 7 1.0 source "parents who vehemently oppose vaccines" source parents who vehemently oppose vaccines edge "become even less likely to vaccinate when confronted by insistence on" edge become even less likely to vaccinate when confronted by insistence on target "vaccine safety" target vaccine safety comments "researchers have found" comments researchers have found label "parents who vehemently oppose vaccines - become even less likely to vaccinate when confronted by insistence on - vaccine safety" label parents who vehemently oppose vaccines - become even less likely to vaccinate when confronted by insistence on - vaccine safety
+81 25 1.0 source "measles vaccine coverage" source measles vaccine coverage edge "for hesitant parents should try" edge for hesitant parents should try target "small nudges" target small nudges label "measles vaccine coverage - for hesitant parents should try - small nudges" label measles vaccine coverage - for hesitant parents should try - small nudges
+83 22 1.0 source "fence sitters" source fence sitters edge "could be encouraged to vaccinate by asking to" edge could be encouraged to vaccinate by asking to target "make plans ahead of time" target make plans ahead of time label "fence sitters - could be encouraged to vaccinate by asking to - make plans ahead of time" label fence sitters - could be encouraged to vaccinate by asking to - make plans ahead of time

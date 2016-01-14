@@ -1,0 +1,104 @@
+*vertices 54
+1 "medical science" 0.0 0.0 ellipse
+2 "Barry Segal" 0.0 0.0 ellipse
+3 "Generation Rescue" 0.0 0.0 ellipse
+4 "Immunization Action Coalition" 0.0 0.0 ellipse
+5 "nonprofit organizations" 0.0 0.0 ellipse
+6 "vaccine debate" 0.0 0.0 ellipse
+7 celebrities 0.0 0.0 ellipse
+8 "anti-vaccine movement" 0.0 0.0 ellipse
+9 "vaccine choice" 0.0 0.0 ellipse
+10 "whooping cough vaccination is safe" 0.0 0.0 ellipse
+11 "MMR vaccine" 0.0 0.0 ellipse
+12 "wealthy family foundations" 0.0 0.0 ellipse
+13 autism 0.0 0.0 ellipse
+14 "Andrew Wakefield" 0.0 0.0 ellipse
+15 asthma 0.0 0.0 ellipse
+16 "anti-vaccine bandwagon" 0.0 0.0 ellipse
+17 "vaccine concerns" 0.0 0.0 ellipse
+18 "cognitive disorders" 0.0 0.0 ellipse
+19 "measles vaccination is safe" 0.0 0.0 ellipse
+20 "Alfred and Lisa Claire Dwoskin" 0.0 0.0 ellipse
+21 "vaccines should be voluntary" 0.0 0.0 ellipse
+22 "inflammatory disorders" 0.0 0.0 ellipse
+23 vaccines 0.0 0.0 ellipse
+24 politicians 0.0 0.0 ellipse
+25 "Dwoskin Family Foundation" 0.0 0.0 ellipse
+26 "Lisa and J.B. Handley" 0.0 0.0 ellipse
+27 "autism spectrum disorder" 0.0 0.0 ellipse
+28 "chronic illness" 0.0 0.0 ellipse
+29 Republican 0.0 0.0 ellipse
+30 "vaccine-preventable diseases" 0.0 0.0 ellipse
+31 "Rand Paul" 0.0 0.0 ellipse
+32 "changes in diagnostic criteria" 0.0 0.0 ellipse
+33 "significantly increased" 0.0 0.0 ellipse
+34 "childhood illnesses" 0.0 0.0 ellipse
+35 "rubella vaccination is safe" 0.0 0.0 ellipse
+36 "link between aluminum in vaccines and neurological disorders" 0.0 0.0 ellipse
+37 "vaccines cause childhood illnesses" 0.0 0.0 ellipse
+38 "University of British Columbia" 0.0 0.0 ellipse
+39 "vaccine risks" 0.0 0.0 ellipse
+40 discredited 0.0 0.0 ellipse
+41 "National Vaccine Information Center" 0.0 0.0 ellipse
+42 "autism epidemic" 0.0 0.0 ellipse
+43 president 0.0 0.0 ellipse
+44 "immune disorders" 0.0 0.0 ellipse
+45 "medical license" 0.0 0.0 ellipse
+46 "Focus for Health" 0.0 0.0 ellipse
+47 aluminum 0.0 0.0 ellipse
+48 CDC 0.0 0.0 ellipse
+49 "Jenny McCarthy" 0.0 0.0 ellipse
+50 alzheimer's 0.0 0.0 ellipse
+51 "Chris Christie" 0.0 0.0 ellipse
+52 "MMR vaccine causes autism" 0.0 0.0 ellipse
+53 "inclusion of out-of-hospital diagnoses" 0.0 0.0 ellipse
+54 "neurological disorders" 0.0 0.0 ellipse
+*arcs
+1 19 1.0 source "medical science" source medical science edge "says the evidence is clear" edge says the evidence is clear target "measles vaccination is safe" target measles vaccination is safe label "medical science - says the evidence is clear - measles vaccination is safe" label medical science - says the evidence is clear - measles vaccination is safe
+1 35 1.0 source "medical science" source medical science edge "says the evidence is clear" edge says the evidence is clear target "rubella vaccination is safe" target rubella vaccination is safe label "medical science - says the evidence is clear - rubella vaccination is safe" label medical science - says the evidence is clear - rubella vaccination is safe
+1 10 1.0 source "medical science" source medical science edge "says the evidence is clear" edge says the evidence is clear target "whooping cough vaccination is safe" target whooping cough vaccination is safe label "medical science - says the evidence is clear - whooping cough vaccination is safe" label medical science - says the evidence is clear - whooping cough vaccination is safe
+2 46 1.0 source "Barry Segal" source Barry Segal edge created edge created target "Focus for Health" target Focus for Health label "Barry Segal - created - Focus for Health" label Barry Segal - created - Focus for Health
+3 49 1.0 source "Generation Rescue" source Generation Rescue edge "headed by" edge headed by target "Jenny McCarthy" target Jenny McCarthy label "Generation Rescue - headed by - Jenny McCarthy" label Generation Rescue - headed by - Jenny McCarthy
+3 26 1.0 source "Generation Rescue" source Generation Rescue edge "started by" edge started by target "Lisa and J.B. Handley" target Lisa and J.B. Handley label "Generation Rescue - started by - Lisa and J.B. Handley" label Generation Rescue - started by - Lisa and J.B. Handley
+3 14 1.0 source "Generation Rescue" source Generation Rescue edge "has support from" edge has support from target "Andrew Wakefield" target Andrew Wakefield comments "according to CNN Money" comments according to CNN Money label "Generation Rescue - has support from - Andrew Wakefield" label Generation Rescue - has support from - Andrew Wakefield
+4 48 1.0 source "Immunization Action Coalition" source Immunization Action Coalition edge "works closely with" edge works closely with target CDC target CDC label "Immunization Action Coalition - works closely with - CDC" label Immunization Action Coalition - works closely with - CDC
+6 12 1.0 source "vaccine debate" source vaccine debate edge "funding comes from a number of" edge funding comes from a number of target "wealthy family foundations" target wealthy family foundations label "vaccine debate - funding comes from a number of - wealthy family foundations" label vaccine debate - funding comes from a number of - wealthy family foundations
+6 5 1.0 source "vaccine debate" source vaccine debate edge "often spearheaded by" edge often spearheaded by target "nonprofit organizations" target nonprofit organizations label "vaccine debate - often spearheaded by - nonprofit organizations" label vaccine debate - often spearheaded by - nonprofit organizations
+6 7 1.0 source "vaccine debate" source vaccine debate edge "often spearheaded by" edge often spearheaded by target celebrities target celebrities label "vaccine debate - often spearheaded by - celebrities" label vaccine debate - often spearheaded by - celebrities
+8 52 1.0 source "anti-vaccine movement" source anti-vaccine movement edge "set off by idea that" edge set off by idea that target "MMR vaccine causes autism" target MMR vaccine causes autism label "anti-vaccine movement - set off by idea that - MMR vaccine causes autism" label anti-vaccine movement - set off by idea that - MMR vaccine causes autism
+11 13 1.0 source "MMR vaccine" source MMR vaccine edge "many studies have refuted the connection between" edge many studies have refuted the connection between target autism target autism comments "according to the Immunization Action Coalition" comments according to the Immunization Action Coalition label "MMR vaccine - many studies have refuted the connection between - autism" label MMR vaccine - many studies have refuted the connection between - autism
+13 33 1.0 source autism source autism edge "since the 1980s has" edge since the 1980s has target "significantly increased" target significantly increased label "autism - since the 1980s has - significantly increased" label autism - since the 1980s has - significantly increased
+14 8 1.0 source "Andrew Wakefield" source Andrew Wakefield edge "set off the" edge set off the target "anti-vaccine movement" target anti-vaccine movement label "Andrew Wakefield - set off the - anti-vaccine movement" label Andrew Wakefield - set off the - anti-vaccine movement
+14 45 1.0 source "Andrew Wakefield" source Andrew Wakefield edge "lost his" edge lost his target "medical license" target medical license label "Andrew Wakefield - lost his - medical license" label Andrew Wakefield - lost his - medical license
+14 40 1.0 source "Andrew Wakefield" source Andrew Wakefield edge was edge was target discredited target discredited label "Andrew Wakefield - was - discredited" label Andrew Wakefield - was - discredited
+14 52 1.0 source "Andrew Wakefield" source Andrew Wakefield edge "is former British doctor and co-author of discredited 1998 paper that claimed" edge is former British doctor and co-author of discredited 1998 paper that claimed target "MMR vaccine causes autism" target MMR vaccine causes autism label "Andrew Wakefield - is former British doctor and co-author of discredited 1998 paper that claimed - MMR vaccine causes autism" label Andrew Wakefield - is former British doctor and co-author of discredited 1998 paper that claimed - MMR vaccine causes autism
+15 33 1.0 source asthma source asthma edge "since the 1980s has" edge since the 1980s has target "significantly increased" target significantly increased label "asthma - since the 1980s has - significantly increased" label asthma - since the 1980s has - significantly increased
+23 44 1.0 source vaccines source vaccines edge cause edge cause target "immune disorders" target immune disorders label "vaccines - cause - immune disorders" label vaccines - cause - immune disorders
+23 18 1.0 source vaccines source vaccines edge cause edge cause target "cognitive disorders" target cognitive disorders label "vaccines - cause - cognitive disorders" label vaccines - cause - cognitive disorders
+23 22 1.0 source vaccines source vaccines edge cause edge cause target "inflammatory disorders" target inflammatory disorders label "vaccines - cause - inflammatory disorders" label vaccines - cause - inflammatory disorders
+23 34 1.0 source vaccines source vaccines edge "cause various" edge cause various target "childhood illnesses" target childhood illnesses label "vaccines - cause various - childhood illnesses" label vaccines - cause various - childhood illnesses
+24 16 1.0 source politicians source politicians edge "as the U.S. sees a measles flare-up, some seem to jump on the" edge as the U.S. sees a measles flare-up, some seem to jump on the target "anti-vaccine bandwagon" target anti-vaccine bandwagon comments "Washington Post reports" comments Washington Post reports label "politicians - as the U.S. sees a measles flare-up, some seem to jump on the - anti-vaccine bandwagon" label politicians - as the U.S. sees a measles flare-up, some seem to jump on the - anti-vaccine bandwagon
+25 44 1.0 source "Dwoskin Family Foundation" source Dwoskin Family Foundation edge "has funded efforts focused on finding in children and older adults the causes of" edge has funded efforts focused on finding in children and older adults the causes of target "immune disorders" target immune disorders label "Dwoskin Family Foundation - has funded efforts focused on finding in children and older adults the causes of - immune disorders" label Dwoskin Family Foundation - has funded efforts focused on finding in children and older adults the causes of - immune disorders
+25 20 1.0 source "Dwoskin Family Foundation" source Dwoskin Family Foundation edge "started by" edge started by target "Alfred and Lisa Claire Dwoskin" target Alfred and Lisa Claire Dwoskin label "Dwoskin Family Foundation - started by - Alfred and Lisa Claire Dwoskin" label Dwoskin Family Foundation - started by - Alfred and Lisa Claire Dwoskin
+25 18 1.0 source "Dwoskin Family Foundation" source Dwoskin Family Foundation edge "has funded efforts focused on finding in children and older adults the causes of" edge has funded efforts focused on finding in children and older adults the causes of target "cognitive disorders" target cognitive disorders label "Dwoskin Family Foundation - has funded efforts focused on finding in children and older adults the causes of - cognitive disorders" label Dwoskin Family Foundation - has funded efforts focused on finding in children and older adults the causes of - cognitive disorders
+25 36 1.0 source "Dwoskin Family Foundation" source Dwoskin Family Foundation edge "donated $950,000 towards some research looking at potential" edge donated $950,000 towards some research looking at potential target "link between aluminum in vaccines and neurological disorders" target link between aluminum in vaccines and neurological disorders label "Dwoskin Family Foundation - donated $950,000 towards some research looking at potential - link between aluminum in vaccines and neurological disorders" label Dwoskin Family Foundation - donated $950,000 towards some research looking at potential - link between aluminum in vaccines and neurological disorders
+25 22 1.0 source "Dwoskin Family Foundation" source Dwoskin Family Foundation edge "has funded efforts focused on finding in children and older adults the causes of" edge has funded efforts focused on finding in children and older adults the causes of target "inflammatory disorders" target inflammatory disorders label "Dwoskin Family Foundation - has funded efforts focused on finding in children and older adults the causes of - inflammatory disorders" label Dwoskin Family Foundation - has funded efforts focused on finding in children and older adults the causes of - inflammatory disorders
+25 37 1.0 source "Dwoskin Family Foundation" source Dwoskin Family Foundation edge "put money into a film that suggested" edge put money into a film that suggested target "vaccines cause childhood illnesses" target vaccines cause childhood illnesses label "Dwoskin Family Foundation - put money into a film that suggested - vaccines cause childhood illnesses" label Dwoskin Family Foundation - put money into a film that suggested - vaccines cause childhood illnesses
+25 38 1.0 source "Dwoskin Family Foundation" source Dwoskin Family Foundation edge "donated $950,000 to" edge donated $950,000 to target "University of British Columbia" target University of British Columbia label "Dwoskin Family Foundation - donated $950,000 to - University of British Columbia" label Dwoskin Family Foundation - donated $950,000 to - University of British Columbia
+25 41 1.0 source "Dwoskin Family Foundation" source Dwoskin Family Foundation edge "has donated $263,000 to" edge has donated $263,000 to target "National Vaccine Information Center" target National Vaccine Information Center label "Dwoskin Family Foundation - has donated $263,000 to - National Vaccine Information Center" label Dwoskin Family Foundation - has donated $263,000 to - National Vaccine Information Center
+27 53 1.0 source "autism spectrum disorder" source autism spectrum disorder edge "apparent increase of 60% of cases is due to" edge apparent increase of 60% of cases is due to target "inclusion of out-of-hospital diagnoses" target inclusion of out-of-hospital diagnoses comments "according to CBS News, recent study by Danish researchers" comments according to CBS News, recent study by Danish researchers label "autism spectrum disorder - apparent increase of 60% of cases is due to - inclusion of out-of-hospital diagnoses" label autism spectrum disorder - apparent increase of 60% of cases is due to - inclusion of out-of-hospital diagnoses
+27 32 1.0 source "autism spectrum disorder" source autism spectrum disorder edge "apparent increase of 60% of cases is due to" edge apparent increase of 60% of cases is due to target "changes in diagnostic criteria" target changes in diagnostic criteria comments "according to CBS News, recent study by Danish researchers" comments according to CBS News, recent study by Danish researchers label "autism spectrum disorder - apparent increase of 60% of cases is due to - changes in diagnostic criteria" label autism spectrum disorder - apparent increase of 60% of cases is due to - changes in diagnostic criteria
+31 43 1.0 source "Rand Paul" source Rand Paul edge "expected to run for 2016" edge expected to run for 2016 target president target president label "Rand Paul - expected to run for 2016 - president" label Rand Paul - expected to run for 2016 - president
+31 29 1.0 source "Rand Paul" source Rand Paul edge is edge is target Republican target Republican label "Rand Paul - is - Republican" label Rand Paul - is - Republican
+31 21 1.0 source "Rand Paul" source Rand Paul edge "said that most" edge said that most target "vaccines should be voluntary" target vaccines should be voluntary comments "KY Senator" comments KY Senator label "Rand Paul - said that most - vaccines should be voluntary" label Rand Paul - said that most - vaccines should be voluntary
+38 36 1.0 source "University of British Columbia" source University of British Columbia edge "research looking at potential" edge research looking at potential target "link between aluminum in vaccines and neurological disorders" target link between aluminum in vaccines and neurological disorders label "University of British Columbia - research looking at potential - link between aluminum in vaccines and neurological disorders" label University of British Columbia - research looking at potential - link between aluminum in vaccines and neurological disorders
+39 30 1.0 source "vaccine risks" source vaccine risks edge "are far lower than the potential for permanent damage or death caused by" edge are far lower than the potential for permanent damage or death caused by target "vaccine-preventable diseases" target vaccine-preventable diseases label "vaccine risks - are far lower than the potential for permanent damage or death caused by - vaccine-preventable diseases" label vaccine risks - are far lower than the potential for permanent damage or death caused by - vaccine-preventable diseases
+41 17 1.0 source "National Vaccine Information Center" source National Vaccine Information Center edge "through billboards, the giant Jumbotron display in Times Square, and a film on Delta's (DAL) in-flight video network promotes" edge through billboards, the giant Jumbotron display in Times Square, and a film on Delta's (DAL) in-flight video network promotes target "vaccine concerns" target vaccine concerns label "National Vaccine Information Center - through billboards, the giant Jumbotron display in Times Square, and a film on Delta's (DAL) in-flight video network promotes - vaccine concerns" label National Vaccine Information Center - through billboards, the giant Jumbotron display in Times Square, and a film on Delta's (DAL) in-flight video network promotes - vaccine concerns
+46 42 1.0 source "Focus for Health" source Focus for Health edge "is dedicated to advocacy, education, investigation and research that explores" edge is dedicated to advocacy, education, investigation and research that explores target "autism epidemic" target autism epidemic label "Focus for Health - is dedicated to advocacy, education, investigation and research that explores - autism epidemic" label Focus for Health - is dedicated to advocacy, education, investigation and research that explores - autism epidemic
+46 28 1.0 source "Focus for Health" source Focus for Health edge "is dedicated to advocacy, education, investigation and research that explores" edge is dedicated to advocacy, education, investigation and research that explores target "chronic illness" target chronic illness label "Focus for Health - is dedicated to advocacy, education, investigation and research that explores - chronic illness" label Focus for Health - is dedicated to advocacy, education, investigation and research that explores - chronic illness
+46 3 1.0 source "Focus for Health" source Focus for Health edge "donated $171,000 to" edge donated $171,000 to target "Generation Rescue" target Generation Rescue label "Focus for Health - donated $171,000 to - Generation Rescue" label Focus for Health - donated $171,000 to - Generation Rescue
+47 54 1.0 source aluminum source aluminum edge "in vaccines linked to" edge in vaccines linked to target "neurological disorders" target neurological disorders label "aluminum - in vaccines linked to - neurological disorders" label aluminum - in vaccines linked to - neurological disorders
+50 33 1.0 source alzheimer's source alzheimer's edge "since the 1980s has" edge since the 1980s has target "significantly increased" target significantly increased label "alzheimer's - since the 1980s has - significantly increased" label alzheimer's - since the 1980s has - significantly increased
+51 9 1.0 source "Chris Christie" source Chris Christie edge "called for "some measure of choice" on vaccines by parents" edge called for "some measure of choice" on vaccines by parents target "vaccine choice" target vaccine choice comments "NJ Governor" comments NJ Governor label "Chris Christie - called for "some measure of choice" on vaccines by parents - vaccine choice" label Chris Christie - called for "some measure of choice" on vaccines by parents - vaccine choice
+51 43 1.0 source "Chris Christie" source Chris Christie edge "expected to run for 2016" edge expected to run for 2016 target president target president label "Chris Christie - expected to run for 2016 - president" label Chris Christie - expected to run for 2016 - president
+51 29 1.0 source "Chris Christie" source Chris Christie edge is edge is target Republican target Republican label "Chris Christie - is - Republican" label Chris Christie - is - Republican

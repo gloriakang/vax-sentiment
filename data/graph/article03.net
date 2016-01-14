@@ -1,0 +1,29 @@
+*vertices 17
+1 parent 0.0 0.0 ellipse
+2 "vaccine dangers" 0.0 0.0 ellipse
+3 "unvaccinated children" 0.0 0.0 ellipse
+4 "vaccines are not safe" 0.0 0.0 ellipse
+5 safe 0.0 0.0 ellipse
+6 "parents who know that vaccines are not safe" 0.0 0.0 ellipse
+7 "vaccine-injured children" 0.0 0.0 ellipse
+8 "vaccinated children" 0.0 0.0 ellipse
+9 vaccines 0.0 0.0 ellipse
+10 doctors 0.0 0.0 ellipse
+11 parents 0.0 0.0 ellipse
+12 "consent for vaccines" 0.0 0.0 ellipse
+13 "contract preventable disease" 0.0 0.0 ellipse
+14 "immune system" 0.0 0.0 ellipse
+15 truthful 0.0 0.0 ellipse
+16 "get child vaccinated" 0.0 0.0 ellipse
+17 "vaccine consent forms" 0.0 0.0 ellipse
+*arcs
+1 16 1.0 source parent source parent edge "no sane mom would" edge no sane mom would target "get child vaccinated" target get child vaccinated comments "if doctors offered truthful consent forms" comments if doctors offered truthful consent forms label "parent - no sane mom would - get child vaccinated" label parent - no sane mom would - get child vaccinated
+3 14 1.0 source "unvaccinated children" source unvaccinated children edge "developed naturally without vaccines" edge developed naturally without vaccines target "immune system" target immune system label "unvaccinated children - developed naturally without vaccines - immune system" label unvaccinated children - developed naturally without vaccines - immune system
+6 7 1.0 source "parents who know that vaccines are not safe" source parents who know that vaccines are not safe edge have edge have target "vaccine-injured children" target vaccine-injured children label "parents who know that vaccines are not safe - have - vaccine-injured children" label parents who know that vaccines are not safe - have - vaccine-injured children
+8 13 1.0 source "vaccinated children" source vaccinated children edge "are up to five times more likely than unvaccinated children to" edge are up to five times more likely than unvaccinated children to target "contract preventable disease" target contract preventable disease comments "as reported by Health Freedom Alliance" comments as reported by Health Freedom Alliance label "vaccinated children - are up to five times more likely than unvaccinated children to - contract preventable disease" label vaccinated children - are up to five times more likely than unvaccinated children to - contract preventable disease
+9 5 1.0 source vaccines source vaccines edge "are not" edge are not target safe target safe label "vaccines - are not - safe" label vaccines - are not - safe
+10 17 1.0 source doctors source doctors edge "do not offer truthful" edge do not offer truthful target "vaccine consent forms" target vaccine consent forms label "doctors - do not offer truthful - vaccine consent forms" label doctors - do not offer truthful - vaccine consent forms
+11 4 1.0 source parents source parents edge "many know that" edge many know that target "vaccines are not safe" target vaccines are not safe label "parents - many know that - vaccines are not safe" label parents - many know that - vaccines are not safe
+11 12 1.0 source parents source parents edge "do not receive truthful" edge do not receive truthful target "consent for vaccines" target consent for vaccines label "parents - do not receive truthful - consent for vaccines" label parents - do not receive truthful - consent for vaccines
+11 2 1.0 source parents source parents edge "would never take the chance to subject their kids to" edge would never take the chance to subject their kids to target "vaccine dangers" target vaccine dangers comments "if presented with a truthful consent form" comments if presented with a truthful consent form label "parents - would never take the chance to subject their kids to - vaccine dangers" label parents - would never take the chance to subject their kids to - vaccine dangers
+12 15 1.0 source "consent for vaccines" source consent for vaccines edge "is not" edge is not target truthful target truthful label "consent for vaccines - is not - truthful" label consent for vaccines - is not - truthful

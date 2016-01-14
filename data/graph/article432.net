@@ -1,0 +1,198 @@
+*vertices 100
+1 "antiviral qualities" 0.0 0.0 ellipse
+2 children 0.0 0.0 ellipse
+3 "President Johnson" 0.0 0.0 ellipse
+4 "cycle of measles" 0.0 0.0 ellipse
+5 parents 0.0 0.0 ellipse
+6 "actual rates" 0.0 0.0 ellipse
+7 "oil of oregano" 0.0 0.0 ellipse
+8 food 0.0 0.0 ellipse
+9 "measles death count" 0.0 0.0 ellipse
+10 "decline in measles prior to measles vaccine" 0.0 0.0 ellipse
+11 "chewable multivitamin" 0.0 0.0 ellipse
+12 schools 0.0 0.0 ellipse
+13 "measles complications" 0.0 0.0 ellipse
+14 "shot of perspective" 0.0 0.0 ellipse
+15 "measles is deadly" 0.0 0.0 ellipse
+16 "measle decline" 0.0 0.0 ellipse
+17 "spike in measles cases" 0.0 0.0 ellipse
+18 "measles historic cycle" 0.0 0.0 ellipse
+19 "measles decline" 0.0 0.0 ellipse
+20 "U.S. population" 0.0 0.0 ellipse
+21 "scare the crap out of you" 0.0 0.0 ellipse
+22 "measles antibodies" 0.0 0.0 ellipse
+23 "global measles death count for children" 0.0 0.0 ellipse
+24 homeopathy 0.0 0.0 ellipse
+25 "death from suicide" 0.0 0.0 ellipse
+26 "up-to-date vaccinations" 0.0 0.0 ellipse
+27 "first measles vaccine" 0.0 0.0 ellipse
+28 "Kennedy's first executive order" 0.0 0.0 ellipse
+29 "actual number measles cases" 0.0 0.0 ellipse
+30 "measles deaths" 0.0 0.0 ellipse
+31 Flinstones 0.0 0.0 ellipse
+32 "great records" 0.0 0.0 ellipse
+33 "rate of measles cases" 0.0 0.0 ellipse
+34 "large spike" 0.0 0.0 ellipse
+35 "measles vaccine" 0.0 0.0 ellipse
+36 formula 0.0 0.0 ellipse
+37 math 0.0 0.0 ellipse
+38 "military records" 0.0 0.0 ellipse
+39 "death from car accident" 0.0 0.0 ellipse
+40 "death from murder" 0.0 0.0 ellipse
+41 "United States" 0.0 0.0 ellipse
+42 "USDA food donations" 0.0 0.0 ellipse
+43 deaths 0.0 0.0 ellipse
+44 "neonatal infection" 0.0 0.0 ellipse
+45 scary 0.0 0.0 ellipse
+46 "high fructose corn syrup" 0.0 0.0 ellipse
+47 "death from stomach ulcers" 0.0 0.0 ellipse
+48 "diabetes deaths" 0.0 0.0 ellipse
+49 "measles death rate" 0.0 0.0 ellipse
+50 "measles rate" 0.0 0.0 ellipse
+51 "pro-vax people" 0.0 0.0 ellipse
+52 "death from congenital malformation" 0.0 0.0 ellipse
+53 Chocks 0.0 0.0 ellipse
+54 "scare tactic" 0.0 0.0 ellipse
+55 THEY 0.0 0.0 ellipse
+56 WHO 0.0 0.0 ellipse
+57 unexposed 0.0 0.0 ellipse
+58 "War on Poverty" 0.0 0.0 ellipse
+59 "Civil War" 0.0 0.0 ellipse
+60 "worldwide measles death rates" 0.0 0.0 ellipse
+61 Kennedy 0.0 0.0 ellipse
+62 "highly susceptible" 0.0 0.0 ellipse
+63 measles 0.0 0.0 ellipse
+64 "cod-liver oil" 0.0 0.0 ellipse
+65 failure 0.0 0.0 ellipse
+66 doctors 0.0 0.0 ellipse
+67 "one specific age range" 0.0 0.0 ellipse
+68 "monster under the bed" 0.0 0.0 ellipse
+69 population 0.0 0.0 ellipse
+70 CDC 0.0 0.0 ellipse
+71 outrageous 0.0 0.0 ellipse
+72 "essential oils" 0.0 0.0 ellipse
+73 iron 0.0 0.0 ellipse
+74 "us not comprehending" 0.0 0.0 ellipse
+75 "measles mortality rate" 0.0 0.0 ellipse
+76 "number of measles cases" 0.0 0.0 ellipse
+77 "World War I" 0.0 0.0 ellipse
+78 "initiatives that helped minorities" 0.0 0.0 ellipse
+79 "epidemic proportions" 0.0 0.0 ellipse
+80 "death from heart disease" 0.0 0.0 ellipse
+81 "initiatives that helped the poor" 0.0 0.0 ellipse
+82 "breast milk" 0.0 0.0 ellipse
+83 "measles data" 0.0 0.0 ellipse
+84 "death from congenital disease" 0.0 0.0 ellipse
+85 "Spanish American War" 0.0 0.0 ellipse
+86 babies 0.0 0.0 ellipse
+87 "population increase" 0.0 0.0 ellipse
+88 "population growth" 0.0 0.0 ellipse
+89 "Baby Boomers" 0.0 0.0 ellipse
+90 "Baby Boom" 0.0 0.0 ellipse
+91 "vitamin A supplements" 0.0 0.0 ellipse
+92 "Miles Laboratory" 0.0 0.0 ellipse
+93 "U.S. measles death rates" 0.0 0.0 ellipse
+94 "measles cases" 0.0 0.0 ellipse
+95 "Royal Navy records" 0.0 0.0 ellipse
+96 antibodies 0.0 0.0 ellipse
+97 "World War II" 0.0 0.0 ellipse
+98 "Kennedy's death" 0.0 0.0 ellipse
+99 "fresh foods" 0.0 0.0 ellipse
+100 "measles death" 0.0 0.0 ellipse
+*arcs
+2 8 1.0 source children source children edge "could not afford" edge could not afford target food target food label "children - could not afford - food" label children - could not afford - food
+2 63 1.0 source children source children edge "197,000 did not die from" edge 197,000 did not die from target measles target measles label "children - 197,000 did not die from - measles" label children - 197,000 did not die from - measles
+2 44 1.0 source children source children edge "240,000 die each year in low income countries from" edge 240,000 die each year in low income countries from target "neonatal infection" target neonatal infection label "children - 240,000 die each year in low income countries from - neonatal infection" label children - 240,000 die each year in low income countries from - neonatal infection
+3 58 1.0 source "President Johnson" source President Johnson edge "in 1964 launched" edge in 1964 launched target "War on Poverty" target War on Poverty label "President Johnson - in 1964 launched - War on Poverty" label President Johnson - in 1964 launched - War on Poverty
+5 15 1.0 source parents source parents edge "were being told that" edge were being told that target "measles is deadly" target measles is deadly label "parents - were being told that - measles is deadly" label parents - were being told that - measles is deadly
+7 72 1.0 source "oil of oregano" source oil of oregano edge is edge is target "essential oils" target essential oils label "oil of oregano - is - essential oils" label oil of oregano - is - essential oils
+9 71 1.0 source "measles death count" source measles death count edge "given global population is not really" edge given global population is not really target outrageous target outrageous comments "given [global population]" comments given [global population] label "measles death count - given global population is not really - outrageous" label measles death count - given global population is not really - outrageous
+9 69 1.0 source "measles death count" source measles death count edge "is not really outrageous given the global" edge is not really outrageous given the global target population target population label "measles death count - is not really outrageous given the global - population" label measles death count - is not really outrageous given the global - population
+11 2 1.0 source "chewable multivitamin" source chewable multivitamin edge "was aimed at" edge was aimed at target children target children label "chewable multivitamin - was aimed at - children" label chewable multivitamin - was aimed at - children
+14 26 1.0 source "shot of perspective" source shot of perspective edge "more valuable than" edge more valuable than target "up-to-date vaccinations" target up-to-date vaccinations label "shot of perspective - more valuable than - up-to-date vaccinations" label shot of perspective - more valuable than - up-to-date vaccinations
+18 17 1.0 source "measles historic cycle" source measles historic cycle edge "would expect to see every 2 to 3 years" edge would expect to see every 2 to 3 years target "spike in measles cases" target spike in measles cases label "measles historic cycle - would expect to see every 2 to 3 years - spike in measles cases" label measles historic cycle - would expect to see every 2 to 3 years - spike in measles cases
+18 90 1.0 source "measles historic cycle" source measles historic cycle edge "did not happen after" edge did not happen after target "Baby Boom" target Baby Boom comments "never saw another major spike after 2-3 years" comments never saw another major spike after 2-3 years label "measles historic cycle - did not happen after - Baby Boom" label measles historic cycle - did not happen after - Baby Boom
+19 35 1.0 source "measles decline" source measles decline edge "had been before" edge had been before target "measles vaccine" target measles vaccine label "measles decline - had been before - measles vaccine" label measles decline - had been before - measles vaccine
+20 100 1.0 source "U.S. population" source U.S. population edge ".000237% died from" edge .000237% died from target "measles death" target measles death comments "prior to [measles vaccine]" comments prior to [measles vaccine] label "U.S. population - .000237% died from - measles death" label U.S. population - .000237% died from - measles death
+20 63 1.0 source "U.S. population" source U.S. population edge "low percentage died from" edge low percentage died from target measles target measles comments "prior to [measles vaccine]" comments prior to [measles vaccine] label "U.S. population - low percentage died from - measles" label U.S. population - low percentage died from - measles
+23 54 1.0 source "global measles death count for children" source global measles death count for children edge is edge is target "scare tactic" target scare tactic label "global measles death count for children - is - scare tactic" label global measles death count for children - is - scare tactic
+24 63 1.0 source homeopathy source homeopathy edge "would be interesting to know impact on" edge would be interesting to know impact on target measles target measles label "homeopathy - would be interesting to know impact on - measles" label homeopathy - would be interesting to know impact on - measles
+25 100 1.0 source "death from suicide" source death from suicide edge "more likely than" edge more likely than target "measles death" target measles death comments "before [measles vaccine]" comments before [measles vaccine] label "death from suicide - more likely than - measles death" label death from suicide - more likely than - measles death
+27 65 1.0 source "first measles vaccine" source first measles vaccine edge deemed edge deemed target failure target failure label "first measles vaccine - deemed - failure" label first measles vaccine - deemed - failure
+28 42 1.0 source "Kennedy's first executive order" source Kennedy's first executive order edge "in January of 1961 mandated" edge in January of 1961 mandated target "USDA food donations" target USDA food donations comments "to the poor" comments to the poor label "Kennedy's first executive order - in January of 1961 mandated - USDA food donations" label Kennedy's first executive order - in January of 1961 mandated - USDA food donations
+31 53 1.0 source Flinstones source Flinstones edge "followed shortly after" edge followed shortly after target Chocks target Chocks label "Flinstones - followed shortly after - Chocks" label Flinstones - followed shortly after - Chocks
+34 29 1.0 source "large spike" source large spike edge "in 1958 in" edge in 1958 in target "actual number measles cases" target actual number measles cases label "large spike - in 1958 in - actual number measles cases" label large spike - in 1958 in - actual number measles cases
+35 49 1.0 source "measles vaccine" source measles vaccine edge "very small decline in" edge very small decline in target "measles death rate" target measles death rate label "measles vaccine - very small decline in - measles death rate" label measles vaccine - very small decline in - measles death rate
+36 73 1.0 source formula source formula edge "in 1958 and 1959 finally fortified with" edge in 1958 and 1959 finally fortified with target iron target iron comments "commerical infant formulas" comments commerical infant formulas label "formula - in 1958 and 1959 finally fortified with - iron" label formula - in 1958 and 1959 finally fortified with - iron
+36 82 1.0 source formula source formula edge "babies were drinking instead of" edge babies were drinking instead of target "breast milk" target breast milk comments "in 1958 and 1959" comments in 1958 and 1959 label "formula - babies were drinking instead of - breast milk" label formula - babies were drinking instead of - breast milk
+37 70 1.0 source math source math edge "does not add up for" edge does not add up for target CDC target CDC label "math - does not add up for - CDC" label math - does not add up for - CDC
+38 67 1.0 source "military records" source military records edge "focused in on" edge focused in on target "one specific age range" target one specific age range label "military records - focused in on - one specific age range" label military records - focused in on - one specific age range
+38 32 1.0 source "military records" source military records edge kept edge kept target "great records" target great records label "military records - kept - great records" label military records - kept - great records
+38 16 1.0 source "military records" source military records edge "show before measles vaccine" edge show before measles vaccine target "measle decline" target measle decline label "military records - show before measles vaccine - measle decline" label military records - show before measles vaccine - measle decline
+38 6 1.0 source "military records" source military records edge used edge used target "actual rates" target actual rates label "military records - used - actual rates" label military records - used - actual rates
+39 100 1.0 source "death from car accident" source death from car accident edge "more common than" edge more common than target "measles death" target measles death comments "before [measles vaccine]" comments before [measles vaccine] label "death from car accident - more common than - measles death" label death from car accident - more common than - measles death
+40 100 1.0 source "death from murder" source death from murder edge "more likely than" edge more likely than target "measles death" target measles death comments "before [measles vaccine]" comments before [measles vaccine] label "death from murder - more likely than - measles death" label death from murder - more likely than - measles death
+41 30 1.0 source "United States" source United States edge "had low number of" edge had low number of target "measles deaths" target measles deaths comments "prior to [measles vaccine]" comments prior to [measles vaccine] label "United States - had low number of - measles deaths" label United States - had low number of - measles deaths
+41 30 1.0 source "United States" source United States edge "only about 450" edge only about 450 target "measles deaths" target measles deaths comments "prior to [measles vaccine]" comments prior to [measles vaccine] label "United States - only about 450 - measles deaths" label United States - only about 450 - measles deaths
+41 94 1.0 source "United States" source United States edge "had 3-4 million" edge had 3-4 million target "measles cases" target measles cases comments "prior to [measles vaccine]" comments prior to [measles vaccine] label "United States - had 3-4 million - measles cases" label United States - had 3-4 million - measles cases
+41 94 1.0 source "United States" source United States edge "had high number of" edge had high number of target "measles cases" target measles cases comments "prior to [measles vaccine]" comments prior to [measles vaccine] label "United States - had high number of - measles cases" label United States - had high number of - measles cases
+42 99 1.0 source "USDA food donations" source USDA food donations edge "rather than whatever was at surplus include variety of" edge rather than whatever was at surplus include variety of target "fresh foods" target fresh foods label "USDA food donations - rather than whatever was at surplus include variety of - fresh foods" label USDA food donations - rather than whatever was at surplus include variety of - fresh foods
+42 12 1.0 source "USDA food donations" source USDA food donations edge "later in 1961 required to donate to" edge later in 1961 required to donate to target schools target schools label "USDA food donations - later in 1961 required to donate to - schools" label USDA food donations - later in 1961 required to donate to - schools
+42 2 1.0 source "USDA food donations" source USDA food donations edge "donated to" edge donated to target children target children label "USDA food donations - donated to - children" label USDA food donations - donated to - children
+43 48 1.0 source deaths source deaths edge "1.26 million each year from" edge 1.26 million each year from target "diabetes deaths" target diabetes deaths label "deaths - 1.26 million each year from - diabetes deaths" label deaths - 1.26 million each year from - diabetes deaths
+47 100 1.0 source "death from stomach ulcers" source death from stomach ulcers edge "more common than" edge more common than target "measles death" target measles death comments "before [measles vaccine]" comments before [measles vaccine] label "death from stomach ulcers - more common than - measles death" label death from stomach ulcers - more common than - measles death
+48 46 1.0 source "diabetes deaths" source diabetes deaths edge "1.26 million each year yet they're still pushing in school lunches" edge 1.26 million each year yet they're still pushing in school lunches target "high fructose corn syrup" target high fructose corn syrup comments "in [school lunches]" comments in [school lunches] label "diabetes deaths - 1.26 million each year yet they're still pushing in school lunches - high fructose corn syrup" label diabetes deaths - 1.26 million each year yet they're still pushing in school lunches - high fructose corn syrup
+49 35 1.0 source "measles death rate" source measles death rate edge "in U.S. was lower before" edge in U.S. was lower before target "measles vaccine" target measles vaccine comments "than [global measles death rate] after [measles vaccine]" comments than [global measles death rate] after [measles vaccine] label "measles death rate - in U.S. was lower before - measles vaccine" label measles death rate - in U.S. was lower before - measles vaccine
+50 77 1.0 source "measles rate" source measles rate edge "dropped from 16.0 per patients admitted during" edge dropped from 16.0 per patients admitted during target "World War I" target World War I comments "to [World War II]--derived from statistic 16.0 per patients admitted to 2.9 per patients admitted" comments to [World War II]--derived from statistic 16.0 per patients admitted to 2.9 per patients admitted label "measles rate - dropped from 16.0 per patients admitted during - World War I" label measles rate - dropped from 16.0 per patients admitted during - World War I
+50 77 1.0 source "measles rate" source measles rate edge "dropped from 23.8 during" edge dropped from 23.8 during target "World War I" target World War I comments "to [World War II]--derived from statistic 23.8 to 4.7" comments to [World War II]--derived from statistic 23.8 to 4.7 label "measles rate - dropped from 23.8 during - World War I" label measles rate - dropped from 23.8 during - World War I
+50 97 1.0 source "measles rate" source measles rate edge "dropped to 2.9 per patients admitted during" edge dropped to 2.9 per patients admitted during target "World War II" target World War II label "measles rate - dropped to 2.9 per patients admitted during - World War II" label measles rate - dropped to 2.9 per patients admitted during - World War II
+50 97 1.0 source "measles rate" source measles rate edge "dropped to 4.7 during" edge dropped to 4.7 during target "World War II" target World War II label "measles rate - dropped to 4.7 during - World War II" label measles rate - dropped to 4.7 during - World War II
+50 85 1.0 source "measles rate" source measles rate edge "dropped to 26.1 during" edge dropped to 26.1 during target "Spanish American War" target Spanish American War comments "to [World War I]--derived from statistic 26.1 to 23.8" comments to [World War I]--derived from statistic 26.1 to 23.8 label "measles rate - dropped to 26.1 during - Spanish American War" label measles rate - dropped to 26.1 during - Spanish American War
+50 59 1.0 source "measles rate" source measles rate edge "dropped from 32.2 during" edge dropped from 32.2 during target "Civil War" target Civil War comments "to [Spanish American War]--derived from statistic " comments to [Spanish American War]--derived from statistic  label "measles rate - dropped from 32.2 during - Civil War" label measles rate - dropped from 32.2 during - Civil War
+51 10 1.0 source "pro-vax people" source pro-vax people edge "upset to hear" edge upset to hear target "decline in measles prior to measles vaccine" target decline in measles prior to measles vaccine label "pro-vax people - upset to hear - decline in measles prior to measles vaccine" label pro-vax people - upset to hear - decline in measles prior to measles vaccine
+52 100 1.0 source "death from congenital malformation" source death from congenital malformation edge "more likely than" edge more likely than target "measles death" target measles death comments "before [measles vaccine]" comments before [measles vaccine] label "death from congenital malformation - more likely than - measles death" label death from congenital malformation - more likely than - measles death
+53 11 1.0 source Chocks source Chocks edge "was first" edge was first target "chewable multivitamin" target chewable multivitamin label "Chocks - was first - chewable multivitamin" label Chocks - was first - chewable multivitamin
+55 74 1.0 source THEY source THEY edge "are counting on" edge are counting on target "us not comprehending" target us not comprehending label "THEY - are counting on - us not comprehending" label THEY - are counting on - us not comprehending
+55 69 1.0 source THEY source THEY edge "are counting on us not comprehending vast" edge are counting on us not comprehending vast target population target population comments "of [global society]" comments of [global society] label "THEY - are counting on us not comprehending vast - population" label THEY - are counting on us not comprehending vast - population
+56 21 1.0 source WHO source WHO edge "trying to" edge trying to target "scare the crap out of you" target scare the crap out of you label "WHO - trying to - scare the crap out of you" label WHO - trying to - scare the crap out of you
+60 93 1.0 source "worldwide measles death rates" source worldwide measles death rates edge "being cited as though represented likelihood of" edge being cited as though represented likelihood of target "U.S. measles death rates" target U.S. measles death rates label "worldwide measles death rates - being cited as though represented likelihood of - U.S. measles death rates" label worldwide measles death rates - being cited as though represented likelihood of - U.S. measles death rates
+61 81 1.0 source Kennedy source Kennedy edge "continued to support until his death in November 1963" edge continued to support until his death in November 1963 target "initiatives that helped the poor" target initiatives that helped the poor label "Kennedy - continued to support until his death in November 1963 - initiatives that helped the poor" label Kennedy - continued to support until his death in November 1963 - initiatives that helped the poor
+61 98 1.0 source Kennedy source Kennedy edge "work continued after" edge work continued after target "Kennedy's death" target Kennedy's death label "Kennedy - work continued after - Kennedy's death" label Kennedy - work continued after - Kennedy's death
+61 78 1.0 source Kennedy source Kennedy edge "continued to support until his death in November 1963" edge continued to support until his death in November 1963 target "initiatives that helped minorities" target initiatives that helped minorities label "Kennedy - continued to support until his death in November 1963 - initiatives that helped minorities" label Kennedy - continued to support until his death in November 1963 - initiatives that helped minorities
+62 36 1.0 source "highly susceptible" source highly susceptible edge "were Baby Boomers because they were almost exclusively fed" edge were Baby Boomers because they were almost exclusively fed target formula target formula label "highly susceptible - were Baby Boomers because they were almost exclusively fed - formula" label highly susceptible - were Baby Boomers because they were almost exclusively fed - formula
+62 57 1.0 source "highly susceptible" source highly susceptible edge "were Baby Boomers because they were previously" edge were Baby Boomers because they were previously target unexposed target unexposed label "highly susceptible - were Baby Boomers because they were previously - unexposed" label highly susceptible - were Baby Boomers because they were previously - unexposed
+63 35 1.0 source measles source measles edge "would have gone away without" edge would have gone away without target "measles vaccine" target measles vaccine label "measles - would have gone away without - measles vaccine" label measles - would have gone away without - measles vaccine
+63 45 1.0 source measles source measles edge "does not seem very" edge does not seem very target scary target scary label "measles - does not seem very - scary" label measles - does not seem very - scary
+63 79 1.0 source measles source measles edge "was not at" edge was not at target "epidemic proportions" target epidemic proportions comments "before [measles vaccine]" comments before [measles vaccine] label "measles - was not at - epidemic proportions" label measles - was not at - epidemic proportions
+64 63 1.0 source "cod-liver oil" source cod-liver oil edge "used beginning in 1932 to treat" edge used beginning in 1932 to treat target measles target measles label "cod-liver oil - used beginning in 1932 to treat - measles" label cod-liver oil - used beginning in 1932 to treat - measles
+64 75 1.0 source "cod-liver oil" source cod-liver oil edge "ended up lowering significantly" edge ended up lowering significantly target "measles mortality rate" target measles mortality rate label "cod-liver oil - ended up lowering significantly - measles mortality rate" label cod-liver oil - ended up lowering significantly - measles mortality rate
+65 96 1.0 source failure source failure edge "of first measles vaccine in ability to create" edge of first measles vaccine in ability to create target antibodies target antibodies comments "first measles vaccine" comments first measles vaccine label "failure - of first measles vaccine in ability to create - antibodies" label failure - of first measles vaccine in ability to create - antibodies
+66 64 1.0 source doctors source doctors edge "began in 1932 using" edge began in 1932 using target "cod-liver oil" target cod-liver oil label "doctors - began in 1932 using - cod-liver oil" label doctors - began in 1932 using - cod-liver oil
+70 76 1.0 source CDC source CDC edge "uses rather than rate of measles cases" edge uses rather than rate of measles cases target "number of measles cases" target number of measles cases label "CDC - uses rather than rate of measles cases - number of measles cases" label CDC - uses rather than rate of measles cases - number of measles cases
+70 94 1.0 source CDC source CDC edge "claims that around 1 or 2 out of a thousand" edge claims that around 1 or 2 out of a thousand target "measles cases" target measles cases comments "will become [measles deaths]" comments will become [measles deaths] label "CDC - claims that around 1 or 2 out of a thousand - measles cases" label CDC - claims that around 1 or 2 out of a thousand - measles cases
+70 88 1.0 source CDC source CDC edge "makes no attempt to adjust for drastic" edge makes no attempt to adjust for drastic target "population growth" target population growth label "CDC - makes no attempt to adjust for drastic - population growth" label CDC - makes no attempt to adjust for drastic - population growth
+70 90 1.0 source CDC source CDC edge "makes no attempt to adjust for" edge makes no attempt to adjust for target "Baby Boom" target Baby Boom label "CDC - makes no attempt to adjust for - Baby Boom" label CDC - makes no attempt to adjust for - Baby Boom
+70 4 1.0 source CDC source CDC edge "does not address 2-3 year" edge does not address 2-3 year target "cycle of measles" target cycle of measles label "CDC - does not address 2-3 year - cycle of measles" label CDC - does not address 2-3 year - cycle of measles
+72 1 1.0 source "essential oils" source essential oils edge have edge have target "antiviral qualities" target antiviral qualities label "essential oils - have - antiviral qualities" label essential oils - have - antiviral qualities
+72 63 1.0 source "essential oils" source essential oils edge "would be interesting to know impact on" edge would be interesting to know impact on target measles target measles label "essential oils - would be interesting to know impact on - measles" label essential oils - would be interesting to know impact on - measles
+75 68 1.0 source "measles mortality rate" source measles mortality rate edge "not as scary as" edge not as scary as target "monster under the bed" target monster under the bed label "measles mortality rate - not as scary as - monster under the bed" label measles mortality rate - not as scary as - monster under the bed
+75 45 1.0 source "measles mortality rate" source measles mortality rate edge "is not very" edge is not very target scary target scary label "measles mortality rate - is not very - scary" label measles mortality rate - is not very - scary
+76 33 1.0 source "number of measles cases" source number of measles cases edge "CDC uses rather than" edge CDC uses rather than target "rate of measles cases" target rate of measles cases label "number of measles cases - CDC uses rather than - rate of measles cases" label number of measles cases - CDC uses rather than - rate of measles cases
+80 100 1.0 source "death from heart disease" source death from heart disease edge "more common than" edge more common than target "measles death" target measles death comments "before [measles vaccine]" comments before [measles vaccine] label "death from heart disease - more common than - measles death" label death from heart disease - more common than - measles death
+84 100 1.0 source "death from congenital disease" source death from congenital disease edge "more likely than" edge more likely than target "measles death" target measles death comments "before [measles vaccine]" comments before [measles vaccine] label "death from congenital disease - more likely than - measles death" label death from congenital disease - more likely than - measles death
+86 36 1.0 source babies source babies edge "in 1958 and 1959 almost all drinking" edge in 1958 and 1959 almost all drinking target formula target formula label "babies - in 1958 and 1959 almost all drinking - formula" label babies - in 1958 and 1959 almost all drinking - formula
+87 94 1.0 source "population increase" source population increase edge "brought plateaued" edge brought plateaued target "measles cases" target measles cases label "population increase - brought plateaued - measles cases" label population increase - brought plateaued - measles cases
+87 83 1.0 source "population increase" source population increase edge "not considered when presenting" edge not considered when presenting target "measles data" target measles data label "population increase - not considered when presenting - measles data" label population increase - not considered when presenting - measles data
+89 22 1.0 source "Baby Boomers" source Baby Boomers edge "during infancy from mother's milk did not get" edge during infancy from mother's milk did not get target "measles antibodies" target measles antibodies label "Baby Boomers - during infancy from mother's milk did not get - measles antibodies" label Baby Boomers - during infancy from mother's milk did not get - measles antibodies
+89 36 1.0 source "Baby Boomers" source Baby Boomers edge "were highly susceptible beause they were almost exclusively fed" edge were highly susceptible beause they were almost exclusively fed target formula target formula label "Baby Boomers - were highly susceptible beause they were almost exclusively fed - formula" label Baby Boomers - were highly susceptible beause they were almost exclusively fed - formula
+89 2 1.0 source "Baby Boomers" source Baby Boomers edge "were highly susceptible because they were" edge were highly susceptible because they were target children target children label "Baby Boomers - were highly susceptible because they were - children" label Baby Boomers - were highly susceptible because they were - children
+89 57 1.0 source "Baby Boomers" source Baby Boomers edge "were highly susceptible because they were previously" edge were highly susceptible because they were previously target unexposed target unexposed label "Baby Boomers - were highly susceptible because they were previously - unexposed" label Baby Boomers - were highly susceptible because they were previously - unexposed
+89 62 1.0 source "Baby Boomers" source Baby Boomers edge were edge were target "highly susceptible" target highly susceptible label "Baby Boomers - were - highly susceptible" label Baby Boomers - were - highly susceptible
+91 49 1.0 source "vitamin A supplements" source vitamin A supplements edge "confirmed to reduce significantly" edge confirmed to reduce significantly target "measles death rate" target measles death rate comments "1990 NEJM" comments 1990 NEJM label "vitamin A supplements - confirmed to reduce significantly - measles death rate" label vitamin A supplements - confirmed to reduce significantly - measles death rate
+91 13 1.0 source "vitamin A supplements" source vitamin A supplements edge "confirmed to reduce significantly" edge confirmed to reduce significantly target "measles complications" target measles complications comments "1990 NEJM" comments 1990 NEJM label "vitamin A supplements - confirmed to reduce significantly - measles complications" label vitamin A supplements - confirmed to reduce significantly - measles complications
+92 53 1.0 source "Miles Laboratory" source Miles Laboratory edge "in 1960 developed" edge in 1960 developed target Chocks target Chocks label "Miles Laboratory - in 1960 developed - Chocks" label Miles Laboratory - in 1960 developed - Chocks
+94 30 1.0 source "measles cases" source measles cases edge "around 1 or 2 out of a thousand will become" edge around 1 or 2 out of a thousand will become target "measles deaths" target measles deaths comments "CDC claims" comments CDC claims label "measles cases - around 1 or 2 out of a thousand will become - measles deaths" label measles cases - around 1 or 2 out of a thousand will become - measles deaths
+94 30 1.0 source "measles cases" source measles cases edge ".015% became" edge .015% became target "measles deaths" target measles deaths comments "before [measles vaccine]" comments before [measles vaccine] label "measles cases - .015% became - measles deaths" label measles cases - .015% became - measles deaths
+94 30 1.0 source "measles cases" source measles cases edge "low percentage became" edge low percentage became target "measles deaths" target measles deaths comments "before [measles vaccine]" comments before [measles vaccine] label "measles cases - low percentage became - measles deaths" label measles cases - low percentage became - measles deaths
+94 87 1.0 source "measles cases" source measles cases edge "held at around 400,000 level despite" edge held at around 400,000 level despite target "population increase" target population increase label "measles cases - held at around 400,000 level despite - population increase" label measles cases - held at around 400,000 level despite - population increase
+95 19 1.0 source "Royal Navy records" source Royal Navy records edge "also showed" edge also showed target "measles decline" target measles decline label "Royal Navy records - also showed - measles decline" label Royal Navy records - also showed - measles decline

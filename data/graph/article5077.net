@@ -1,0 +1,96 @@
+*vertices 45
+1 "childhood deaths" 0.0 0.0 ellipse
+2 epidemiologist 0.0 0.0 ellipse
+3 testing 0.0 0.0 ellipse
+4 evidence 0.0 0.0 ellipse
+5 "immune system" 0.0 0.0 ellipse
+6 "Michael Mina" 0.0 0.0 ellipse
+7 "measles outbreaks" 0.0 0.0 ellipse
+8 children 0.0 0.0 ellipse
+9 "medical student" 0.0 0.0 ellipse
+10 "Mina study" 0.0 0.0 ellipse
+11 "reduction in mortality" 0.0 0.0 ellipse
+12 "infectious diseases" 0.0 0.0 ellipse
+13 "William Moss" 0.0 0.0 ellipse
+14 "measles cases number" 0.0 0.0 ellipse
+15 "pneumonia deaths" 0.0 0.0 ellipse
+16 "diarrhea deaths" 0.0 0.0 ellipse
+17 "computer models" 0.0 0.0 ellipse
+18 "prior diseases" 0.0 0.0 ellipse
+19 vaccines 0.0 0.0 ellipse
+20 parents 0.0 0.0 ellipse
+21 scientists 0.0 0.0 ellipse
+22 "measles vaccine" 0.0 0.0 ellipse
+23 "immune amnesia" 0.0 0.0 ellipse
+24 measles 0.0 0.0 ellipse
+25 "epidemiological data" 0.0 0.0 ellipse
+26 "measles infection" 0.0 0.0 ellipse
+27 antibiotics 0.0 0.0 ellipse
+28 hypothesis 0.0 0.0 ellipse
+29 "better health care" 0.0 0.0 ellipse
+30 "health care improvement" 0.0 0.0 ellipse
+31 "mortality rate decrease" 0.0 0.0 ellipse
+32 "public health benefits" 0.0 0.0 ellipse
+33 "measles virus" 0.0 0.0 ellipse
+34 "Mina team" 0.0 0.0 ellipse
+35 "Princeton University" 0.0 0.0 ellipse
+36 mystery 0.0 0.0 ellipse
+37 "United States" 0.0 0.0 ellipse
+38 kids 0.0 0.0 ellipse
+39 "reduction in child mortality" 0.0 0.0 ellipse
+40 "previous monkey studies show" 0.0 0.0 ellipse
+41 "important message" 0.0 0.0 ellipse
+42 "immune protection" 0.0 0.0 ellipse
+43 "developing countries" 0.0 0.0 ellipse
+44 "Johns Hopkins University" 0.0 0.0 ellipse
+45 "number of deaths from other infections" 0.0 0.0 ellipse
+*arcs
+1 12 1.0 source "childhood deaths" source childhood deaths edge "plummeted for" edge plummeted for target "infectious diseases" target infectious diseases comments "after measles vaccine" comments after measles vaccine label "childhood deaths - plummeted for - infectious diseases" label childhood deaths - plummeted for - infectious diseases
+4 5 1.0 source evidence source evidence edge "in Mina study is that measles affects" edge in Mina study is that measles affects target "immune system" target immune system comments "for two to three years" comments for two to three years label "evidence - in Mina study is that measles affects - immune system" label evidence - in Mina study is that measles affects - immune system
+5 26 1.0 source "immune system" source immune system edge "has to start over after" edge has to start over after target "measles infection" target measles infection label "immune system - has to start over after - measles infection" label immune system - has to start over after - measles infection
+5 42 1.0 source "immune system" source immune system edge "after measles infection has to rebuild its" edge after measles infection has to rebuild its target "immune protection" target immune protection comments "against prior diseases" comments against prior diseases label "immune system - after measles infection has to rebuild its - immune protection" label immune system - after measles infection has to rebuild its - immune protection
+5 23 1.0 source "immune system" source immune system edge "after measles seems to have" edge after measles seems to have target "immune amnesia" target immune amnesia label "immune system - after measles seems to have - immune amnesia" label immune system - after measles seems to have - immune amnesia
+5 18 1.0 source "immune system" source immune system edge "after measles infection has to rebuild its immune protection against" edge after measles infection has to rebuild its immune protection against target "prior diseases" target prior diseases label "immune system - after measles infection has to rebuild its immune protection against - prior diseases" label immune system - after measles infection has to rebuild its immune protection against - prior diseases
+6 35 1.0 source "Michael Mina" source Michael Mina edge "is postdoc in biology at" edge is postdoc in biology at target "Princeton University" target Princeton University label "Michael Mina - is postdoc in biology at - Princeton University" label Michael Mina - is postdoc in biology at - Princeton University
+6 9 1.0 source "Michael Mina" source Michael Mina edge is edge is target "medical student" target medical student comments "at [Emory University]" comments at [Emory University] label "Michael Mina - is - medical student" label Michael Mina - is - medical student
+8 22 1.0 source children source children edge "are more likely to get better health care who receive" edge are more likely to get better health care who receive target "measles vaccine" target measles vaccine label "children - are more likely to get better health care who receive - measles vaccine" label children - are more likely to get better health care who receive - measles vaccine
+8 24 1.0 source children source children edge "stopped getting" edge stopped getting target measles target measles comments "as expected after measles vaccine" comments as expected after measles vaccine label "children - stopped getting - measles" label children - stopped getting - measles
+8 24 1.0 source children source children edge "United States started vaccinating in 1960s for" edge United States started vaccinating in 1960s for target measles target measles label "children - United States started vaccinating in 1960s for - measles" label children - United States started vaccinating in 1960s for - measles
+8 29 1.0 source children source children edge "who get measles vaccine are more likely to get" edge who get measles vaccine are more likely to get target "better health care" target better health care label "children - who get measles vaccine are more likely to get - better health care" label children - who get measles vaccine are more likely to get - better health care
+10 32 1.0 source "Mina study" source Mina study edge "will provide additional evidence of" edge will provide additional evidence of target "public health benefits" target public health benefits comments "says William Moss" comments says William Moss label "Mina study - will provide additional evidence of - public health benefits" label Mina study - will provide additional evidence of - public health benefits
+10 20 1.0 source "Mina study" source Mina study edge "should give more motivation to vaccinate kids to" edge should give more motivation to vaccinate kids to target parents target parents comments "says William Moss" comments says William Moss label "Mina study - should give more motivation to vaccinate kids to - parents" label Mina study - should give more motivation to vaccinate kids to - parents
+10 13 1.0 source "Mina study" source Mina study edge "provides compelling evidence says" edge provides compelling evidence says target "William Moss" target William Moss comments "provides [compelling evidence1]" comments provides [compelling evidence1] label "Mina study - provides compelling evidence says - William Moss" label Mina study - provides compelling evidence says - William Moss
+10 4 1.0 source "Mina study" source Mina study edge "provides compelling" edge provides compelling target evidence target evidence comments "says William Moss" comments says William Moss label "Mina study - provides compelling - evidence" label Mina study - provides compelling - evidence
+11 22 1.0 source "reduction in mortality" source reduction in mortality edge "occurred after the introduction of" edge occurred after the introduction of target "measles vaccine" target measles vaccine label "reduction in mortality - occurred after the introduction of - measles vaccine" label reduction in mortality - occurred after the introduction of - measles vaccine
+11 43 1.0 source "reduction in mortality" source reduction in mortality edge "up to 80% in" edge up to 80% in target "developing countries" target developing countries comments "says Michael Mina" comments says Michael Mina label "reduction in mortality - up to 80% in - developing countries" label reduction in mortality - up to 80% in - developing countries
+12 43 1.0 source "infectious diseases" source infectious diseases edge "are very high in" edge are very high in target "developing countries" target developing countries label "infectious diseases - are very high in - developing countries" label infectious diseases - are very high in - developing countries
+13 10 1.0 source "William Moss" source William Moss edge "was not involved in" edge was not involved in target "Mina study" target Mina study comments "says William Moss" comments says William Moss label "William Moss - was not involved in - Mina study" label William Moss - was not involved in - Mina study
+13 22 1.0 source "William Moss" source William Moss edge "has studied for more than a decade" edge has studied for more than a decade target "measles vaccine" target measles vaccine label "William Moss - has studied for more than a decade - measles vaccine" label William Moss - has studied for more than a decade - measles vaccine
+13 44 1.0 source "William Moss" source William Moss edge "is at" edge is at target "Johns Hopkins University" target Johns Hopkins University label "William Moss - is at - Johns Hopkins University" label William Moss - is at - Johns Hopkins University
+13 2 1.0 source "William Moss" source William Moss edge is edge is target epidemiologist target epidemiologist label "William Moss - is - epidemiologist" label William Moss - is - epidemiologist
+14 45 1.0 source "measles cases number" source measles cases number edge "predicted two to three years later" edge predicted two to three years later target "number of deaths from other infections" target number of deaths from other infections label "measles cases number - predicted two to three years later - number of deaths from other infections" label measles cases number - predicted two to three years later - number of deaths from other infections
+15 22 1.0 source "pneumonia deaths" source pneumonia deaths edge "cut in half after" edge cut in half after target "measles vaccine" target measles vaccine label "pneumonia deaths - cut in half after - measles vaccine" label pneumonia deaths - cut in half after - measles vaccine
+16 22 1.0 source "diarrhea deaths" source diarrhea deaths edge "cut in half after" edge cut in half after target "measles vaccine" target measles vaccine label "diarrhea deaths - cut in half after - measles vaccine" label diarrhea deaths - cut in half after - measles vaccine
+21 36 1.0 source scientists source scientists edge "crack a 50-year old" edge crack a 50-year old target mystery target mystery comments "about the measles vaccine" comments about the measles vaccine label "scientists - crack a 50-year old - mystery" label scientists - crack a 50-year old - mystery
+21 22 1.0 source scientists source scientists edge "saw same phenomenon of" edge saw same phenomenon of target "measles vaccine" target measles vaccine comments "in England and in parts of Europe" comments in England and in parts of Europe label "scientists - saw same phenomenon of - measles vaccine" label scientists - saw same phenomenon of - measles vaccine
+22 36 1.0 source "measles vaccine" source measles vaccine edge "was 50-year old" edge was 50-year old target mystery target mystery label "measles vaccine - was 50-year old - mystery" label measles vaccine - was 50-year old - mystery
+22 43 1.0 source "measles vaccine" source measles vaccine edge "phenomenon today is seen in" edge phenomenon today is seen in target "developing countries" target developing countries comments "scientists see" comments scientists see label "measles vaccine - phenomenon today is seen in - developing countries" label measles vaccine - phenomenon today is seen in - developing countries
+22 32 1.0 source "measles vaccine" source measles vaccine edge has edge has target "public health benefits" target public health benefits comments "says William Moss" comments says William Moss label "measles vaccine - has - public health benefits" label measles vaccine - has - public health benefits
+23 3 1.0 source "immune amnesia" source immune amnesia edge "needs more" edge needs more target testing target testing comments "says William Moss" comments says William Moss label "immune amnesia - needs more - testing" label immune amnesia - needs more - testing
+23 28 1.0 source "immune amnesia" source immune amnesia edge "is still just a" edge is still just a target hypothesis target hypothesis comments "says William Moss" comments says William Moss label "immune amnesia - is still just a - hypothesis" label immune amnesia - is still just a - hypothesis
+24 42 1.0 source measles source measles edge erases edge erases target "immune protection" target immune protection comments "to other diseases" comments to other diseases label "measles - erases - immune protection" label measles - erases - immune protection
+24 38 1.0 source measles source measles edge "if world can eliminate, it will help protect" edge if world can eliminate, it will help protect target kids target kids comments "from other infections" comments from other infections label "measles - if world can eliminate, it will help protect - kids" label measles - if world can eliminate, it will help protect - kids
+24 5 1.0 source measles source measles edge "is known to suppress" edge is known to suppress target "immune system" target immune system comments "for a few weeks after infection" comments for a few weeks after infection label "measles - is known to suppress - immune system" label measles - is known to suppress - immune system
+24 5 1.0 source measles source measles edge affects edge affects target "immune system" target immune system comments "for two to three years" comments for two to three years label "measles - affects - immune system" label measles - affects - immune system
+29 19 1.0 source "better health care" source better health care edge "includes other" edge includes other target vaccines target vaccines label "better health care - includes other - vaccines" label better health care - includes other - vaccines
+29 27 1.0 source "better health care" source better health care edge "includes more" edge includes more target antibiotics target antibiotics label "better health care - includes more - antibiotics" label better health care - includes more - antibiotics
+31 36 1.0 source "mortality rate decrease" source mortality rate decrease edge "following introduction of measles vaccine is" edge following introduction of measles vaccine is target mystery target mystery label "mortality rate decrease - following introduction of measles vaccine is - mystery" label mortality rate decrease - following introduction of measles vaccine is - mystery
+32 41 1.0 source "public health benefits" source public health benefits edge is edge is target "important message" target important message label "public health benefits - is - important message" label public health benefits - is - important message
+33 8 1.0 source "measles virus" source measles virus edge "predisposes to other infectious diseases for up to a few years" edge predisposes to other infectious diseases for up to a few years target children target children comments "says Michael Mina" comments says Michael Mina label "measles virus - predisposes to other infectious diseases for up to a few years - children" label measles virus - predisposes to other infectious diseases for up to a few years - children
+34 17 1.0 source "Mina team" source Mina team edge used edge used target "computer models" target computer models label "Mina team - used - computer models" label Mina team - used - computer models
+34 25 1.0 source "Mina team" source Mina team edge used edge used target "epidemiological data" target epidemiological data comments "from United States, Denmarck, Wales, and Englad dating back to 1940s" comments from United States, Denmarck, Wales, and Englad dating back to 1940s label "Mina team - used - epidemiological data" label Mina team - used - epidemiological data
+37 7 1.0 source "United States" source United States edge "is continuing to see" edge is continuing to see target "measles outbreaks" target measles outbreaks comments "says William Moss" comments says William Moss label "United States - is continuing to see - measles outbreaks" label United States - is continuing to see - measles outbreaks
+37 30 1.0 source "United States" source United States edge "has seen since 1960s" edge has seen since 1960s target "health care improvement" target health care improvement label "United States - has seen since 1960s - health care improvement" label United States - has seen since 1960s - health care improvement
+39 36 1.0 source "reduction in child mortality" source reduction in child mortality edge "following introduction of measles vaccine is" edge following introduction of measles vaccine is target mystery target mystery comments "why do children stop dying at such high rates from all these different infections following introduction of the measles vaccine" comments why do children stop dying at such high rates from all these different infections following introduction of the measles vaccine label "reduction in child mortality - following introduction of measles vaccine is - mystery" label reduction in child mortality - following introduction of measles vaccine is - mystery
+39 22 1.0 source "reduction in child mortality" source reduction in child mortality edge "overall is much greater than previously believed following" edge overall is much greater than previously believed following target "measles vaccine" target measles vaccine comments "says William Moss" comments says William Moss label "reduction in child mortality - overall is much greater than previously believed following - measles vaccine" label reduction in child mortality - overall is much greater than previously believed following - measles vaccine
+40 42 1.0 source "previous monkey studies show" source previous monkey studies show edge "measles erases" edge measles erases target "immune protection" target immune protection comments "says Michael Mina" comments says Michael Mina label "previous monkey studies show - measles erases - immune protection" label previous monkey studies show - measles erases - immune protection
