@@ -1,13 +1,17 @@
+# coding: utf-8
+
+# MultiGraph
+
 import pandas as pd
 import numpy as np
 import networkx as nx
+from copy import deepcopy
 import sys
 
-#import matplotlib.pyplot as plt
-#%matplotlib inline  
+import matplotlib.pyplot as plt
+%matplotlib inline  
 
 from glob import glob
-
 fileName = sys.argv[1]
 
 
@@ -78,11 +82,18 @@ def createNetwork(edges,nodes):
     return graph
     
     
-def drawIt(graph):
-    #style=nx.shell_layout(graph)
+def drawIt(graph,what='graph'):
     style=nx.spring_layout(graph)
-    #style=nx.nx_agraph.graphviz_layout(graph)
-    nx.draw(graph,style,node_size=60,font_size=8)
+    size = graph.number_of_nodes()
+    print "Drawing %s of size %s:" % (what,size)
+    if size > 20:
+        plt.figure(figsize=(10,10))
+        if size > 40:
+            nx.draw(graph,style,node_size=60,font_size=8)
+        else:
+            nx.draw(graph,style)
+    else:
+        nx.draw(graph,style)
     plt.show()
 
 
@@ -91,12 +102,19 @@ def getGraph(fileRef):
     nodes = getNodes(data)
     edges = getEdges(data)
     graph = createNetwork(edges,nodes)
+    
     fileOut = fileRef.split('.')[0]+'.gml'
     print "Writing GML file to %s" % fileOut
     nx.write_gml(graph, fileOut)
+    
+    fileOutNet = fileRef.split('.')[0]+'.net'
+    print "Writing net file to %s" % fileOutNet
+    nx.write_pajek(graph, fileOutNet)
+    
     components = nx.connected_components(graph)
+    components = list(components)
     isolated = [entry[0] for entry in components if len(entry)==1]
-    params = (graph.number_of_edges(),graph.number_of_nodes(),len(components),len(isolated))
+    params = (graph.number_of_nodes(),graph.number_of_edges(),len(components),len(isolated))
     print "Graph has %s nodes, %s edges, %s connected components, and %s isolated nodes" % params
     print
 
