@@ -1,6 +1,6 @@
 # coding: utf-8
 
-# MultiGraph
+# MultiDiGraph
 
 import pandas as pd
 import numpy as np
@@ -9,7 +9,7 @@ from copy import deepcopy
 import sys
 
 import matplotlib.pyplot as plt
-%matplotlib inline  
+#%matplotlib inline  
 
 from glob import glob
 fileName = sys.argv[1]
@@ -76,12 +76,12 @@ def addEdges(graph,edges):
     return graph
     
 def createNetwork(edges,nodes):
-    graph = nx.MultiGraph()
+    graph = nx.MultiDiGraph()
     graph = addNodes(graph,nodes)
     graph = addEdges(graph,edges)
     return graph
     
-    
+
 def drawIt(graph,what='graph'):
     style=nx.spring_layout(graph)
     size = graph.number_of_nodes()

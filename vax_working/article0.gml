@@ -1,4 +1,5 @@
 graph [
+  directed 1
   multigraph 1
   node [
     id 0
@@ -561,39 +562,11 @@ graph [
     label "for sale"
   ]
   edge [
-    source 0
-    target 71
-    key 0
-    edge "was fabricated for"
-    label "efficacy rate - was fabricated for - mumps vaccine"
-  ]
-  edge [
-    source 0
-    target 22
-    key 0
-    edge "fabricated lab results to claim 95% efficacy rate in order to continue receiving government contracts on"
-    label "Merck - fabricated lab results to claim 95% efficacy rate in order to continue receiving government contracts on - mumps vaccine"
-  ]
-  edge [
-    source 0
-    target 114
-    key 0
-    edge "fabricated to claim 95% efficacy rate for"
-    label "lab results - fabricated to claim 95% efficacy rate for - mumps vaccine"
-  ]
-  edge [
     source 1
     target 105
     key 0
     edge "is not real"
     label "corporate-controlled science - is not real - science"
-  ]
-  edge [
-    source 2
-    target 63
-    key 0
-    edge "would show healthier"
-    label "scientific tests - would show healthier - unvaccinated children"
   ]
   edge [
     source 2
@@ -631,13 +604,6 @@ graph [
     label "unvaccinated children - tests would show are smarter than - vaccinated children"
   ]
   edge [
-    source 3
-    target 27
-    key 0
-    edge "used as"
-    label "aluminum - used as - inflammatory adjuvant"
-  ]
-  edge [
     source 4
     target 39
     key 0
@@ -652,53 +618,11 @@ graph [
     label "trace levels of mercury - is not safe for - child"
   ]
   edge [
-    source 5
-    target 93
-    key 0
-    edge "is higher power than"
-    label "vaccine court - is higher power than - Supreme Court"
-  ]
-  edge [
-    source 6
-    target 105
-    key 0
-    edge "never has a monopoly on"
-    label "science - never has a monopoly on - facts"
-  ]
-  edge [
-    source 6
-    target 69
-    key 0
-    edge "refuses to report about vaccine industry"
-    label "mainstream media - refuses to report about vaccine industry - facts"
-  ]
-  edge [
-    source 7
-    target 24
-    key 0
-    edge "are harming millions around the globe"
-    label "vaccine apologists - are harming millions around the globe - children"
-  ]
-  edge [
     source 8
     target 78
     key 0
     edge "does not equal"
     label "vaccination  - does not equal - immunization"
-  ]
-  edge [
-    source 9
-    target 35
-    key 0
-    edge "have gone public with"
-    label "Merck virologists - have gone public with - shocking revelations"
-  ]
-  edge [
-    source 10
-    target 81
-    key 0
-    edge "has no"
-    label "mercury - has no - safe level"
   ]
   edge [
     source 10
@@ -715,67 +639,11 @@ graph [
     label "good plumbing - saves lives more than - vaccines"
   ]
   edge [
-    source 12
-    target 110
-    key 0
-    edge "are often little more than a collection of"
-    label "science journals - are often little more than a collection of - corporate-funded make-believe science tabloids"
-  ]
-  edge [
-    source 13
-    target 81
-    key 0
-    edge "has no evidence of"
-    label "mercury - has no evidence of - safety"
-  ]
-  edge [
-    source 14
-    target 81
-    key 0
-    edge "there is no"
-    label "mercury - there is no - safe form of mercury"
-  ]
-  edge [
     source 14
     target 28
     key 0
     edge "is often ridiculously claimed by"
     label "safe form of mercury - is often ridiculously claimed by - vaccine pushers"
-  ]
-  edge [
-    source 15
-    target 94
-    key 0
-    edge "largely refuse"
-    label "Amish - largely refuse - to vaccinate children"
-  ]
-  edge [
-    source 16
-    target 137
-    key 0
-    edge "is discussed and exposed in great detail in the powerful book by Dr. Suzanne Humphries"
-    label "fabrication of vaccine successes - is discussed and exposed in great detail in the powerful book by Dr. Suzanne Humphries - Dissolving Illusions"
-  ]
-  edge [
-    source 17
-    target 37
-    key 0
-    edge "no longer possible to rely on the judgment of trusted"
-    label "people - no longer possible to rely on the judgment of trusted - physicians"
-  ]
-  edge [
-    source 18
-    target 103
-    key 0
-    edge "admits"
-    label "CDC - admits - vaccines contain additives"
-  ]
-  edge [
-    source 19
-    target 93
-    key 0
-    edge "must be abolished like"
-    label "vaccine court - must be abolished like - Apartheid"
   ]
   edge [
     source 20
@@ -790,13 +658,6 @@ graph [
     key 0
     edge "include"
     label "vaccine additives - include - aluminum"
-  ]
-  edge [
-    source 20
-    target 103
-    key 0
-    edge "admits"
-    label "CDC - admits - vaccine additives"
   ]
   edge [
     source 20
@@ -827,13 +688,6 @@ graph [
     label "vaccine additives - include - formaldehyde"
   ]
   edge [
-    source 21
-    target 35
-    key 0
-    edge "have blown"
-    label "Merck virologists - have blown - whistle"
-  ]
-  edge [
     source 22
     target 71
     key 0
@@ -855,18 +709,18 @@ graph [
     label "Merck - fabricated lab results to continue receiving - government contracts"
   ]
   edge [
+    source 22
+    target 0
+    key 0
+    edge "fabricated lab results to claim 95% efficacy rate in order to continue receiving government contracts on"
+    label "Merck - fabricated lab results to claim 95% efficacy rate in order to continue receiving government contracts on - mumps vaccine"
+  ]
+  edge [
     source 23
     target 52
     key 0
     edge "for decades contained hidden"
     label "polio vaccines - for decades contained hidden - cancer viruses"
-  ]
-  edge [
-    source 23
-    target 52
-    key 1
-    edge "98 million Americans exposed from"
-    label "cancer viruses - 98 million Americans exposed from - polio vaccines"
   ]
   edge [
     source 24
@@ -884,6 +738,13 @@ graph [
   ]
   edge [
     source 24
+    target 7
+    key 0
+    edge "are harming millions around the globe"
+    label "vaccine apologists - are harming millions around the globe - children"
+  ]
+  edge [
+    source 24
     target 50
     key 0
     edge "are like"
@@ -897,25 +758,11 @@ graph [
     label "medical holocaust - doctors are calling - immunization"
   ]
   edge [
-    source 26
-    target 58
-    key 0
-    edge "who inject children with vaccines are practicing against humanity a"
-    label "doctors - who inject children with vaccines are practicing against humanity a - medical holocaust"
-  ]
-  edge [
     source 27
-    target 54
+    target 3
     key 0
-    edge "cannot believe it is somehow safe injecting infants and children with"
-    label "rational scientist - cannot believe it is somehow safe injecting infants and children with - aluminum"
-  ]
-  edge [
-    source 27
-    target 138
-    key 0
-    edge "cannot believe it is somehow safe injecting infants and children with"
-    label "rational doctor - cannot believe it is somehow safe injecting infants and children with - aluminum"
+    edge "used as"
+    label "aluminum - used as - inflammatory adjuvant"
   ]
   edge [
     source 27
@@ -946,20 +793,6 @@ graph [
     label "measles decline - was due to - sanitation improvements"
   ]
   edge [
-    source 32
-    target 37
-    key 0
-    edge "no longer possible to rely on the judgment of authoritative"
-    label "people - no longer possible to rely on the judgment of authoritative - medical guidelines"
-  ]
-  edge [
-    source 33
-    target 70
-    key 0
-    edge "relays her conclusions in"
-    label "Marcia Angell - relays her conclusions in - Drug Companies &#38; Doctors: A Story of Corruption"
-  ]
-  edge [
     source 34
     target 133
     key 0
@@ -975,17 +808,24 @@ graph [
   ]
   edge [
     source 35
+    target 21
+    key 0
+    edge "have blown"
+    label "Merck virologists - have blown - whistle"
+  ]
+  edge [
+    source 35
+    target 9
+    key 0
+    edge "have gone public with"
+    label "Merck virologists - have gone public with - shocking revelations"
+  ]
+  edge [
+    source 35
     target 57
     key 0
     edge "filed"
     label "Merck virologists - filed - False Claims document"
-  ]
-  edge [
-    source 36
-    target 81
-    key 0
-    edge "is used in vaccines for the convenience of the"
-    label "mercury - is used in vaccines for the convenience of the - vaccine manufacturers"
   ]
   edge [
     source 36
@@ -996,13 +836,6 @@ graph [
   ]
   edge [
     source 36
-    target 69
-    key 0
-    edge "is largely funded by"
-    label "mainstream media - is largely funded by - vaccine manufacturers"
-  ]
-  edge [
-    source 36
     target 96
     key 0
     edge "use mercury at the expense of the"
@@ -1010,24 +843,24 @@ graph [
   ]
   edge [
     source 37
+    target 32
+    key 0
+    edge "no longer possible to rely on the judgment of authoritative"
+    label "people - no longer possible to rely on the judgment of authoritative - medical guidelines"
+  ]
+  edge [
+    source 37
+    target 17
+    key 0
+    edge "no longer possible to rely on the judgment of trusted"
+    label "people - no longer possible to rely on the judgment of trusted - physicians"
+  ]
+  edge [
+    source 37
     target 88
     key 0
     edge "no longer possible to believe published"
     label "people - no longer possible to believe published - clinical research"
-  ]
-  edge [
-    source 38
-    target 81
-    key 0
-    edge "is arguably the most"
-    label "mercury - is arguably the most - neurotoxic"
-  ]
-  edge [
-    source 41
-    target 68
-    key 0
-    edge "bypasses the protections of the"
-    label "injecting any substance - bypasses the protections of the - digestive tract"
   ]
   edge [
     source 42
@@ -1044,46 +877,11 @@ graph [
     label "ethylmercury - extremely toxic to the human - nervous system"
   ]
   edge [
-    source 43
-    target 120
-    key 0
-    edge "who says the level of mercury in a vaccine is safe to inject into a child is only demonstrating their outrageous"
-    label "doctor - who says the level of mercury in a vaccine is safe to inject into a child is only demonstrating their outrageous - ignorance of scientific facts"
-  ]
-  edge [
-    source 43
-    target 85
-    key 0
-    edge "demonstrates outrageous"
-    label "mercury in a vaccine is safe - demonstrates outrageous - ignorance of scientific facts"
-  ]
-  edge [
-    source 44
-    target 98
-    key 0
-    edge "vaccine industry refuses to conduct scientific tests on"
-    label "health outcomes - vaccine industry refuses to conduct scientific tests on - vaccinated children versus unvaccinated children"
-  ]
-  edge [
-    source 45
-    target 69
-    key 0
-    edge "refuses to cover stories because of"
-    label "mainstream media - refuses to cover stories because of - financial influence"
-  ]
-  edge [
     source 45
     target 109
     key 0
     edge "results in media refusing to cover stories about"
     label "financial influence - results in media refusing to cover stories about - vaccine-damaged children"
-  ]
-  edge [
-    source 47
-    target 81
-    key 0
-    edge "CDC admits is still used in"
-    label "mercury - CDC admits is still used in - vaccines"
   ]
   edge [
     source 47
@@ -1093,20 +891,6 @@ graph [
     label "vaccines - do not confer real-world functional - immunity"
   ]
   edge [
-    source 47
-    target 103
-    key 0
-    edge "admits mercury still used in"
-    label "CDC - admits mercury still used in - vaccines"
-  ]
-  edge [
-    source 48
-    target 72
-    key 0
-    edge "was"
-    label "vaccine doctrine - was - First do no harm"
-  ]
-  edge [
     source 48
     target 73
     key 0
@@ -1114,32 +898,18 @@ graph [
     label "First do no harm - has become - Poison children for profit"
   ]
   edge [
-    source 49
-    target 52
+    source 52
+    target 49
     key 0
     edge "were hidden in"
     label "cancer viruses - were hidden in - polio vaccine"
   ]
   edge [
-    source 51
-    target 91
-    key 0
-    edge "was almost completely eradicated before the arrival of the"
-    label "measles - was almost completely eradicated before the arrival of the - measles vaccine"
-  ]
-  edge [
     source 52
-    target 53
+    target 23
     key 0
-    edge "scrubbed information of"
-    label "CDC website - scrubbed information of - cancer viruses"
-  ]
-  edge [
-    source 52
-    target 101
-    key 0
-    edge "openly admitted injecting tens of millions of people with hidden"
-    label "Hilleman - openly admitted injecting tens of millions of people with hidden - cancer viruses"
+    edge "98 million Americans exposed from"
+    label "cancer viruses - 98 million Americans exposed from - polio vaccines"
   ]
   edge [
     source 52
@@ -1157,10 +927,10 @@ graph [
   ]
   edge [
     source 53
-    target 103
+    target 52
     key 0
-    edge "scrubbed information from"
-    label "CDC - scrubbed information from - CDC website"
+    edge "scrubbed information of"
+    label "CDC website - scrubbed information of - cancer viruses"
   ]
   edge [
     source 53
@@ -1198,6 +968,20 @@ graph [
     label "rational scientist - cannot believe it is somehow safe injecting infants and children with - formaldehyde"
   ]
   edge [
+    source 54
+    target 27
+    key 0
+    edge "cannot believe it is somehow safe injecting infants and children with"
+    label "rational scientist - cannot believe it is somehow safe injecting infants and children with - aluminum"
+  ]
+  edge [
+    source 58
+    target 26
+    key 0
+    edge "who inject children with vaccines are practicing against humanity a"
+    label "doctors - who inject children with vaccines are practicing against humanity a - medical holocaust"
+  ]
+  edge [
     source 58
     target 79
     key 0
@@ -1205,46 +989,11 @@ graph [
     label "doctors - who inject children with vaccines are - delusional"
   ]
   edge [
-    source 59
-    target 114
-    key 0
-    edge "were fabricated by Merck to continue receiving"
-    label "lab results - were fabricated by Merck to continue receiving - government contracts"
-  ]
-  edge [
-    source 60
-    target 93
-    key 0
-    edge "is granted extraordinary powers to operate utterly outside the"
-    label "vaccine court - is granted extraordinary powers to operate utterly outside the - rules of due process and law"
-  ]
-  edge [
-    source 61
-    target 93
-    key 0
-    edge "is"
-    label "vaccine court - is - violation of law"
-  ]
-  edge [
     source 63
-    target 112
+    target 2
     key 0
-    edge "refuses to conduct"
-    label "vaccine industry - refuses to conduct - scientific tests"
-  ]
-  edge [
-    source 65
-    target 94
-    key 0
-    edge "have near-zero"
-    label "Amish - have near-zero - autism rates"
-  ]
-  edge [
-    source 67
-    target 93
-    key 0
-    edge "is"
-    label "vaccine court - is - violation of basic human rights"
+    edge "would show healthier"
+    label "scientific tests - would show healthier - unvaccinated children"
   ]
   edge [
     source 68
@@ -1261,6 +1010,13 @@ graph [
     label "injecting any substance - bypasses the protections of the - respiratory system"
   ]
   edge [
+    source 68
+    target 41
+    key 0
+    edge "bypasses the protections of the"
+    label "injecting any substance - bypasses the protections of the - digestive tract"
+  ]
+  edge [
     source 69
     target 82
     key 0
@@ -1273,6 +1029,13 @@ graph [
     key 1
     edge "is largely funded by"
     label "mainstream media - is largely funded by - drug companies"
+  ]
+  edge [
+    source 69
+    target 36
+    key 0
+    edge "is largely funded by"
+    label "mainstream media - is largely funded by - vaccine manufacturers"
   ]
   edge [
     source 69
@@ -1297,6 +1060,13 @@ graph [
   ]
   edge [
     source 69
+    target 45
+    key 0
+    edge "refuses to cover stories because of"
+    label "mainstream media - refuses to cover stories because of - financial influence"
+  ]
+  edge [
+    source 69
     target 130
     key 0
     edge "refuses to cover stories about"
@@ -1304,10 +1074,24 @@ graph [
   ]
   edge [
     source 69
+    target 6
+    key 0
+    edge "refuses to report about vaccine industry"
+    label "mainstream media - refuses to report about vaccine industry - facts"
+  ]
+  edge [
+    source 69
     target 108
     key 0
     edge "fear losing advertising"
     label "mainstream media - fear losing advertising - revenues"
+  ]
+  edge [
+    source 70
+    target 33
+    key 0
+    edge "relays her conclusions in"
+    label "Marcia Angell - relays her conclusions in - Drug Companies &#38; Doctors: A Story of Corruption"
   ]
   edge [
     source 70
@@ -1320,15 +1104,22 @@ graph [
     source 70
     target 100
     key 0
-    edge "of The New England Journal of Medicine is"
-    label "former editor - of The New England Journal of Medicine is - Marcia Angell"
-  ]
-  edge [
-    source 70
-    target 100
-    key 1
     edge "is"
     label "Marcia Angell - is - former editor"
+  ]
+  edge [
+    source 71
+    target 0
+    key 0
+    edge "was fabricated for"
+    label "efficacy rate - was fabricated for - mumps vaccine"
+  ]
+  edge [
+    source 72
+    target 48
+    key 0
+    edge "was"
+    label "vaccine doctrine - was - First do no harm"
   ]
   edge [
     source 72
@@ -1338,32 +1129,18 @@ graph [
     label "vaccine doctrine - has become - Poison children for profit"
   ]
   edge [
-    source 74
-    target 93
+    source 81
+    target 36
     key 0
-    edge "is granted extraordinary powers to operate utterly outside the "
-    label "vaccine court - is granted extraordinary powers to operate utterly outside the  - Constitution"
+    edge "is used in vaccines for the convenience of the"
+    label "mercury - is used in vaccines for the convenience of the - vaccine manufacturers"
   ]
   edge [
-    source 75
-    target 129
+    source 81
+    target 10
     key 0
-    edge "into a human being at any dose should be globally condemed as a"
-    label "injecting mercury - into a human being at any dose should be globally condemed as a - criminal act"
-  ]
-  edge [
-    source 77
-    target 93
-    key 0
-    edge "granted"
-    label "vaccine court - granted - extraordinary powers"
-  ]
-  edge [
-    source 78
-    target 84
-    key 0
-    edge "doctors fraudulently call"
-    label "vaccination - doctors fraudulently call - immunization"
+    edge "has no"
+    label "mercury - has no - safe level"
   ]
   edge [
     source 81
@@ -1374,6 +1151,13 @@ graph [
   ]
   edge [
     source 81
+    target 47
+    key 0
+    edge "CDC admits is still used in"
+    label "mercury - CDC admits is still used in - vaccines"
+  ]
+  edge [
+    source 81
     target 97
     key 0
     edge "should not under any circumstances at any dose be deliberately"
@@ -1381,10 +1165,10 @@ graph [
   ]
   edge [
     source 81
-    target 138
+    target 13
     key 0
-    edge "cannot believe it is somehow safe injecting infants and children with"
-    label "rational doctor - cannot believe it is somehow safe injecting infants and children with - mercury"
+    edge "has no evidence of"
+    label "mercury - has no evidence of - safety"
   ]
   edge [
     source 81
@@ -1395,10 +1179,24 @@ graph [
   ]
   edge [
     source 81
+    target 38
+    key 0
+    edge "is arguably the most"
+    label "mercury - is arguably the most - neurotoxic"
+  ]
+  edge [
+    source 81
     target 125
     key 0
     edge "extremely toxic to the human"
     label "mercury - extremely toxic to the human - nervous system"
+  ]
+  edge [
+    source 81
+    target 14
+    key 0
+    edge "there is no"
+    label "mercury - there is no - safe form of mercury"
   ]
   edge [
     source 81
@@ -1416,17 +1214,17 @@ graph [
   ]
   edge [
     source 84
-    target 106
+    target 78
     key 0
-    edge "is"
-    label "holocaust - is - vaccination"
+    edge "doctors fraudulently call"
+    label "vaccination - doctors fraudulently call - immunization"
   ]
   edge [
     source 85
-    target 120
+    target 43
     key 0
-    edge "is demonstrating ignorance of scientific facts who says the level of"
-    label "doctor - is demonstrating ignorance of scientific facts who says the level of - mercury in a vaccine is safe"
+    edge "demonstrates outrageous"
+    label "mercury in a vaccine is safe - demonstrates outrageous - ignorance of scientific facts"
   ]
   edge [
     source 86
@@ -1436,39 +1234,18 @@ graph [
     label "Big Tobacco - science lies have similarities with lies of the - vaccine industry"
   ]
   edge [
-    source 87
-    target 115
+    source 91
+    target 51
     key 0
-    edge "used to cause"
-    label "MSG - used to cause - inflammation of immune system"
+    edge "was almost completely eradicated before the arrival of the"
+    label "measles - was almost completely eradicated before the arrival of the - measles vaccine"
   ]
   edge [
-    source 89
-    target 93
+    source 93
+    target 89
     key 0
     edge "is not even"
     label "vaccine court - is not even - court of law"
-  ]
-  edge [
-    source 90
-    target 95
-    key 0
-    edge "used to deactivate"
-    label "formaldehyde - used to deactivate - live viruses"
-  ]
-  edge [
-    source 92
-    target 115
-    key 0
-    edge "toxic when injected to"
-    label "MSG - toxic when injected to - human biology"
-  ]
-  edge [
-    source 92
-    target 95
-    key 0
-    edge "toxic when injected to"
-    label "formaldehyde - toxic when injected to - human biology"
   ]
   edge [
     source 93
@@ -1478,18 +1255,95 @@ graph [
     label "vaccine court - is granted extraordinary powers to operate utterly outside the  - Bill of Rights"
   ]
   edge [
-    source 95
-    target 138
+    source 93
+    target 74
     key 0
-    edge "cannot believe it is somehow safe injecting infants and children with"
-    label "rational doctor - cannot believe it is somehow safe injecting infants and children with - formaldehyde"
+    edge "is granted extraordinary powers to operate utterly outside the "
+    label "vaccine court - is granted extraordinary powers to operate utterly outside the  - Constitution"
+  ]
+  edge [
+    source 93
+    target 67
+    key 0
+    edge "is"
+    label "vaccine court - is - violation of basic human rights"
+  ]
+  edge [
+    source 93
+    target 5
+    key 0
+    edge "is higher power than"
+    label "vaccine court - is higher power than - Supreme Court"
+  ]
+  edge [
+    source 93
+    target 60
+    key 0
+    edge "is granted extraordinary powers to operate utterly outside the"
+    label "vaccine court - is granted extraordinary powers to operate utterly outside the - rules of due process and law"
+  ]
+  edge [
+    source 93
+    target 77
+    key 0
+    edge "granted"
+    label "vaccine court - granted - extraordinary powers"
+  ]
+  edge [
+    source 93
+    target 19
+    key 0
+    edge "must be abolished like"
+    label "vaccine court - must be abolished like - Apartheid"
+  ]
+  edge [
+    source 93
+    target 61
+    key 0
+    edge "is"
+    label "vaccine court - is - violation of law"
+  ]
+  edge [
+    source 94
+    target 15
+    key 0
+    edge "largely refuse"
+    label "Amish - largely refuse - to vaccinate children"
+  ]
+  edge [
+    source 94
+    target 65
+    key 0
+    edge "have near-zero"
+    label "Amish - have near-zero - autism rates"
+  ]
+  edge [
+    source 95
+    target 90
+    key 0
+    edge "used to deactivate"
+    label "formaldehyde - used to deactivate - live viruses"
+  ]
+  edge [
+    source 95
+    target 92
+    key 0
+    edge "toxic when injected to"
+    label "formaldehyde - toxic when injected to - human biology"
   ]
   edge [
     source 98
-    target 112
+    target 44
     key 0
-    edge "refuses to conduct scientific tests on the"
-    label "vaccine industry - refuses to conduct scientific tests on the - health outcomes"
+    edge "vaccine industry refuses to conduct scientific tests on"
+    label "health outcomes - vaccine industry refuses to conduct scientific tests on - vaccinated children versus unvaccinated children"
+  ]
+  edge [
+    source 100
+    target 70
+    key 0
+    edge "of The New England Journal of Medicine is"
+    label "former editor - of The New England Journal of Medicine is - Marcia Angell"
   ]
   edge [
     source 101
@@ -1499,25 +1353,46 @@ graph [
     label "Hilleman - is - Merck vaccine scientist"
   ]
   edge [
-    source 102
-    target 127
+    source 101
+    target 52
     key 0
-    edge "has"
-    label "modern medicine - has - destructive nature"
+    edge "openly admitted injecting tens of millions of people with hidden"
+    label "Hilleman - openly admitted injecting tens of millions of people with hidden - cancer viruses"
   ]
   edge [
-    source 104
-    target 130
+    source 103
+    target 47
     key 0
-    edge "are"
-    label "vaccine-injured children - are - delusions of their parents"
+    edge "admits mercury still used in"
+    label "CDC - admits mercury still used in - vaccines"
+  ]
+  edge [
+    source 103
+    target 53
+    key 0
+    edge "scrubbed information from"
+    label "CDC - scrubbed information from - CDC website"
+  ]
+  edge [
+    source 103
+    target 20
+    key 0
+    edge "admits"
+    label "CDC - admits - vaccine additives"
+  ]
+  edge [
+    source 103
+    target 18
+    key 0
+    edge "admits"
+    label "CDC - admits - vaccines contain additives"
   ]
   edge [
     source 105
-    target 113
+    target 6
     key 0
-    edge "is easily corrupted by"
-    label "science - is easily corrupted by - corporate interests"
+    edge "never has a monopoly on"
+    label "science - never has a monopoly on - facts"
   ]
   edge [
     source 105
@@ -1535,17 +1410,31 @@ graph [
   ]
   edge [
     source 105
+    target 113
+    key 0
+    edge "is easily corrupted by"
+    label "science - is easily corrupted by - corporate interests"
+  ]
+  edge [
+    source 105
     target 111
     key 0
     edge "on a regular basis makes enormous"
     label "science - on a regular basis makes enormous - mistake"
   ]
   edge [
-    source 107
-    target 138
+    source 106
+    target 84
     key 0
-    edge "cannot believe it is safe"
-    label "rational doctor - cannot believe it is safe - injecting children"
+    edge "is"
+    label "holocaust - is - vaccination"
+  ]
+  edge [
+    source 110
+    target 12
+    key 0
+    edge "are often little more than a collection of"
+    label "science journals - are often little more than a collection of - corporate-funded make-believe science tabloids"
   ]
   edge [
     source 111
@@ -1555,11 +1444,46 @@ graph [
     label "mistake - made by science was condoning smoking - cigarettes"
   ]
   edge [
-    source 115
-    target 138
+    source 112
+    target 63
     key 0
-    edge "cannot believe it is somehow safe injecting infants and children with"
-    label "rational doctor - cannot believe it is somehow safe injecting infants and children with - MSG"
+    edge "refuses to conduct"
+    label "vaccine industry - refuses to conduct - scientific tests"
+  ]
+  edge [
+    source 112
+    target 98
+    key 0
+    edge "refuses to conduct scientific tests on the"
+    label "vaccine industry - refuses to conduct scientific tests on the - health outcomes"
+  ]
+  edge [
+    source 114
+    target 59
+    key 0
+    edge "were fabricated by Merck to continue receiving"
+    label "lab results - were fabricated by Merck to continue receiving - government contracts"
+  ]
+  edge [
+    source 114
+    target 0
+    key 0
+    edge "fabricated to claim 95% efficacy rate for"
+    label "lab results - fabricated to claim 95% efficacy rate for - mumps vaccine"
+  ]
+  edge [
+    source 115
+    target 87
+    key 0
+    edge "used to cause"
+    label "MSG - used to cause - inflammation of immune system"
+  ]
+  edge [
+    source 115
+    target 92
+    key 0
+    edge "toxic when injected to"
+    label "MSG - toxic when injected to - human biology"
   ]
   edge [
     source 119
@@ -1576,17 +1500,94 @@ graph [
     label "doctor - who injects mercury into a child at any dose should be immediately stripped of their - medical license"
   ]
   edge [
-    source 122
-    target 133
+    source 120
+    target 43
+    key 0
+    edge "who says the level of mercury in a vaccine is safe to inject into a child is only demonstrating their outrageous"
+    label "doctor - who says the level of mercury in a vaccine is safe to inject into a child is only demonstrating their outrageous - ignorance of scientific facts"
+  ]
+  edge [
+    source 120
+    target 85
+    key 0
+    edge "is demonstrating ignorance of scientific facts who says the level of"
+    label "doctor - is demonstrating ignorance of scientific facts who says the level of - mercury in a vaccine is safe"
+  ]
+  edge [
+    source 127
+    target 102
+    key 0
+    edge "has"
+    label "modern medicine - has - destructive nature"
+  ]
+  edge [
+    source 129
+    target 75
+    key 0
+    edge "into a human being at any dose should be globally condemed as a"
+    label "injecting mercury - into a human being at any dose should be globally condemed as a - criminal act"
+  ]
+  edge [
+    source 130
+    target 104
+    key 0
+    edge "are"
+    label "vaccine-injured children - are - delusions of their parents"
+  ]
+  edge [
+    source 133
+    target 124
+    key 0
+    edge "were the majority affected by the"
+    label "vaccinated children - were the majority affected by the - outbreak"
+  ]
+  edge [
+    source 133
+    target 122
     key 0
     edge "who are most heavily-vaccinated all the time get"
     label "vaccinated children - who are most heavily-vaccinated all the time get - sick"
   ]
   edge [
-    source 124
-    target 133
+    source 137
+    target 16
     key 0
-    edge "were the majority affected by the"
-    label "vaccinated children - were the majority affected by the - outbreak"
+    edge "is discussed and exposed in great detail in the powerful book by Dr. Suzanne Humphries"
+    label "fabrication of vaccine successes - is discussed and exposed in great detail in the powerful book by Dr. Suzanne Humphries - Dissolving Illusions"
+  ]
+  edge [
+    source 138
+    target 81
+    key 0
+    edge "cannot believe it is somehow safe injecting infants and children with"
+    label "rational doctor - cannot believe it is somehow safe injecting infants and children with - mercury"
+  ]
+  edge [
+    source 138
+    target 115
+    key 0
+    edge "cannot believe it is somehow safe injecting infants and children with"
+    label "rational doctor - cannot believe it is somehow safe injecting infants and children with - MSG"
+  ]
+  edge [
+    source 138
+    target 95
+    key 0
+    edge "cannot believe it is somehow safe injecting infants and children with"
+    label "rational doctor - cannot believe it is somehow safe injecting infants and children with - formaldehyde"
+  ]
+  edge [
+    source 138
+    target 107
+    key 0
+    edge "cannot believe it is safe"
+    label "rational doctor - cannot believe it is safe - injecting children"
+  ]
+  edge [
+    source 138
+    target 27
+    key 0
+    edge "cannot believe it is somehow safe injecting infants and children with"
+    label "rational doctor - cannot believe it is somehow safe injecting infants and children with - aluminum"
   ]
 ]
