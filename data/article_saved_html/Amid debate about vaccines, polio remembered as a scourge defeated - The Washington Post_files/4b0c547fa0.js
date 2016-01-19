@@ -1,0 +1,1 @@
+(function($){try{$.ajax({dataType:"script",cache:true,url:"//ak.sail-horizon.com/horizon/v1.js",success:function(data){if(window.Sailthru)Sailthru.setup({domain:"horizon.washingtonpost.com"})}})}catch(e){}})(jQuery);

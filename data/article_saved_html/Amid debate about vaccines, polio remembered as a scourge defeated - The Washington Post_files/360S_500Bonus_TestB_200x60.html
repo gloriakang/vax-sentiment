@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<!-- saved from url=(0072)https://s1.2mdn.net/807725/1443813525939/360S_500Bonus_TestB_200x60.html -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script type="text/javascript">
+    
+      (function() {
+        var relegateNavigation = '';
+        var handleClickTagMessage = function(e) {
+          try {
+            var eventData = JSON.parse(e.data);
+          } catch (err) {
+            return;
+          }
+          if (eventData.isInitClickTag) {
+            if (eventData.clickTags) {
+              for (var i = 0; i < eventData.clickTags.length; i++) {
+                var clkTag = eventData.clickTags[i];
+                window[clkTag.name] = clkTag.url;
+              }
+            } else if (eventData.clickTag) {
+              window.clickTag = eventData.clickTag;
+            }
+            relegateNavigation = eventData.relegateNavigation;
+          }
+        };
+
+        if (open.call) {
+          window.open = function(open) {
+            return function(url, name, features) {
+              if (relegateNavigation === 'parent') {
+                var message = {'clickTag': url, 'isPostClickTag': true};
+                parent.postMessage(JSON.stringify(message), '*');
+              } else {
+                var args = [url, name];
+                if (features) {
+                  args.push(features);
+                }
+                open.apply(window, args);
+              }
+            };
+          }(window.open);
+        }
+
+        if (window.addEventListener) {
+          window.addEventListener(
+              'message', handleClickTagMessage, false);
+        } else {
+          window.attachEvent('onmessage', handleClickTagMessage);
+        }
+      })();
+    
+  </script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+<title>360S_500Bonus_TestB_200x60</title>
+   <script type="text/javascript">
+      var clickTag = "http://www.google.com";
+    </script>
+    <script type="text/javascript" src="Enabler.js"></script>
+    <script type="text/javascript" src="runtime.js"></script>
+	<script type="text/javascript" src="360S_500Bonus_TestB_200x60.js"></script>
+    <style>html, body {width: 100%; height: 100%}
+	#bg-exit {
+	  z-index:999999;
+	  background-color: rgba(255,255,255,0);
+	  cursor: pointer;
+	  height: 100%;
+	  left: 0px;
+	  position: absolute;
+	  top: 0px;
+	  width: 100%;
+	}
+     </style>
+  </head>
+  <body style="margin: 0; overflow: hidden">
+    <div id="swiffycontainer" style="width: 200px; height: 60px; position:relative">
+   	<div id="bg-exit"></div>
+    <div style="position: relative; width: 100%; height: 100%; overflow: hidden; -webkit-tap-highlight-color: rgba(0, 0, 0, 0); -webkit-user-select: none;"><canvas width="200" height="60" style="width: 200px; height: 60px; position: relative; left: 0px; top: 0px;"></canvas></div></div>
+    <script>
+      
+      var stage = new swiffy.Stage(document.getElementById('swiffycontainer'),
+          swiffyobject, {});
+	  
+	  document.getElementById('bg-exit').addEventListener('click', exitHandler, false);
+	  document.getElementById('bg-exit').addEventListener("mouseover", mover, false);
+	  document.getElementById('bg-exit').addEventListener("mouseout", mout, false);
+		function exitHandler() {
+		  Enabler.exit('Exit');
+		  window.open(clickTag)
+		}
+		function mover() {
+			document.getElementById("swiffycontainer").mOver();
+		}
+		function mout() {
+			document.getElementById("swiffycontainer").mOut();
+		}
+      
+      stage.start();
+	  
+    </script>
+  
+</body></html>

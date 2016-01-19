@@ -1,0 +1,43 @@
+/* CSS style just for the sitewrap ad */
+
+.sitewrap {
+  height: 1024px;
+  position: absolute;
+  top: 0;
+  width: 145px;
+  z-index:10;
+}
+
+.sitewrap.sitewrap-left {
+  left: 50%;
+}
+.sitewrap.sitewrap-right {
+  left: 50%;
+}
+
+.sitewrap a {
+  display: block;
+  height: 1024px;
+  width: 145px;
+}
+
+body .sitewrap.sitewrap-left {
+  margin-left: -640px;
+}
+
+
+body .sitewrap.sitewrap-right {
+  margin-left: 495px;
+}
+
+/*body {
+  background-color: #788f41 !important;
+}*/
+
+#page, #page-footer {
+  background-color: #ffffff !important;
+}
+
+html{
+  overflow-x: hidden;
+}

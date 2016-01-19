@@ -1,0 +1,1 @@
+PARSELY.pInit({"apikey":"wired.com","settings":{"debug":false,"widget":false,"tracker":true},"customizations":null,"track_ip_addresses":true,"bundle":"/code/ptrack-v0.4.8-engaged-time.js","track_third_party_cookies":true,"uuid":"c76bf513-a73c-4788-8b8d-0a00fa45d219","network_uuid":"865bd0d1-29e8-4f82-a644-6d0ef2e61da1","apikey_uuid":"c76bf513-a73c-4788-8b8d-0a00fa45d219"});

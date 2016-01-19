@@ -1,0 +1,221 @@
+<!DOCTYPE html>
+<!-- saved from url=(0169)https://s0.2mdn.net/ads/richmedia/studio/pv2/40609662/20151222132842368/Cisco_Mobile_970x250_DC/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=EZgvy6JK1W&t=1 -->
+<html lang="en"><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+<script src="Enabler_01_93.js"></script>
+<script>
+if (!Enabler.isInitialized()) {
+  Enabler.addEventListener(
+    studio.events.StudioEvent.INIT,
+    enablerInitialized);
+} else {
+   enablerInitialized();
+}
+function enablerInitialized() {
+  // Enabler initialized.
+  // In App ads are rendered offscreen so animation should wait for
+  // the visible event. These are simulated with delays in the local
+  // environment.
+  if (!Enabler.isVisible()) {
+    Enabler.addEventListener(
+      studio.events.StudioEvent.VISIBLE,
+      adVisible);
+  } else {
+     adVisible();
+  }
+}
+function adVisible() {
+  // Ad visible, start ad/animation.
+  
+  var video1 = document.getElementById('ciscovideo');
+
+	Enabler.loadModule(studio.module.ModuleId.VIDEO, function() {
+	  studio.video.Reporter.attach('video_1', video1);
+	});
+	
+	video1.addEventListener('ended', videoEndHandler, false);
+	
+	function videoEndHandler(e) {
+	// Video has ended, start playing animation
+	var c = document.getElementById("replay");
+			c.className = c.className + " showreplay";
+	}
+	
+	video1.addEventListener('play', videoPausePlayHandler, false);
+	video1.addEventListener('pause', videoPausePlayHandler, false);
+	
+	function videoPausePlayHandler(e) {
+	if (e.type == 'play') {
+	// Video has played, perform an action
+	} else if (e.type == 'pause') {
+	// Video has paused, perform an action
+	}
+	}
+  
+  function ctaExitHandler(e) {
+  Enabler.exit("BG Click");
+	}
+	
+	document.getElementById('bg-exit').addEventListener('click', ctaExitHandler, false);
+// Counters.
+//Enabler.counter("Clicked on tab 1");
+// Timers
+//Enabler.startTimer("Spinning car");
+//Enabler.stopTimer("Spinning car");
+}
+</script>
+
+<style rel="stylesheet" type="text/css">
+body, body * {
+	vertical-align: baseline;
+	border: 0 none;
+	outline: 0;
+	padding: 0;
+	margin: 0;
+	font-family: Arial, sans-serif;
+	font-size: 9pt;
+	color: #333;
+}
+#main-container {
+	position: absolute;
+	width: 970px;
+	height: 250px;
+	border: 1px solid black;
+	box-sizing: border-box;
+	overflow: hidden;
+}
+div {
+	position: absolute;
+	background-repeat: no-repeat;
+}
+#replay {
+	background-image: url(icon.png);
+	position: absolute;
+	width: 20px;
+	height: 19px;
+	left: 6px;
+	top: 6px;
+	z-index: 12;
+	opacity: 0;
+	cursor: pointer;
+}
+#bg-exit {
+	background-color: rgba(255,255,255,0);
+	cursor: pointer;
+	height: 100%;
+	left: 0px;
+	position: absolute;
+	top: 0px;
+	width: 100%;
+}
+#cta {
+	background-image: url(cta.png);
+	width: 117px;
+	height: 24px;
+	left: 74px;
+	top: 200px;
+	cursor: pointer;
+	opacity: 0;
+}
+
+.showcta {
+	-webkit-animation: fadeIn 1s 0s ease-out forwards;
+	animation: fadeIn 1s 0s ease-out forwards;
+}
+
+#close {
+	background-image: url(icon.png);
+	background-position: -27px 0px;
+	position: absolute;
+	width: 20px;
+	height: 19px;
+	right: 6px;
+	top: 6px;
+	z-index: 13;
+	cursor: pointer;
+	display:none;
+}
+.showreplay {
+	-webkit-animation: fadeIn 1s 0s ease-out forwards;
+	animation: fadeIn 1s 0s ease-out forwards;
+}
+#ciscovideo {
+	cursor: pointer;
+}
+ @-webkit-keyframes fadeIn {
+ 0% {
+opacity:0;
+}
+ 100% {
+opacity:100;
+}
+}
+ @keyframes fadeIn {
+ 0% {
+opacity:0;
+}
+ 100% {
+opacity:100;
+}
+}
+ @-webkit-keyframes copy {
+ 0% {
+left:160px;
+}
+ 100% {
+left:0px;
+}
+}
+ @keyframes copy {
+ 0% {
+left:160px;
+}
+ 100% {
+left:0px;
+}
+}
+</style>
+<script type="text/javascript" charset="UTF-8" src="prod_studio_01_93_videomodule.js"></script></head>
+
+<body class="animate">
+<div id="main-container">
+  <video id="ciscovideo" width="970" height="250" autoplay="" poster="still.jpg">
+    <source src="//gcdn.2mdn.net/videoplayback/id/36db6b561ec89098/itag/15/source/doubleclick/ratebypass/yes/mime/video%2Fmp4/acao/yes/ip/0.0.0.0/ipbits/0/expire/3595267715/sparams/id,itag,source,ratebypass,mime,acao,ip,ipbits,expire/signature/89BFEAE0FDAF04017A46D10998E85030585A9C71.6AF2814323C6F169FB7708763E7ED2EB8569DC22/key/ck2/file/file.mp4" type="video/mp4">
+  </video>
+  <div id="replay" onclick="reset();"></div>
+  <div id="bg-exit">
+    <div id="cta"></div>
+  </div>
+  <div id="close" onclick="closeX();"></div>
+</div>
+<script type="text/javascript"> 
+	var vid = document.getElementById("ciscovideo");
+	var video = document.getElementById('ciscovideo');
+	var pBar = document.getElementById('p');
+	video.addEventListener('timeupdate', function() {
+	  var percent = Math.floor((100 / video.duration) * video.currentTime);
+	  if(percent>=90){
+		  var a = document.getElementById("cta");
+		a.className = a.className + " showcta";
+		  }
+	  //pBar.value = percent;
+	  //pBar.getElementsByTagName('span')[0].innerHTML = percent;
+	}, false);
+
+	function reset()
+	{
+		document.getElementById("cta").className = "";
+		document.getElementById("cta").style.opacity = 0;
+		document.getElementById("replay").className = "";
+		document.getElementById("replay").style.opacity = 0;
+		vid.currentTime = 0;
+		vid.play();
+	}
+	
+	function closeX()
+	{
+		alert("Close Banner");
+	}
+</script>
+
+
+</body></html>

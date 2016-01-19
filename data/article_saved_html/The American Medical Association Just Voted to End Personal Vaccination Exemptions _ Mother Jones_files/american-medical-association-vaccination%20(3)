@@ -1,0 +1,8 @@
+document.write("<SCR"+"IPT language='JavaScript1.1' SRC=\"https://ad.doubleclick.net/ddm/adj/N9539.7428MOTHERJONES/B9316836.126909413;sz=300x250;ord=170951189;dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?\">\n");
+document.write("</SCR"+"IPT>\n");
+document.write("<NOSCRIPT>\n");
+document.write("<A HREF=\"http://adserver.adtechus.com/adlink/5443/2863574/0/170/AdId=7774808;BnId=1;itime=170951189;key=Health%2Bblue%2Dmarble;nodecode=yes;link=https://ad.doubleclick.net/ddm/jump/N9539.7428MOTHERJONES/B9316836.126909413;sz=300x250;ord=170951189?\">\n");
+document.write("<IMG SRC=\"https://ad.doubleclick.net/ddm/ad/N9539.7428MOTHERJONES/B9316836.126909413;sz=300x250;ord=170951189];dc_lat=;dc_rdid=;tag_for_child_directed_treatment=?\" BORDER=0 WIDTH=300 HEIGHT=250 ALT=\"Advertisement\"></A>\n");
+document.write("</NOSCRIPT>\n");
+
+

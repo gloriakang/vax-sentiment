@@ -1,0 +1,23 @@
+function AdClicked(url)
+{ 
+    var clickLineDisabled = "$dcli";
+    if(clickLineDisabled=="1")
+    {
+        return;
+    }
+    
+    var winOpen = "1";
+    if(winOpen == "1")
+    {
+        window.open(url,"");
+    }else
+    {
+        parent.location.href=url; 
+    }
+}
+var clickLineVarName4704410312 = 'https://secure.ace.advertising.com/click/site=944502/mnum=1980043/bnum=51121609/cstr=51121609=_569da0be_4704410312_944502*1980043*1183*0_1_/xsxdata=$xsxdata/xsinvid=0/imptid=AS40365887960b4290a8a82e8fcb1f5a7a/deviceid=/optn=64?trg=';
+
+document.write('<a href="javascript:AdClicked(clickLineVarName4704410312);" target="_self">');
+document.write('<img src="https://a248.e.akamai.net/f/248/894/72H/origin2.adsdk.com//CDN/179344/find_yearbooks_300x250.gif" border="0" width="300" height="250" alt="Click to learn more...">');
+document.write('</a>');
+document.write("<scr"+"ipt src='https://z.moatads.com/advertisingdotcom370674952587/moatad.js#moatClientLevel1=1980043&moatClientLevel2=179344&zMoatMediaWidth=300&zMoatMediaHeight=250&zMoatSegmentID=1183&zMoatImpressionID=AS40365887960b4290a8a82e8fcb1f5a7a&moatClientSlicer1=944502&moatClientSlicer2=0&zMoatSiteDomain=www.washingtonpost.com&zMoatDevice=personalcomputer' type='text/javascript'></scr"+"ipt>");

@@ -1,0 +1,3 @@
+
+
+document.write("<scr"+"ipt src=\""+(window.location.protocol=='https:' ? "https://aka-cdn.adtechus.com" : "http://aka-cdn-ns.adtechus.com")+"/media/moat/adtechbrands092348fjlsmdhlwsl239fh3df/moatad.js#moatClientLevel1=5443&moatClientLevel2=194722&moatClientLevel3=0&moatClientLevel4=2864008&zMoatMaster=-1&zMoatFlight=4534970&zMoatBanner=22697194&zURL=http&zMoatPlacementId=2864008&zMoatAdId=4534970&zMoatCreative=0&zMoatBannerID=1&zMoatCustomVisp=0&zMoatCustomVist=0&zMoatIsAdvisGoal=0&zMoatEventUrl=&zMoatSize=67&zMoatSubNetID=1&zMoatisSelected=1&zMoatadServer=adserver.adtechus.com&zMoatadVisServer=&zMoatSamplingRate=23&zMoatliveTestCookie=&zMoatRefSeqId=t1jACsjAWLA&zMoatAlias=overlay\" type=\"text/javascript\"></scr"+"ipt>");

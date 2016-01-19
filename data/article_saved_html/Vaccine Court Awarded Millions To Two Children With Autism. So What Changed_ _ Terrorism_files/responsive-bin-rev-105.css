@@ -1,0 +1,209 @@
+/* Custom CSS */
+
+/* TABLET: 992px - 1200px */
+@media only screen and (max-width: 1199px){
+    #wrapper, .home_wrapper, #footer {width: 965px;}
+    #news {width: 950px;}
+    #news #content_right {margin-left:15px;}
+    #searchbar,.ad_column,#submitnews-img,#tower_column,#ad-wrapper-right,#ad-wrapper-left{display:none;}    
+    #menu_center ul{margin:0 auto;}
+    #menu_center ul li a{font-size: 14px;font-weight: 700;padding: 6px 7px;}
+    #topstyle_box_info{width: 250px;}
+    #block_top_books a {width: 375px!important;}
+    #topstyle_box #got_a_news_story, img#submitnews{margin-right: 5px;}
+    #topstyle_box_ads{width: 700px;overflow: hidden;}    
+    /* Category */
+    #content{width:640px;}
+    #newest_stories, #most_popular, #most_commented,#middle_content #mc_recent_comments, #middle_content #mc_top_contributors {width: 310px;}    
+    #newest_stories .newest_story_item,#most_popular .mp_item {width: 300px;}
+    /* Post Detail */
+    #story_column{width: 635px;}
+    /* Bio Page */
+    .bio-wrap{width: 550px;}
+    #bio_story_headlines{width: 360px;margin: 0px;}
+    .right_stories{width: 300px;margin: 10px 0px;}
+}
+
+@media only screen and (max-width: 1199px){
+    body.mobile-device #content_bigboard #top1_news,
+    body.mobile-device #content_bigboard #top2_news {background: url('http://image.b4in.net/bigboard/mobile-bg.gif') repeat !important; height: 1212px;}
+    body.mobile-device #content_bigboard .page,
+    body.mobile-device .category_title, 
+    body.mobile-device a .book_title{height:48px;line-height:48px;}
+    body.mobile-device #content_bigboard img.news-photo,
+    body.mobile-device #content_bigboard img.news-video{margin-top: 12px;}
+    body.mobile-device table.views-table {background: url('http://image.b4in.net/bigboard/mobile-bg.gif') repeat !important;}
+    body.mobile-device .headline,
+    body.mobile-device .ellipsis,
+    body.mobile-device .category_title .ellipsis,
+    body.mobile-device .book_title .ellipsis {height: 47px;line-height: 47px;padding: 0px;}
+    body.mobile-device .headline img,
+    body.mobile-device .book_title img{margin-top:12px;}
+}
+
+/*Phone: 768px - 992px */
+@media only screen and (max-width: 991px){
+    #wrapper, #menu_center, .home_wrapper, #footer {width: 760px;}
+    #content_bigboard .news-title {width: 335px;}
+    /* Header */
+    #menu,#menu_center{height: 27px;}
+    #news #content_right{margin-left: 0px;}
+    #searchbar, .ad_column, #tower_column,#ad-wrapper-right,#ad-wrapper-left{display:none;}    
+    #menu_center ul li a{font-size: 13px;font-weight: 700;padding: 4px;}
+    #menu_center ul{margin:0 auto;width: 100%;float: none;}
+    #topstyle_box_info{width: 430px;margin: 0 auto;float: none;}
+    /* Home Page */
+    #news{width: 745px;}
+    #content_bigboard{width: 432px;margin-right: 10px;}
+    #block_top_books a {width: 375px!important;}
+    #topstyle_box_ads{margin: 0 auto;float: none;}
+    /* Category */
+    #content, #sidebar{width: 100%;float: none;}
+    #feature_story,#top_stories{height: 275px;}
+    #newest_stories, #most_popular, #most_commented,#middle_content #mc_recent_comments, #middle_content #mc_top_contributors {width: 365px;}    
+    #newest_stories .newest_story_item,#most_popular .mp_item {width: 355px;}
+    .right_stories, .ad_300x250, #stripmall, #follow_us{margin: 10px;float: left;width: 350px;} 
+    .ad_300x250, #stripmall {text-align: center;}    
+    #middle_content #mc_top_contributors li {margin: 5px 7px;width: 100px;height: 100px;}
+    /* Post Detail */
+    #story_column{width: 730px;margin: 0px;float: none;padding: 5px 15px;}
+    #infobar{margin: -5px -15px;width: 760px;}
+    #tile_column{float: none;width: 745px;padding: 8px;display: inline-block;}
+    #story_column #body iframe{width:96%; height:auto;margin: 8px 2%;}
+    /* Bio Page */
+    .bio-wrap{width: 720px;}
+    #bio_story_headlines{width: 730px;margin: 15px;}
+}
+
+    
+/* Phone: 480px - 768px */
+@media only screen and (max-width: 767px){
+    #wrapper, #menu_center, .home_wrapper, #footer,#feature {width: 100%;}
+    /* Header */
+    #logo{width: 50%;height: 90px;padding: 0px;} 
+    #user_status{width: 50%;}
+    #logo img{padding-top: 30px;  padding-left: 50px;width: 80%;}
+    #menu, #menu_center{height: 55px;}
+    .right_stories, .ad_300x250, #stripmall, #follow_us, ul.xoxo li h3.widget-title{width: 96%;height: auto;margin: 0px 2%;}
+    #content_bigboard, #content, #sidebar, #editors_picks_title, table.views-table, table.views-table .headline, #block_top_books,#news #content_right{width: 100%;height: auto;}
+    #searchbar, .ad_column, #tower_column, .ads729_90,#ad-wrapper-right,#ad-wrapper-left,#social_bottom_float{display:none;}    
+    #menu_center ul li a{font-size: 14px;font-weight: 700;padding: 3px 6px;}
+    #menu_center ul,.ad_300x250, #stripmall {margin: 0 1%;float: none;text-align: center;}
+    #topstyle_box_info{width: 420px;margin: 0 auto;float: none;} 
+    .category_columns .category_title, a .book_title{ width: 48%;}
+    #joinbox{width: 390px;} 
+    .form-item input {width: 98%;margin-bottom: 10px;}
+    /* Home Page */
+    #news{width: 96%;padding: 0px 2%;}
+    #content_bigboard .news-title{width: 78%;}
+    #content_bigboard .news-tooltip{width: 55%;}
+    #block_top_books a {width: 375px!important;}
+    #container{padding:0px;}
+    #topstyle_box_ads{width: 100%;overflow: hidden;float: none;}
+    /* Category */
+    #feature{margin-top: 0px;}
+    #feature_story,#top_stories{width: 100%;float: none;display: inline-block;}
+    #newest_stories, #most_popular, #most_commented,#middle_content #mc_recent_comments, #middle_content #mc_top_contributors {width: 96%;margin: 8px 2%;}    
+    #newest_stories .newest_story_item,#most_popular .mp_item {width: 96%;padding: 5px 2%;}
+    #middle_content #mc_top_contributors li {margin: 5px 7px;width: 93px;height: 93px;}
+    ul.xoxo li h3.widget-title,#main_socical {background-size: cover;width: 100%;margin: 0px;}
+    /* Post Detail */
+    #viewcounters{float: right;margin: 5px -3px;width: 150px;}
+    #profile_info{width: 226px;}
+    #story_column{width: 96%;margin: 0px;float: none;padding: 0px 2%;}
+    #infobar{margin: 0px -2%;width: 104%;}
+    #in_line_story_sharing{height: 50px;margin: 0px;}
+    #tile_column{float: none;padding: 10px 0px;margin: 0 auto;width: 100%;}
+    .ads300_250 {padding: 5px 3px !important;margin: 0px auto;float: none!important;}
+    #story_column #body iframe{width:96%; margin: 8px 2%;}
+    /* Bio Page */
+    .bio-wrap,#bio_story_headlines{width: 100%;margin: 0px 0px 10px;box-sizing: border-box;} 
+    #bio_story_headlines{padding: 10px;}
+    .bio-pic, .bio-info {float: left;text-align: center;width: auto;}
+}
+
+@media only screen and (max-width: 479px) {
+    #wrapper, #menu_center, .home_wrapper, #footer,#feature {width: 100%;}
+    /* Header */
+    #logo{width: 80%;}
+    #user_status{width: 100%;display: none;background: #fff;position: absolute;top: 150px;} 
+    #login,#joinnowtext a{color: #000;text-shadow: none;} 
+    #menu,#menu_center{height: 57px;z-index: 99999;}
+    #main-menu-mob, .navbar-toggle, #menu_center ul li#userlogin-button{display: inline-block;float: right;z-index: 999;position: static;height: 48px;width: 48px;}
+    #menu_center ul li#userlogin-button {margin-right: 10px; margin-top: 5px;}
+    #menu_center ul li#userlogin-button img {height:32px!important;}
+    #menu_center li.home-link a#mainlogo img {width: 32px;margin: -7px 0 0 0;}
+    #menu_center .navbar-header li {margin-top: 13px;}
+    #menu_center .navbar-toggle .icon-bar {display: block; width: 36px; height: 7px; border-radius: 1px; background-color: #BBB;}
+    #news #content_right, .right_stories, .ad_300x250, #stripmall, #follow_us, #sidebar ul li ul, ul.xoxo li h3.widget-title{width: 96%;margin: 0px 2%;height: auto;}
+    #content_bigboard, #content, #sidebar, #editors_picks_title, table.views-table, table.views-table .headline, #block_top_books, .category_columns, .category_title,#main_socical,a .book_title{width: 100%;}
+    #searchbar, .ad_column, #tower_column, #submitnews-img, #menu_center ul#header-main-menu, .news-tooltip .news-desc, .news-tooltip .news-info, .ads729_90, #ad-wrapper-right, #ad-wrapper-left, #social_bottom_float{display:none;}    
+    #menu_center ul li a{font-size: 15px;font-weight: 700;padding: 6px;}
+    #menu_center ul,.ad_300x250, #stripmall {margin: 0 2%;width: 96%;float: none;text-align: center;}
+    #topstyle_box_info{width: 300px;margin: 0 auto;float: none;}
+    #joinbox{width: 165px;padding: 5px;}
+    .form-item input {width: 98%;margin-bottom: 10px;}
+    #menu_center ul#header-main-menu {position: absolute;top: 151px;right: 0px;height: 100px;background: #fff;width: 100%;margin: 0px;}    
+    #menu.fixed-nav #header-main-menu {top: 58px;border-bottom: 1px solid #A3A3A3;box-shadow: 1px 2px 1px #C5C5C5;margin: 0px;}
+    #status, #status a {color: #000;}
+    /* Home Page */
+    #news{width: 96%;padding: 0px 2%;} 
+    #content_bigboard .news-title{width: 70%;}
+    .views-table .headline .ellipsis{width: 85%!important;overflow: hidden;}
+    #content_bigboard .news-tooltip{width: 50%;}
+    #content_bigboard div.news-tooltip .news-image,#content_bigboard div.news-tooltip .news-fulltitle{width: 100%;text-align: justify;font-size: 13px;}
+    #block_top_books a {width: 375px!important;}
+    #topstyle_box_ads{width: 100%;overflow: hidden;float: none;}
+    /* Category */
+    #container{padding:0px;}
+    #feature{margin-top: 0px;} 
+    #feature_story .fs_img img{height: 90px;margin: 15px 5px;}
+    #feature_story,#top_stories{width: 100%;display: inline-block;height: auto;}
+    #feature_story .text_feature{margin-right: 5px;}
+    #feature_story .text_feature .fs_title a{font-size: 15px;}
+    #newest_stories, #most_popular, #most_commented,#middle_content #mc_recent_comments, #middle_content #mc_top_contributors {width: 96%;margin: 8px 2%;}    
+    #newest_stories .newest_story_item,#most_popular .mp_item {width: 96%;padding: 5px 2%;}
+    #middle_content #mc_top_contributors li {margin: 5px 2px;width: 85px;height: 85px;overflow: hidden;}
+    .right_stories li{width: 93%;padding: 2px 2% 2px 0px;}
+    /* Post Detail */
+    #viewcounters{display: none;}
+    #profile_info{width: 214px;}
+    #story_column{width: 96%;margin: 0px;float: none;padding: 0 2%;}
+    #profile_pic{min-width: 90px;width: 90px;}
+    #wp_emoticons {display: inline-block;width: 280px;}
+    #infobar{margin: 0 -2%;width: 104%;}
+    #in_line_story_sharing{height: 50px;margin: 0px;}
+    #tile_column{float: none;padding: 10px 0px;margin: 0 auto;width: 100%;}
+    .ads300_250 {padding: 5px 3px !important;margin: 0px -6px;float: none!important;}
+    #story_column #body iframe{width:96%; margin: 8px 2%;}
+
+    /* Bio Page */
+    .bio-wrap{}
+    #bio_story_headlines{width: 96%;margin: 5px 2%;}
+    .bio-press{font-size: 68px;}
+    .bio-info{width: 260px;}
+    .bio-pic, .bio-info {float: left;margin: 0px 1%;text-align: center;width: 46%;display: inline-block;padding: 0px;}
+
+    div#footer a {
+        color: #000;
+        font-weight: 700;
+        font-size: 16px!important;
+        padding: 8px!important;
+        line-height: 32px!important;
+    }
+}
+
+@media only screen and (max-width: 479px) {
+    /* Editor Picks / Most Recent */
+    body.mobile-device #editors_picks_title, 
+    body.mobile-device table.views-table tr {height: 48px;}
+    body.mobile-device #block_top_books a .book_title {height: 32px;}
+
+    /* All Categories */
+    body.mobile-device .category_title, 
+    body.mobile-device a .book_title {
+        height: 48px!important;
+        line-height: 48px!important;
+        font-size: 14px!important;
+    }
+}

@@ -1,0 +1,572 @@
+/*
+Theme Name: Vaccine Impact - Avada Child
+Description: Child theme for Avada
+Author: Sophia Media
+Template: Avada
+*/
+
+
+
+
+/*jkw 12-3-2014
+style added below to make VI look like HIN
+
+*/
+
+.post-content blockquote {
+font-style: normal !important;
+}
+.home-featured-content{font-size: 17px !important;font-family: arial, sans-serif !important;}
+.home_title_link {
+	font-family: arial !important;
+	font-size: 26px !important;
+	line-height: 18px !important;
+	}
+
+
+
+.current-date{width:200px !important;font-size: 17px !important;height:38px !important;}
+
+.ga-top-posts a{font-size: 14px !important;}
+
+body p {
+font: 13px/18px arial,sans-serif !important;
+}
+
+.entry-date{
+font-family: arial, sans-serif !important;
+font-size: 13px !important;}
+/*************************************************************************/
+
+.more-news {
+    background: #E1EED6;
+    padding: 19px 7px 1px 7px;
+    height: auto;
+    width: 200px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+    border-radius: 5px;
+}
+
+p.no-comments {
+display: none;
+}
+
+.single-avada_portfolio .single-navigation.clearfix {
+display: none;
+}
+/***************/
+
+/*logo*/
+
+.avada-row {max-width:1170px !important;}
+
+#header-sticky .avada-row, #header .avada-row, #main .avada-row, .footer-area .avada-row, #slidingbar-area .avada-row, #footer .avada-row {
+max-width: 1170px !important;
+}
+
+@media screen and (min-width:801px) {
+    .logo {
+        height: 124px;
+        background: url("/wp-content/uploads/sites/5/2014/12/vaccine_impact_banner3.png") no-repeat;
+        width: 1170px;
+    }
+
+    .logo img {
+        visibility: hidden;
+    }
+    
+    .sticky-shadow div.logo {
+        width: 560px !important;
+        background-size: contain;
+    }
+}
+
+@media screen and (max-width:800px) {
+    .logo {
+        background: none;
+        width: auto;
+    }
+
+    .logo img {
+        visibility: visible;
+        max-height: 124px;
+    }
+    
+    .header-v5 #header {
+        padding: 0px;
+    }
+
+    .sticky-shadow div.logo {
+        width: auto !important;
+        background-size: auto;
+    }
+	.avada-row .alignleft {
+		/* display: none !important; */
+	}
+			
+	.avada-row .alignright {
+		display: none !important;
+	}
+    
+    .fusion-sharing-box.share-box {
+        display: none;
+    }
+
+}
+
+
+/*****/
+
+.entry-date {
+    border-top: 1px solid #F0F0F0;
+    margin-bottom: 15px;
+    margin-top: -9px;
+    text-align: right;
+    padding-top: 3px;
+}
+
+    .current-date {display:block;}
+}
+
+.single-post h2.entry-title {
+    border-bottom: 1px solid #EBEBEB;
+    margin-bottom: 39px;
+    padding-bottom: 7px !important;
+}
+
+.current-date {
+    margin: -35px 0px 20px 10px;
+    padding: 10px;
+    font-weight: bold;
+    font-family: arial;
+    color: #fff;
+    text-shadow: 1px 1px 2px #222;
+    background: #6F94B3;
+    width: 230px;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+a.custom.fusion-social-network-icon.fusion-tooltip.fusion-feed.icon-feed {
+height: 34px;
+width: 32px;
+overflow: hidden;
+margin-bottom: -10px;
+}
+
+/*Typography Overrides*/
+.post-content p, .post-content ul, .post-content ol {
+    font-size: 16px !important;
+    line-height: 1.35em !important;
+}
+
+.post a, .page .post-content a{
+    color: #54a2e5 !important;
+    border-bottom: 1px dotted #A0C5E5 !important;
+    font-weight: normal;
+}
+
+.fusion-posts-container.posts-container-infinite a, .archive #posts-container a {
+    color: #333 !important;
+    font-weight: bold;
+    border: 0px;
+}
+
+h2.post-title.entry-title a, .home h2.entry-title a  {
+    border: none !important;
+}
+
+input#s, input#s .placeholder, #comment-input input, #comment-textarea textarea, #comment-input .placeholder, #comment-textarea .placeholder, .comment-form-comment textarea, .input-text, .post-password-form .password, .wpcf7-form .wpcf7-text, .wpcf7-form .wpcf7-quiz, .wpcf7-form .wpcf7-number, .wpcf7-form textarea, .wpcf7-form .wpcf7-select, .wpcf7-select-parent .select-arrow, .wpcf7-captchar, .wpcf7-form .wpcf7-date, .gform_wrapper .gfield input[type=text], .gform_wrapper .gfield input[type=email], .gform_wrapper .gfield textarea, .gform_wrapper .gfield select, #bbpress-forums .bbp-search-form #bbp_search, .bbp-reply-form input#bbp_topic_tags, .bbp-topic-form input#bbp_topic_title, .bbp-topic-form input#bbp_topic_tags, .bbp-topic-form select#bbp_stick_topic_select, .bbp-topic-form select#bbp_topic_status_select, #bbpress-forums div.bbp-the-content-wrapper textarea.bbp-the-content, .main-nav-search-form input, .search-page-search-form input, .chzn-container-single .chzn-single, .chzn-container .chzn-drop, .avada-select-parent select, #wrapper .search-table .search-field input {
+    color: #333333 !important;
+}
+
+
+.home-featued-post .home-featured-content {float:left;width:74%;padding-right: 2%;}
+
+.home-featued-post img {float:right;margin-bottom: 20px;width:26%;}
+/*.home-featued-post a {float:left;} */
+
+.more-articles {
+    width: 160px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    box-shadow: 0px 5px 8px -6px #0F0F0F;
+    border-bottom: 2px solid #D8D8D8;
+    border-radius: 0px 0px 3px 3px;
+}
+
+.more-articles a {
+    font-size: 1.2em !important;
+}
+
+a.home_title_link {
+    font-size: 1.8em !important;
+    color: #333;
+    font-weight: bold !important;
+    font-family: arial !important;
+    text-shadow: 1px 1px 1px #ddd;
+}
+
+.home-feature-wrapper {
+    margin: 0px 10px 15px 10px;
+}
+
+.home-featured-content {
+    font-size: 1.15em;
+    line-height: 1.3em;
+    text-align: justify;
+    padding-top: 10px;
+}
+
+a.home_read_more {
+    clear: both;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    background: #eee;
+    float: left;
+    margin-top: 5px !important;
+}
+
+@media screen and (max-width:580px) {
+    .home-featued-post img {
+        margin-bottom: 20px;
+        width: 50%;
+        background: #333;
+        clear: both;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        float: none;
+    }
+    
+    a.home_title_link {
+        font-size: 1.5em !important;
+        color: #333;
+        font-weight: bold !important;
+        font-family: arial !important;
+        text-shadow: 1px 1px 1px #ddd;
+        clear: both;
+        display: block;
+        line-height: 1em;
+        width: 100%;
+        text-align: center;
+        margin-bottom: 10px;
+    }
+    
+    .home-featued-post .home-featured-content {
+        float: left;
+        width: 100%;
+    }
+    
+    .current-date {display:none;}
+}
+
+.single-post h2.entry-title {
+    border-bottom: 1px solid #EBEBEB;
+    margin-bottom: 39px;
+    padding-bottom: 7px !important;
+}
+
+.current-date {
+    margin: -35px 0px 20px 10px;
+    padding: 10px;
+    font-weight: bold;
+    font-family: arial;
+    color: #fff;
+    text-shadow: 1px 1px 2px #222;
+    background: #8E9CBB;
+    width: 230px;
+    text-align: center;
+    font-size: 1.3em;
+}
+
+/* Caption Styles */
+p.wp-caption-text {
+    text-align: center;
+    padding: 0.3em !important;
+    width: auto;
+    margin-right: 10px;
+    border: 1px solid #DFDFDF;
+    border-top: none;
+    border-radius: 0px 0px 10px 10px;
+    background: #F9F9F9;
+    box-shadow: 0px 10px 5px -8px #bbb;
+    text-shadow: 1px 1px #E4E4E4;
+    color: #696969;
+}
+
+/***** GA Top Stories *****/
+
+.ga-top-posts-wrapper {
+    width: 225px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.ga-top-posts {
+    border: 1px solid #ECECEC;
+    padding: 1em;
+    background: #FDFDFD;
+    box-shadow: 0px 10px 4px -8px #bbb;
+    margin: 1em;
+    text-align: right;
+    width: 200px;
+}
+
+.ga-top-posts img {
+    margin-right: auto;
+    margin-left: auto;
+    /* border-radius: 100%; //ENABLE FOR CIRCLE IMAGES */
+    /* border: 2px solid #9C9C9C; */
+    width: 150px;
+    height: auto;
+    display: block;
+}
+
+.ga-top-posts a {
+    text-decoration: none;
+    font-size: 1.1em;
+    display: block;
+    padding: 0px 10px 0px 23px;
+    text-shadow: 1px 1px 3px #eee;
+    width: 150px;
+    font-weight: normal;
+    border-bottom: none;
+}
+
+span.ga-top-posts-views {
+	display: block;
+	clear: both;
+	font-size: 1.27em;
+	color: #ADADAD;
+	margin-top: 10px;
+	text-align: left;
+}
+
+#sidebar .heading h3 {
+    font-size: 1.3em;
+    text-align: center;
+    font-weight: bold;
+}
+
+
+a.fusion-social-network-icon {
+    /* color: #797979 !important; */
+    border: none;
+}
+
+.avada-row {max-width:1170px !important;}
+
+/*** ShareThis! ***/
+
+.mv_include .sharethis-block {
+display: none;
+}
+
+.stButton .stFb, .stButton .stTwbutton, .stButton .stMainServices {
+    height: 22px !important;
+}
+
+
+/** Remove any additional Share-this! occurences **/
+.sharethis-block:nth-of-type(2), .sharethis-block:nth-of-type(3), .sharethis-block:nth-of-type(4), .sharethis-block:nth-of-type(5) {
+display: none;
+}
+
+
+@media screen and (min-width:450px) {
+    .sharethis-block {
+    margin: -30px 0px 27px 0px;
+    }
+}
+
+@media screen and (max-width:449px) {
+    .sharethis-block {
+    margin: -14px 0px 27px 0px;
+    }
+}
+
+.sidebar-articles {
+    display: table;
+    text-align: center;
+    width: 250px;
+    margin-left: auto;
+    clear: right;
+    margin-right: auto;
+}
+
+.sidebar-articles img {
+padding-bottom: 19px;
+}
+
+
+/* Ad formatting */
+
+.square-ad-mobile-sales {display:none;}
+
+.square-ad-top {
+    padding-bottom: 10px;
+}
+
+.ad-middle {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 15px;
+    display: block;
+    max-width: 600px;
+}
+
+@media screen and (max-width:800px) and (min-width:641px) {
+    .sidebar-ad-block {
+        width: 550px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        clear: both;
+    }
+    .square-ad-top, .square-ad-bottom {
+        float: left;
+        padding: 1%;
+    }
+    
+}
+
+@media screen and (max-width:640px) and (min-width:1px) {
+    .square-ad-mobile-sales {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 250px;
+        margin-bottom: 20px;
+        margin-top: -30px;
+    }
+    
+    .square-ad-top {display:none;}
+    
+    .header-v5 .header-social {
+        display: none;
+    }
+    
+    #wrapper #header .logo {
+    margin-bottom: 0px !important;
+    }
+    
+    div#af-form-1079196568 {display: none;}
+    
+}
+
+/* Css to Hide multiple SHARETHIS blocks */
+.no-break {
+	display: none;
+}
+
+/* .no-break:nth-of-type(1) {
+	display: block;
+}*/
+.post-content > .no-break:first-child {
+    display:block;
+}
+
+
+/* Css to Hide multiple SHARETHIS blocks */
+.post-content p, .post-content ul, .post-content ol, .product-content p,.comment-text,#comment-status,.star-ratings-container,.comment-author, #reply-title,.likebtn-label, #comment,.home-featured-content{
+	color:black !important;
+}
+
+
+@media all and (min-width: 641px) and  (max-width: 1024px) {
+    .square-ad-mobile-sales {
+        display : block;
+        margin-left: 35%;
+        padding-bottom: 50px;
+    }
+	
+	.header-v5 .header-social .avada-row .alignleft {
+		text-align: left;
+	}
+	
+	.logo {
+		height: 86px;
+		width: 100%;
+		background: url("/wp-content/uploads/sites/5/2014/12/vaccine_impact_banner3.png") no-repeat;
+		background-size: contain;
+		background-position-x: center;
+	}
+	
+	.logo img {
+		visibility: hidden;
+	}
+	
+}
+
+@media screen and (max-width: 640px) {
+	.avada-row .alignleft {
+		display: none;
+	}
+}
+
+
+/********* START GOOGLE CUSTOM SEARCH ENGINE related CSS overrides ***********/
+#nav .gsc-input .gsc-input-box a.gsst_a , #sticky-nav .gsc-input-box a.gsst_a {
+	line-height: 16px;
+	height: auto;
+}
+
+#nav .gsc-search-button-v2, .gsc-search-box  .gsc-search-button-v2{
+	height: 29px;
+	width: auto;
+}
+
+.gsc-input .gsc-input-box {
+ 	height: 29px;
+}
+
+.gsc-option-menu-container  .gsc-selected-option-container {
+	width: 100px !important;
+}
+
+.gsc-control-wrapper-cse form.gsc-search-box {
+	width: 50%;
+}
+
+.gsc-input .gsst_a {
+	margin-top: 5px;
+}
+
+/* NEW GOOGLE SEARCH CSS */
+.ssgs-search-box {
+  padding-bottom: 0em;
+  border-bottom: none;
+  margin-bottom: 2em;
+}
+
+.ssgs-result-list {
+	padding-left: 0em;
+	padding-top: 0em;
+	margin-top: 0em;
+}
+
+.ssgs-numbers {
+	width: auto;
+	padding-left: 0px;
+	margin: 0em;
+}
+
+.ssgs-numbers > li {
+  width: 2em;
+}
+
+.ssgs-prev, .ssgs-next {
+  width: 2em;
+  text-align: center;
+}
+
+.ssgs-result-facet .ssgs-facet-filter {
+margin: 0em;
+}
+/********* END GOOGLE CUSTOM SEARCH ENGINE related CSS overrides ***********/

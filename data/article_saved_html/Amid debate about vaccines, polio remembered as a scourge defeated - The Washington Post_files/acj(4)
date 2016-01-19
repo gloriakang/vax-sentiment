@@ -1,0 +1,15 @@
+OX_1449762899({
+  "ads":{
+    "medium":"w",
+    "record_tmpl":"https://ox-d.washingtonpost.servedbyopenx.com/{medium}/1.0/{rtype}?bi=fe798081-ae2e-4bf5-8a92-5a9a630b5a1c&ts={txn_state}",
+    "adunits" : [
+      {
+        "auid":"537991381",
+        "chain_revenue":"",
+        "size":"300x250",
+        "chain":[
+        ]
+      }
+    ]
+  }
+});

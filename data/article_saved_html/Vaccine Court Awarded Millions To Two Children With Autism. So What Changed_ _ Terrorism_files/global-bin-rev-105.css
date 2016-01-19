@@ -1,0 +1,159 @@
+/*
+Theme Name: B4IN
+Author: Dzung
+Version: 1.1
+*/
+
+/*
+@import url(http://fonts.googleapis.com/css?family=Scada:700&subset=latin,latin-ext,cyrillic);
+@import url(http://fonts.googleapis.com/css?family=Oswald:700&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Archivo+Narrow:700&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Fjalla+One&subset=latin,latin-ext);
+@import url(http://fonts.googleapis.com/css?family=Nova+Round|Chela+One|Chau+Philomene+One|Nova+Flat|Fugaz+One|Anton|Merienda+One|Keania+One|Sansita+One|Marmelad|Titan+One&subset=latin,latin-ext,cyrillic);
+*/
+@import url('http://fonts.googleapis.com/css?family=Oswald:700|Scada:700&subset=latin,latin-ext,cyrillic');
+
+/*** BODY ***/
+html, body, div, span, applet, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, s, samp, small, strike, strong, sub, sup, tt, var, b, u, i, center, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+margin: 0;
+padding: 0;
+}
+body {
+font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;
+font-size:1em;
+text-align:left;
+position: relative;
+background: url("http://image.b4in.net/radio_bkgrnd2.gif") repeat fixed 0 0 rgba(0, 0, 0, 0);
+}
+
+/*** HEADER ***/
+#header {
+background: #142539 url("/img/b4in/banner.jpg") no-repeat left top;
+color:#292516;
+display:inherit;
+height:91px;
+text-align:left;
+position:relative;
+left:0;
+}
+#logo {
+width:317px;
+height:40px;
+overflow:hidden;
+padding-top: 35px;
+padding-left: 50px;
+float: left;
+}
+#user_status {
+display:block;
+height: 91px;
+float: right;
+text-shadow: -1px 1px 1px #555;
+font-weight: bold;
+}
+#login {
+text-align:right;
+color: #000;
+padding-top:3px;
+font: 700 12px "Trebuchet MS",Arial,Helvetica,sans-serif;
+line-height: normal;
+height:90px;
+margin-right:6px;
+float: right;
+}
+#login input[type="text"],
+#login input[type="password"] {
+margin:1px;
+height: 16px;
+border: 1px solid #888;
+}
+#login input[type="submit"] {
+margin:2px;
+font: 13px 'Scada', Arial, sans-serif;
+padding: 2px 10px 0px 10px;
+border: 1px solid #c2c2c2;
+border-radius: 2px;
+cursor: pointer;
+background: #feffff; /* Old browsers */
+background: -moz-linear-gradient(top,#feffff 0%, #ddf1f9 35%, #a0d8ef 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#feffff), color-stop(35%,#ddf1f9), color-stop(100%,#a0d8ef)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,#feffff 0%,#ddf1f9 35%,#a0d8ef 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,#feffff 0%,#ddf1f9 35%,#a0d8ef 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,#feffff 0%,#ddf1f9 35%,#a0d8ef 100%); /* IE10+ */
+background: linear-gradient(to bottom,#feffff 0%,#ddf1f9 35%,#a0d8ef 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#feffff', endColorstr='#a0d8ef',GradientType=0 ); /* IE6-9 */
+}
+#login input[type="submit"]:hover {
+background: #b3dced; /* Old browsers */
+background: -moz-linear-gradient(top,#b3dced 0%, #29b8e5 50%, #bce0ee 100%); /* FF3.6+ */
+background: -webkit-gradient(linear, left top, left bottom, color-stop(0%,#b3dced), color-stop(50%,#29b8e5), color-stop(100%,#bce0ee)); /* Chrome,Safari4+ */
+background: -webkit-linear-gradient(top,#b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* Chrome10+,Safari5.1+ */
+background: -o-linear-gradient(top,#b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* Opera 11.10+ */
+background: -ms-linear-gradient(top,#b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* IE10+ */
+background: linear-gradient(to bottom,#b3dced 0%,#29b8e5 50%,#bce0ee 100%); /* W3C */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#b3dced', endColorstr='#bce0ee',GradientType=0 ); /* IE6-9 */}
+#status {text-align:right;float:right;font-size:13px;line-height:1.7em;padding:20px 10px 0;margin-right: 10px;color:#FFF;}
+#status a {color:#FFF;}
+#joinnow:hover, #submitnews:hover, #status a:hover {text-decoration:underline}
+#joinnowtext {position: relative;margin: 2px 0;}
+#joinnowtext a {font: 12px 'Scada', Arial, sans-serif;color: black;text-decoration: none;}
+#joinnowtext a:hover{color: blue;text-decoration: underline;}
+#loginform label {font: 12px 'Scada', Arial, sans-serif;}
+.form-item label {font-size: 14px;width: 175px;display: inline-block;font-weight: bold;}
+.form-item {/* height: 23px; */}
+.form-item input {margin: 0px;}
+
+/*** WRAPPER ***/
+#wrapper {position:relative;width:1152px;margin-left:auto;margin-right:auto;overflow:hidden;text-align:left;}
+#topinfo_wrapper {width: 100%;background: #FFF;border-bottom: 1px solid #ccc;}
+
+/*** MENU ***/
+#menu {height: 35px;background-color: #F5F5F5;border-top: 1px solid #17449B;border-bottom: 1px solid #ccc;z-index: 99999;}
+#menu_center {height: 35px;overflow: hidden;width: 1152px;margin: 0 auto;}
+#menu_center ol, #menu_center ul, #menu_center li {list-style: none outside none;margin: 0;padding: 0;}
+#menu_center ul {float: left;}
+#menu_center ul li {display: block;float: left;}
+#menu_center ul li a {color: #000;display: block;float: left;font-family: 'Oswald', Tahoma;font-size: 15px;font-weight: 700;padding: 6px 6px 0;text-decoration: none;}
+li.home-link a img {width: 16px;height: auto;margin: 2px 0 0 4px;text-indent: 0px !important;}
+li.home-link a span {display: none;}
+#menu_center ul li a:hover {background:url("/img/b4in/arrow-down.png") no-repeat top center;color: #3970dc;}
+#menu_center ul li.home-link a:hover {background: none;}
+#main-menu-mob {background: #fff;width: 285px;padding: 5px;border: 1px solid #000;color: #333;height: 27px;margin: 3px auto;display:none;}
+#menu.fixed-nav {position: fixed;top: -1px;left: 0px;width: 100%;z-index: 9999;box-shadow: 0px 1px 7px #1B1B1B;}
+#topstyle_box {border-bottom: 1px solid #ccc;text-align:left;margin:0;padding:7px 0;background-color:#FFF; float: left;width: 100%;}
+#topstyle_box_ads {float: left;width: 729px;}
+#topstyle_box_info {float: right;width: 410px;padding: 0px 6px;height: 90px;}
+#topstyle_box iframe {/*border: 1px solid #CCC;*/margin-left: 5px;}
+#topstyle_box #got_a_news_story {float: left;}
+#got_a_news_story img {float: left;}
+#submitnews {width: 130px;height: 65px;cursor: pointer;margin: 10px 2px;}
+#submitnews:hover {box-shadow: 2px 2px 3px #CCC;}
+
+/* navar bar */
+
+.navbar-toggle {position: relative;float: right;padding: 5px;margin-right: 5px;margin-top: 5px;background-color: transparent;background-image: none;border: 1px solid #767676;border-radius: 4px;z-index: 999;}
+.sr-only {position: absolute;width: 1px;height: 1px;padding: 0;margin: -1px;overflow: hidden;clip: rect(0,0,0,0);border: 0;}
+.navbar-toggle .icon-bar {display: block;width: 15px;height: 2px;border-radius: 1px;background-color: #563D7C;}
+.navbar-toggle .icon-bar+.icon-bar {margin-top: 3px;}
+#menu_center ul li#userlogin-button, .navbar-toggle{display: none;float: right;}
+/*** STATS ***/
+#stats {color: #000;font: 13px 'Scada', "Trebuchet MS", Arial, Helvetica, sans-serif;padding-top: 16px;}
+#stats td {text-align:right;padding:0 0 0 1px}
+
+/*** SEARCH ***/
+#searchbar {display: inline-block;float: right;}
+#searchbar #cse-search-box {float:right;margin: 7px 10px;padding:0;position: relative;}
+#searchbar input {margin: 0;}
+#searchbar #q{width: 138px;}
+#searchbar #sa{background: url("/img/b4in/search.png") no-repeat top center;width: 23px;height: 16px;position: absolute;border: 0;right: 0px;top: 3px;cursor: pointer;}
+
+/*** FOOTER ***/
+#footer {margin: 0 auto;padding-bottom:10px;font-family:"Trebuchet MS", Arial, Helvetica, sans-serif;font-size:0.8em;text-align:center;padding-top:20px;width:1152px;overflow:hidden;position:relative;background: #6B8EC8;border-top: 1px solid #555;}
+div#footer a {color:#000;font-weight:700}
+#footer a {font-size:0.9em}
+#footer ul li {list-style:url(none) none inside;text-align:left;border-bottom:1px dotted #B5C6EB;padding-top:2px;padding-bottom:2px}
+
+/*** BOTTOM CENTER FLOAT ADS ***/
+#bottom_center_float_ads {margin: 0 200px; width: 752px; position: fixed; bottom: 0;}
+#story_ad_bottom {text-align: center;}
+.ads729_90 {width: 100%;overflow: hidden;}

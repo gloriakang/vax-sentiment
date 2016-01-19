@@ -1,0 +1,1 @@
+(function($){try{var $tweetAuthors=$(".tweet-authors");if(!!$tweetAuthors.size()&&(!window.twttr||!twttr.widgets))$.ajax({dataType:"script",cache:true,url:"//platform.twitter.com/widgets.js",success:function(data){$tweetAuthors.find(".pb-twitter-follow.unprocessed").removeClass("unprocessed")}})}catch(err){}})(jQuery);

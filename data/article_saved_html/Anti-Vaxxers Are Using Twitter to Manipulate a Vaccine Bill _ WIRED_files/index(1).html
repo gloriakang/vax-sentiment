@@ -1,0 +1,261 @@
+<!DOCTYPE html>
+<!-- saved from url=(0145)https://s0.2mdn.net/ads/richmedia/studio/pv2/37337820/20150917102608262/index.html?e=69&renderingType=2&leftOffset=0&topOffset=0&c=W2P6k58weh&t=1 -->
+<html lang="en" class="wf-roboto-n3-active wf-roboto-n7-active wf-active"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta charset="utf-8">
+	<title>Google Tangram</title>
+
+	<script src="webfont.js"></script>
+	<link rel="stylesheet" href="css(1)"><script>
+		WebFont.load({
+			google: {
+				families: ["Roboto:300,700"]
+			}
+		});
+	</script>
+
+	<style type="text/css">
+		html {
+ 			-webkit-font-smoothing: antialiased;
+		}
+
+		body {
+			margin: 0;
+			padding: 0;
+			-webkit-font-smoothing: antialiased;
+		}
+
+		@media
+		only screen and (-webkit-min-device-pixel-ratio: 1.25),
+		only screen and ( min-device-pixel-ratio: 1.25),
+		only screen and ( min-resolution: 200dpi),
+		only screen and ( min-resolution: 1.25dppx)
+		{
+		   -webkit-font-smoothing: subpixel-antialiased;
+		}
+
+		div {
+			margin: 0;
+			padding: 0;
+			position: absolute;
+		}
+
+		#mainHolder {
+			border: 1px solid #000000;
+			width: 300px;
+			height: 600px;
+			-webkit-box-sizing: border-box;
+			-moz-box-sizing: border-box;
+			box-sizing: border-box;
+			background: #ffffff;
+			cursor: pointer;
+			overflow: hidden;
+		    -webkit-touch-callout: none;
+		    -webkit-user-select: none;
+		    -khtml-user-select: none;
+		    -moz-user-select: none;
+		    -ms-user-select: none;
+		    user-select: none;
+		}
+
+		#endBG {
+			width: 300px;
+			height: 600px;
+			background: #d94236;
+			opacity: 0;
+		}
+
+		.copyTextStart {
+			left: 28px;
+			opacity: 1;
+			color: #777777;
+			font-family: 'Roboto', sans-serif;
+			font-weight: 300;
+			font-size: 20px;
+			width: 300px;
+		}
+
+		.copyTextEnd {
+			opacity: 0;
+			left: 28px;
+			color: #ffffff;
+			font-family: 'Roboto', sans-serif;
+			font-weight: 300;
+			font-size: 20px;
+			width: 300px;
+		}
+
+		.copyTextCTA {
+			opacity: 0; 
+			color: #5383d3;
+			font-family: 'Roboto', sans-serif;
+			font-weight: 700;
+			font-size: 18px;
+			top: 14px;
+  			text-align: center;
+			position: relative;
+		}
+
+		#buttonLabelHolder {
+			left: 28px;
+		    top: 335px;
+		    width: 173px;
+		    height: 48px;
+		}
+
+		#copyA0, #copyB0 {
+			top: 58px;
+		}
+
+		#copyA1, #copyB1 {
+			top: 86px;
+		}
+
+		#copyA2, #copyB2 {
+			top: 114px;
+		}
+
+		#copyC0 {
+			top: 148px;
+		}
+
+		#copyC1 {
+			top: 176px;
+		}
+
+		#copyC2 {
+			top: 204px;
+		}
+
+		#copyA0, #copyA1, #copyA2, #copyB0, #copyB1, #copyB2 {
+			opacity: 0;
+		}
+        
+        #clickLayer {
+            width: 300px;
+            height: 600px;
+        }
+        
+        /* replay icon image embedded as base64 text URI */
+        #buttonReplay {
+            left: 259px;
+            /*top: 559px;*/
+            top: 9px;
+            width: 31px;
+            height: 31px;
+            background-repeat: no-repeat;
+            background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAMAAAAolt3jAAAAOVBMVEUAAAD///////////////////////////////////////////////////////////////////////8KOjVvAAAAEnRSTlMAp/oar5bk3cA8BOjBgIJgPTvtUe5tAAAAXElEQVQI12WOWw7AIAgEF1GrrfbB/Q/bDWmjifNDBgIsSJUcslSgU/ZkoUkLlk6jJovKotGM+liE010lqNu1EeAomDGZZJn67qD+l8H2/DcrvlRFClPtwMh8Y+UFVFgCqqTBXkEAAAAASUVORK5CYII=);
+            background-position: center center;
+            opacity: 0;
+            display: none;
+		    -ms-transform-origin: 15.5px 15.5px;
+		    -webkit-transform-origin: 15.5px 15.5px;
+		    transform-origin: 15.5px 15.5px;
+        }        
+        
+	</style>
+<link rel="stylesheet" type="text/css" href="loadsprites_clock.css"></head>
+
+<body>
+
+	<div id="mainHolder">
+		<div id="dummyDiv"></div>
+        
+        <!-- Attach all icon animation sprites here -->
+		<div id="iconHolder" style="opacity: 1; height: 600px; width: 300px; transform: matrix(1, 0, 0, 1, 0, 0);"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 600" enable-background="new 0 0 300 600"><g id="clock"><path id="clock0" fill="#ea594a" d="m120.88 350.2h-29.68l29.09-29.1h29.69z" style="opacity: 1; transform: initial;"></path><path id="clock1" fill="#d14132" d="m120.88 350.21l29.1-29.1 29.1 29.1z" style="opacity: 1; transform: initial;"></path><g fill="#db4436"><path id="clock2" d="m179.75 321.11h-29.79l29.06 29.05h29.78z" style="opacity: 1; transform: initial;"></path><path id="clock3" d="m91.2 350.2h58.785v58.784h-58.785z" style="opacity: 1; transform: initial;"></path></g><path id="clock4" fill="#ea594a" d="m149.98 408.98v-58.82h58.82z" style="opacity: 1; transform: initial;"></path><path id="clock5" fill="#d14132" d="m208.8 350.16v58.82h-58.82z" style="opacity: 1; transform: initial;"></path><path id="clock6" fill="#db4436" d="m120.29 438.08h29.72l-29.09-29.1h-29.72z" style="opacity: 1; transform: initial;"></path><path id="clock7" fill="#d14132" d="m179.12 408.98l-29.1 29.1-29.1-29.1z" style="opacity: 1; transform: initial;"></path><path id="clock8" fill="#ea594a" d="m179.12 408.99h29.68l-29.09 29.09h-29.69z" style="opacity: 1; transform: initial;"></path></g><g id="handshort" style="transform-origin: 0px 0px 0px; transform: matrix3d(0.781286, 0.624174, 0, 0, -0.624174, 0.781286, 0, 0, 0, 0, 1, 0, 276.516, 6.56523, 0, 1);"><path id="handshort0" fill="#e6e7e8" d="m143.34 388.84v-10.69h10.69z" style="opacity: 1; transform: initial;"></path><path id="handshort1" fill="#f1f1f2" d="m164.72 388.84h-21.38l10.69-10.69h21.39z" style="opacity: 1; transform: initial;"></path><path id="handshort2" fill="#e6e7e8" d="m175.42 378.15v10.69h-10.7z" style="opacity: 1; transform: initial;"></path></g><g id="handlong" style="transform-origin: 0px 0px 0px; transform: matrix3d(-0.999933, -0.0116008, 0, 0, 0.0116008, -0.999933, 0, 0, 0, 0, 1, 0, 281.85, 756.674, 0, 1);"><path id="handlong0" fill="#e6e7e8" d="m154.03 388.84h-10.69v-10.69z" style="opacity: 1; transform: initial;"></path><path id="handlong1" fill="#f1f1f2" d="m143.34 378.15v-42.76l10.69 10.69v42.76z" style="opacity: 1; transform: initial;"></path><path id="handlong2" fill="#e6e7e8" d="m143.34 335.39h10.69v10.69z" style="opacity: 1; transform: initial;"></path></g></svg></div>
+
+        <!-- Copy Text Batch 1 -->
+        <div id="copyA0" class="copyTextStart" style="font-size: 22px; opacity: 0;">Wish you could do</div>
+        <div id="copyA1" class="copyTextStart" style="font-size: 22px; opacity: 0;">business in your sleep?</div>
+        <div id="copyA2" class="copyTextStart" style="font-size: 22px; opacity: 0;"></div>
+
+        <!-- Copy Text Batch 2 -->
+        <div id="copyB0" class="copyTextStart" style="font-size: 22px; opacity: 1;">Draw people to your site</div>
+        <div id="copyB1" class="copyTextStart" style="font-size: 22px; opacity: 1;">whenever they search for</div>
+        <div id="copyB2" class="copyTextStart" style="font-size: 22px; opacity: 1;">what you offer.</div>
+        
+		<div id="googleLogoColored" class="logoColored" style="opacity: 1;"><img src="logo_colored.svg"></div>
+
+		<!-- tangram flocking shapes go here -->
+		<div id="shapeHolder" style="transform: matrix(1, 0, 0, 1, -25, -25);"><div id="shape0" class="sprite parallelogram" style="transform: translate3d(-0.470674px, -1.08896px, 0px);"></div><div id="shape1" class="sprite triangle3" style="transform: translate3d(1.19785px, 0.386624px, 0px);"></div><div id="shape2" class="sprite triangle1" style="transform: matrix3d(-1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 200.762, 99.9178, 0, 1);"></div><div id="shape3" class="sprite triangle2" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 298.984, -1.08896, 0, 1);"></div><div id="shape4" class="sprite triangle3" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 300.544, 0.131267, 0, 1);"></div><div id="shape5" class="sprite triangle1" style="transform: translate3d(49.5095px, 48.8021px, 0px);"></div><div id="shape6" class="sprite diamond" style="transform: translate3d(98.6933px, 49.3967px, 0px);"></div><div id="shape7" class="sprite triangle1" style="transform: translate3d(0.513314px, 98.6933px, 0px);"></div><div id="shape8" class="sprite triangle2" style="transform: matrix3d(0, -1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, -0.265086, 201.416, 0, 1);"></div><div id="shape9" class="sprite parallelogram" style="transform: translate3d(99.3993px, 98.6933px, 0px);"></div><div id="shape10" class="sprite triangle1" style="transform: matrix3d(0, -1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 149.186, 148.584, 0, 1);"></div><div id="shape11" class="sprite triangle2" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 248.367, 149.302, 0, 1);"></div><div id="shape12" class="sprite diamond" style="transform: translate3d(200.762px, 150.46px, 0px);"></div><div id="shape13" class="sprite triangle2" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 98.6933, 199.87, 0, 1);"></div><div id="shape14" class="sprite diamond" style="transform: translate3d(51.089px, 199.137px, 0px);"></div><div id="shape15" class="sprite triangle3" style="transform: matrix3d(-1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 300.544, 300.263, 0, 1);"></div><div id="shape16" class="sprite triangle1" style="transform: matrix3d(-1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 298.258, 299.216, 0, 1);"></div><div id="shape17" class="sprite diamond" style="transform: translate3d(-1.08896px, 249.303px, 0px);"></div><div id="shape18" class="sprite triangle2" style="transform: translate3d(-0.178526px, 298.258px, 0px);"></div><div id="shape19" class="sprite parallelogram" style="transform: matrix3d(0, -1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 48.8021, 350.435, 0, 1);"></div><div id="shape20" class="sprite diamond" style="transform: translate3d(149.833px, 298.258px, 0px);"></div><div id="shape21" class="sprite triangle2" style="transform: matrix3d(-1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 299.945, 398.04, 0, 1);"></div><div id="shape22" class="sprite triangle2" style="transform: matrix3d(-1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 149.784, 447.931, 0, 1);"></div><div id="shape23" class="sprite triangle1" style="transform: translate3d(149.949px, 348.149px, 0px);"></div><div id="shape24" class="sprite triangle3" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 248.367, 349.832, 0, 1);"></div><div id="shape25" class="sprite parallelogram" style="transform: translate3d(249.702px, 351.089px, 0px);"></div><div id="shape26" class="sprite triangle2" style="transform: matrix3d(0, 1, 0, 0, -1, 0, 0, 0, 0, 0, 1, 0, 100.98, 400.006, 0, 1);"></div><div id="shape27" class="sprite triangle1" style="transform: matrix3d(-1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 98.6933, 499.654, 0, 1);"></div><div id="shape28" class="sprite parallelogram" style="transform: translate3d(100.98px, 400.362px, 0px);"></div><div id="shape29" class="sprite diamond" style="transform: translate3d(-0.389634px, 450.871px, 0px);"></div><div id="shape30" class="sprite triangle1" style="transform: translate3d(150.871px, 449.536px, 0px);"></div><div id="shape31" class="sprite triangle1" style="transform: translate3d(249.043px, 450.871px, 0px);"></div><div id="shape32" class="sprite triangle1" style="transform: translate3d(-0.0287741px, 500.762px, 0px);"></div><div id="shape33" class="sprite triangle3" style="transform: matrix3d(-1, 0, 0, 0, 0, -1, 0, 0, 0, 0, 1, 0, 199.021, 597.604, 0, 1);"></div><div id="shape34" class="sprite diamond" style="transform: translate3d(148.584px, 498.571px, 0px);"></div><div id="shape35" class="sprite triangle2" style="transform: matrix3d(0, -1, 0, 0, 1, 0, 0, 0, 0, 0, 1, 0, 200.762, 599.82, 0, 1);"></div></div>
+
+		<!-- solid background -->
+		<div id="endBG" style="background-color: rgb(222, 68, 49);"></div>
+
+        <!-- Copy Text Batch 3 -->
+		<div id="copyC0" class="copyTextEnd" style="font-size: 22px;">Reach the right customers</div>
+		<div id="copyC1" class="copyTextEnd" style="font-size: 22px;">at the right time</div>
+		<div id="copyC2" class="copyTextEnd" style="font-size: 22px;">with AdWords.</div>
+
+        <!-- CTA Button -->
+		<div id="ctaParallelogram" class="sprite ctaPara"></div>
+		<div id="ctaTriangleLeft" class="sprite ctaTriLeft"></div>
+		<div id="ctaTriangleRight" class="sprite ctaTriRight"></div>
+		<div id="ctaRectangle" class="sprite ctaRect"></div>
+		<div id="buttonLabelHolder">
+			<div id="buttonLabel" class="copyTextCTA" style="font-size: 18px;">Get Going Today</div>
+		</div>
+
+		<div id="googleLogoWhite" class="logoWhite" style="opacity: 0.913858;"><img src="logo_white.svg"></div>
+        
+        <div id="clickLayer"></div>
+        <div id="buttonReplay"></div>
+	</div>
+
+	<!-- GSAP -->
+	<script src="TweenMax.min.js"></script>
+
+	<!-- Studio Enabler -->
+	<script src="Enabler_01_82.js"></script>
+<!--
+ * Dynamic Content Enable code for Profile: 1050764
+ *
+ * The following code initializes the following dynamic variables for
+ * development testing and live serving of Fields associated to the above profile
+-->
+
+<!-- DynamicContent Start: HTML5 invocation code. -->
+<script type="text/javascript">
+
+// Dynamic Content variables and sample values
+    Enabler.setProfileId(1050764);
+    var devDynamicContent = {};
+
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1= [{}];
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0]._id = 0;
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Unique_ID = 1;
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Ad_Group_Dimension = 20622665592;
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Ad_Group_Name = "AW - US RH and GA - no AW sign up flow";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Message = "price_nocommitment";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Creative_Target = "r1";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Reporting_Label = "300x250_20622665592_us_price_nocommitment_ggt";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].text_1 = "Think you don\'t have a|marketing budget?";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].text_2 = "Show ads on Google on|any budget, with no long-|term commitments. Really.";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].text_3 = "Ads that work and|work with your budget.";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].fontsize = "22|22|22|16";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].CTA_Text = "Get Going Today";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].BG_Color = "#df4432";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].CSS_Name = "loadsprites_lock.css";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].JS_Name = "icon_lock.js";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Start_Time_Text_2 = 2.0;
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Start_Time_Icon_Animation = 0.0;
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Start_Time_Wipe = 5.0;
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Exit_URL = {};
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Exit_URL.Url = "https://www.google.com/adwords/?channel=gdn-ef&sourceid=awo&subid=";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Sub_ID = "us-en-gdn-aw-r-tgm15";
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Active = true;
+    devDynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Default = false;
+    Enabler.setDevDynamicContent(devDynamicContent);
+
+</script>
+
+<!--
+ * You may access the variables in the following manner
+ * AFTER the Studio Enabler is initialized.
+ * var Unique_ID = dynamicContent.Q315_Google_Tangram_Feed__US_Sheet1[0].Unique_ID;
+ * Note: be sure to use "dynamicContent", not "devDynamicContent"
+-->
+
+	<script src="main.js"></script>
+
+
+<script type="text/javascript" src="icon_clock.js"></script></body></html>

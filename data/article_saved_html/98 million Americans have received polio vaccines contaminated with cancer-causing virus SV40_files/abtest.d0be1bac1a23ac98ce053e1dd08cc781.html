@@ -1,0 +1,131 @@
+
+<!-- saved from url=(0122)http://sd.sharethis.com/abtest.d0be1bac1a23ac98ce053e1dd08cc781.html?cookieType=get&name=www.seattleorganicrestaurants.com -->
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=windows-1252">
+		<title>AB test</title>
+		<script type="text/javascript">
+			var params = {}, ttlDays = 1;
+
+			//Get the url parameters from iframe URL
+			if (location.search) {
+				var parts = location.search.substring(1).split('&');
+
+				for (var i = 0; i < parts.length; i++) {
+					var nv = parts[i].split('=');
+					if (!nv[0]) continue;
+					params[nv[0]] = nv[1] || true;
+				}
+			}
+
+			//Check get request from iframe URL
+			if('get' == params.cookieType)
+				getStorageItems("st_"+params.name)
+
+			function removeExpiredkeys() {
+				var todDate = getTodayDate(), key = '', ttlVal = '';
+				
+				for (var i = 0; i < localStorage.length; i++) {
+					key = localStorage.key(i);
+					if(key.match(/^st_(.*)/)) {
+						ttlVal = getTTLVal(key);
+						if(dateLessThanToday(ttlVal)) { 
+							localStorage.removeItem(key);
+						}
+					}
+				}
+			}
+			
+			//Function is used to store the items for local and session storage
+			function setStorageItems(storeKey, value) {
+				var todDate = getTodayDate();
+				var chkDate = localStorage.getItem('chkon');
+				
+				//Removed expired keys, Check once in every session
+				if(null != chkDate && chkDate != todDate) {
+					removeExpiredkeys();
+					localStorage.setItem("chkon",todDate);//Set the key to today date
+				} else if (null == chkDate) {
+					localStorage.setItem("chkon",todDate);//Set the key to today date
+				}
+				
+				var ttlVal = getTTLVal(storeKey);
+				
+				//ttlVal is not available then generate new value
+				if(false == ttlVal)
+					ttlVal = ttlDate(ttlDays);
+				
+				//Stores values in json form
+				var jsonObj = { 'lsKey': value, 'ttl': ttlVal };
+				localStorage.setItem(storeKey,JSON.stringify(jsonObj));
+				sessionStorage.setItem(storeKey, value);
+			}
+			
+			function getTodayDate() {
+				var todayDate = new Date();
+				return todayDate.getDate()+"-"+(todayDate.getMonth() + 1)+"-"+todayDate.getFullYear();
+			}
+			
+			//Function is used to get items for local and session storage
+			function getStorageItems(storeKey) {
+				var val = localStorage.getItem(storeKey);
+				var sessVal = sessionStorage.getItem(storeKey);
+				
+				if(val == null) val = false; 
+				if(sessVal == null) sessVal = false;
+				
+				var jsonObj = JSON.parse(val);
+				//console.log("val: " + (jsonObj == false) ? false : jsonObj.lsKey);console.log("sessVal: " + sessVal);	
+
+				//Fetch the data to parent window
+				parent.postMessage("#fromGet&"+ ((jsonObj == false) ? false : jsonObj.lsKey) +"&"+sessVal, document.referrer);
+			}
+						
+			function dateLessThanToday(dt) {
+				var oldDate = '', toDayDate = new Date().getTime(), isLess = false;
+				
+				dt = dt.split('-');
+				oldDate = new Date(dt[2], (Number(dt[1]) - 1), dt[0]).getTime()
+				
+				if(oldDate <= toDayDate)
+					isLess = true;
+					
+				return isLess;
+			}
+			
+			//Create ttl date for stored items
+			function ttlDate(days) {
+				var someDate = new Date();
+				var numberOfDaysToAdd = days;
+				someDate.setDate(someDate.getDate() + numberOfDaysToAdd); 
+				return someDate.getDate()+"-"+(someDate.getMonth() + 1)+"-"+someDate.getFullYear();
+				//console.log(someDate.getDate()+"-"+(someDate.getMonth() + 1)+"-"+someDate.getFullYear())
+			}
+			
+			function getTTLVal(storeKey) {
+				var ttlVal = '';
+				var val = localStorage.getItem(storeKey);
+				
+				if(val == null) 
+					ttlVal = false; 
+				else {
+					var jsonObj = JSON.parse(val);
+					ttlVal = jsonObj.ttl;
+				}
+				
+				return ttlVal;
+			}
+			
+			var evtMethod = window.addEventListener ? "addEventListener" : "attachEvent";
+			var msgEvent = evtMethod == "attachEvent" ? "onmessage" : "message";
+			
+			window[evtMethod](msgEvent,function(e) {
+				if (e.data.indexOf('#toSet') != -1) {
+					var val1 = e.data.split('&');
+					var val2 = val1[1].split('=');
+					setStorageItems("st_"+val2[0], val2[1]);
+				}
+
+			},false);
+		</script>
+	<style type="text/css"></style></head>
+<body>
+</body></html>

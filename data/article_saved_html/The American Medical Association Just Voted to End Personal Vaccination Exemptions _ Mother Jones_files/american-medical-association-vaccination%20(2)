@@ -1,0 +1,6 @@
+
+document.write("<SCR"+"IPT SRC=\"http://ads.pubsqrd.com/ttj?id=3445070&referrer=motherjones.com&cb=170951430\" TYPE=\"text/javascript\">\n");
+document.write("</SCR"+"IPT>\n");
+
+
+
