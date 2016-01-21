@@ -964,7 +964,7 @@ graph [
     target 107
     key 0
     edge "cannot believe it is safe"
-    comments "with mercury, formaldehyde, MSG and aluminum"
+    comments "with mercury"
     label "rational scientist - cannot believe it is safe - injecting children"
   ]
   edge [
@@ -1594,7 +1594,7 @@ graph [
     target 81
     key 0
     edge "cannot believe it is somehow safe injecting infants and children with"
-    comments "there is no rational doctor or scientist who can say they believe injecting infants and children is somehow &#34;safe&#34;"
+    comments "there is no rational doctor or scientist who can say they believe injecting infants and children is somehow safe"
     label "rational doctor - cannot believe it is somehow safe injecting infants and children with - mercury"
   ]
   edge [
@@ -1616,7 +1616,7 @@ graph [
     target 107
     key 0
     edge "cannot believe it is safe"
-    comments "with mercury, formaldehyde, MSG and aluminum"
+    comments "with mercury"
     label "rational doctor - cannot believe it is safe - injecting children"
   ]
   edge [
