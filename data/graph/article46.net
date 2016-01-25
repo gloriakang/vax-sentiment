@@ -3,7 +3,7 @@
 2 "serogroups of meningococcal disease" 0.0 0.0 ellipse
 3 prisons 0.0 0.0 ellipse
 4 illness 0.0 0.0 ellipse
-5 people 0.0 0.0 ellipse
+5 reactions 0.0 0.0 ellipse
 6 swelling 0.0 0.0 ellipse
 7 "any shot" 0.0 0.0 ellipse
 8 vaccines 0.0 0.0 ellipse
@@ -13,7 +13,7 @@
 12 teen 0.0 0.0 ellipse
 13 "serogroup Y" 0.0 0.0 ellipse
 14 mild 0.0 0.0 ellipse
-15 "Neisseria meningitidis bacteria" 0.0 0.0 ellipse
+15 "other populations" 0.0 0.0 ellipse
 16 "daily activities" 0.0 0.0 ellipse
 17 "brain damage" 0.0 0.0 ellipse
 18 pain 0.0 0.0 ellipse
@@ -24,9 +24,9 @@
 23 "arm side effects" 0.0 0.0 ellipse
 24 "long-term disabilities" 0.0 0.0 ellipse
 25 colleges 0.0 0.0 ellipse
-26 "increased sensitivity to light" 0.0 0.0 ellipse
-27 carriers 0.0 0.0 ellipse
-28 "influenza symptoms" 0.0 0.0 ellipse
+26 carriers 0.0 0.0 ellipse
+27 "influenza symptoms" 0.0 0.0 ellipse
+28 people 0.0 0.0 ellipse
 29 rash 0.0 0.0 ellipse
 30 bacteria 0.0 0.0 ellipse
 31 anyone 0.0 0.0 ellipse
@@ -37,129 +37,129 @@
 36 "meningococcal conjugate vaccine" 0.0 0.0 ellipse
 37 outbreak 0.0 0.0 ellipse
 38 teens 0.0 0.0 ellipse
-39 "other populations" 0.0 0.0 ellipse
-40 tenderness 0.0 0.0 ellipse
-41 preteens 0.0 0.0 ellipse
-42 "meningococcal disease" 0.0 0.0 ellipse
-43 "high fever" 0.0 0.0 ellipse
-44 "nervous system problems" 0.0 0.0 ellipse
-45 "serogroup C" 0.0 0.0 ellipse
-46 "serogroup B" 0.0 0.0 ellipse
-47 "meningococcal disease symptoms" 0.0 0.0 ellipse
-48 reactions 0.0 0.0 ellipse
-49 "respiratory secretions" 0.0 0.0 ellipse
-50 "11-12 years of age" 0.0 0.0 ellipse
-51 confusion 0.0 0.0 ellipse
-52 safe 0.0 0.0 ellipse
-53 "16 years of age" 0.0 0.0 ellipse
-54 infection 0.0 0.0 ellipse
-55 "early diagnosis" 0.0 0.0 ellipse
-56 "loss of limb" 0.0 0.0 ellipse
-57 "stiff neck" 0.0 0.0 ellipse
-58 antibiotics 0.0 0.0 ellipse
-59 death 0.0 0.0 ellipse
-60 "risk of fainting" 0.0 0.0 ellipse
-61 household 0.0 0.0 ellipse
-62 communities 0.0 0.0 ellipse
-63 cases 0.0 0.0 ellipse
-64 vomiting 0.0 0.0 ellipse
-65 "healthy people" 0.0 0.0 ellipse
-66 "random cases" 0.0 0.0 ellipse
-67 nausea 0.0 0.0 ellipse
-68 "hardness of the skin" 0.0 0.0 ellipse
-69 "meningococcal outbreak" 0.0 0.0 ellipse
-70 teenagers 0.0 0.0 ellipse
-71 prophylaxis 0.0 0.0 ellipse
-72 "effective antibiotics" 0.0 0.0 ellipse
-73 "early treatment" 0.0 0.0 ellipse
-74 "booster dose" 0.0 0.0 ellipse
-75 "common side effects" 0.0 0.0 ellipse
-76 carrier 0.0 0.0 ellipse
-77 symptoms 0.0 0.0 ellipse
-78 "side effects" 0.0 0.0 ellipse
-79 "11-18 year olds" 0.0 0.0 ellipse
-80 headache 0.0 0.0 ellipse
+39 tenderness 0.0 0.0 ellipse
+40 preteens 0.0 0.0 ellipse
+41 "meningococcal disease" 0.0 0.0 ellipse
+42 "high fever" 0.0 0.0 ellipse
+43 "nervous system problems" 0.0 0.0 ellipse
+44 "serogroup C" 0.0 0.0 ellipse
+45 "serogroup B" 0.0 0.0 ellipse
+46 "meningococcal disease symptoms" 0.0 0.0 ellipse
+47 "increased sensitivity to light" 0.0 0.0 ellipse
+48 "respiratory secretions" 0.0 0.0 ellipse
+49 "11-12 years of age" 0.0 0.0 ellipse
+50 confusion 0.0 0.0 ellipse
+51 safe 0.0 0.0 ellipse
+52 "16 years of age" 0.0 0.0 ellipse
+53 infection 0.0 0.0 ellipse
+54 "early diagnosis" 0.0 0.0 ellipse
+55 "loss of limb" 0.0 0.0 ellipse
+56 "stiff neck" 0.0 0.0 ellipse
+57 antibiotics 0.0 0.0 ellipse
+58 death 0.0 0.0 ellipse
+59 "risk of fainting" 0.0 0.0 ellipse
+60 household 0.0 0.0 ellipse
+61 communities 0.0 0.0 ellipse
+62 cases 0.0 0.0 ellipse
+63 vomiting 0.0 0.0 ellipse
+64 "healthy people" 0.0 0.0 ellipse
+65 "random cases" 0.0 0.0 ellipse
+66 nausea 0.0 0.0 ellipse
+67 "hardness of the skin" 0.0 0.0 ellipse
+68 "meningococcal outbreak" 0.0 0.0 ellipse
+69 teenagers 0.0 0.0 ellipse
+70 prophylaxis 0.0 0.0 ellipse
+71 "effective antibiotics" 0.0 0.0 ellipse
+72 "early treatment" 0.0 0.0 ellipse
+73 "booster dose" 0.0 0.0 ellipse
+74 "common side effects" 0.0 0.0 ellipse
+75 carrier 0.0 0.0 ellipse
+76 symptoms 0.0 0.0 ellipse
+77 "side effects" 0.0 0.0 ellipse
+78 "11-18 year olds" 0.0 0.0 ellipse
+79 headache 0.0 0.0 ellipse
+80 "Neisseria meningitidis bacteria" 0.0 0.0 ellipse
 *arcs
-5 15 1.0 source people source people edge "can "carry" without getting sick" edge can "carry" without getting sick target "Neisseria meningitidis bacteria" target Neisseria meningitidis bacteria comments "without getting sick" comments without getting sick label "people - can "carry" without getting sick - Neisseria meningitidis bacteria" label people - can "carry" without getting sick - Neisseria meningitidis bacteria
+5 1 1.0 source reactions source reactions edge "usually last" edge usually last target "short amount of time" target short amount of time label "reactions - usually last - short amount of time" label reactions - usually last - short amount of time
 8 2 1.0 source vaccines source vaccines edge "help prevent against most common" edge help prevent against most common target "serogroups of meningococcal disease" target serogroups of meningococcal disease label "vaccines - help prevent against most common - serogroups of meningococcal disease" label vaccines - help prevent against most common - serogroups of meningococcal disease
-9 45 1.0 source "meningococcal vaccine" source meningococcal vaccine edge "protects against" edge protects against target "serogroup C" target serogroup C label "meningococcal vaccine - protects against - serogroup C" label meningococcal vaccine - protects against - serogroup C
-9 46 1.0 source "meningococcal vaccine" source meningococcal vaccine edge "does not protect against" edge does not protect against target "serogroup B" target serogroup B label "meningococcal vaccine - does not protect against - serogroup B" label meningococcal vaccine - does not protect against - serogroup B
+9 44 1.0 source "meningococcal vaccine" source meningococcal vaccine edge "protects against" edge protects against target "serogroup C" target serogroup C label "meningococcal vaccine - protects against - serogroup C" label meningococcal vaccine - protects against - serogroup C
+9 45 1.0 source "meningococcal vaccine" source meningococcal vaccine edge "does not protect against" edge does not protect against target "serogroup B" target serogroup B label "meningococcal vaccine - does not protect against - serogroup B" label meningococcal vaccine - does not protect against - serogroup B
 9 13 1.0 source "meningococcal vaccine" source meningococcal vaccine edge "protects against" edge protects against target "serogroup Y" target serogroup Y label "meningococcal vaccine - protects against - serogroup Y" label meningococcal vaccine - protects against - serogroup Y
-9 79 1.0 source "meningococcal vaccine" source meningococcal vaccine edge "routinely recommended for all" edge routinely recommended for all target "11-18 year olds" target 11-18 year olds label "meningococcal vaccine - routinely recommended for all - 11-18 year olds" label meningococcal vaccine - routinely recommended for all - 11-18 year olds
+9 78 1.0 source "meningococcal vaccine" source meningococcal vaccine edge "routinely recommended for all" edge routinely recommended for all target "11-18 year olds" target 11-18 year olds label "meningococcal vaccine - routinely recommended for all - 11-18 year olds" label meningococcal vaccine - routinely recommended for all - 11-18 year olds
 9 38 1.0 source "meningococcal vaccine" source meningococcal vaccine edge "recommended for all" edge recommended for all target teens target teens label "meningococcal vaccine - recommended for all - teens" label meningococcal vaccine - recommended for all - teens
-9 41 1.0 source "meningococcal vaccine" source meningococcal vaccine edge "recommended for all" edge recommended for all target preteens target preteens label "meningococcal vaccine - recommended for all - preteens" label meningococcal vaccine - recommended for all - preteens
-9 42 1.0 source "meningococcal vaccine" source meningococcal vaccine edge "protects against" edge protects against target "meningococcal disease" target meningococcal disease label "meningococcal vaccine - protects against - meningococcal disease" label meningococcal vaccine - protects against - meningococcal disease
-10 53 1.0 source "meningococcal conjugate vaccine booster dose" source meningococcal conjugate vaccine booster dose edge "recommended at" edge recommended at target "16 years of age" target 16 years of age label "meningococcal conjugate vaccine booster dose - recommended at - 16 years of age" label meningococcal conjugate vaccine booster dose - recommended at - 16 years of age
+9 40 1.0 source "meningococcal vaccine" source meningococcal vaccine edge "recommended for all" edge recommended for all target preteens target preteens label "meningococcal vaccine - recommended for all - preteens" label meningococcal vaccine - recommended for all - preteens
+9 41 1.0 source "meningococcal vaccine" source meningococcal vaccine edge "protects against" edge protects against target "meningococcal disease" target meningococcal disease label "meningococcal vaccine - protects against - meningococcal disease" label meningococcal vaccine - protects against - meningococcal disease
+10 52 1.0 source "meningococcal conjugate vaccine booster dose" source meningococcal conjugate vaccine booster dose edge "recommended at" edge recommended at target "16 years of age" target 16 years of age label "meningococcal conjugate vaccine booster dose - recommended at - 16 years of age" label meningococcal conjugate vaccine booster dose - recommended at - 16 years of age
 11 34 1.0 source "meningococcal disease cases" source meningococcal disease cases edge "most aren't linked to" edge most aren't linked to target "other meningococcal disease cases" target other meningococcal disease cases label "meningococcal disease cases - most aren't linked to - other meningococcal disease cases" label meningococcal disease cases - most aren't linked to - other meningococcal disease cases
-11 69 1.0 source "meningococcal disease cases" source meningococcal disease cases edge "very few (2 or 3 out of 100) occur as part of" edge very few (2 or 3 out of 100) occur as part of target "meningococcal outbreak" target meningococcal outbreak label "meningococcal disease cases - very few (2 or 3 out of 100) occur as part of - meningococcal outbreak" label meningococcal disease cases - very few (2 or 3 out of 100) occur as part of - meningococcal outbreak
+11 68 1.0 source "meningococcal disease cases" source meningococcal disease cases edge "very few (2 or 3 out of 100) occur as part of" edge very few (2 or 3 out of 100) occur as part of target "meningococcal outbreak" target meningococcal outbreak label "meningococcal disease cases - very few (2 or 3 out of 100) occur as part of - meningococcal outbreak" label meningococcal disease cases - very few (2 or 3 out of 100) occur as part of - meningococcal outbreak
 12 9 1.0 source teen source teen edge "make sure they get" edge make sure they get target "meningococcal vaccine" target meningococcal vaccine label "teen - make sure they get - meningococcal vaccine" label teen - make sure they get - meningococcal vaccine
-15 49 1.0 source "Neisseria meningitidis bacteria" source Neisseria meningitidis bacteria edge "spread by sharing" edge spread by sharing target "respiratory secretions" target respiratory secretions label "Neisseria meningitidis bacteria - spread by sharing - respiratory secretions" label Neisseria meningitidis bacteria - spread by sharing - respiratory secretions
 23 6 1.0 source "arm side effects" source arm side effects edge "can include" edge can include target swelling target swelling label "arm side effects - can include - swelling" label arm side effects - can include - swelling
-23 68 1.0 source "arm side effects" source arm side effects edge "can include" edge can include target "hardness of the skin" target hardness of the skin label "arm side effects - can include - hardness of the skin" label arm side effects - can include - hardness of the skin
+23 67 1.0 source "arm side effects" source arm side effects edge "can include" edge can include target "hardness of the skin" target hardness of the skin label "arm side effects - can include - hardness of the skin" label arm side effects - can include - hardness of the skin
 23 18 1.0 source "arm side effects" source arm side effects edge "can include" edge can include target pain target pain label "arm side effects - can include - pain" label arm side effects - can include - pain
-23 40 1.0 source "arm side effects" source arm side effects edge "can include" edge can include target tenderness target tenderness label "arm side effects - can include - tenderness" label arm side effects - can include - tenderness
-24 56 1.0 source "long-term disabilities" source long-term disabilities edge "such as" edge such as target "loss of limb" target loss of limb label "long-term disabilities - such as - loss of limb" label long-term disabilities - such as - loss of limb
-24 44 1.0 source "long-term disabilities" source long-term disabilities edge "such as" edge such as target "nervous system problems" target nervous system problems label "long-term disabilities - such as - nervous system problems" label long-term disabilities - such as - nervous system problems
+23 39 1.0 source "arm side effects" source arm side effects edge "can include" edge can include target tenderness target tenderness label "arm side effects - can include - tenderness" label arm side effects - can include - tenderness
+24 55 1.0 source "long-term disabilities" source long-term disabilities edge "such as" edge such as target "loss of limb" target loss of limb label "long-term disabilities - such as - loss of limb" label long-term disabilities - such as - loss of limb
+24 43 1.0 source "long-term disabilities" source long-term disabilities edge "such as" edge such as target "nervous system problems" target nervous system problems label "long-term disabilities - such as - nervous system problems" label long-term disabilities - such as - nervous system problems
 24 17 1.0 source "long-term disabilities" source long-term disabilities edge "such as" edge such as target "brain damage" target brain damage label "long-term disabilities - such as - brain damage" label long-term disabilities - such as - brain damage
 24 20 1.0 source "long-term disabilities" source long-term disabilities edge "such as" edge such as target deafness target deafness label "long-term disabilities - such as - deafness" label long-term disabilities - such as - deafness
-27 77 1.0 source carriers source carriers edge "of meningococcal disease do not have any" edge of meningococcal disease do not have any target symptoms target symptoms label "carriers - of meningococcal disease do not have any - symptoms" label carriers - of meningococcal disease do not have any - symptoms
-30 27 1.0 source bacteria source bacteria edge "most often spread by" edge most often spread by target carriers target carriers label "bacteria - most often spread by - carriers" label bacteria - most often spread by - carriers
-31 42 1.0 source anyone source anyone edge "can get" edge can get target "meningococcal disease" target meningococcal disease label "anyone - can get - meningococcal disease" label anyone - can get - meningococcal disease
-33 71 1.0 source "close contacts" source close contacts edge "of a person with meningococcal disease should receive" edge of a person with meningococcal disease should receive target prophylaxis target prophylaxis label "close contacts - of a person with meningococcal disease should receive - prophylaxis" label close contacts - of a person with meningococcal disease should receive - prophylaxis
-33 58 1.0 source "close contacts" source close contacts edge "should receive" edge should receive target antibiotics target antibiotics label "close contacts - should receive - antibiotics" label close contacts - should receive - antibiotics
-33 54 1.0 source "close contacts" source close contacts edge "highest risk for getting" edge highest risk for getting target infection target infection label "close contacts - highest risk for getting - infection" label close contacts - highest risk for getting - infection
-35 42 1.0 source "young adults" source young adults edge "at increased risk for" edge at increased risk for target "meningococcal disease" target meningococcal disease label "young adults - at increased risk for - meningococcal disease" label young adults - at increased risk for - meningococcal disease
-35 42 1.0 source "young adults" source young adults edge "are at increased risk for " edge are at increased risk for  target "meningococcal disease" target meningococcal disease label "young adults - are at increased risk for  - meningococcal disease" label young adults - are at increased risk for  - meningococcal disease
-36 50 1.0 source "meningococcal conjugate vaccine" source meningococcal conjugate vaccine edge "recommended at" edge recommended at target "11-12 years of age" target 11-12 years of age label "meningococcal conjugate vaccine - recommended at - 11-12 years of age" label meningococcal conjugate vaccine - recommended at - 11-12 years of age
-36 52 1.0 source "meningococcal conjugate vaccine" source meningococcal conjugate vaccine edge is edge is target safe target safe label "meningococcal conjugate vaccine - is - safe" label meningococcal conjugate vaccine - is - safe
+26 76 1.0 source carriers source carriers edge "of meningococcal disease do not have any" edge of meningococcal disease do not have any target symptoms target symptoms label "carriers - of meningococcal disease do not have any - symptoms" label carriers - of meningococcal disease do not have any - symptoms
+28 80 1.0 source people source people edge "can carry without getting sick" edge can carry without getting sick target "Neisseria meningitidis bacteria" target Neisseria meningitidis bacteria comments "without getting sick" comments without getting sick label "people - can carry without getting sick - Neisseria meningitidis bacteria" label people - can carry without getting sick - Neisseria meningitidis bacteria
+30 26 1.0 source bacteria source bacteria edge "most often spread by" edge most often spread by target carriers target carriers label "bacteria - most often spread by - carriers" label bacteria - most often spread by - carriers
+31 41 1.0 source anyone source anyone edge "can get" edge can get target "meningococcal disease" target meningococcal disease label "anyone - can get - meningococcal disease" label anyone - can get - meningococcal disease
+33 70 1.0 source "close contacts" source close contacts edge "of a person with meningococcal disease should receive" edge of a person with meningococcal disease should receive target prophylaxis target prophylaxis label "close contacts - of a person with meningococcal disease should receive - prophylaxis" label close contacts - of a person with meningococcal disease should receive - prophylaxis
+33 57 1.0 source "close contacts" source close contacts edge "should receive" edge should receive target antibiotics target antibiotics label "close contacts - should receive - antibiotics" label close contacts - should receive - antibiotics
+33 53 1.0 source "close contacts" source close contacts edge "highest risk for getting" edge highest risk for getting target infection target infection label "close contacts - highest risk for getting - infection" label close contacts - highest risk for getting - infection
+35 41 1.0 source "young adults" source young adults edge "at increased risk for" edge at increased risk for target "meningococcal disease" target meningococcal disease label "young adults - at increased risk for - meningococcal disease" label young adults - at increased risk for - meningococcal disease
+35 41 1.0 source "young adults" source young adults edge "are at increased risk for " edge are at increased risk for  target "meningococcal disease" target meningococcal disease label "young adults - are at increased risk for  - meningococcal disease" label young adults - are at increased risk for  - meningococcal disease
+36 49 1.0 source "meningococcal conjugate vaccine" source meningococcal conjugate vaccine edge "recommended at" edge recommended at target "11-12 years of age" target 11-12 years of age label "meningococcal conjugate vaccine - recommended at - 11-12 years of age" label meningococcal conjugate vaccine - recommended at - 11-12 years of age
+36 51 1.0 source "meningococcal conjugate vaccine" source meningococcal conjugate vaccine edge is edge is target safe target safe label "meningococcal conjugate vaccine - is - safe" label meningococcal conjugate vaccine - is - safe
 38 9 1.0 source teens source teens edge need edge need target "meningococcal vaccine" target meningococcal vaccine label "teens - need - meningococcal vaccine" label teens - need - meningococcal vaccine
-38 42 1.0 source teens source teens edge "at increased risk for" edge at increased risk for target "meningococcal disease" target meningococcal disease label "teens - at increased risk for - meningococcal disease" label teens - at increased risk for - meningococcal disease
-38 42 1.0 source teens source teens edge "are at increased risk for " edge are at increased risk for  target "meningococcal disease" target meningococcal disease label "teens - are at increased risk for  - meningococcal disease" label teens - are at increased risk for  - meningococcal disease
-41 9 1.0 source preteens source preteens edge need edge need target "meningococcal vaccine" target meningococcal vaccine label "preteens - need - meningococcal vaccine" label preteens - need - meningococcal vaccine
-41 9 1.0 source preteens source preteens edge "should get the first dose at their 11-12 year old check-up" edge should get the first dose at their 11-12 year old check-up target "meningococcal vaccine" target meningococcal vaccine label "preteens - should get the first dose at their 11-12 year old check-up - meningococcal vaccine" label preteens - should get the first dose at their 11-12 year old check-up - meningococcal vaccine
-42 4 1.0 source "meningococcal disease" source meningococcal disease edge "very serious and not very common" edge very serious and not very common target illness target illness comments "in the United States" comments in the United States label "meningococcal disease - very serious and not very common - illness" label meningococcal disease - very serious and not very common - illness
-42 15 1.0 source "meningococcal disease" source meningococcal disease edge "refers to any illness caused by" edge refers to any illness caused by target "Neisseria meningitidis bacteria" target Neisseria meningitidis bacteria label "meningococcal disease - refers to any illness caused by - Neisseria meningitidis bacteria" label meningococcal disease - refers to any illness caused by - Neisseria meningitidis bacteria
-42 26 1.0 source "meningococcal disease" source meningococcal disease edge "will often cause" edge will often cause target "increased sensitivity to light" target increased sensitivity to light label "meningococcal disease - will often cause - increased sensitivity to light" label meningococcal disease - will often cause - increased sensitivity to light
-42 49 1.0 source "meningococcal disease" source meningococcal disease edge "spread from person to person by sharing" edge spread from person to person by sharing target "respiratory secretions" target respiratory secretions comments "(such as saliva, by kissing or coughing), during close or lengthy contact" comments (such as saliva, by kissing or coughing), during close or lengthy contact label "meningococcal disease - spread from person to person by sharing - respiratory secretions" label meningococcal disease - spread from person to person by sharing - respiratory secretions
-42 51 1.0 source "meningococcal disease" source meningococcal disease edge "will often cause" edge will often cause target confusion target confusion label "meningococcal disease - will often cause - confusion" label meningococcal disease - will often cause - confusion
-42 61 1.0 source "meningococcal disease" source meningococcal disease edge "spread especially among people who share a room or live in the same" edge spread especially among people who share a room or live in the same target household target household label "meningococcal disease - spread especially among people who share a room or live in the same - household" label meningococcal disease - spread especially among people who share a room or live in the same - household
-42 72 1.0 source "meningococcal disease" source meningococcal disease edge "can be treated with" edge can be treated with target "effective antibiotics" target effective antibiotics label "meningococcal disease - can be treated with - effective antibiotics" label meningococcal disease - can be treated with - effective antibiotics
-42 29 1.0 source "meningococcal disease" source meningococcal disease edge "will often cause" edge will often cause target rash target rash label "meningococcal disease - will often cause - rash" label meningococcal disease - will often cause - rash
-42 64 1.0 source "meningococcal disease" source meningococcal disease edge "will often cause" edge will often cause target vomiting target vomiting label "meningococcal disease - will often cause - vomiting" label meningococcal disease - will often cause - vomiting
-42 32 1.0 source "meningococcal disease" source meningococcal disease edge "is a very" edge is a very target "serious illness" target serious illness label "meningococcal disease - is a very - serious illness" label meningococcal disease - is a very - serious illness
-42 76 1.0 source "meningococcal disease" source meningococcal disease edge "people can be" edge people can be target carrier target carrier label "meningococcal disease - people can be - carrier" label meningococcal disease - people can be - carrier
-42 24 1.0 source "meningococcal disease" source meningococcal disease edge "11 to 19 out of every 100 survivors will have" edge 11 to 19 out of every 100 survivors will have target "long-term disabilities" target long-term disabilities comments "11 to 19 out of every 100 survivors" comments 11 to 19 out of every 100 survivors label "meningococcal disease - 11 to 19 out of every 100 survivors will have - long-term disabilities" label meningococcal disease - 11 to 19 out of every 100 survivors will have - long-term disabilities
-42 37 1.0 source "meningococcal disease" source meningococcal disease edge "very few cases occur as part of an" edge very few cases occur as part of an target outbreak target outbreak label "meningococcal disease - very few cases occur as part of an - outbreak" label meningococcal disease - very few cases occur as part of an - outbreak
-42 63 1.0 source "meningococcal disease" source meningococcal disease edge "most cases appear to be random and aren't linked to other" edge most cases appear to be random and aren't linked to other target cases target cases label "meningococcal disease - most cases appear to be random and aren't linked to other - cases" label meningococcal disease - most cases appear to be random and aren't linked to other - cases
-42 65 1.0 source "meningococcal disease" source meningococcal disease edge "can be devastating and often and unexpectedly strikes otherwise" edge can be devastating and often and unexpectedly strikes otherwise target "healthy people" target healthy people label "meningococcal disease - can be devastating and often and unexpectedly strikes otherwise - healthy people" label meningococcal disease - can be devastating and often and unexpectedly strikes otherwise - healthy people
-42 66 1.0 source "meningococcal disease" source meningococcal disease edge "97 or 98 out of 100 cases appear to be" edge 97 or 98 out of 100 cases appear to be target "random cases" target random cases label "meningococcal disease - 97 or 98 out of 100 cases appear to be - random cases" label meningococcal disease - 97 or 98 out of 100 cases appear to be - random cases
-42 67 1.0 source "meningococcal disease" source meningococcal disease edge "will often cause" edge will often cause target nausea target nausea label "meningococcal disease - will often cause - nausea" label meningococcal disease - will often cause - nausea
-47 43 1.0 source "meningococcal disease symptoms" source meningococcal disease symptoms edge "may include sudden onset of" edge may include sudden onset of target "high fever" target high fever label "meningococcal disease symptoms - may include sudden onset of - high fever" label meningococcal disease symptoms - may include sudden onset of - high fever
-47 57 1.0 source "meningococcal disease symptoms" source meningococcal disease symptoms edge "may include sudden onset of" edge may include sudden onset of target "stiff neck" target stiff neck label "meningococcal disease symptoms - may include sudden onset of - stiff neck" label meningococcal disease symptoms - may include sudden onset of - stiff neck
-47 80 1.0 source "meningococcal disease symptoms" source meningococcal disease symptoms edge "may include sudden onset of" edge may include sudden onset of target headache target headache label "meningococcal disease symptoms - may include sudden onset of - headache" label meningococcal disease symptoms - may include sudden onset of - headache
-47 28 1.0 source "meningococcal disease symptoms" source meningococcal disease symptoms edge "can start similar to" edge can start similar to target "influenza symptoms" target influenza symptoms label "meningococcal disease symptoms - can start similar to - influenza symptoms" label meningococcal disease symptoms - can start similar to - influenza symptoms
-48 1 1.0 source reactions source reactions edge "usually last" edge usually last target "short amount of time" target short amount of time label "reactions - usually last - short amount of time" label reactions - usually last - short amount of time
-55 42 1.0 source "early diagnosis" source early diagnosis edge "very important for" edge very important for target "meningococcal disease" target meningococcal disease label "early diagnosis - very important for - meningococcal disease" label early diagnosis - very important for - meningococcal disease
-58 42 1.0 source antibiotics source antibiotics edge "prevent from getting" edge prevent from getting target "meningococcal disease" target meningococcal disease label "antibiotics - prevent from getting - meningococcal disease" label antibiotics - prevent from getting - meningococcal disease
-59 42 1.0 source death source death edge "10 to 15 out of 100 people" edge 10 to 15 out of 100 people target "meningococcal disease" target meningococcal disease comments "10 to 15 out of 100 people" comments 10 to 15 out of 100 people label "death - 10 to 15 out of 100 people - meningococcal disease" label death - 10 to 15 out of 100 people - meningococcal disease
-59 42 1.0 source death source death edge "in as little as a few hours can occur" edge in as little as a few hours can occur target "meningococcal disease" target meningococcal disease label "death - in as little as a few hours can occur - meningococcal disease" label death - in as little as a few hours can occur - meningococcal disease
-60 7 1.0 source "risk of fainting" source risk of fainting edge "after getting any" edge after getting any target "any shot" target any shot label "risk of fainting - after getting any - any shot" label risk of fainting - after getting any - any shot
-60 9 1.0 source "risk of fainting" source risk of fainting edge "after getting" edge after getting target "meningococcal vaccine" target meningococcal vaccine label "risk of fainting - after getting - meningococcal vaccine" label risk of fainting - after getting - meningococcal vaccine
-69 62 1.0 source "meningococcal outbreak" source meningococcal outbreak edge "can occur in" edge can occur in target communities target communities label "meningococcal outbreak - can occur in - communities" label meningococcal outbreak - can occur in - communities
-69 19 1.0 source "meningococcal outbreak" source meningococcal outbreak edge "can occur in" edge can occur in target schools target schools label "meningococcal outbreak - can occur in - schools" label meningococcal outbreak - can occur in - schools
-69 25 1.0 source "meningococcal outbreak" source meningococcal outbreak edge "can occur in" edge can occur in target colleges target colleges label "meningococcal outbreak - can occur in - colleges" label meningococcal outbreak - can occur in - colleges
-69 39 1.0 source "meningococcal outbreak" source meningococcal outbreak edge "can occur in" edge can occur in target "other populations" target other populations label "meningococcal outbreak - can occur in - other populations" label meningococcal outbreak - can occur in - other populations
-69 3 1.0 source "meningococcal outbreak" source meningococcal outbreak edge "can occur in" edge can occur in target prisons target prisons label "meningococcal outbreak - can occur in - prisons" label meningococcal outbreak - can occur in - prisons
-70 74 1.0 source teenagers source teenagers edge "recommended to get" edge recommended to get target "booster dose" target booster dose label "teenagers - recommended to get - booster dose" label teenagers - recommended to get - booster dose
-73 42 1.0 source "early treatment" source early treatment edge "very important for" edge very important for target "meningococcal disease" target meningococcal disease label "early treatment - very important for - meningococcal disease" label early treatment - very important for - meningococcal disease
-75 80 1.0 source "common side effects" source common side effects edge include edge include target headache target headache label "common side effects - include - headache" label common side effects - include - headache
-75 22 1.0 source "common side effects" source common side effects edge include edge include target "run down feeling" target run down feeling label "common side effects - include - run down feeling" label common side effects - include - run down feeling
-75 67 1.0 source "common side effects" source common side effects edge include edge include target nausea target nausea label "common side effects - include - nausea" label common side effects - include - nausea
-76 47 1.0 source carrier source carrier edge "does not have" edge does not have target "meningococcal disease symptoms" target meningococcal disease symptoms label "carrier - does not have - meningococcal disease symptoms" label carrier - does not have - meningococcal disease symptoms
-78 14 1.0 source "side effects" source side effects edge "most are" edge most are target mild target mild label "side effects - most are - mild" label side effects - most are - mild
-78 9 1.0 source "side effects" source side effects edge "most are mild and moderate" edge most are mild and moderate target "meningococcal vaccine" target meningococcal vaccine label "side effects - most are mild and moderate - meningococcal vaccine" label side effects - most are mild and moderate - meningococcal vaccine
-78 9 1.0 source "side effects" source side effects edge "do occur with" edge do occur with target "meningococcal vaccine" target meningococcal vaccine label "side effects - do occur with - meningococcal vaccine" label side effects - do occur with - meningococcal vaccine
-78 9 1.0 source "side effects" source side effects edge "do not affect daily activities" edge do not affect daily activities target "meningococcal vaccine" target meningococcal vaccine label "side effects - do not affect daily activities - meningococcal vaccine" label side effects - do not affect daily activities - meningococcal vaccine
-78 9 1.0 source "side effects" source side effects edge "occur from" edge occur from target "meningococcal vaccine" target meningococcal vaccine label "side effects - occur from - meningococcal vaccine" label side effects - occur from - meningococcal vaccine
-78 21 1.0 source "side effects" source side effects edge "most common take place in" edge most common take place in target arm target arm label "side effects - most common take place in - arm" label side effects - most common take place in - arm
-78 16 1.0 source "side effects" source side effects edge "most do not affect" edge most do not affect target "daily activities" target daily activities label "side effects - most do not affect - daily activities" label side effects - most do not affect - daily activities
+38 41 1.0 source teens source teens edge "at increased risk for" edge at increased risk for target "meningococcal disease" target meningococcal disease label "teens - at increased risk for - meningococcal disease" label teens - at increased risk for - meningococcal disease
+38 41 1.0 source teens source teens edge "are at increased risk for " edge are at increased risk for  target "meningococcal disease" target meningococcal disease label "teens - are at increased risk for  - meningococcal disease" label teens - are at increased risk for  - meningococcal disease
+40 9 1.0 source preteens source preteens edge need edge need target "meningococcal vaccine" target meningococcal vaccine label "preteens - need - meningococcal vaccine" label preteens - need - meningococcal vaccine
+40 9 1.0 source preteens source preteens edge "should get the first dose at their 11-12 year old check-up" edge should get the first dose at their 11-12 year old check-up target "meningococcal vaccine" target meningococcal vaccine label "preteens - should get the first dose at their 11-12 year old check-up - meningococcal vaccine" label preteens - should get the first dose at their 11-12 year old check-up - meningococcal vaccine
+41 4 1.0 source "meningococcal disease" source meningococcal disease edge "very serious and not very common" edge very serious and not very common target illness target illness comments "in the United States" comments in the United States label "meningococcal disease - very serious and not very common - illness" label meningococcal disease - very serious and not very common - illness
+41 80 1.0 source "meningococcal disease" source meningococcal disease edge "refers to any illness caused by" edge refers to any illness caused by target "Neisseria meningitidis bacteria" target Neisseria meningitidis bacteria label "meningococcal disease - refers to any illness caused by - Neisseria meningitidis bacteria" label meningococcal disease - refers to any illness caused by - Neisseria meningitidis bacteria
+41 47 1.0 source "meningococcal disease" source meningococcal disease edge "will often cause" edge will often cause target "increased sensitivity to light" target increased sensitivity to light label "meningococcal disease - will often cause - increased sensitivity to light" label meningococcal disease - will often cause - increased sensitivity to light
+41 48 1.0 source "meningococcal disease" source meningococcal disease edge "spread from person to person by sharing" edge spread from person to person by sharing target "respiratory secretions" target respiratory secretions comments "(such as saliva, by kissing or coughing), during close or lengthy contact" comments (such as saliva, by kissing or coughing), during close or lengthy contact label "meningococcal disease - spread from person to person by sharing - respiratory secretions" label meningococcal disease - spread from person to person by sharing - respiratory secretions
+41 50 1.0 source "meningococcal disease" source meningococcal disease edge "will often cause" edge will often cause target confusion target confusion label "meningococcal disease - will often cause - confusion" label meningococcal disease - will often cause - confusion
+41 60 1.0 source "meningococcal disease" source meningococcal disease edge "spread especially among people who share a room or live in the same" edge spread especially among people who share a room or live in the same target household target household label "meningococcal disease - spread especially among people who share a room or live in the same - household" label meningococcal disease - spread especially among people who share a room or live in the same - household
+41 71 1.0 source "meningococcal disease" source meningococcal disease edge "can be treated with" edge can be treated with target "effective antibiotics" target effective antibiotics label "meningococcal disease - can be treated with - effective antibiotics" label meningococcal disease - can be treated with - effective antibiotics
+41 29 1.0 source "meningococcal disease" source meningococcal disease edge "will often cause" edge will often cause target rash target rash label "meningococcal disease - will often cause - rash" label meningococcal disease - will often cause - rash
+41 63 1.0 source "meningococcal disease" source meningococcal disease edge "will often cause" edge will often cause target vomiting target vomiting label "meningococcal disease - will often cause - vomiting" label meningococcal disease - will often cause - vomiting
+41 32 1.0 source "meningococcal disease" source meningococcal disease edge "is a very" edge is a very target "serious illness" target serious illness label "meningococcal disease - is a very - serious illness" label meningococcal disease - is a very - serious illness
+41 75 1.0 source "meningococcal disease" source meningococcal disease edge "people can be" edge people can be target carrier target carrier label "meningococcal disease - people can be - carrier" label meningococcal disease - people can be - carrier
+41 24 1.0 source "meningococcal disease" source meningococcal disease edge "11 to 19 out of every 100 survivors will have" edge 11 to 19 out of every 100 survivors will have target "long-term disabilities" target long-term disabilities comments "11 to 19 out of every 100 survivors" comments 11 to 19 out of every 100 survivors label "meningococcal disease - 11 to 19 out of every 100 survivors will have - long-term disabilities" label meningococcal disease - 11 to 19 out of every 100 survivors will have - long-term disabilities
+41 37 1.0 source "meningococcal disease" source meningococcal disease edge "very few cases occur as part of an" edge very few cases occur as part of an target outbreak target outbreak label "meningococcal disease - very few cases occur as part of an - outbreak" label meningococcal disease - very few cases occur as part of an - outbreak
+41 62 1.0 source "meningococcal disease" source meningococcal disease edge "most cases appear to be random and aren't linked to other" edge most cases appear to be random and aren't linked to other target cases target cases label "meningococcal disease - most cases appear to be random and aren't linked to other - cases" label meningococcal disease - most cases appear to be random and aren't linked to other - cases
+41 64 1.0 source "meningococcal disease" source meningococcal disease edge "can be devastating and often and unexpectedly strikes otherwise" edge can be devastating and often and unexpectedly strikes otherwise target "healthy people" target healthy people label "meningococcal disease - can be devastating and often and unexpectedly strikes otherwise - healthy people" label meningococcal disease - can be devastating and often and unexpectedly strikes otherwise - healthy people
+41 65 1.0 source "meningococcal disease" source meningococcal disease edge "97 or 98 out of 100 cases appear to be" edge 97 or 98 out of 100 cases appear to be target "random cases" target random cases label "meningococcal disease - 97 or 98 out of 100 cases appear to be - random cases" label meningococcal disease - 97 or 98 out of 100 cases appear to be - random cases
+41 66 1.0 source "meningococcal disease" source meningococcal disease edge "will often cause" edge will often cause target nausea target nausea label "meningococcal disease - will often cause - nausea" label meningococcal disease - will often cause - nausea
+46 42 1.0 source "meningococcal disease symptoms" source meningococcal disease symptoms edge "may include sudden onset of" edge may include sudden onset of target "high fever" target high fever label "meningococcal disease symptoms - may include sudden onset of - high fever" label meningococcal disease symptoms - may include sudden onset of - high fever
+46 56 1.0 source "meningococcal disease symptoms" source meningococcal disease symptoms edge "may include sudden onset of" edge may include sudden onset of target "stiff neck" target stiff neck label "meningococcal disease symptoms - may include sudden onset of - stiff neck" label meningococcal disease symptoms - may include sudden onset of - stiff neck
+46 79 1.0 source "meningococcal disease symptoms" source meningococcal disease symptoms edge "may include sudden onset of" edge may include sudden onset of target headache target headache label "meningococcal disease symptoms - may include sudden onset of - headache" label meningococcal disease symptoms - may include sudden onset of - headache
+46 27 1.0 source "meningococcal disease symptoms" source meningococcal disease symptoms edge "can start similar to" edge can start similar to target "influenza symptoms" target influenza symptoms label "meningococcal disease symptoms - can start similar to - influenza symptoms" label meningococcal disease symptoms - can start similar to - influenza symptoms
+54 41 1.0 source "early diagnosis" source early diagnosis edge "very important for" edge very important for target "meningococcal disease" target meningococcal disease label "early diagnosis - very important for - meningococcal disease" label early diagnosis - very important for - meningococcal disease
+57 41 1.0 source antibiotics source antibiotics edge "prevent from getting" edge prevent from getting target "meningococcal disease" target meningococcal disease label "antibiotics - prevent from getting - meningococcal disease" label antibiotics - prevent from getting - meningococcal disease
+58 41 1.0 source death source death edge "10 to 15 out of 100 people" edge 10 to 15 out of 100 people target "meningococcal disease" target meningococcal disease comments "10 to 15 out of 100 people" comments 10 to 15 out of 100 people label "death - 10 to 15 out of 100 people - meningococcal disease" label death - 10 to 15 out of 100 people - meningococcal disease
+58 41 1.0 source death source death edge "in as little as a few hours can occur" edge in as little as a few hours can occur target "meningococcal disease" target meningococcal disease label "death - in as little as a few hours can occur - meningococcal disease" label death - in as little as a few hours can occur - meningococcal disease
+59 7 1.0 source "risk of fainting" source risk of fainting edge "after getting any" edge after getting any target "any shot" target any shot label "risk of fainting - after getting any - any shot" label risk of fainting - after getting any - any shot
+59 9 1.0 source "risk of fainting" source risk of fainting edge "after getting" edge after getting target "meningococcal vaccine" target meningococcal vaccine label "risk of fainting - after getting - meningococcal vaccine" label risk of fainting - after getting - meningococcal vaccine
+68 61 1.0 source "meningococcal outbreak" source meningococcal outbreak edge "can occur in" edge can occur in target communities target communities label "meningococcal outbreak - can occur in - communities" label meningococcal outbreak - can occur in - communities
+68 19 1.0 source "meningococcal outbreak" source meningococcal outbreak edge "can occur in" edge can occur in target schools target schools label "meningococcal outbreak - can occur in - schools" label meningococcal outbreak - can occur in - schools
+68 25 1.0 source "meningococcal outbreak" source meningococcal outbreak edge "can occur in" edge can occur in target colleges target colleges label "meningococcal outbreak - can occur in - colleges" label meningococcal outbreak - can occur in - colleges
+68 15 1.0 source "meningococcal outbreak" source meningococcal outbreak edge "can occur in" edge can occur in target "other populations" target other populations label "meningococcal outbreak - can occur in - other populations" label meningococcal outbreak - can occur in - other populations
+68 3 1.0 source "meningococcal outbreak" source meningococcal outbreak edge "can occur in" edge can occur in target prisons target prisons label "meningococcal outbreak - can occur in - prisons" label meningococcal outbreak - can occur in - prisons
+69 73 1.0 source teenagers source teenagers edge "recommended to get" edge recommended to get target "booster dose" target booster dose label "teenagers - recommended to get - booster dose" label teenagers - recommended to get - booster dose
+72 41 1.0 source "early treatment" source early treatment edge "very important for" edge very important for target "meningococcal disease" target meningococcal disease label "early treatment - very important for - meningococcal disease" label early treatment - very important for - meningococcal disease
+74 79 1.0 source "common side effects" source common side effects edge include edge include target headache target headache label "common side effects - include - headache" label common side effects - include - headache
+74 22 1.0 source "common side effects" source common side effects edge include edge include target "run down feeling" target run down feeling label "common side effects - include - run down feeling" label common side effects - include - run down feeling
+74 66 1.0 source "common side effects" source common side effects edge include edge include target nausea target nausea label "common side effects - include - nausea" label common side effects - include - nausea
+75 46 1.0 source carrier source carrier edge "does not have" edge does not have target "meningococcal disease symptoms" target meningococcal disease symptoms label "carrier - does not have - meningococcal disease symptoms" label carrier - does not have - meningococcal disease symptoms
+77 14 1.0 source "side effects" source side effects edge "most are" edge most are target mild target mild label "side effects - most are - mild" label side effects - most are - mild
+77 9 1.0 source "side effects" source side effects edge "most are mild and moderate" edge most are mild and moderate target "meningococcal vaccine" target meningococcal vaccine label "side effects - most are mild and moderate - meningococcal vaccine" label side effects - most are mild and moderate - meningococcal vaccine
+77 9 1.0 source "side effects" source side effects edge "do occur with" edge do occur with target "meningococcal vaccine" target meningococcal vaccine label "side effects - do occur with - meningococcal vaccine" label side effects - do occur with - meningococcal vaccine
+77 9 1.0 source "side effects" source side effects edge "do not affect daily activities" edge do not affect daily activities target "meningococcal vaccine" target meningococcal vaccine label "side effects - do not affect daily activities - meningococcal vaccine" label side effects - do not affect daily activities - meningococcal vaccine
+77 9 1.0 source "side effects" source side effects edge "occur from" edge occur from target "meningococcal vaccine" target meningococcal vaccine label "side effects - occur from - meningococcal vaccine" label side effects - occur from - meningococcal vaccine
+77 21 1.0 source "side effects" source side effects edge "most common take place in" edge most common take place in target arm target arm label "side effects - most common take place in - arm" label side effects - most common take place in - arm
+77 16 1.0 source "side effects" source side effects edge "most do not affect" edge most do not affect target "daily activities" target daily activities label "side effects - most do not affect - daily activities" label side effects - most do not affect - daily activities
+80 48 1.0 source "Neisseria meningitidis bacteria" source Neisseria meningitidis bacteria edge "spread by sharing" edge spread by sharing target "respiratory secretions" target respiratory secretions label "Neisseria meningitidis bacteria - spread by sharing - respiratory secretions" label Neisseria meningitidis bacteria - spread by sharing - respiratory secretions

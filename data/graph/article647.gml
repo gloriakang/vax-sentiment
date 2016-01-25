@@ -542,9 +542,9 @@ graph [
     source 50
     target 8
     key 0
-    edge "called for &#34;some measure of choice&#34; on vaccines by parents"
+    edge "called for some measure of choice on vaccines by parents"
     comments "NJ Governor"
-    label "Chris Christie - called for &#34;some measure of choice&#34; on vaccines by parents - vaccine choice"
+    label "Chris Christie - called for some measure of choice on vaccines by parents - vaccine choice"
   ]
   edge [
     source 50

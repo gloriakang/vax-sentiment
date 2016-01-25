@@ -71,7 +71,7 @@ graph [
   ]
   node [
     id 17
-    label "children"
+    label "triple hit"
   ]
   node [
     id 18
@@ -147,23 +147,23 @@ graph [
   ]
   node [
     id 36
-    label "repetitive behaviors"
-  ]
-  node [
-    id 37
     label "Jain study"
   ]
   node [
-    id 38
+    id 37
     label "environmental factors"
   ]
   node [
-    id 39
+    id 38
     label "delaying vaccinations"
   ]
   node [
-    id 40
+    id 39
     label "vaccine-autism link"
+  ]
+  node [
+    id 40
+    label "children"
   ]
   node [
     id 41
@@ -187,7 +187,7 @@ graph [
   ]
   node [
     id 46
-    label "&#34;triple hit&#34;"
+    label "repetitive behaviors"
   ]
   node [
     id 47
@@ -223,7 +223,7 @@ graph [
   ]
   edge [
     source 7
-    target 39
+    target 38
     key 0
     edge "are more likely"
     comments "Dr. Bryan King said research has shown"
@@ -287,9 +287,9 @@ graph [
     source 13
     target 9
     key 0
-    edge "is probably not &#34;protective&#34; against"
+    edge "is probably not protective against"
     comments "said Dr. Bryan King"
-    label "MMR vaccine - is probably not &#34;protective&#34; against - autism"
+    label "MMR vaccine - is probably not protective against - autism"
   ]
   edge [
     source 13
@@ -318,8 +318,15 @@ graph [
     source 17
     target 34
     key 0
-    edge "some have"
-    label "children - some have - genetic predisposition"
+    edge "includes"
+    label "triple hit - includes - genetic predisposition"
+  ]
+  edge [
+    source 17
+    target 23
+    key 0
+    edge "includes"
+    label "triple hit - includes - environmental trigger"
   ]
   edge [
     source 18
@@ -380,11 +387,11 @@ graph [
   ]
   edge [
     source 26
-    target 46
+    target 17
     key 0
     edge "of autism is"
     comments "said Dr. Bryan King"
-    label "theory - of autism is - &#34;triple hit&#34;"
+    label "theory - of autism is - triple hit"
   ]
   edge [
     source 27
@@ -432,7 +439,7 @@ graph [
   ]
   edge [
     source 35
-    target 36
+    target 46
     key 0
     edge "some focus on limited number of"
     label "children with ASD - some focus on limited number of - repetitive behaviors"
@@ -445,14 +452,14 @@ graph [
     label "children with ASD - some have mild - problems with social interactions"
   ]
   edge [
-    source 37
-    target 40
+    source 36
+    target 39
     key 0
     edge "finds no"
     label "Jain study - finds no - vaccine-autism link"
   ]
   edge [
-    source 38
+    source 37
     target 21
     key 0
     edge "must play a"
@@ -460,26 +467,33 @@ graph [
     label "environmental factors - must play a - role"
   ]
   edge [
-    source 38
+    source 37
     target 9
     key 0
     edge "also have to play a role"
     label "environmental factors - also have to play a role - autism"
   ]
   edge [
-    source 38
+    source 37
     target 19
     key 0
     edge "we don't understand those contributing to the exponential rise in"
     label "environmental factors - we don't understand those contributing to the exponential rise in - ASD"
   ]
   edge [
-    source 39
-    target 17
+    source 38
+    target 40
     key 0
     edge "puts at risk of potentially serious infections"
     comments "said Dr. Anjali Jain"
     label "delaying vaccinations - puts at risk of potentially serious infections - children"
+  ]
+  edge [
+    source 40
+    target 34
+    key 0
+    edge "some have"
+    label "children - some have - genetic predisposition"
   ]
   edge [
     source 42
@@ -488,20 +502,6 @@ graph [
     edge "is"
     comments "researchers suspect"
     label "prenatal development - is - critical period"
-  ]
-  edge [
-    source 46
-    target 34
-    key 0
-    edge "includes"
-    label "&#34;triple hit&#34; - includes - genetic predisposition"
-  ]
-  edge [
-    source 46
-    target 23
-    key 0
-    edge "includes"
-    label "&#34;triple hit&#34; - includes - environmental trigger"
   ]
   edge [
     source 47

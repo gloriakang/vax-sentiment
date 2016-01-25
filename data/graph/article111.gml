@@ -452,7 +452,7 @@ graph [
     target 35
     key 0
     edge "has trouble finding victims, even the unvaccinated at"
-    comments "&#34;that immunization level&#34;"
+    comments "that immunization level"
     label "measles virus - has trouble finding victims, even the unvaccinated at - herd immunity"
   ]
   edge [

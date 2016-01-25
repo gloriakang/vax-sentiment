@@ -1,6 +1,6 @@
 *vertices 17
-1 vaccine 0.0 0.0 ellipse
-2 body 0.0 0.0 ellipse
+1 body 0.0 0.0 ellipse
+2 "imitation infection" 0.0 0.0 ellipse
 3 "natural defenses" 0.0 0.0 ellipse
 4 illness 0.0 0.0 ellipse
 5 diseases 0.0 0.0 ellipse
@@ -11,17 +11,18 @@
 10 vaccines 0.0 0.0 ellipse
 11 VPD 0.0 0.0 ellipse
 12 fever 0.0 0.0 ellipse
-13 ""imitation" infection" 0.0 0.0 ellipse
+13 immunity 0.0 0.0 ellipse
 14 "immunity to diseases" 0.0 0.0 ellipse
 15 "immune system" 0.0 0.0 ellipse
 16 expected 0.0 0.0 ellipse
-17 immunity 0.0 0.0 ellipse
+17 vaccine 0.0 0.0 ellipse
 *arcs
-1 9 1.0 source vaccine source vaccine edge "sometimes the imitation infection can cause" edge sometimes the imitation infection can cause target "minor symptoms" target minor symptoms label "vaccine - sometimes the imitation infection can cause - minor symptoms" label vaccine - sometimes the imitation infection can cause - minor symptoms
-2 11 1.0 source body source body edge "can recognize and fight in future" edge can recognize and fight in future target VPD target VPD label "body - can recognize and fight in future - VPD" label body - can recognize and fight in future - VPD
+1 11 1.0 source body source body edge "can recognize and fight in future" edge can recognize and fight in future target VPD target VPD label "body - can recognize and fight in future - VPD" label body - can recognize and fight in future - VPD
+2 4 1.0 source "imitation infection" source imitation infection edge "does not cause" edge does not cause target illness target illness label "imitation infection - does not cause - illness" label imitation infection - does not cause - illness
+2 15 1.0 source "imitation infection" source imitation infection edge "causes to develp same response as to real infection" edge causes to develp same response as to real infection target "immune system" target immune system label "imitation infection - causes to develp same response as to real infection - immune system" label imitation infection - causes to develp same response as to real infection - immune system
 9 16 1.0 source "minor symptoms" source minor symptoms edge "should be" edge should be target expected target expected label "minor symptoms - should be - expected" label minor symptoms - should be - expected
 9 12 1.0 source "minor symptoms" source minor symptoms edge "such as" edge such as target fever target fever label "minor symptoms - such as - fever" label minor symptoms - such as - fever
-9 17 1.0 source "minor symptoms" source minor symptoms edge "are normal and should be expected as the body builds" edge are normal and should be expected as the body builds target immunity target immunity label "minor symptoms - are normal and should be expected as the body builds - immunity" label minor symptoms - are normal and should be expected as the body builds - immunity
+9 13 1.0 source "minor symptoms" source minor symptoms edge "are normal and should be expected as the body builds" edge are normal and should be expected as the body builds target immunity target immunity label "minor symptoms - are normal and should be expected as the body builds - immunity" label minor symptoms - are normal and should be expected as the body builds - immunity
 9 6 1.0 source "minor symptoms" source minor symptoms edge are edge are target normal target normal label "minor symptoms - are - normal" label minor symptoms - are - normal
 10 3 1.0 source vaccines source vaccines edge "work with the body's" edge work with the body's target "natural defenses" target natural defenses label "vaccines - work with the body's - natural defenses" label vaccines - work with the body's - natural defenses
 10 4 1.0 source vaccines source vaccines edge "do not cause" edge do not cause target illness target illness label "vaccines - do not cause - illness" label vaccines - do not cause - illness
@@ -30,7 +31,6 @@
 10 8 1.0 source vaccines source vaccines edge "cause the immune system to develop the same response as it does to a real" edge cause the immune system to develop the same response as it does to a real target infection target infection comments "so that the body can recognize and fight the vaccine-preventable disease in the future" comments so that the body can recognize and fight the vaccine-preventable disease in the future label "vaccines - cause the immune system to develop the same response as it does to a real - infection" label vaccines - cause the immune system to develop the same response as it does to a real - infection
 10 8 1.0 source vaccines source vaccines edge "help develop imminty by imitating an" edge help develop imminty by imitating an target infection target infection label "vaccines - help develop imminty by imitating an - infection" label vaccines - help develop imminty by imitating an - infection
 10 14 1.0 source vaccines source vaccines edge "help body safely develop" edge help body safely develop target "immunity to diseases" target immunity to diseases label "vaccines - help body safely develop - immunity to diseases" label vaccines - help body safely develop - immunity to diseases
-10 17 1.0 source vaccines source vaccines edge "help develop" edge help develop target immunity target immunity label "vaccines - help develop - immunity" label vaccines - help develop - immunity
-10 17 1.0 source vaccines source vaccines edge "help the body safely develop" edge help the body safely develop target immunity target immunity label "vaccines - help the body safely develop - immunity" label vaccines - help the body safely develop - immunity
-13 4 1.0 source ""imitation" infection" source "imitation" infection edge "does not cause" edge does not cause target illness target illness label ""imitation" infection - does not cause - illness" label "imitation" infection - does not cause - illness
-13 15 1.0 source ""imitation" infection" source "imitation" infection edge "causes to develp same response as to real infection" edge causes to develp same response as to real infection target "immune system" target immune system label ""imitation" infection - causes to develp same response as to real infection - immune system" label "imitation" infection - causes to develp same response as to real infection - immune system
+10 13 1.0 source vaccines source vaccines edge "help develop" edge help develop target immunity target immunity label "vaccines - help develop - immunity" label vaccines - help develop - immunity
+10 13 1.0 source vaccines source vaccines edge "help the body safely develop" edge help the body safely develop target immunity target immunity label "vaccines - help the body safely develop - immunity" label vaccines - help the body safely develop - immunity
+17 9 1.0 source vaccine source vaccine edge "sometimes the imitation infection can cause" edge sometimes the imitation infection can cause target "minor symptoms" target minor symptoms label "vaccine - sometimes the imitation infection can cause - minor symptoms" label vaccine - sometimes the imitation infection can cause - minor symptoms

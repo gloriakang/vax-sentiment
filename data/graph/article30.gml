@@ -3,11 +3,11 @@ graph [
   multigraph 1
   node [
     id 0
-    label "vaccine"
+    label "body"
   ]
   node [
     id 1
-    label "body"
+    label "imitation infection"
   ]
   node [
     id 2
@@ -51,7 +51,7 @@ graph [
   ]
   node [
     id 12
-    label "&#34;imitation&#34; infection"
+    label "immunity"
   ]
   node [
     id 13
@@ -67,21 +67,28 @@ graph [
   ]
   node [
     id 16
-    label "immunity"
+    label "vaccine"
   ]
   edge [
     source 0
-    target 8
-    key 0
-    edge "sometimes the imitation infection can cause"
-    label "vaccine - sometimes the imitation infection can cause - minor symptoms"
-  ]
-  edge [
-    source 1
     target 10
     key 0
     edge "can recognize and fight in future"
     label "body - can recognize and fight in future - VPD"
+  ]
+  edge [
+    source 1
+    target 3
+    key 0
+    edge "does not cause"
+    label "imitation infection - does not cause - illness"
+  ]
+  edge [
+    source 1
+    target 14
+    key 0
+    edge "causes to develp same response as to real infection"
+    label "imitation infection - causes to develp same response as to real infection - immune system"
   ]
   edge [
     source 8
@@ -99,7 +106,7 @@ graph [
   ]
   edge [
     source 8
-    target 16
+    target 12
     key 0
     edge "are normal and should be expected as the body builds"
     label "minor symptoms - are normal and should be expected as the body builds - immunity"
@@ -163,30 +170,23 @@ graph [
   ]
   edge [
     source 9
-    target 16
+    target 12
     key 0
     edge "help develop"
     label "vaccines - help develop - immunity"
   ]
   edge [
     source 9
-    target 16
+    target 12
     key 1
     edge "help the body safely develop"
     label "vaccines - help the body safely develop - immunity"
   ]
   edge [
-    source 12
-    target 3
+    source 16
+    target 8
     key 0
-    edge "does not cause"
-    label "&#34;imitation&#34; infection - does not cause - illness"
-  ]
-  edge [
-    source 12
-    target 14
-    key 0
-    edge "causes to develp same response as to real infection"
-    label "&#34;imitation&#34; infection - causes to develp same response as to real infection - immune system"
+    edge "sometimes the imitation infection can cause"
+    label "vaccine - sometimes the imitation infection can cause - minor symptoms"
   ]
 ]

@@ -425,7 +425,7 @@ graph [
     target 29
     key 0
     edge "voted for"
-    comments "even though she said it has a &#34;long way to go&#34; to fully address her concerns"
+    comments "even though she said it has a long way to go to fully address her concerns"
     label "Chairwoman Carol Liu - voted for - SB277"
   ]
   edge [

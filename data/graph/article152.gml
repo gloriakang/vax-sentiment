@@ -151,67 +151,67 @@ graph [
   ]
   node [
     id 37
-    label "&#34;reduction&#34; of thimerosal"
-  ]
-  node [
-    id 38
     label "thimerosal"
   ]
   node [
-    id 39
+    id 38
     label "I do not believe in thimerosal"
   ]
   node [
-    id 40
+    id 39
     label "Andrew Wakefield"
   ]
   node [
-    id 41
+    id 40
     label "thimerosal removal"
   ]
   node [
-    id 42
+    id 41
     label "Homeland Security Bill"
   ]
   node [
-    id 43
+    id 42
     label "mercury additive"
   ]
   node [
-    id 44
+    id 43
     label "severe autism"
   ]
   node [
-    id 45
+    id 44
     label "I believe in vaccines"
   ]
   node [
-    id 46
+    id 45
     label "diseases"
   ]
   node [
-    id 47
+    id 46
     label "outright lie"
   ]
   node [
-    id 48
+    id 47
     label "genetic tendencies"
   ]
   node [
-    id 49
+    id 48
     label "multi-dose vaccines"
   ]
   node [
-    id 50
+    id 49
     label "spectrum"
   ]
   node [
-    id 51
+    id 50
     label "flu shot while pregnant"
   ]
   node [
-    id 52
+    id 51
     label "my son's autism"
+  ]
+  node [
+    id 52
+    label "reduction of thimerosal"
   ]
   node [
     id 53
@@ -315,7 +315,7 @@ graph [
   ]
   edge [
     source 1
-    target 38
+    target 37
     key 0
     edge "had cut back on"
     label "vaccine manufacturers - had cut back on - thimerosal"
@@ -372,10 +372,10 @@ graph [
   ]
   edge [
     source 8
-    target 50
+    target 49
     key 0
     edge "therefore"
-    comments "[different processing of mercury reflects different manifestations of autism &#34;spectrum]"
+    comments "[different processing of mercury reflects different manifestations of autism spectrum]"
     label "trace amounts of thimerosal - therefore - spectrum"
   ]
   edge [
@@ -402,7 +402,7 @@ graph [
   ]
   edge [
     source 14
-    target 38
+    target 37
     key 0
     edge "even if claimed package insert would still list"
     label "thimerosal-free vaccines - even if claimed package insert would still list - thimerosal"
@@ -438,17 +438,17 @@ graph [
   ]
   edge [
     source 20
-    target 16
-    key 0
-    edge "were given thimerosal if there was any"
-    label "pregnant women - were given thimerosal if there was any - bleeding during pregnancy"
-  ]
-  edge [
-    source 20
     target 10
     key 0
     edge "were given thimerosal if was done"
     label "pregnant women - were given thimerosal if was done - amniocentesis"
+  ]
+  edge [
+    source 20
+    target 16
+    key 0
+    edge "were given thimerosal if there was any"
+    label "pregnant women - were given thimerosal if there was any - bleeding during pregnancy"
   ]
   edge [
     source 23
@@ -473,7 +473,7 @@ graph [
   ]
   edge [
     source 26
-    target 40
+    target 39
     key 0
     edge "formerly well respected caught falsifying data was"
     label "doctor - formerly well respected caught falsifying data was - Andrew Wakefield"
@@ -501,14 +501,14 @@ graph [
   ]
   edge [
     source 28
-    target 48
+    target 47
     key 0
     edge "CDC claims due to"
     label "autism rise - CDC claims due to - genetic tendencies"
   ]
   edge [
     source 29
-    target 44
+    target 43
     key 0
     edge "may have led to"
     label "vaccines with thimerosal - may have led to - severe autism"
@@ -530,7 +530,7 @@ graph [
   ]
   edge [
     source 33
-    target 46
+    target 45
     key 0
     edge "protect us from other debilitating"
     label "vaccines - protect us from other debilitating - diseases"
@@ -552,34 +552,27 @@ graph [
   ]
   edge [
     source 37
-    target 69
-    key 0
-    edge "is really an"
-    label "&#34;reduction&#34; of thimerosal - is really an - oxymoron"
-  ]
-  edge [
-    source 38
     target 0
     key 0
     edge "is"
     label "thimerosal - is - autism trigger"
   ]
   edge [
-    source 38
+    source 37
     target 25
     key 0
     edge "some believe is"
     label "thimerosal - some believe is - culprit"
   ]
   edge [
-    source 38
-    target 43
+    source 37
+    target 42
     key 0
     edge "is"
     label "thimerosal - is - mercury additive"
   ]
   edge [
-    source 38
+    source 37
     target 5
     key 0
     edge "also in"
@@ -587,42 +580,42 @@ graph [
     label "thimerosal - also in - Rho-GAM shots"
   ]
   edge [
-    source 38
+    source 37
     target 31
     key 0
     edge "not necessary in"
     label "thimerosal - not necessary in - single dose vaccines"
   ]
   edge [
-    source 38
+    source 37
     target 31
     key 1
     edge "does not affect efficacy of"
     label "thimerosal - does not affect efficacy of - single dose vaccines"
   ]
   edge [
-    source 38
+    source 37
     target 31
     key 2
     edge "not a necessary component of"
     label "thimerosal - not a necessary component of - single dose vaccines"
   ]
   edge [
-    source 38
+    source 37
     target 33
     key 0
     edge "should be taken out of"
     label "thimerosal - should be taken out of - vaccines"
   ]
   edge [
-    source 38
+    source 37
     target 35
     key 0
     edge "is the"
     label "thimerosal - is the - trigger"
   ]
   edge [
-    source 38
+    source 37
     target 12
     key 0
     edge "pads pockets of"
@@ -630,28 +623,28 @@ graph [
     label "thimerosal - pads pockets of - thimerosal manufactuers"
   ]
   edge [
-    source 38
+    source 37
     target 59
     key 0
     edge "testimony given from respected research doctor at Baylor College of Medicine at"
     label "thimerosal - testimony given from respected research doctor at Baylor College of Medicine at - The Vaccine and Autism Congressional Hearing"
   ]
   edge [
-    source 38
+    source 37
     target 20
     key 0
     edge "was also given if there was any bleeding during pregnancy or if amniocentesis was done"
     label "thimerosal - was also given if there was any bleeding during pregnancy or if amniocentesis was done - pregnant women"
   ]
   edge [
-    source 41
-    target 47
+    source 40
+    target 46
     key 0
     edge "statement was"
     label "thimerosal removal - statement was - outright lie"
   ]
   edge [
-    source 42
+    source 41
     target 54
     key 0
     edge "snuck in last minute provision which"
@@ -659,39 +652,46 @@ graph [
     label "Homeland Security Bill - snuck in last minute provision which - prevented pharmaceutical companies from lawsuits for thimerosal harm"
   ]
   edge [
-    source 43
-    target 49
+    source 42
+    target 48
     key 0
     edge "used to stabilize"
     label "mercury additive - used to stabilize - multi-dose vaccines"
   ]
   edge [
-    source 45
-    target 39
+    source 44
+    target 38
     key 0
     edge "but"
     label "I believe in vaccines - but - I do not believe in thimerosal"
   ]
   edge [
-    source 49
+    source 48
     target 19
     key 0
     edge "maybe it's time to eliminate because multi-dose vials require"
     label "multi-dose vaccines - maybe it's time to eliminate because multi-dose vials require - preservative"
   ]
   edge [
-    source 51
+    source 50
     target 72
     key 0
     edge "I never took because I knew flu shots had"
     label "flu shot while pregnant - I never took because I knew flu shots had - high levels of thimerosal"
   ]
   edge [
-    source 52
+    source 51
     target 61
     key 0
     edge "was directly caused by"
     label "my son's autism - was directly caused by - thimerosal in vaccines"
+  ]
+  edge [
+    source 52
+    target 69
+    key 0
+    edge "is really an"
+    label "reduction of thimerosal - is really an - oxymoron"
   ]
   edge [
     source 53
@@ -702,7 +702,7 @@ graph [
   ]
   edge [
     source 60
-    target 38
+    target 37
     key 0
     edge "contains up to 50 micrograms of"
     label "flu shot - contains up to 50 micrograms of - thimerosal"
@@ -723,17 +723,17 @@ graph [
   ]
   edge [
     source 62
-    target 47
+    target 46
     key 0
     edge "statement about thimerosal removal was"
     label "CDC - statement about thimerosal removal was - outright lie"
   ]
   edge [
     source 62
-    target 37
+    target 52
     key 0
     edge "claims"
-    label "CDC - claims - &#34;reduction&#34; of thimerosal"
+    label "CDC - claims - reduction of thimerosal"
   ]
   edge [
     source 64
@@ -744,18 +744,18 @@ graph [
   ]
   edge [
     source 65
-    target 38
-    key 0
-    edge "sent off some type of shoots to &#34;get away&#34; from"
-    label "adult brain cells - sent off some type of shoots to &#34;get away&#34; from - thimerosal"
-  ]
-  edge [
-    source 65
     target 27
     key 0
     edge "same patterns in autism and"
     comments "said doctor"
     label "adult brain cells - same patterns in autism and - alzheimer's"
+  ]
+  edge [
+    source 65
+    target 37
+    key 0
+    edge "sent off some type of shoots to get away from"
+    label "adult brain cells - sent off some type of shoots to get away from - thimerosal"
   ]
   edge [
     source 70

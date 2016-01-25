@@ -27,7 +27,7 @@ graph [
   ]
   node [
     id 6
-    label "facts"
+    label "neurotoxic"
   ]
   node [
     id 7
@@ -155,7 +155,7 @@ graph [
   ]
   node [
     id 38
-    label "neurotoxic"
+    label "facts"
   ]
   node [
     id 39
@@ -1058,9 +1058,9 @@ graph [
     source 69
     target 83
     key 0
-    edge "in reporting exhibits extreme"
+    edge "exhibits extreme"
     comments "in reporting"
-    label "mainstream media - in reporting exhibits extreme - conflict of interest"
+    label "mainstream media - exhibits extreme - conflict of interest"
   ]
   edge [
     source 69
@@ -1092,11 +1092,11 @@ graph [
   ]
   edge [
     source 69
-    target 6
+    target 38
     key 0
-    edge "refuses to report about vaccine industry"
+    edge "refuses to report"
     comments "about vaccine industry"
-    label "mainstream media - refuses to report about vaccine industry - facts"
+    label "mainstream media - refuses to report - facts"
   ]
   edge [
     source 69
@@ -1174,9 +1174,9 @@ graph [
     source 81
     target 47
     key 0
-    edge "CDC admits is still used in"
+    edge "is still used in"
     comments "admits CDC"
-    label "mercury - CDC admits is still used in - vaccines"
+    label "mercury - is still used in - vaccines"
   ]
   edge [
     source 81
@@ -1203,7 +1203,7 @@ graph [
   ]
   edge [
     source 81
-    target 38
+    target 6
     key 0
     edge "is arguably the most"
     comments "element"
@@ -1389,10 +1389,10 @@ graph [
   ]
   edge [
     source 103
-    target 47
+    target 81
     key 0
-    edge "admits mercury still used in"
-    label "CDC - admits mercury still used in - vaccines"
+    edge "admits still used in vaccines"
+    label "CDC - admits still used in vaccines - mercury"
   ]
   edge [
     source 103
@@ -1417,7 +1417,7 @@ graph [
   ]
   edge [
     source 105
-    target 6
+    target 38
     key 0
     edge "never has a monopoly on"
     label "science - never has a monopoly on - facts"
