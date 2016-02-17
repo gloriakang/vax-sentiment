@@ -1,0 +1,124 @@
+*vertices 66
+1 "Government Accounting Office" 0.0 0.0 ellipse
+2 "compensation claims" 0.0 0.0 ellipse
+3 promises 0.0 0.0 ellipse
+4 clients 0.0 0.0 ellipse
+5 non-adversarial 0.0 0.0 ellipse
+6 "pharmaceutical companies" 0.0 0.0 ellipse
+7 "vaccine manufacturers" 0.0 0.0 ellipse
+8 "vaccine injury lawsuits" 0.0 0.0 ellipse
+9 "vaccine-development business" 0.0 0.0 ellipse
+10 "legal immunity" 0.0 0.0 ellipse
+11 "foreign countries" 0.0 0.0 ellipse
+12 battle 0.0 0.0 ellipse
+13 "vaccine damage" 0.0 0.0 ellipse
+14 settlement 0.0 0.0 ellipse
+15 "Vaccine Injured Petitioners Bar Association" 0.0 0.0 ellipse
+16 "new vaccines" 0.0 0.0 ellipse
+17 "lawsuit claims" 0.0 0.0 ellipse
+18 generous 0.0 0.0 ellipse
+19 "Gardasil lawsuit claims information" 0.0 0.0 ellipse
+20 Congress 0.0 0.0 ellipse
+21 informal 0.0 0.0 ellipse
+22 lawsuits 0.0 0.0 ellipse
+23 disease 0.0 0.0 ellipse
+24 "post-marking surveillance" 0.0 0.0 ellipse
+25 vaccines 0.0 0.0 ellipse
+26 petitioner-friendly 0.0 0.0 ellipse
+27 "vaccine company" 0.0 0.0 ellipse
+28 reactions 0.0 0.0 ellipse
+29 time-consuming 0.0 0.0 ellipse
+30 compensation 0.0 0.0 ellipse
+31 "cervical cancer" 0.0 0.0 ellipse
+32 "Gardasil injuries" 0.0 0.0 ellipse
+33 victims 0.0 0.0 ellipse
+34 "civil litigation" 0.0 0.0 ellipse
+35 litigious 0.0 0.0 ellipse
+36 government 0.0 0.0 ellipse
+37 "vaccine injury" 0.0 0.0 ellipse
+38 "public health" 0.0 0.0 ellipse
+39 "self-insurance policy" 0.0 0.0 ellipse
+40 taxes 0.0 0.0 ellipse
+41 "National Vaccine Injury Compensation Program" 0.0 0.0 ellipse
+42 "autoimmune disorder" 0.0 0.0 ellipse
+43 "U.S. citizens" 0.0 0.0 ellipse
+44 "injury claims" 0.0 0.0 ellipse
+45 Merck 0.0 0.0 ellipse
+46 complicated 0.0 0.0 ellipse
+47 "adverse effects" 0.0 0.0 ellipse
+48 "vaccine manufacturer" 0.0 0.0 ellipse
+49 Gardasil 0.0 0.0 ellipse
+50 "alternative media" 0.0 0.0 ellipse
+51 payment 0.0 0.0 ellipse
+52 vaccine 0.0 0.0 ellipse
+53 population 0.0 0.0 ellipse
+54 "vaccine supply" 0.0 0.0 ellipse
+55 "Gardasil injury claims information" 0.0 0.0 ellipse
+56 "vaccine court" 0.0 0.0 ellipse
+57 citizens 0.0 0.0 ellipse
+58 "Renee Gentry" 0.0 0.0 ellipse
+59 fighting 0.0 0.0 ellipse
+60 "pharmaceutical industry" 0.0 0.0 ellipse
+61 "scientific literature" 0.0 0.0 ellipse
+62 patients 0.0 0.0 ellipse
+63 Americans 0.0 0.0 ellipse
+64 "Vaccine Injury Compensation Fund" 0.0 0.0 ellipse
+65 "Bruesewitz v. Wyeth" 0.0 0.0 ellipse
+66 claims 0.0 0.0 ellipse
+*arcs
+1 14 1.0 source "Government Accounting Office" source Government Accounting Office edge "reported frustration is common trying to receive" edge reported frustration is common trying to receive target settlement target settlement label "Government Accounting Office - reported frustration is common trying to receive - settlement" label Government Accounting Office - reported frustration is common trying to receive - settlement
+2 35 1.0 source "compensation claims" source compensation claims edge "have become increasingly" edge have become increasingly target litigious target litigious label "compensation claims - have become increasingly - litigious" label compensation claims - have become increasingly - litigious
+6 13 1.0 source "pharmaceutical companies" source pharmaceutical companies edge "citizens cannot sue for" edge citizens cannot sue for target "vaccine damage" target vaccine damage label "pharmaceutical companies - citizens cannot sue for - vaccine damage" label pharmaceutical companies - citizens cannot sue for - vaccine damage
+6 10 1.0 source "pharmaceutical companies" source pharmaceutical companies edge "have been granted" edge have been granted target "legal immunity" target legal immunity label "pharmaceutical companies - have been granted - legal immunity" label pharmaceutical companies - have been granted - legal immunity
+7 22 1.0 source "vaccine manufacturers" source vaccine manufacturers edge "Congress pledged to protect from" edge Congress pledged to protect from target lawsuits target lawsuits label "vaccine manufacturers - Congress pledged to protect from - lawsuits" label vaccine manufacturers - Congress pledged to protect from - lawsuits
+7 22 1.0 source "vaccine manufacturers" source vaccine manufacturers edge "in 1980s threatened to pull of U.S. in face of growing number of" edge in 1980s threatened to pull of U.S. in face of growing number of target lawsuits target lawsuits label "vaccine manufacturers - in 1980s threatened to pull of U.S. in face of growing number of - lawsuits" label vaccine manufacturers - in 1980s threatened to pull of U.S. in face of growing number of - lawsuits
+8 12 1.0 source "vaccine injury lawsuits" source vaccine injury lawsuits edge "may require years-long" edge may require years-long target battle target battle comments "with U.S. government" comments with U.S. government label "vaccine injury lawsuits - may require years-long - battle" label vaccine injury lawsuits - may require years-long - battle
+8 65 1.0 source "vaccine injury lawsuits" source vaccine injury lawsuits edge "were basically eliminated with the SCOTUS decision in" edge were basically eliminated with the SCOTUS decision in target "Bruesewitz v. Wyeth" target Bruesewitz v. Wyeth label "vaccine injury lawsuits - were basically eliminated with the SCOTUS decision in - Bruesewitz v. Wyeth" label vaccine injury lawsuits - were basically eliminated with the SCOTUS decision in - Bruesewitz v. Wyeth
+19 11 1.0 source "Gardasil lawsuit claims information" source Gardasil lawsuit claims information edge "comes from" edge comes from target "foreign countries" target foreign countries label "Gardasil lawsuit claims information - comes from - foreign countries" label Gardasil lawsuit claims information - comes from - foreign countries
+20 54 1.0 source Congress source Congress edge "pledged to protect" edge pledged to protect target "vaccine supply" target vaccine supply label "Congress - pledged to protect - vaccine supply" label Congress - pledged to protect - vaccine supply
+20 7 1.0 source Congress source Congress edge "pledged to protect" edge pledged to protect target "vaccine manufacturers" target vaccine manufacturers label "Congress - pledged to protect - vaccine manufacturers" label Congress - pledged to protect - vaccine manufacturers
+20 23 1.0 source Congress source Congress edge "pledged to protect manufacturers to keep majority of Americans immune to possibly devastating" edge pledged to protect manufacturers to keep majority of Americans immune to possibly devastating target disease target disease label "Congress - pledged to protect manufacturers to keep majority of Americans immune to possibly devastating - disease" label Congress - pledged to protect manufacturers to keep majority of Americans immune to possibly devastating - disease
+24 61 1.0 source "post-marking surveillance" source post-marking surveillance edge "not yet released means there is little" edge not yet released means there is little target "scientific literature" target scientific literature label "post-marking surveillance - not yet released means there is little - scientific literature" label post-marking surveillance - not yet released means there is little - scientific literature
+24 47 1.0 source "post-marking surveillance" source post-marking surveillance edge documents edge documents target "adverse effects" target adverse effects label "post-marking surveillance - documents - adverse effects" label post-marking surveillance - documents - adverse effects
+28 16 1.0 source reactions source reactions edge "are unpredictable" edge are unpredictable target "new vaccines" target new vaccines label "reactions - are unpredictable - new vaccines" label reactions - are unpredictable - new vaccines
+32 14 1.0 source "Gardasil injuries" source Gardasil injuries edge "common frustration in trying to receive" edge common frustration in trying to receive target settlement target settlement label "Gardasil injuries - common frustration in trying to receive - settlement" label Gardasil injuries - common frustration in trying to receive - settlement
+32 50 1.0 source "Gardasil injuries" source Gardasil injuries edge "information inside the U.S. comes mainly from" edge information inside the U.S. comes mainly from target "alternative media" target alternative media label "Gardasil injuries - information inside the U.S. comes mainly from - alternative media" label Gardasil injuries - information inside the U.S. comes mainly from - alternative media
+33 37 1.0 source victims source victims edge "are not being helped" edge are not being helped target "vaccine injury" target vaccine injury label "victims - are not being helped - vaccine injury" label victims - are not being helped - vaccine injury
+34 4 1.0 source "civil litigation" source civil litigation edge "was never a very successful option for" edge was never a very successful option for target clients target clients label "civil litigation - was never a very successful option for - clients" label civil litigation - was never a very successful option for - clients
+36 48 1.0 source government source government edge "won't let citizen sue" edge won't let citizen sue target "vaccine manufacturer" target vaccine manufacturer label "government - won't let citizen sue - vaccine manufacturer" label government - won't let citizen sue - vaccine manufacturer
+38 9 1.0 source "public health" source public health edge "priority to have manufacturers remain in the" edge priority to have manufacturers remain in the target "vaccine-development business" target vaccine-development business comments "said BIO statement" comments said BIO statement label "public health - priority to have manufacturers remain in the - vaccine-development business" label public health - priority to have manufacturers remain in the - vaccine-development business
+41 39 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge "is like" edge is like target "self-insurance policy" target self-insurance policy label "National Vaccine Injury Compensation Program - is like - self-insurance policy" label National Vaccine Injury Compensation Program - is like - self-insurance policy
+41 3 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge "is not living up to" edge is not living up to target promises target promises label "National Vaccine Injury Compensation Program - is not living up to - promises" label National Vaccine Injury Compensation Program - is not living up to - promises
+41 66 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge "allows for a fair and much more simple process of filing" edge allows for a fair and much more simple process of filing target claims target claims comments "said BIO statement" comments said BIO statement label "National Vaccine Injury Compensation Program - allows for a fair and much more simple process of filing - claims" label National Vaccine Injury Compensation Program - allows for a fair and much more simple process of filing - claims
+41 35 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge is edge is target litigious target litigious label "National Vaccine Injury Compensation Program - is - litigious" label National Vaccine Injury Compensation Program - is - litigious
+41 5 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge "was created to be" edge was created to be target non-adversarial target non-adversarial label "National Vaccine Injury Compensation Program - was created to be - non-adversarial" label National Vaccine Injury Compensation Program - was created to be - non-adversarial
+41 21 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge "was created to be" edge was created to be target informal target informal label "National Vaccine Injury Compensation Program - was created to be - informal" label National Vaccine Injury Compensation Program - was created to be - informal
+41 18 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge "was created to be" edge was created to be target generous target generous label "National Vaccine Injury Compensation Program - was created to be - generous" label National Vaccine Injury Compensation Program - was created to be - generous
+41 59 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge "is knock-down, drag-out" edge is knock-down, drag-out target fighting target fighting label "National Vaccine Injury Compensation Program - is knock-down, drag-out - fighting" label National Vaccine Injury Compensation Program - is knock-down, drag-out - fighting
+41 25 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge "is a fair and expeditious system to compensate those who may have rare reactions to" edge is a fair and expeditious system to compensate those who may have rare reactions to target vaccines target vaccines label "National Vaccine Injury Compensation Program - is a fair and expeditious system to compensate those who may have rare reactions to - vaccines" label National Vaccine Injury Compensation Program - is a fair and expeditious system to compensate those who may have rare reactions to - vaccines
+41 30 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge "often ends up without any" edge often ends up without any target compensation target compensation label "National Vaccine Injury Compensation Program - often ends up without any - compensation" label National Vaccine Injury Compensation Program - often ends up without any - compensation
+41 46 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge is edge is target complicated target complicated label "National Vaccine Injury Compensation Program - is - complicated" label National Vaccine Injury Compensation Program - is - complicated
+41 64 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge is edge is target "Vaccine Injury Compensation Fund" target Vaccine Injury Compensation Fund label "National Vaccine Injury Compensation Program - is - Vaccine Injury Compensation Fund" label National Vaccine Injury Compensation Program - is - Vaccine Injury Compensation Fund
+41 27 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge "although difficult, is much easier than trying to sue" edge although difficult, is much easier than trying to sue target "vaccine company" target vaccine company label "National Vaccine Injury Compensation Program - although difficult, is much easier than trying to sue - vaccine company" label National Vaccine Injury Compensation Program - although difficult, is much easier than trying to sue - vaccine company
+41 29 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge is edge is target time-consuming target time-consuming label "National Vaccine Injury Compensation Program - is - time-consuming" label National Vaccine Injury Compensation Program - is - time-consuming
+41 26 1.0 source "National Vaccine Injury Compensation Program" source National Vaccine Injury Compensation Program edge "was created to be" edge was created to be target petitioner-friendly target petitioner-friendly label "National Vaccine Injury Compensation Program - was created to be - petitioner-friendly" label National Vaccine Injury Compensation Program - was created to be - petitioner-friendly
+42 52 1.0 source "autoimmune disorder" source autoimmune disorder edge "may have been caused by" edge may have been caused by target vaccine target vaccine label "autoimmune disorder - may have been caused by - vaccine" label autoimmune disorder - may have been caused by - vaccine
+43 6 1.0 source "U.S. citizens" source U.S. citizens edge "U.S. is the only country where cannot sue" edge U.S. is the only country where cannot sue target "pharmaceutical companies" target pharmaceutical companies label "U.S. citizens - U.S. is the only country where cannot sue - pharmaceutical companies" label U.S. citizens - U.S. is the only country where cannot sue - pharmaceutical companies
+43 64 1.0 source "U.S. citizens" source U.S. citizens edge "have to try and get a piece of the" edge have to try and get a piece of the target "Vaccine Injury Compensation Fund" target Vaccine Injury Compensation Fund label "U.S. citizens - have to try and get a piece of the - Vaccine Injury Compensation Fund" label U.S. citizens - have to try and get a piece of the - Vaccine Injury Compensation Fund
+45 49 1.0 source Merck source Merck edge "remains confident" edge remains confident target Gardasil target Gardasil label "Merck - remains confident - Gardasil" label Merck - remains confident - Gardasil
+49 17 1.0 source Gardasil source Gardasil edge "information comes from foreign countries for" edge information comes from foreign countries for target "lawsuit claims" target lawsuit claims label "Gardasil - information comes from foreign countries for - lawsuit claims" label Gardasil - information comes from foreign countries for - lawsuit claims
+49 44 1.0 source Gardasil source Gardasil edge "information comes from foreign countries for" edge information comes from foreign countries for target "injury claims" target injury claims label "Gardasil - information comes from foreign countries for - injury claims" label Gardasil - information comes from foreign countries for - injury claims
+49 24 1.0 source Gardasil source Gardasil edge "has not yet released" edge has not yet released target "post-marking surveillance" target post-marking surveillance label "Gardasil - has not yet released - post-marking surveillance" label Gardasil - has not yet released - post-marking surveillance
+49 31 1.0 source Gardasil source Gardasil edge "helps prevent" edge helps prevent target "cervical cancer" target cervical cancer label "Gardasil - helps prevent - cervical cancer" label Gardasil - helps prevent - cervical cancer
+50 60 1.0 source "alternative media" source alternative media edge "is not sponsored by" edge is not sponsored by target "pharmaceutical industry" target pharmaceutical industry label "alternative media - is not sponsored by - pharmaceutical industry" label alternative media - is not sponsored by - pharmaceutical industry
+52 53 1.0 source vaccine source vaccine edge "no vaccine is completely safe in the entire" edge no vaccine is completely safe in the entire target population target population label "vaccine - no vaccine is completely safe in the entire - population" label vaccine - no vaccine is completely safe in the entire - population
+55 11 1.0 source "Gardasil injury claims information" source Gardasil injury claims information edge "comes from" edge comes from target "foreign countries" target foreign countries label "Gardasil injury claims information - comes from - foreign countries" label Gardasil injury claims information - comes from - foreign countries
+57 56 1.0 source citizens source citizens edge "has to sue the federal government in a spcial" edge has to sue the federal government in a spcial target "vaccine court" target vaccine court label "citizens - has to sue the federal government in a spcial - vaccine court" label citizens - has to sue the federal government in a spcial - vaccine court
+58 15 1.0 source "Renee Gentry" source Renee Gentry edge "is president of" edge is president of target "Vaccine Injured Petitioners Bar Association" target Vaccine Injured Petitioners Bar Association label "Renee Gentry - is president of - Vaccine Injured Petitioners Bar Association" label Renee Gentry - is president of - Vaccine Injured Petitioners Bar Association
+58 41 1.0 source "Renee Gentry" source Renee Gentry edge "says no part is easy" edge says no part is easy target "National Vaccine Injury Compensation Program" target National Vaccine Injury Compensation Program label "Renee Gentry - says no part is easy - National Vaccine Injury Compensation Program" label Renee Gentry - says no part is easy - National Vaccine Injury Compensation Program
+62 51 1.0 source patients source patients edge "fight for" edge fight for target payment target payment label "patients - fight for - payment" label patients - fight for - payment
+62 41 1.0 source patients source patients edge "are uninformed about" edge are uninformed about target "National Vaccine Injury Compensation Program" target National Vaccine Injury Compensation Program label "patients - are uninformed about - National Vaccine Injury Compensation Program" label patients - are uninformed about - National Vaccine Injury Compensation Program
+63 64 1.0 source Americans source Americans edge "most have never even heard of" edge most have never even heard of target "Vaccine Injury Compensation Fund" target Vaccine Injury Compensation Fund label "Americans - most have never even heard of - Vaccine Injury Compensation Fund" label Americans - most have never even heard of - Vaccine Injury Compensation Fund
+64 14 1.0 source "Vaccine Injury Compensation Fund" source Vaccine Injury Compensation Fund edge "reported frustration is common trying to receive" edge reported frustration is common trying to receive target settlement target settlement label "Vaccine Injury Compensation Fund - reported frustration is common trying to receive - settlement" label Vaccine Injury Compensation Fund - reported frustration is common trying to receive - settlement
+64 40 1.0 source "Vaccine Injury Compensation Fund" source Vaccine Injury Compensation Fund edge "is funded by purchase of vaccines" edge is funded by purchase of vaccines target taxes target taxes label "Vaccine Injury Compensation Fund - is funded by purchase of vaccines - taxes" label Vaccine Injury Compensation Fund - is funded by purchase of vaccines - taxes
+65 48 1.0 source "Bruesewitz v. Wyeth" source Bruesewitz v. Wyeth edge "decision took away any ability for an individual to hold accountable" edge decision took away any ability for an individual to hold accountable target "vaccine manufacturer" target vaccine manufacturer label "Bruesewitz v. Wyeth - decision took away any ability for an individual to hold accountable - vaccine manufacturer" label Bruesewitz v. Wyeth - decision took away any ability for an individual to hold accountable - vaccine manufacturer

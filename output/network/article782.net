@@ -1,0 +1,163 @@
+*vertices 84
+1 harm 0.0 0.0 ellipse
+2 "health care professionals" 0.0 0.0 ellipse
+3 "poor access to clean water" 0.0 0.0 ellipse
+4 cough 0.0 0.0 ellipse
+5 "vaccine manufacturer profits" 0.0 0.0 ellipse
+6 "pharmaceutical companies" 0.0 0.0 ellipse
+7 wander 0.0 0.0 ellipse
+8 "thousands of people" 0.0 0.0 ellipse
+9 "endagered children" 0.0 0.0 ellipse
+10 "school bus staff" 0.0 0.0 ellipse
+11 "cancer patients" 0.0 0.0 ellipse
+12 "vaccine injuries" 0.0 0.0 ellipse
+13 drownings 0.0 0.0 ellipse
+14 "stories about vaccine-injured children" 0.0 0.0 ellipse
+15 "wander off" 0.0 0.0 ellipse
+16 "product inserts" 0.0 0.0 ellipse
+17 autism 0.0 0.0 ellipse
+18 "adverse reactions to drugs" 0.0 0.0 ellipse
+19 law 0.0 0.0 ellipse
+20 seizures 0.0 0.0 ellipse
+21 "harm's way" 0.0 0.0 ellipse
+22 "lifetime need" 0.0 0.0 ellipse
+23 "vaccine safety" 0.0 0.0 ellipse
+24 "vaccine injury reporting system" 0.0 0.0 ellipse
+25 "behavior changes" 0.0 0.0 ellipse
+26 "vaccine adverse reactions" 0.0 0.0 ellipse
+27 "quality of life" 0.0 0.0 ellipse
+28 "loss of cognitive functions" 0.0 0.0 ellipse
+29 benefit 0.0 0.0 ellipse
+30 children 0.0 0.0 ellipse
+31 vaccines 0.0 0.0 ellipse
+32 "peer bullying" 0.0 0.0 ellipse
+33 parents 0.0 0.0 ellipse
+34 "get lost" 0.0 0.0 ellipse
+35 "vaccine efficacy" 0.0 0.0 ellipse
+36 ASD 0.0 0.0 ellipse
+37 "school isolation rooms" 0.0 0.0 ellipse
+38 "hundreds of thousands of dollars" 0.0 0.0 ellipse
+39 "runny nose" 0.0 0.0 ellipse
+40 "vaccine-injured child" 0.0 0.0 ellipse
+41 therapies 0.0 0.0 ellipse
+42 real 0.0 0.0 ellipse
+43 "measles recovery period" 0.0 0.0 ellipse
+44 "5 to 7 vaccines" 0.0 0.0 ellipse
+45 fever 0.0 0.0 ellipse
+46 "righteous anger" 0.0 0.0 ellipse
+47 "loss of coordination" 0.0 0.0 ellipse
+48 "parents of vaccine-injured children" 0.0 0.0 ellipse
+49 "thousands of children" 0.0 0.0 ellipse
+50 measles 0.0 0.0 ellipse
+51 "special care" 0.0 0.0 ellipse
+52 "vaccine-injured children" 0.0 0.0 ellipse
+53 "extreme challenges" 0.0 0.0 ellipse
+54 courage 0.0 0.0 ellipse
+55 traffic 0.0 0.0 ellipse
+56 "vaccine harm" 0.0 0.0 ellipse
+57 "red spots on body" 0.0 0.0 ellipse
+58 doctors 0.0 0.0 ellipse
+59 "immunocompromised children" 0.0 0.0 ellipse
+60 "children with ASD" 0.0 0.0 ellipse
+61 "medical professionals" 0.0 0.0 ellipse
+62 "poor access to medical care" 0.0 0.0 ellipse
+63 vaccine 0.0 0.0 ellipse
+64 "ultimate price" 0.0 0.0 ellipse
+65 "vaccines are safe and effective" 0.0 0.0 ellipse
+66 elopement 0.0 0.0 ellipse
+67 CDC 0.0 0.0 ellipse
+68 "severe vaccine reactions" 0.0 0.0 ellipse
+69 "measles decline" 0.0 0.0 ellipse
+70 "live-virus vaccine" 0.0 0.0 ellipse
+71 disease 0.0 0.0 ellipse
+72 "real risks" 0.0 0.0 ellipse
+73 malnourishment 0.0 0.0 ellipse
+74 vaccination 0.0 0.0 ellipse
+75 "underdeveloped country" 0.0 0.0 ellipse
+76 "special needs staff" 0.0 0.0 ellipse
+77 "children with vaccine injuries" 0.0 0.0 ellipse
+78 "live-virus vaccines" 0.0 0.0 ellipse
+79 "vaccination dangers" 0.0 0.0 ellipse
+80 "poor access to nutritious food" 0.0 0.0 ellipse
+81 "fearless parents" 0.0 0.0 ellipse
+82 "wrong vaccine" 0.0 0.0 ellipse
+83 "loss of language" 0.0 0.0 ellipse
+84 encephalitis 0.0 0.0 ellipse
+*arcs
+2 24 1.0 source "health care professionals" source health care professionals edge "should know exists" edge should know exists target "vaccine injury reporting system" target vaccine injury reporting system label "health care professionals - should know exists - vaccine injury reporting system" label health care professionals - should know exists - vaccine injury reporting system
+6 56 1.0 source "pharmaceutical companies" source pharmaceutical companies edge "cannot be held liable for" edge cannot be held liable for target "vaccine harm" target vaccine harm label "pharmaceutical companies - cannot be held liable for - vaccine harm" label pharmaceutical companies - cannot be held liable for - vaccine harm
+9 59 1.0 source "endagered children" source endagered children edge "are those who are" edge are those who are target "immunocompromised children" target immunocompromised children label "endagered children - are those who are - immunocompromised children" label endagered children - are those who are - immunocompromised children
+12 42 1.0 source "vaccine injuries" source vaccine injuries edge are edge are target real target real label "vaccine injuries - are - real" label vaccine injuries - are - real
+12 49 1.0 source "vaccine injuries" source vaccine injuries edge "affect every year" edge affect every year target "thousands of children" target thousands of children label "vaccine injuries - affect every year - thousands of children" label vaccine injuries - affect every year - thousands of children
+12 8 1.0 source "vaccine injuries" source vaccine injuries edge "affect every year" edge affect every year target "thousands of people" target thousands of people label "vaccine injuries - affect every year - thousands of people" label vaccine injuries - affect every year - thousands of people
+14 5 1.0 source "stories about vaccine-injured children" source stories about vaccine-injured children edge endanger edge endanger target "vaccine manufacturer profits" target vaccine manufacturer profits label "stories about vaccine-injured children - endanger - vaccine manufacturer profits" label stories about vaccine-injured children - endanger - vaccine manufacturer profits
+17 50 1.0 source autism source autism edge "some parents feel more dangerous than" edge some parents feel more dangerous than target measles target measles label "autism - some parents feel more dangerous than - measles" label autism - some parents feel more dangerous than - measles
+18 58 1.0 source "adverse reactions to drugs" source adverse reactions to drugs edge "less than 1% reported by" edge less than 1% reported by target doctors target doctors label "adverse reactions to drugs - less than 1% reported by - doctors" label adverse reactions to drugs - less than 1% reported by - doctors
+25 20 1.0 source "behavior changes" source behavior changes edge "such as" edge such as target seizures target seizures label "behavior changes - such as - seizures" label behavior changes - such as - seizures
+25 47 1.0 source "behavior changes" source behavior changes edge "such as" edge such as target "loss of coordination" target loss of coordination label "behavior changes - such as - loss of coordination" label behavior changes - such as - loss of coordination
+25 74 1.0 source "behavior changes" source behavior changes edge after edge after target vaccination target vaccination label "behavior changes - after - vaccination" label behavior changes - after - vaccination
+25 40 1.0 source "behavior changes" source behavior changes edge in edge in target "vaccine-injured child" target vaccine-injured child label "behavior changes - in - vaccine-injured child" label behavior changes - in - vaccine-injured child
+25 28 1.0 source "behavior changes" source behavior changes edge "such as" edge such as target "loss of cognitive functions" target loss of cognitive functions label "behavior changes - such as - loss of cognitive functions" label behavior changes - such as - loss of cognitive functions
+25 83 1.0 source "behavior changes" source behavior changes edge "such as" edge such as target "loss of language" target loss of language label "behavior changes - such as - loss of language" label behavior changes - such as - loss of language
+26 67 1.0 source "vaccine adverse reactions" source vaccine adverse reactions edge "not rare according to" edge not rare according to target CDC target CDC label "vaccine adverse reactions - not rare according to - CDC" label vaccine adverse reactions - not rare according to - CDC
+30 50 1.0 source children source children edge "none in U.S. have died in over ten years from" edge none in U.S. have died in over ten years from target measles target measles label "children - none in U.S. have died in over ten years from - measles" label children - none in U.S. have died in over ten years from - measles
+30 44 1.0 source children source children edge "for children with vaccine injuries" edge for children with vaccine injuries target "5 to 7 vaccines" target 5 to 7 vaccines comments "in one pediatrician visit" comments in one pediatrician visit label "children - for children with vaccine injuries - 5 to 7 vaccines" label children - for children with vaccine injuries - 5 to 7 vaccines
+30 82 1.0 source children source children edge "can be injected with" edge can be injected with target "wrong vaccine" target wrong vaccine label "children - can be injected with - wrong vaccine" label children - can be injected with - wrong vaccine
+33 24 1.0 source parents source parents edge "many aren't aware exists" edge many aren't aware exists target "vaccine injury reporting system" target vaccine injury reporting system label "parents - many aren't aware exists - vaccine injury reporting system" label parents - many aren't aware exists - vaccine injury reporting system
+33 54 1.0 source parents source parents edge "takes years to gain" edge takes years to gain target courage target courage comments "to share painful journey" comments to share painful journey label "parents - takes years to gain - courage" label parents - takes years to gain - courage
+33 46 1.0 source parents source parents edge "often express" edge often express target "righteous anger" target righteous anger label "parents - often express - righteous anger" label parents - often express - righteous anger
+36 53 1.0 source ASD source ASD edge "results in" edge results in target "extreme challenges" target extreme challenges comments "for family of child with ASD" comments for family of child with ASD label "ASD - results in - extreme challenges" label ASD - results in - extreme challenges
+36 22 1.0 source ASD source ASD edge "results in" edge results in target "lifetime need" target lifetime need comments "for special services" comments for special services label "ASD - results in - lifetime need" label ASD - results in - lifetime need
+41 38 1.0 source therapies source therapies edge costing edge costing target "hundreds of thousands of dollars" target hundreds of thousands of dollars comments "for children with vaccine injuries" comments for children with vaccine injuries label "therapies - costing - hundreds of thousands of dollars" label therapies - costing - hundreds of thousands of dollars
+46 31 1.0 source "righteous anger" source righteous anger edge "after learning there is no way to scientifically prove" edge after learning there is no way to scientifically prove target vaccines target vaccines comments "guarantee immunity" comments guarantee immunity label "righteous anger - after learning there is no way to scientifically prove - vaccines" label righteous anger - after learning there is no way to scientifically prove - vaccines
+46 6 1.0 source "righteous anger" source righteous anger edge "after hearing cannot hold liable" edge after hearing cannot hold liable target "pharmaceutical companies" target pharmaceutical companies label "righteous anger - after hearing cannot hold liable - pharmaceutical companies" label righteous anger - after hearing cannot hold liable - pharmaceutical companies
+48 25 1.0 source "parents of vaccine-injured children" source parents of vaccine-injured children edge "often report" edge often report target "behavior changes" target behavior changes comments "in vaccine-injured child" comments in vaccine-injured child label "parents of vaccine-injured children - often report - behavior changes" label parents of vaccine-injured children - often report - behavior changes
+48 58 1.0 source "parents of vaccine-injured children" source parents of vaccine-injured children edge trusted edge trusted target doctors target doctors label "parents of vaccine-injured children - trusted - doctors" label parents of vaccine-injured children - trusted - doctors
+48 23 1.0 source "parents of vaccine-injured children" source parents of vaccine-injured children edge "once trusted" edge once trusted target "vaccine safety" target vaccine safety label "parents of vaccine-injured children - once trusted - vaccine safety" label parents of vaccine-injured children - once trusted - vaccine safety
+48 35 1.0 source "parents of vaccine-injured children" source parents of vaccine-injured children edge "once trusted" edge once trusted target "vaccine efficacy" target vaccine efficacy label "parents of vaccine-injured children - once trusted - vaccine efficacy" label parents of vaccine-injured children - once trusted - vaccine efficacy
+50 45 1.0 source measles source measles edge "if contracted can expect" edge if contracted can expect target fever target fever label "measles - if contracted can expect - fever" label measles - if contracted can expect - fever
+50 3 1.0 source measles source measles edge "can be deadly with" edge can be deadly with target "poor access to clean water" target poor access to clean water label "measles - can be deadly with - poor access to clean water" label measles - can be deadly with - poor access to clean water
+50 73 1.0 source measles source measles edge "can be deadly with" edge can be deadly with target malnourishment target malnourishment label "measles - can be deadly with - malnourishment" label measles - can be deadly with - malnourishment
+50 75 1.0 source measles source measles edge "can be deadly in" edge can be deadly in target "underdeveloped country" target underdeveloped country label "measles - can be deadly in - underdeveloped country" label measles - can be deadly in - underdeveloped country
+50 39 1.0 source measles source measles edge "if contracted can expect" edge if contracted can expect target "runny nose" target runny nose label "measles - if contracted can expect - runny nose" label measles - if contracted can expect - runny nose
+50 57 1.0 source measles source measles edge "if contracted can expect" edge if contracted can expect target "red spots on body" target red spots on body label "measles - if contracted can expect - red spots on body" label measles - if contracted can expect - red spots on body
+50 36 1.0 source measles source measles edge "preferable to" edge preferable to target ASD target ASD label "measles - preferable to - ASD" label measles - preferable to - ASD
+50 80 1.0 source measles source measles edge "can be deadly with" edge can be deadly with target "poor access to nutritious food" target poor access to nutritious food label "measles - can be deadly with - poor access to nutritious food" label measles - can be deadly with - poor access to nutritious food
+50 4 1.0 source measles source measles edge "if contracted can expect" edge if contracted can expect target cough target cough label "measles - if contracted can expect - cough" label measles - if contracted can expect - cough
+50 62 1.0 source measles source measles edge "can be dealy with" edge can be dealy with target "poor access to medical care" target poor access to medical care label "measles - can be dealy with - poor access to medical care" label measles - can be dealy with - poor access to medical care
+51 38 1.0 source "special care" source special care edge costing edge costing target "hundreds of thousands of dollars" target hundreds of thousands of dollars comments "for children with vaccine injuries" comments for children with vaccine injuries label "special care - costing - hundreds of thousands of dollars" label special care - costing - hundreds of thousands of dollars
+52 64 1.0 source "vaccine-injured children" source vaccine-injured children edge "have paid" edge have paid target "ultimate price" target ultimate price label "vaccine-injured children - have paid - ultimate price" label vaccine-injured children - have paid - ultimate price
+52 36 1.0 source "vaccine-injured children" source vaccine-injured children edge "often revealed to have" edge often revealed to have target ASD target ASD label "vaccine-injured children - often revealed to have - ASD" label vaccine-injured children - often revealed to have - ASD
+58 65 1.0 source doctors source doctors edge repeated edge repeated target "vaccines are safe and effective" target vaccines are safe and effective label "doctors - repeated - vaccines are safe and effective" label doctors - repeated - vaccines are safe and effective
+58 23 1.0 source doctors source doctors edge "told parents to trust" edge told parents to trust target "vaccine safety" target vaccine safety label "doctors - told parents to trust - vaccine safety" label doctors - told parents to trust - vaccine safety
+58 24 1.0 source doctors source doctors edge "should know exists" edge should know exists target "vaccine injury reporting system" target vaccine injury reporting system label "doctors - should know exists - vaccine injury reporting system" label doctors - should know exists - vaccine injury reporting system
+58 68 1.0 source doctors source doctors edge repeated edge repeated target "severe vaccine reactions" target severe vaccine reactions comments "are one in a million" comments are one in a million label "doctors - repeated - severe vaccine reactions" label doctors - repeated - severe vaccine reactions
+58 26 1.0 source doctors source doctors edge "can choose not to report" edge can choose not to report target "vaccine adverse reactions" target vaccine adverse reactions label "doctors - can choose not to report - vaccine adverse reactions" label doctors - can choose not to report - vaccine adverse reactions
+58 72 1.0 source doctors source doctors edge "unwilling to admit" edge unwilling to admit target "real risks" target real risks label "doctors - unwilling to admit - real risks" label doctors - unwilling to admit - real risks
+58 35 1.0 source doctors source doctors edge "told parents to trust" edge told parents to trust target "vaccine efficacy" target vaccine efficacy label "doctors - told parents to trust - vaccine efficacy" label doctors - told parents to trust - vaccine efficacy
+58 19 1.0 source doctors source doctors edge "not required by" edge not required by target law target law comments "to report vaccine adverse reactions" comments to report vaccine adverse reactions label "doctors - not required by - law" label doctors - not required by - law
+59 11 1.0 source "immunocompromised children" source immunocompromised children edge "such as" edge such as target "cancer patients" target cancer patients label "immunocompromised children - such as - cancer patients" label immunocompromised children - such as - cancer patients
+60 37 1.0 source "children with ASD" source children with ASD edge "put into" edge put into target "school isolation rooms" target school isolation rooms label "children with ASD - put into - school isolation rooms" label children with ASD - put into - school isolation rooms
+60 21 1.0 source "children with ASD" source children with ASD edge "49 percent put themselves in" edge 49 percent put themselves in target "harm's way" target harm's way label "children with ASD - 49 percent put themselves in - harm's way" label children with ASD - 49 percent put themselves in - harm's way
+60 13 1.0 source "children with ASD" source children with ASD edge excessive edge excessive target drownings target drownings label "children with ASD - excessive - drownings" label children with ASD - excessive - drownings
+60 66 1.0 source "children with ASD" source children with ASD edge "49 percent" edge 49 percent target elopement target elopement label "children with ASD - 49 percent - elopement" label children with ASD - 49 percent - elopement
+60 76 1.0 source "children with ASD" source children with ASD edge "harmed by" edge harmed by target "special needs staff" target special needs staff label "children with ASD - harmed by - special needs staff" label children with ASD - harmed by - special needs staff
+60 10 1.0 source "children with ASD" source children with ASD edge "abused by" edge abused by target "school bus staff" target school bus staff label "children with ASD - abused by - school bus staff" label children with ASD - abused by - school bus staff
+60 32 1.0 source "children with ASD" source children with ASD edge experience edge experience target "peer bullying" target peer bullying label "children with ASD - experience - peer bullying" label children with ASD - experience - peer bullying
+60 55 1.0 source "children with ASD" source children with ASD edge "excessively run into" edge excessively run into target traffic target traffic label "children with ASD - excessively run into - traffic" label children with ASD - excessively run into - traffic
+60 15 1.0 source "children with ASD" source children with ASD edge "49 percent" edge 49 percent target "wander off" target wander off label "children with ASD - 49 percent - wander off" label children with ASD - 49 percent - wander off
+60 7 1.0 source "children with ASD" source children with ASD edge excessively edge excessively target wander target wander label "children with ASD - excessively - wander" label children with ASD - excessively - wander
+60 34 1.0 source "children with ASD" source children with ASD edge excessively edge excessively target "get lost" target get lost label "children with ASD - excessively - get lost" label children with ASD - excessively - get lost
+63 1 1.0 source vaccine source vaccine edge "people ignore" edge people ignore target harm target harm label "vaccine - people ignore - harm" label vaccine - people ignore - harm
+63 29 1.0 source vaccine source vaccine edge "people assume provides" edge people assume provides target benefit target benefit label "vaccine - people assume provides - benefit" label vaccine - people assume provides - benefit
+67 43 1.0 source CDC source CDC edge "says about 2 weeks" edge says about 2 weeks target "measles recovery period" target measles recovery period label "CDC - says about 2 weeks - measles recovery period" label CDC - says about 2 weeks - measles recovery period
+67 69 1.0 source CDC source CDC edge shows edge shows target "measles decline" target measles decline comments "before measles vaccine" comments before measles vaccine label "CDC - shows - measles decline" label CDC - shows - measles decline
+70 71 1.0 source "live-virus vaccine" source live-virus vaccine edge "those who receive could spread" edge those who receive could spread target disease target disease comments "through viral shedding" comments through viral shedding label "live-virus vaccine - those who receive could spread - disease" label live-virus vaccine - those who receive could spread - disease
+70 11 1.0 source "live-virus vaccine" source live-virus vaccine edge "those recently received are advised to stay away from" edge those recently received are advised to stay away from target "cancer patients" target cancer patients label "live-virus vaccine - those recently received are advised to stay away from - cancer patients" label live-virus vaccine - those recently received are advised to stay away from - cancer patients
+77 51 1.0 source "children with vaccine injuries" source children with vaccine injuries edge require edge require target "special care" target special care label "children with vaccine injuries - require - special care" label children with vaccine injuries - require - special care
+77 41 1.0 source "children with vaccine injuries" source children with vaccine injuries edge require edge require target therapies target therapies label "children with vaccine injuries - require - therapies" label children with vaccine injuries - require - therapies
+77 27 1.0 source "children with vaccine injuries" source children with vaccine injuries edge "often have completely destroyed" edge often have completely destroyed target "quality of life" target quality of life label "children with vaccine injuries - often have completely destroyed - quality of life" label children with vaccine injuries - often have completely destroyed - quality of life
+78 84 1.0 source "live-virus vaccines" source live-virus vaccines edge "can cause" edge can cause target encephalitis target encephalitis label "live-virus vaccines - can cause - encephalitis" label live-virus vaccines - can cause - encephalitis
+79 61 1.0 source "vaccination dangers" source vaccination dangers edge "are rarely discussed by" edge are rarely discussed by target "medical professionals" target medical professionals label "vaccination dangers - are rarely discussed by - medical professionals" label vaccination dangers - are rarely discussed by - medical professionals
+79 16 1.0 source "vaccination dangers" source vaccination dangers edge "are listed in" edge are listed in target "product inserts" target product inserts label "vaccination dangers - are listed in - product inserts" label vaccination dangers - are listed in - product inserts
+81 72 1.0 source "fearless parents" source fearless parents edge "want to warn others that vaccinating comes with" edge want to warn others that vaccinating comes with target "real risks" target real risks label "fearless parents - want to warn others that vaccinating comes with - real risks" label fearless parents - want to warn others that vaccinating comes with - real risks

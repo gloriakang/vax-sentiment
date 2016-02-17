@@ -1,0 +1,130 @@
+*vertices 64
+1 FDA 0.0 0.0 ellipse
+2 "brain cancer" 0.0 0.0 ellipse
+3 "bacillus thuringiensis bacteria" 0.0 0.0 ellipse
+4 "hepatitis B vaccines" 0.0 0.0 ellipse
+5 "National Academy of Science Institute of Medicine" 0.0 0.0 ellipse
+6 cancer 0.0 0.0 ellipse
+7 people 0.0 0.0 ellipse
+8 "tax dollars" 0.0 0.0 ellipse
+9 "biological weapons" 0.0 0.0 ellipse
+10 vaccines 0.0 0.0 ellipse
+11 "mutated genes" 0.0 0.0 ellipse
+12 "big Ag" 0.0 0.0 ellipse
+13 pathogens 0.0 0.0 ellipse
+14 "cancer cells" 0.0 0.0 ellipse
+15 "new viruses" 0.0 0.0 ellipse
+16 "toxic preservatives" 0.0 0.0 ellipse
+17 "Codename Artichoke" 0.0 0.0 ellipse
+18 "bone cancer" 0.0 0.0 ellipse
+19 "AIDS virus" 0.0 0.0 ellipse
+20 information 0.0 0.0 ellipse
+21 "infectious diseases" 0.0 0.0 ellipse
+22 "biological warfare program" 0.0 0.0 ellipse
+23 "healthy genes" 0.0 0.0 ellipse
+24 "rest of the world" 0.0 0.0 ellipse
+25 toxins 0.0 0.0 ellipse
+26 "biological and military programs" 0.0 0.0 ellipse
+27 politicians 0.0 0.0 ellipse
+28 lymphoma 0.0 0.0 ellipse
+29 "polio vaccine" 0.0 0.0 ellipse
+30 "pre-emptive strike" 0.0 0.0 ellipse
+31 Americans 0.0 0.0 ellipse
+32 "lymphatic cancer" 0.0 0.0 ellipse
+33 "brainwash and manipulate" 0.0 0.0 ellipse
+34 "CDC website" 0.0 0.0 ellipse
+35 "GMO soy and corn" 0.0 0.0 ellipse
+36 GMO 0.0 0.0 ellipse
+37 U.S. 0.0 0.0 ellipse
+38 "top secret military programs" 0.0 0.0 ellipse
+39 "DNA virus" 0.0 0.0 ellipse
+40 chemicals 0.0 0.0 ellipse
+41 Merck 0.0 0.0 ellipse
+42 "polio vaccines" 0.0 0.0 ellipse
+43 "Iraq war" 0.0 0.0 ellipse
+44 "deliberate release of toxins" 0.0 0.0 ellipse
+45 cancers 0.0 0.0 ellipse
+46 "war propaganda" 0.0 0.0 ellipse
+47 "toxic protein" 0.0 0.0 ellipse
+48 SV40 0.0 0.0 ellipse
+49 plants 0.0 0.0 ellipse
+50 "risk of cancer" 0.0 0.0 ellipse
+51 "top secret biological programs" 0.0 0.0 ellipse
+52 "monkey kidney cells" 0.0 0.0 ellipse
+53 "deliberate release of pathogens" 0.0 0.0 ellipse
+54 "fiction and reality" 0.0 0.0 ellipse
+55 tumors 0.0 0.0 ellipse
+56 CDC 0.0 0.0 ellipse
+57 "food supply" 0.0 0.0 ellipse
+58 "Saddam's imaginary WMDs" 0.0 0.0 ellipse
+59 genocide 0.0 0.0 ellipse
+60 truth 0.0 0.0 ellipse
+61 "matter of national security" 0.0 0.0 ellipse
+62 "lung cancer" 0.0 0.0 ellipse
+63 cancer-causing 0.0 0.0 ellipse
+64 additives 0.0 0.0 ellipse
+*arcs
+3 49 1.0 source "bacillus thuringiensis bacteria" source bacillus thuringiensis bacteria edge "is inserted to kill pests and weeds of" edge is inserted to kill pests and weeds of target plants target plants comments "BT bacteria" comments BT bacteria label "bacillus thuringiensis bacteria - is inserted to kill pests and weeds of - plants" label bacillus thuringiensis bacteria - is inserted to kill pests and weeds of - plants
+4 45 1.0 source "hepatitis B vaccines" source hepatitis B vaccines edge "produced from chimps and monkeys are responsible" edge produced from chimps and monkeys are responsible target cancers target cancers label "hepatitis B vaccines - produced from chimps and monkeys are responsible - cancers" label hepatitis B vaccines - produced from chimps and monkeys are responsible - cancers
+5 29 1.0 source "National Academy of Science Institute of Medicine" source National Academy of Science Institute of Medicine edge "confirms SV40 virus related to" edge confirms SV40 virus related to target "polio vaccine" target polio vaccine comments "(IOM) Immunization Safety Committee" comments (IOM) Immunization Safety Committee label "National Academy of Science Institute of Medicine - confirms SV40 virus related to - polio vaccine" label National Academy of Science Institute of Medicine - confirms SV40 virus related to - polio vaccine
+7 44 1.0 source people source people edge "more than 500 million have died as a result of" edge more than 500 million have died as a result of target "deliberate release of toxins" target deliberate release of toxins comments "last century" comments last century label "people - more than 500 million have died as a result of - deliberate release of toxins" label people - more than 500 million have died as a result of - deliberate release of toxins
+7 21 1.0 source people source people edge "more than 500 million have died as a result of" edge more than 500 million have died as a result of target "infectious diseases" target infectious diseases label "people - more than 500 million have died as a result of - infectious diseases" label people - more than 500 million have died as a result of - infectious diseases
+7 53 1.0 source people source people edge "more than 500 million have died as a result of" edge more than 500 million have died as a result of target "deliberate release of pathogens" target deliberate release of pathogens comments "last century" comments last century label "people - more than 500 million have died as a result of - deliberate release of pathogens" label people - more than 500 million have died as a result of - deliberate release of pathogens
+8 51 1.0 source "tax dollars" source tax dollars edge "they spend on" edge they spend on target "top secret biological programs" target top secret biological programs label "tax dollars - they spend on - top secret biological programs" label tax dollars - they spend on - top secret biological programs
+8 38 1.0 source "tax dollars" source tax dollars edge "they spend on" edge they spend on target "top secret military programs" target top secret military programs label "tax dollars - they spend on - top secret military programs" label tax dollars - they spend on - top secret military programs
+11 14 1.0 source "mutated genes" source mutated genes edge "can enhance growth of" edge can enhance growth of target "cancer cells" target cancer cells label "mutated genes - can enhance growth of - cancer cells" label mutated genes - can enhance growth of - cancer cells
+16 12 1.0 source "toxic preservatives" source toxic preservatives edge "regulated by" edge regulated by target "big Ag" target big Ag label "toxic preservatives - regulated by - big Ag" label toxic preservatives - regulated by - big Ag
+16 1 1.0 source "toxic preservatives" source toxic preservatives edge "regulated by" edge regulated by target FDA target FDA label "toxic preservatives - regulated by - FDA" label toxic preservatives - regulated by - FDA
+16 57 1.0 source "toxic preservatives" source toxic preservatives edge "variety are added into" edge variety are added into target "food supply" target food supply label "toxic preservatives - variety are added into - food supply" label toxic preservatives - variety are added into - food supply
+17 22 1.0 source "Codename Artichoke" source Codename Artichoke edge "suggests that U.S. has hidden" edge suggests that U.S. has hidden target "biological warfare program" target biological warfare program label "Codename Artichoke - suggests that U.S. has hidden - biological warfare program" label Codename Artichoke - suggests that U.S. has hidden - biological warfare program
+22 24 1.0 source "biological warfare program" source biological warfare program edge "hidden from" edge hidden from target "rest of the world" target rest of the world label "biological warfare program - hidden from - rest of the world" label biological warfare program - hidden from - rest of the world
+27 25 1.0 source politicians source politicians edge "deliberate release" edge deliberate release target toxins target toxins label "politicians - deliberate release - toxins" label politicians - deliberate release - toxins
+27 54 1.0 source politicians source politicians edge "draw line between" edge draw line between target "fiction and reality" target fiction and reality label "politicians - draw line between - fiction and reality" label politicians - draw line between - fiction and reality
+27 33 1.0 source politicians source politicians edge often edge often target "brainwash and manipulate" target brainwash and manipulate label "politicians - often - brainwash and manipulate" label politicians - often - brainwash and manipulate
+27 26 1.0 source politicians source politicians edge "spend your tax dollars on top secretive" edge spend your tax dollars on top secretive target "biological and military programs" target biological and military programs label "politicians - spend your tax dollars on top secretive - biological and military programs" label politicians - spend your tax dollars on top secretive - biological and military programs
+27 59 1.0 source politicians source politicians edge "commit against humanity" edge commit against humanity target genocide target genocide label "politicians - commit against humanity - genocide" label politicians - commit against humanity - genocide
+27 13 1.0 source politicians source politicians edge "deliberate release" edge deliberate release target pathogens target pathogens label "politicians - deliberate release - pathogens" label politicians - deliberate release - pathogens
+29 28 1.0 source "polio vaccine" source polio vaccine edge "every year is responsible for half of 55,000" edge every year is responsible for half of 55,000 target lymphoma target lymphoma comments "study published by Lancet in 2002" comments study published by Lancet in 2002 label "polio vaccine - every year is responsible for half of 55,000 - lymphoma" label polio vaccine - every year is responsible for half of 55,000 - lymphoma
+29 6 1.0 source "polio vaccine" source polio vaccine edge "could be responsible in humans for" edge could be responsible in humans for target cancer target cancer label "polio vaccine - could be responsible in humans for - cancer" label polio vaccine - could be responsible in humans for - cancer
+30 33 1.0 source "pre-emptive strike" source pre-emptive strike edge "is a term to" edge is a term to target "brainwash and manipulate" target brainwash and manipulate label "pre-emptive strike - is a term to - brainwash and manipulate" label pre-emptive strike - is a term to - brainwash and manipulate
+31 29 1.0 source Americans source Americans edge "98 million have received contaminated" edge 98 million have received contaminated target "polio vaccine" target polio vaccine label "Americans - 98 million have received contaminated - polio vaccine" label Americans - 98 million have received contaminated - polio vaccine
+31 6 1.0 source Americans source Americans edge "exposed to SV40 could have developed" edge exposed to SV40 could have developed target cancer target cancer label "Americans - exposed to SV40 could have developed - cancer" label Americans - exposed to SV40 could have developed - cancer
+34 20 1.0 source "CDC website" source CDC website edge "was caught for removing page with" edge was caught for removing page with target information target information label "CDC website - was caught for removing page with - information" label CDC website - was caught for removing page with - information
+34 48 1.0 source "CDC website" source CDC website edge "was caught for removing page with information about" edge was caught for removing page with information about target SV40 target SV40 label "CDC website - was caught for removing page with information about - SV40" label CDC website - was caught for removing page with information about - SV40
+35 47 1.0 source "GMO soy and corn" source GMO soy and corn edge produces edge produces target "toxic protein" target toxic protein label "GMO soy and corn - produces - toxic protein" label GMO soy and corn - produces - toxic protein
+36 47 1.0 source GMO source GMO edge produces edge produces target "toxic protein" target toxic protein comments "soy and corn" comments soy and corn label "GMO - produces - toxic protein" label GMO - produces - toxic protein
+37 9 1.0 source U.S. source U.S. edge "in 1969 canceled research on" edge in 1969 canceled research on target "biological weapons" target biological weapons label "U.S. - in 1969 canceled research on - biological weapons" label U.S. - in 1969 canceled research on - biological weapons
+37 22 1.0 source U.S. source U.S. edge "has hidden from the rest of the world" edge has hidden from the rest of the world target "biological warfare program" target biological warfare program label "U.S. - has hidden from the rest of the world - biological warfare program" label U.S. - has hidden from the rest of the world - biological warfare program
+38 46 1.0 source "top secret military programs" source top secret military programs edge "designed to keep alive" edge designed to keep alive target "war propaganda" target war propaganda label "top secret military programs - designed to keep alive - war propaganda" label top secret military programs - designed to keep alive - war propaganda
+40 12 1.0 source chemicals source chemicals edge "regulated by" edge regulated by target "big Ag" target big Ag label "chemicals - regulated by - big Ag" label chemicals - regulated by - big Ag
+40 1 1.0 source chemicals source chemicals edge "regulated by" edge regulated by target FDA target FDA label "chemicals - regulated by - FDA" label chemicals - regulated by - FDA
+40 57 1.0 source chemicals source chemicals edge "variety are added into" edge variety are added into target "food supply" target food supply label "chemicals - variety are added into - food supply" label chemicals - variety are added into - food supply
+41 19 1.0 source Merck source Merck edge "has been responsible for spreading" edge has been responsible for spreading target "AIDS virus" target AIDS virus label "Merck - has been responsible for spreading - AIDS virus" label Merck - has been responsible for spreading - AIDS virus
+41 29 1.0 source Merck source Merck edge "has been responsible for unleashing" edge has been responsible for unleashing target "polio vaccine" target polio vaccine label "Merck - has been responsible for unleashing - polio vaccine" label Merck - has been responsible for unleashing - polio vaccine
+42 45 1.0 source "polio vaccines" source polio vaccines edge "produced from chimps and monkeys are responsible" edge produced from chimps and monkeys are responsible target cancers target cancers label "polio vaccines - produced from chimps and monkeys are responsible - cancers" label polio vaccines - produced from chimps and monkeys are responsible - cancers
+42 48 1.0 source "polio vaccines" source polio vaccines edge "contaminated with" edge contaminated with target SV40 target SV40 label "polio vaccines - contaminated with - SV40" label polio vaccines - contaminated with - SV40
+43 58 1.0 source "Iraq war" source Iraq war edge "sold based on" edge sold based on target "Saddam's imaginary WMDs" target Saddam's imaginary WMDs label "Iraq war - sold based on - Saddam's imaginary WMDs" label Iraq war - sold based on - Saddam's imaginary WMDs
+48 2 1.0 source SV40 source SV40 edge "scientists reported in variety" edge scientists reported in variety target "brain cancer" target brain cancer comments "by 1996" comments by 1996 label "SV40 - scientists reported in variety - brain cancer" label SV40 - scientists reported in variety - brain cancer
+48 50 1.0 source SV40 source SV40 edge "exposure can increase in humans" edge exposure can increase in humans target "risk of cancer" target risk of cancer label "SV40 - exposure can increase in humans - risk of cancer" label SV40 - exposure can increase in humans - risk of cancer
+48 52 1.0 source SV40 source SV40 edge "found in" edge found in target "monkey kidney cells" target monkey kidney cells comments "in 1960s" comments in 1960s label "SV40 - found in - monkey kidney cells" label SV40 - found in - monkey kidney cells
+48 6 1.0 source SV40 source SV40 edge "related to " edge related to  target cancer target cancer label "SV40 - related to  - cancer" label SV40 - related to  - cancer
+48 6 1.0 source SV40 source SV40 edge "more than 60 studies confirmed virus found in variety of" edge more than 60 studies confirmed virus found in variety of target cancer target cancer comments "including brain, bone, and lymphatic" comments including brain, bone, and lymphatic label "SV40 - more than 60 studies confirmed virus found in variety of - cancer" label SV40 - more than 60 studies confirmed virus found in variety of - cancer
+48 55 1.0 source SV40 source SV40 edge "related to " edge related to  target tumors target tumors label "SV40 - related to  - tumors" label SV40 - related to  - tumors
+48 23 1.0 source SV40 source SV40 edge "can suppress in humans" edge can suppress in humans target "healthy genes" target healthy genes label "SV40 - can suppress in humans - healthy genes" label SV40 - can suppress in humans - healthy genes
+48 18 1.0 source SV40 source SV40 edge "scientists reported in variety" edge scientists reported in variety target "bone cancer" target bone cancer comments "by 1996" comments by 1996 label "SV40 - scientists reported in variety - bone cancer" label SV40 - scientists reported in variety - bone cancer
+48 10 1.0 source SV40 source SV40 edge "speculations that still exists " edge speculations that still exists  target vaccines target vaccines label "SV40 - speculations that still exists  - vaccines" label SV40 - speculations that still exists  - vaccines
+48 10 1.0 source SV40 source SV40 edge "removed from all" edge removed from all target vaccines target vaccines label "SV40 - removed from all - vaccines" label SV40 - removed from all - vaccines
+48 39 1.0 source SV40 source SV40 edge is edge is target "DNA virus" target DNA virus label "SV40 - is - DNA virus" label SV40 - is - DNA virus
+48 32 1.0 source SV40 source SV40 edge "found in" edge found in target "lymphatic cancer" target lymphatic cancer label "SV40 - found in - lymphatic cancer" label SV40 - found in - lymphatic cancer
+48 62 1.0 source SV40 source SV40 edge "carried by half of humans with" edge carried by half of humans with target "lung cancer" target lung cancer comments "1994 by Dr. Michele Carbone" comments 1994 by Dr. Michele Carbone label "SV40 - carried by half of humans with - lung cancer" label SV40 - carried by half of humans with - lung cancer
+48 63 1.0 source SV40 source SV40 edge "virus is" edge virus is target cancer-causing target cancer-causing comments "SV40, Simian vacuolating virus 40, Simian virus 40" comments SV40, Simian vacuolating virus 40, Simian virus 40 label "SV40 - virus is - cancer-causing" label SV40 - virus is - cancer-causing
+51 46 1.0 source "top secret biological programs" source top secret biological programs edge "designed to keep alive" edge designed to keep alive target "war propaganda" target war propaganda label "top secret biological programs - designed to keep alive - war propaganda" label top secret biological programs - designed to keep alive - war propaganda
+52 29 1.0 source "monkey kidney cells" source monkey kidney cells edge "used to create" edge used to create target "polio vaccine" target polio vaccine label "monkey kidney cells - used to create - polio vaccine" label monkey kidney cells - used to create - polio vaccine
+56 42 1.0 source CDC source CDC edge "confirms SV40 removed from all" edge confirms SV40 removed from all target "polio vaccines" target polio vaccines label "CDC - confirms SV40 removed from all - polio vaccines" label CDC - confirms SV40 removed from all - polio vaccines
+56 48 1.0 source CDC source CDC edge "report confirms from 1955 to 1963 more than 98 million Americans have been exposed " edge report confirms from 1955 to 1963 more than 98 million Americans have been exposed  target SV40 target SV40 label "CDC - report confirms from 1955 to 1963 more than 98 million Americans have been exposed  - SV40" label CDC - report confirms from 1955 to 1963 more than 98 million Americans have been exposed  - SV40
+60 15 1.0 source truth source truth edge "we will find out decades from now about" edge we will find out decades from now about target "new viruses" target new viruses label "truth - we will find out decades from now about - new viruses" label truth - we will find out decades from now about - new viruses
+60 48 1.0 source truth source truth edge "took 50 years to come out about" edge took 50 years to come out about target SV40 target SV40 label "truth - took 50 years to come out about - SV40" label truth - took 50 years to come out about - SV40
+61 33 1.0 source "matter of national security" source matter of national security edge "is a term to" edge is a term to target "brainwash and manipulate" target brainwash and manipulate label "matter of national security - is a term to - brainwash and manipulate" label matter of national security - is a term to - brainwash and manipulate
+64 1 1.0 source additives source additives edge "regulated by" edge regulated by target FDA target FDA label "additives - regulated by - FDA" label additives - regulated by - FDA
+64 12 1.0 source additives source additives edge "regulated by" edge regulated by target "big Ag" target big Ag label "additives - regulated by - big Ag" label additives - regulated by - big Ag
+64 57 1.0 source additives source additives edge "variety are added into" edge variety are added into target "food supply" target food supply label "additives - variety are added into - food supply" label additives - variety are added into - food supply

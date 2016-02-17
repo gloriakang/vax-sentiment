@@ -1,0 +1,98 @@
+*vertices 45
+1 cancer 0.0 0.0 ellipse
+2 "one dose of vaccine" 0.0 0.0 ellipse
+3 "genital warts" 0.0 0.0 ellipse
+4 sex 0.0 0.0 ellipse
+5 "three-dose course" 0.0 0.0 ellipse
+6 "teen girls" 0.0 0.0 ellipse
+7 U.S. 0.0 0.0 ellipse
+8 "health benefits" 0.0 0.0 ellipse
+9 "health officials" 0.0 0.0 ellipse
+10 "immune response" 0.0 0.0 ellipse
+11 "magnitude of benefits" 0.0 0.0 ellipse
+12 "risk of precancerous changed" 0.0 0.0 ellipse
+13 "important vaccine" 0.0 0.0 ellipse
+14 "Gardasil 4" 0.0 0.0 ellipse
+15 girls 0.0 0.0 ellipse
+16 "human papillomavirus" 0.0 0.0 ellipse
+17 "ages 14 to 17" 0.0 0.0 ellipse
+18 "cervical dysplasia" 0.0 0.0 ellipse
+19 parents 0.0 0.0 ellipse
+20 "sexually transmitted virus" 0.0 0.0 ellipse
+21 "risk of cervical dysplasia" 0.0 0.0 ellipse
+22 "HPV vaccine" 0.0 0.0 ellipse
+23 "HPV vaccination rates" 0.0 0.0 ellipse
+24 daughters 0.0 0.0 ellipse
+25 meningitis 0.0 0.0 ellipse
+26 "waiting longer" 0.0 0.0 ellipse
+27 "preventing cancer" 0.0 0.0 ellipse
+28 "ages 11 or 12" 0.0 0.0 ellipse
+29 "Gardasil 9" 0.0 0.0 ellipse
+30 "HPV infection" 0.0 0.0 ellipse
+31 Tdap 0.0 0.0 ellipse
+32 boys 0.0 0.0 ellipse
+33 protection 0.0 0.0 ellipse
+34 "prevent cancer" 0.0 0.0 ellipse
+35 "young age group" 0.0 0.0 ellipse
+36 vaccine 0.0 0.0 ellipse
+37 women 0.0 0.0 ellipse
+38 Cervarix 0.0 0.0 ellipse
+39 tetanus/diptheria/pertussis 0.0 0.0 ellipse
+40 "becomes cancer" 0.0 0.0 ellipse
+41 "sexually active" 0.0 0.0 ellipse
+42 "health care providers" 0.0 0.0 ellipse
+43 immunization 0.0 0.0 ellipse
+44 "cervical cancer" 0.0 0.0 ellipse
+45 "at risk" 0.0 0.0 ellipse
+*arcs
+3 41 1.0 source "genital warts" source genital warts edge "can happen as soon as girl becomes" edge can happen as soon as girl becomes target "sexually active" target sexually active label "genital warts - can happen as soon as girl becomes - sexually active" label genital warts - can happen as soon as girl becomes - sexually active
+3 30 1.0 source "genital warts" source genital warts edge "tends to be earliest signs of" edge tends to be earliest signs of target "HPV infection" target HPV infection label "genital warts - tends to be earliest signs of - HPV infection" label genital warts - tends to be earliest signs of - HPV infection
+3 22 1.0 source "genital warts" source genital warts edge "fewer cases in girls eligible for free" edge fewer cases in girls eligible for free target "HPV vaccine" target HPV vaccine label "genital warts - fewer cases in girls eligible for free - HPV vaccine" label genital warts - fewer cases in girls eligible for free - HPV vaccine
+6 22 1.0 source "teen girls" source teen girls edge "are receiving important health benefits from" edge are receiving important health benefits from target "HPV vaccine" target HPV vaccine label "teen girls - are receiving important health benefits from - HPV vaccine" label teen girls - are receiving important health benefits from - HPV vaccine
+6 8 1.0 source "teen girls" source teen girls edge "are receiving important" edge are receiving important target "health benefits" target health benefits label "teen girls - are receiving important - health benefits" label teen girls - are receiving important - health benefits
+6 3 1.0 source "teen girls" source teen girls edge "eligible for free HPV vaccine ended up with fewer cases of" edge eligible for free HPV vaccine ended up with fewer cases of target "genital warts" target genital warts label "teen girls - eligible for free HPV vaccine ended up with fewer cases of - genital warts" label teen girls - eligible for free HPV vaccine ended up with fewer cases of - genital warts
+9 22 1.0 source "health officials" source health officials edge recommend edge recommend target "HPV vaccine" target HPV vaccine comments "at age 11 or 12" comments at age 11 or 12 label "health officials - recommend - HPV vaccine" label health officials - recommend - HPV vaccine
+10 33 1.0 source "immune response" source immune response edge "if less potent leads to less effective" edge if less potent leads to less effective target protection target protection label "immune response - if less potent leads to less effective - protection" label immune response - if less potent leads to less effective - protection
+10 36 1.0 source "immune response" source immune response edge "could be less potent after waiting longer to get" edge could be less potent after waiting longer to get target vaccine target vaccine label "immune response - could be less potent after waiting longer to get - vaccine" label immune response - could be less potent after waiting longer to get - vaccine
+11 35 1.0 source "magnitude of benefits" source magnitude of benefits edge "is surprising in" edge is surprising in target "young age group" target young age group label "magnitude of benefits - is surprising in - young age group" label magnitude of benefits - is surprising in - young age group
+12 43 1.0 source "risk of precancerous changed" source risk of precancerous changed edge "dropped after" edge dropped after target immunization target immunization label "risk of precancerous changed - dropped after - immunization" label risk of precancerous changed - dropped after - immunization
+14 16 1.0 source "Gardasil 4" source Gardasil 4 edge "protects against 4 strains" edge protects against 4 strains target "human papillomavirus" target human papillomavirus comments HPV comments HPV label "Gardasil 4 - protects against 4 strains - human papillomavirus" label Gardasil 4 - protects against 4 strains - human papillomavirus
+17 41 1.0 source "ages 14 to 17" source ages 14 to 17 edge are edge are target "sexually active" target sexually active label "ages 14 to 17 - are - sexually active" label ages 14 to 17 - are - sexually active
+18 40 1.0 source "cervical dysplasia" source cervical dysplasia edge "if left untreated and unchecked" edge if left untreated and unchecked target "becomes cancer" target becomes cancer label "cervical dysplasia - if left untreated and unchecked - becomes cancer" label cervical dysplasia - if left untreated and unchecked - becomes cancer
+18 30 1.0 source "cervical dysplasia" source cervical dysplasia edge "tends to be earliest signs of" edge tends to be earliest signs of target "HPV infection" target HPV infection label "cervical dysplasia - tends to be earliest signs of - HPV infection" label cervical dysplasia - tends to be earliest signs of - HPV infection
+18 41 1.0 source "cervical dysplasia" source cervical dysplasia edge "can happen as soon as girl becomes" edge can happen as soon as girl becomes target "sexually active" target sexually active label "cervical dysplasia - can happen as soon as girl becomes - sexually active" label cervical dysplasia - can happen as soon as girl becomes - sexually active
+19 34 1.0 source parents source parents edge "fail to grasp that HPV vaccine is first to" edge fail to grasp that HPV vaccine is first to target "prevent cancer" target prevent cancer label "parents - fail to grasp that HPV vaccine is first to - prevent cancer" label parents - fail to grasp that HPV vaccine is first to - prevent cancer
+19 33 1.0 source parents source parents edge "are not running to get kids" edge are not running to get kids target protection target protection label "parents - are not running to get kids - protection" label parents - are not running to get kids - protection
+19 41 1.0 source parents source parents edge "don't think daughters are" edge don't think daughters are target "sexually active" target sexually active label "parents - don't think daughters are - sexually active" label parents - don't think daughters are - sexually active
+19 20 1.0 source parents source parents edge "many are hung up on fact that vaccine is for" edge many are hung up on fact that vaccine is for target "sexually transmitted virus" target sexually transmitted virus label "parents - many are hung up on fact that vaccine is for - sexually transmitted virus" label parents - many are hung up on fact that vaccine is for - sexually transmitted virus
+19 24 1.0 source parents source parents edge "have been delaying vaccination for" edge have been delaying vaccination for target daughters target daughters label "parents - have been delaying vaccination for - daughters" label parents - have been delaying vaccination for - daughters
+20 44 1.0 source "sexually transmitted virus" source sexually transmitted virus edge causes edge causes target "cervical cancer" target cervical cancer label "sexually transmitted virus - causes - cervical cancer" label sexually transmitted virus - causes - cervical cancer
+21 36 1.0 source "risk of cervical dysplasia" source risk of cervical dysplasia edge "reduced by 44% for girls who received" edge reduced by 44% for girls who received target vaccine target vaccine label "risk of cervical dysplasia - reduced by 44% for girls who received - vaccine" label risk of cervical dysplasia - reduced by 44% for girls who received - vaccine
+22 1 1.0 source "HPV vaccine" source HPV vaccine edge "can prevent" edge can prevent target cancer target cancer label "HPV vaccine - can prevent - cancer" label HPV vaccine - can prevent - cancer
+22 28 1.0 source "HPV vaccine" source HPV vaccine edge "is recommended" edge is recommended target "ages 11 or 12" target ages 11 or 12 label "HPV vaccine - is recommended - ages 11 or 12" label HPV vaccine - is recommended - ages 11 or 12
+22 25 1.0 source "HPV vaccine" source HPV vaccine edge "given at same time as other important vaccines" edge given at same time as other important vaccines target meningitis target meningitis label "HPV vaccine - given at same time as other important vaccines - meningitis" label HPV vaccine - given at same time as other important vaccines - meningitis
+22 11 1.0 source "HPV vaccine" source HPV vaccine edge has edge has target "magnitude of benefits" target magnitude of benefits label "HPV vaccine - has - magnitude of benefits" label HPV vaccine - has - magnitude of benefits
+22 27 1.0 source "HPV vaccine" source HPV vaccine edge "is about" edge is about target "preventing cancer" target preventing cancer label "HPV vaccine - is about - preventing cancer" label HPV vaccine - is about - preventing cancer
+22 15 1.0 source "HPV vaccine" source HPV vaccine edge "is recommended" edge is recommended target girls target girls label "HPV vaccine - is recommended - girls" label HPV vaccine - is recommended - girls
+22 31 1.0 source "HPV vaccine" source HPV vaccine edge "given at same time as other important vaccines" edge given at same time as other important vaccines target Tdap target Tdap comments tetanus/diptheria/pertussis comments tetanus/diptheria/pertussis label "HPV vaccine - given at same time as other important vaccines - Tdap" label HPV vaccine - given at same time as other important vaccines - Tdap
+22 32 1.0 source "HPV vaccine" source HPV vaccine edge "is recommended" edge is recommended target boys target boys label "HPV vaccine - is recommended - boys" label HPV vaccine - is recommended - boys
+22 20 1.0 source "HPV vaccine" source HPV vaccine edge "protects against" edge protects against target "sexually transmitted virus" target sexually transmitted virus label "HPV vaccine - protects against - sexually transmitted virus" label HPV vaccine - protects against - sexually transmitted virus
+22 45 1.0 source "HPV vaccine" source HPV vaccine edge "needs to be given before" edge needs to be given before target "at risk" target at risk label "HPV vaccine - needs to be given before - at risk" label HPV vaccine - needs to be given before - at risk
+22 4 1.0 source "HPV vaccine" source HPV vaccine edge "let's not make it about" edge let's not make it about target sex target sex label "HPV vaccine - let's not make it about - sex" label HPV vaccine - let's not make it about - sex
+22 44 1.0 source "HPV vaccine" source HPV vaccine edge "protects against" edge protects against target "cervical cancer" target cervical cancer label "HPV vaccine - protects against - cervical cancer" label HPV vaccine - protects against - cervical cancer
+23 7 1.0 source "HPV vaccination rates" source HPV vaccination rates edge "continued to lag in" edge continued to lag in target U.S. target U.S. label "HPV vaccination rates - continued to lag in - U.S." label HPV vaccination rates - continued to lag in - U.S.
+25 13 1.0 source meningitis source meningitis edge is edge is target "important vaccine" target important vaccine label "meningitis - is - important vaccine" label meningitis - is - important vaccine
+26 10 1.0 source "waiting longer" source waiting longer edge "could mean less potent" edge could mean less potent target "immune response" target immune response label "waiting longer - could mean less potent - immune response" label waiting longer - could mean less potent - immune response
+26 33 1.0 source "waiting longer" source waiting longer edge "leads to less effective" edge leads to less effective target protection target protection label "waiting longer - leads to less effective - protection" label waiting longer - leads to less effective - protection
+29 16 1.0 source "Gardasil 9" source Gardasil 9 edge "protects against 9 strains" edge protects against 9 strains target "human papillomavirus" target human papillomavirus comments HPV comments HPV label "Gardasil 9 - protects against 9 strains - human papillomavirus" label Gardasil 9 - protects against 9 strains - human papillomavirus
+31 13 1.0 source Tdap source Tdap edge "is other" edge is other target "important vaccine" target important vaccine label "Tdap - is other - important vaccine" label Tdap - is other - important vaccine
+31 39 1.0 source Tdap source Tdap edge is edge is target tetanus/diptheria/pertussis target tetanus/diptheria/pertussis label "Tdap - is - tetanus/diptheria/pertussis" label Tdap - is - tetanus/diptheria/pertussis
+33 22 1.0 source protection source protection edge "girls receive with a few years of inoculation with" edge girls receive with a few years of inoculation with target "HPV vaccine" target HPV vaccine label "protection - girls receive with a few years of inoculation with - HPV vaccine" label protection - girls receive with a few years of inoculation with - HPV vaccine
+36 18 1.0 source vaccine source vaccine edge "teen girls who received experienced reduction in" edge teen girls who received experienced reduction in target "cervical dysplasia" target cervical dysplasia label "vaccine - teen girls who received experienced reduction in - cervical dysplasia" label vaccine - teen girls who received experienced reduction in - cervical dysplasia
+36 3 1.0 source vaccine source vaccine edge "teen girls who received suffered fewer cases" edge teen girls who received suffered fewer cases target "genital warts" target genital warts label "vaccine - teen girls who received suffered fewer cases - genital warts" label vaccine - teen girls who received suffered fewer cases - genital warts
+37 5 1.0 source women source women edge "just a third have received" edge just a third have received target "three-dose course" target three-dose course label "women - just a third have received - three-dose course" label women - just a third have received - three-dose course
+37 2 1.0 source women source women edge "only about half have received" edge only about half have received target "one dose of vaccine" target one dose of vaccine label "women - only about half have received - one dose of vaccine" label women - only about half have received - one dose of vaccine
+38 16 1.0 source Cervarix source Cervarix edge "protects against 2 strains" edge protects against 2 strains target "human papillomavirus" target human papillomavirus comments HPV comments HPV label "Cervarix - protects against 2 strains - human papillomavirus" label Cervarix - protects against 2 strains - human papillomavirus
+41 45 1.0 source "sexually active" source sexually active edge "ages 14 to 17 are" edge ages 14 to 17 are target "at risk" target at risk label "sexually active - ages 14 to 17 are - at risk" label sexually active - ages 14 to 17 are - at risk
+42 34 1.0 source "health care providers" source health care providers edge "fail to grasp that HPV vaccine is first to" edge fail to grasp that HPV vaccine is first to target "prevent cancer" target prevent cancer label "health care providers - fail to grasp that HPV vaccine is first to - prevent cancer" label health care providers - fail to grasp that HPV vaccine is first to - prevent cancer
+42 20 1.0 source "health care providers" source health care providers edge "many are hung up on fact that vaccine is for" edge many are hung up on fact that vaccine is for target "sexually transmitted virus" target sexually transmitted virus label "health care providers - many are hung up on fact that vaccine is for - sexually transmitted virus" label health care providers - many are hung up on fact that vaccine is for - sexually transmitted virus

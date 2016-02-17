@@ -1,0 +1,113 @@
+*vertices 57
+1 "children with autism" 0.0 0.0 ellipse
+2 distractions 0.0 0.0 ellipse
+3 people 0.0 0.0 ellipse
+4 "campaign of fear mongering" 0.0 0.0 ellipse
+5 "Penn and Teller" 0.0 0.0 ellipse
+6 "symptoms of autism" 0.0 0.0 ellipse
+7 issue 0.0 0.0 ellipse
+8 "Vaccine Injury Compensation Program" 0.0 0.0 ellipse
+9 "wrong doing" 0.0 0.0 ellipse
+10 trust 0.0 0.0 ellipse
+11 autism 0.0 0.0 ellipse
+12 Disney 0.0 0.0 ellipse
+13 "crazy approach" 0.0 0.0 ellipse
+14 asthma 0.0 0.0 ellipse
+15 representative 0.0 0.0 ellipse
+16 vaccination 0.0 0.0 ellipse
+17 support 0.0 0.0 ellipse
+18 "anti-vaccination stances" 0.0 0.0 ellipse
+19 settlement 0.0 0.0 ellipse
+20 same 0.0 0.0 ellipse
+21 "Ryan Mojabi" 0.0 0.0 ellipse
+22 vaccines 0.0 0.0 ellipse
+23 "Jimmy Kimmel" 0.0 0.0 ellipse
+24 disclosed 0.0 0.0 ellipse
+25 ASD 0.0 0.0 ellipse
+26 "autism spectrum disorder" 0.0 0.0 ellipse
+27 "revisionist stance" 0.0 0.0 ellipse
+28 hidden 0.0 0.0 ellipse
+29 "social campaigns" 0.0 0.0 ellipse
+30 "greater social size" 0.0 0.0 ellipse
+31 "medical associations" 0.0 0.0 ellipse
+32 "millions of dollars" 0.0 0.0 ellipse
+33 "waves of vaccination" 0.0 0.0 ellipse
+34 government 0.0 0.0 ellipse
+35 marketing 0.0 0.0 ellipse
+36 "permanent injury" 0.0 0.0 ellipse
+37 debate 0.0 0.0 ellipse
+38 "pain and suffering" 0.0 0.0 ellipse
+39 "vaccine court" 0.0 0.0 ellipse
+40 "Hollywood celebrities" 0.0 0.0 ellipse
+41 vaccinations 0.0 0.0 ellipse
+42 encephalopathy 0.0 0.0 ellipse
+43 vaccine 0.0 0.0 ellipse
+44 mothers 0.0 0.0 ellipse
+45 "case facts" 0.0 0.0 ellipse
+46 "Jenny McCarthy" 0.0 0.0 ellipse
+47 "Pharmaceutical companies" 0.0 0.0 ellipse
+48 "Disneyland measles outbreak" 0.0 0.0 ellipse
+49 MMR 0.0 0.0 ellipse
+50 anti-vaccination 0.0 0.0 ellipse
+51 "vaccine-autism link" 0.0 0.0 ellipse
+52 guilt 0.0 0.0 ellipse
+53 "the cause" 0.0 0.0 ellipse
+54 alienation 0.0 0.0 ellipse
+55 changes 0.0 0.0 ellipse
+56 "pro vaccination camp" 0.0 0.0 ellipse
+57 history 0.0 0.0 ellipse
+*arcs
+2 17 1.0 source distractions source distractions edge "used to build and garner" edge used to build and garner target support target support label "distractions - used to build and garner - support" label distractions - used to build and garner - support
+2 48 1.0 source distractions source distractions edge include edge include target "Disneyland measles outbreak" target Disneyland measles outbreak label "distractions - include - Disneyland measles outbreak" label distractions - include - Disneyland measles outbreak
+3 18 1.0 source people source people edge "most feel afraid of" edge most feel afraid of target "anti-vaccination stances" target anti-vaccination stances label "people - most feel afraid of - anti-vaccination stances" label people - most feel afraid of - anti-vaccination stances
+4 18 1.0 source "campaign of fear mongering" source campaign of fear mongering edge "has caused fear of" edge has caused fear of target "anti-vaccination stances" target anti-vaccination stances label "campaign of fear mongering - has caused fear of - anti-vaccination stances" label campaign of fear mongering - has caused fear of - anti-vaccination stances
+5 33 1.0 source "Penn and Teller" source Penn and Teller edge "began to curl and break" edge began to curl and break target "waves of vaccination" target waves of vaccination comments "with greater social size" comments with greater social size label "Penn and Teller - began to curl and break - waves of vaccination" label Penn and Teller - began to curl and break - waves of vaccination
+8 39 1.0 source "Vaccine Injury Compensation Program" source Vaccine Injury Compensation Program edge "also known as" edge also known as target "vaccine court" target vaccine court label "Vaccine Injury Compensation Program - also known as - vaccine court" label Vaccine Injury Compensation Program - also known as - vaccine court
+8 38 1.0 source "Vaccine Injury Compensation Program" source Vaccine Injury Compensation Program edge "awarded millions of dollars under the name of" edge awarded millions of dollars under the name of target "pain and suffering" target pain and suffering label "Vaccine Injury Compensation Program - awarded millions of dollars under the name of - pain and suffering" label Vaccine Injury Compensation Program - awarded millions of dollars under the name of - pain and suffering
+11 22 1.0 source autism source autism edge "debate rages on" edge debate rages on target vaccines target vaccines label "autism - debate rages on - vaccines" label autism - debate rages on - vaccines
+11 8 1.0 source autism source autism edge "found in two kids after being vaccinated awarded by" edge found in two kids after being vaccinated awarded by target "Vaccine Injury Compensation Program" target Vaccine Injury Compensation Program label "autism - found in two kids after being vaccinated awarded by - Vaccine Injury Compensation Program" label autism - found in two kids after being vaccinated awarded by - Vaccine Injury Compensation Program
+13 27 1.0 source "crazy approach" source crazy approach edge "followed by I never said that" edge followed by I never said that target "revisionist stance" target revisionist stance label "crazy approach - followed by I never said that - revisionist stance" label crazy approach - followed by I never said that - revisionist stance
+18 53 1.0 source "anti-vaccination stances" source anti-vaccination stances edge "are known as" edge are known as target "the cause" target the cause label "anti-vaccination stances - are known as - the cause" label anti-vaccination stances - are known as - the cause
+21 26 1.0 source "Ryan Mojabi" source Ryan Mojabi edge "parents testified that vaccinations and MMR caused " edge parents testified that vaccinations and MMR caused  target "autism spectrum disorder" target autism spectrum disorder label "Ryan Mojabi - parents testified that vaccinations and MMR caused  - autism spectrum disorder" label Ryan Mojabi - parents testified that vaccinations and MMR caused  - autism spectrum disorder
+21 14 1.0 source "Ryan Mojabi" source Ryan Mojabi edge suffered edge suffered target asthma target asthma comments "from vaccinations" comments from vaccinations label "Ryan Mojabi - suffered - asthma" label Ryan Mojabi - suffered - asthma
+21 41 1.0 source "Ryan Mojabi" source Ryan Mojabi edge "suffered neuroimmunologically mediated dysfunctions in the form of asthma and ASD from" edge suffered neuroimmunologically mediated dysfunctions in the form of asthma and ASD from target vaccinations target vaccinations label "Ryan Mojabi - suffered neuroimmunologically mediated dysfunctions in the form of asthma and ASD from - vaccinations" label Ryan Mojabi - suffered neuroimmunologically mediated dysfunctions in the form of asthma and ASD from - vaccinations
+21 25 1.0 source "Ryan Mojabi" source Ryan Mojabi edge suffered edge suffered target ASD target ASD comments "from vaccinations" comments from vaccinations label "Ryan Mojabi - suffered - ASD" label Ryan Mojabi - suffered - ASD
+22 42 1.0 source vaccines source vaccines edge "cause " edge cause  target encephalopathy target encephalopathy comments "government admits" comments government admits label "vaccines - cause  - encephalopathy" label vaccines - cause  - encephalopathy
+23 33 1.0 source "Jimmy Kimmel" source Jimmy Kimmel edge "began to curl and break" edge began to curl and break target "waves of vaccination" target waves of vaccination comments "with greater social size" comments with greater social size label "Jimmy Kimmel - began to curl and break - waves of vaccination" label Jimmy Kimmel - began to curl and break - waves of vaccination
+29 44 1.0 source "social campaigns" source social campaigns edge "have shamed" edge have shamed target mothers target mothers comments "who choose not to vaccinate" comments who choose not to vaccinate label "social campaigns - have shamed - mothers" label social campaigns - have shamed - mothers
+31 9 1.0 source "medical associations" source medical associations edge "have admitted to" edge have admitted to target "wrong doing" target wrong doing label "medical associations - have admitted to - wrong doing" label medical associations - have admitted to - wrong doing
+32 1 1.0 source "millions of dollars" source millions of dollars edge "awarded to two" edge awarded to two target "children with autism" target children with autism label "millions of dollars - awarded to two - children with autism" label millions of dollars - awarded to two - children with autism
+32 38 1.0 source "millions of dollars" source millions of dollars edge "awarded under name of" edge awarded under name of target "pain and suffering" target pain and suffering label "millions of dollars - awarded under name of - pain and suffering" label millions of dollars - awarded under name of - pain and suffering
+33 30 1.0 source "waves of vaccination" source waves of vaccination edge "began to break with" edge began to break with target "greater social size" target greater social size label "waves of vaccination - began to break with - greater social size" label waves of vaccination - began to break with - greater social size
+33 30 1.0 source "waves of vaccination" source waves of vaccination edge "began to curl with" edge began to curl with target "greater social size" target greater social size label "waves of vaccination - began to curl with - greater social size" label waves of vaccination - began to curl with - greater social size
+34 19 1.0 source government source government edge "did not want to admit guilt likely a part of the huge" edge did not want to admit guilt likely a part of the huge target settlement target settlement label "government - did not want to admit guilt likely a part of the huge - settlement" label government - did not want to admit guilt likely a part of the huge - settlement
+34 9 1.0 source government source government edge "have admitted to" edge have admitted to target "wrong doing" target wrong doing label "government - have admitted to - wrong doing" label government - have admitted to - wrong doing
+34 10 1.0 source government source government edge "is not possible to" edge is not possible to target trust target trust comments "in any of these cases" comments in any of these cases label "government - is not possible to - trust" label government - is not possible to - trust
+34 52 1.0 source government source government edge "did not want to admit" edge did not want to admit target guilt target guilt label "government - did not want to admit - guilt" label government - did not want to admit - guilt
+34 42 1.0 source government source government edge "admitted that MMR had caused the" edge admitted that MMR had caused the target encephalopathy target encephalopathy label "government - admitted that MMR had caused the - encephalopathy" label government - admitted that MMR had caused the - encephalopathy
+34 42 1.0 source government source government edge "admits that vaccines cause" edge admits that vaccines cause target encephalopathy target encephalopathy label "government - admits that vaccines cause - encephalopathy" label government - admits that vaccines cause - encephalopathy
+35 17 1.0 source marketing source marketing edge "used to build and garner" edge used to build and garner target support target support label "marketing - used to build and garner - support" label marketing - used to build and garner - support
+37 51 1.0 source debate source debate edge "rages on about finding" edge rages on about finding target "vaccine-autism link" target vaccine-autism link label "debate - rages on about finding - vaccine-autism link" label debate - rages on about finding - vaccine-autism link
+39 32 1.0 source "vaccine court" source vaccine court edge awarded edge awarded target "millions of dollars" target millions of dollars label "vaccine court - awarded - millions of dollars" label vaccine court - awarded - millions of dollars
+40 50 1.0 source "Hollywood celebrities" source Hollywood celebrities edge "has been another issue for" edge has been another issue for target anti-vaccination target anti-vaccination label "Hollywood celebrities - has been another issue for - anti-vaccination" label Hollywood celebrities - has been another issue for - anti-vaccination
+40 7 1.0 source "Hollywood celebrities" source Hollywood celebrities edge "has been another" edge has been another target issue target issue comments "for the anti-vaccination stance" comments for the anti-vaccination stance label "Hollywood celebrities - has been another - issue" label Hollywood celebrities - has been another - issue
+41 26 1.0 source vaccinations source vaccinations edge caused edge caused target "autism spectrum disorder" target autism spectrum disorder label "vaccinations - caused - autism spectrum disorder" label vaccinations - caused - autism spectrum disorder
+42 6 1.0 source encephalopathy source encephalopathy edge creates edge creates target "symptoms of autism" target symptoms of autism label "encephalopathy - creates - symptoms of autism" label encephalopathy - creates - symptoms of autism
+42 11 1.0 source encephalopathy source encephalopathy edge "caused by vaccines produces a permanent injury and creates symptoms of" edge caused by vaccines produces a permanent injury and creates symptoms of target autism target autism label "encephalopathy - caused by vaccines produces a permanent injury and creates symptoms of - autism" label encephalopathy - caused by vaccines produces a permanent injury and creates symptoms of - autism
+42 36 1.0 source encephalopathy source encephalopathy edge produces edge produces target "permanent injury" target permanent injury label "encephalopathy - produces - permanent injury" label encephalopathy - produces - permanent injury
+43 11 1.0 source vaccine source vaccine edge caused edge caused target autism target autism label "vaccine - caused - autism" label vaccine - caused - autism
+44 16 1.0 source mothers source mothers edge "lots turning back to" edge lots turning back to target vaccination target vaccination comments "because of alienation" comments because of alienation label "mothers - lots turning back to - vaccination" label mothers - lots turning back to - vaccination
+44 29 1.0 source mothers source mothers edge "who choose not to vaccinate have been shamed by" edge who choose not to vaccinate have been shamed by target "social campaigns" target social campaigns comments "who choose not to vaccinate" comments who choose not to vaccinate label "mothers - who choose not to vaccinate have been shamed by - social campaigns" label mothers - who choose not to vaccinate have been shamed by - social campaigns
+45 28 1.0 source "case facts" source case facts edge were edge were target hidden target hidden label "case facts - were - hidden" label case facts - were - hidden
+45 24 1.0 source "case facts" source case facts edge "were not" edge were not target disclosed target disclosed label "case facts - were not - disclosed" label case facts - were not - disclosed
+46 18 1.0 source "Jenny McCarthy" source Jenny McCarthy edge "revisionist stance harmed" edge revisionist stance harmed target "anti-vaccination stances" target anti-vaccination stances comments "the cause" comments the cause label "Jenny McCarthy - revisionist stance harmed - anti-vaccination stances" label Jenny McCarthy - revisionist stance harmed - anti-vaccination stances
+46 13 1.0 source "Jenny McCarthy" source Jenny McCarthy edge "used somewhat" edge used somewhat target "crazy approach" target crazy approach label "Jenny McCarthy - used somewhat - crazy approach" label Jenny McCarthy - used somewhat - crazy approach
+46 15 1.0 source "Jenny McCarthy" source Jenny McCarthy edge "was a bad" edge was a bad target representative target representative comments "for a cause of such huge magnitude" comments for a cause of such huge magnitude label "Jenny McCarthy - was a bad - representative" label Jenny McCarthy - was a bad - representative
+47 9 1.0 source "Pharmaceutical companies" source Pharmaceutical companies edge "have admitted to" edge have admitted to target "wrong doing" target wrong doing label "Pharmaceutical companies - have admitted to - wrong doing" label Pharmaceutical companies - have admitted to - wrong doing
+49 42 1.0 source MMR source MMR edge "had caused the" edge had caused the target encephalopathy target encephalopathy comments "government admitted" comments government admitted label "MMR - had caused the - encephalopathy" label MMR - had caused the - encephalopathy
+54 16 1.0 source alienation source alienation edge "has led to lots of mothers turning back to" edge has led to lots of mothers turning back to target vaccination target vaccination label "alienation - has led to lots of mothers turning back to - vaccination" label alienation - has led to lots of mothers turning back to - vaccination
+56 35 1.0 source "pro vaccination camp" source pro vaccination camp edge "has gotten strong in terms of" edge has gotten strong in terms of target marketing target marketing comments "and using distractions" comments and using distractions label "pro vaccination camp - has gotten strong in terms of - marketing" label pro vaccination camp - has gotten strong in terms of - marketing
+56 2 1.0 source "pro vaccination camp" source pro vaccination camp edge "has gotten strong in terms of using" edge has gotten strong in terms of using target distractions target distractions label "pro vaccination camp - has gotten strong in terms of using - distractions" label pro vaccination camp - has gotten strong in terms of using - distractions
+56 12 1.0 source "pro vaccination camp" source pro vaccination camp edge "used the case of Disney to build and garner support" edge used the case of Disney to build and garner support target Disney target Disney comments "to build and garner support" comments to build and garner support label "pro vaccination camp - used the case of Disney to build and garner support - Disney" label pro vaccination camp - used the case of Disney to build and garner support - Disney
+57 55 1.0 source history source history edge never edge never target changes target changes label "history - never - changes" label history - never - changes
+57 20 1.0 source history source history edge "always stays the" edge always stays the target same target same label "history - always stays the - same" label history - always stays the - same

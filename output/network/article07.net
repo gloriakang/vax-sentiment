@@ -1,0 +1,112 @@
+*vertices 57
+1 "statistical links" 0.0 0.0 ellipse
+2 terrorists 0.0 0.0 ellipse
+3 "black children" 0.0 0.0 ellipse
+4 evidence 0.0 0.0 ellipse
+5 parents 0.0 0.0 ellipse
+6 "2004 CDC study" 0.0 0.0 ellipse
+7 "government lies" 0.0 0.0 ellipse
+8 headlines 0.0 0.0 ellipse
+9 "scientific fraud" 0.0 0.0 ellipse
+10 "Rep. Bill Posey's statement" 0.0 0.0 ellipse
+11 "race effects" 0.0 0.0 ellipse
+12 "science fraud" 0.0 0.0 ellipse
+13 "truth seekers" 0.0 0.0 ellipse
+14 "vaccine scientists meeting" 0.0 0.0 ellipse
+15 revelation 0.0 0.0 ellipse
+16 "meeting of scientists" 0.0 0.0 ellipse
+17 "national news headlines" 0.0 0.0 ellipse
+18 "controversial findings" 0.0 0.0 ellipse
+19 "Attkisson's website" 0.0 0.0 ellipse
+20 vaccines 0.0 0.0 ellipse
+21 everything 0.0 0.0 ellipse
+22 "CDC destroying evidence" 0.0 0.0 ellipse
+23 investigation 0.0 0.0 ellipse
+24 "staged domestic terrorism events" 0.0 0.0 ellipse
+25 "Dr. William Thompson" 0.0 0.0 ellipse
+26 troubling 0.0 0.0 ellipse
+27 "independent media websites" 0.0 0.0 ellipse
+28 criminal 0.0 0.0 ellipse
+29 "real story on vaccines and autism" 0.0 0.0 ellipse
+30 "measles, mumps, rubella vaccine and autism" 0.0 0.0 ellipse
+31 IRS 0.0 0.0 ellipse
+32 "piece of evidence" 0.0 0.0 ellipse
+33 information 0.0 0.0 ellipse
+34 whistleblower 0.0 0.0 ellipse
+35 GoodGopher.com 0.0 0.0 ellipse
+36 "political weapon" 0.0 0.0 ellipse
+37 "Sharyl Attkisson" 0.0 0.0 ellipse
+38 FETCH.news 0.0 0.0 ellipse
+39 "demand for justice" 0.0 0.0 ellipse
+40 pro-vaccine 0.0 0.0 ellipse
+41 "CDC scientists Dr. William Thompson" 0.0 0.0 ellipse
+42 "Rep. Bill Posey" 0.0 0.0 ellipse
+43 "black lives matter" 0.0 0.0 ellipse
+44 "lives of children" 0.0 0.0 ellipse
+45 "Pediatrics paper" 0.0 0.0 ellipse
+46 "economic numbers" 0.0 0.0 ellipse
+47 fraud 0.0 0.0 ellipse
+48 "criminal fraud" 0.0 0.0 ellipse
+49 "vaccine-autism link" 0.0 0.0 ellipse
+50 "endangering the public" 0.0 0.0 ellipse
+51 CDC 0.0 0.0 ellipse
+52 "internet's truth-based alternative" 0.0 0.0 ellipse
+53 "fearless indy media journalist" 0.0 0.0 ellipse
+54 "brazen CDC scientific fraud" 0.0 0.0 ellipse
+55 "mainstream media" 0.0 0.0 ellipse
+56 "search engine" 0.0 0.0 ellipse
+57 "African-American children" 0.0 0.0 ellipse
+*arcs
+3 45 1.0 source "black children" source black children edge "were excluded from" edge were excluded from target "Pediatrics paper" target Pediatrics paper comments "race effects" comments race effects label "black children - were excluded from - Pediatrics paper" label black children - were excluded from - Pediatrics paper
+4 20 1.0 source evidence source evidence edge "showed how they harm in particular black children" edge showed how they harm in particular black children target vaccines target vaccines label "evidence - showed how they harm in particular black children - vaccines" label evidence - showed how they harm in particular black children - vaccines
+4 49 1.0 source evidence source evidence edge of edge of target "vaccine-autism link" target vaccine-autism link label "evidence - of - vaccine-autism link" label evidence - of - vaccine-autism link
+5 33 1.0 source parents source parents edge "making decisions about their children's health deserve to have the best" edge making decisions about their children's health deserve to have the best target information target information comments "said Rep. Bill Posey" comments said Rep. Bill Posey label "parents - making decisions about their children's health deserve to have the best - information" label parents - making decisions about their children's health deserve to have the best - information
+6 30 1.0 source "2004 CDC study" source 2004 CDC study edge "examined the possibility of a relationship between" edge examined the possibility of a relationship between target "measles, mumps, rubella vaccine and autism" target measles, mumps, rubella vaccine and autism label "2004 CDC study - examined the possibility of a relationship between - measles, mumps, rubella vaccine and autism" label 2004 CDC study - examined the possibility of a relationship between - measles, mumps, rubella vaccine and autism
+7 46 1.0 source "government lies" source government lies edge "about fudging" edge about fudging target "economic numbers" target economic numbers label "government lies - about fudging - economic numbers" label government lies - about fudging - economic numbers
+7 31 1.0 source "government lies" source government lies edge "about using" edge about using target IRS target IRS comments "as a political weapon" comments as a political weapon label "government lies - about using - IRS" label government lies - about using - IRS
+7 24 1.0 source "government lies" source government lies edge "even about manufacturing" edge even about manufacturing target "staged domestic terrorism events" target staged domestic terrorism events comments "so the FBI can catch terrorists in the act" comments so the FBI can catch terrorists in the act label "government lies - even about manufacturing - staged domestic terrorism events" label government lies - even about manufacturing - staged domestic terrorism events
+7 21 1.0 source "government lies" source government lies edge about edge about target everything target everything label "government lies - about - everything" label government lies - about - everything
+8 47 1.0 source headlines source headlines edge "will be none about" edge will be none about target fraud target fraud label "headlines - will be none about - fraud" label headlines - will be none about - fraud
+10 54 1.0 source "Rep. Bill Posey's statement" source Rep. Bill Posey's statement edge "contained astonishing description of" edge contained astonishing description of target "brazen CDC scientific fraud" target brazen CDC scientific fraud label "Rep. Bill Posey's statement - contained astonishing description of - brazen CDC scientific fraud" label Rep. Bill Posey's statement - contained astonishing description of - brazen CDC scientific fraud
+11 45 1.0 source "race effects" source race effects edge "were excluded from" edge were excluded from target "Pediatrics paper" target Pediatrics paper comments "said Dr. William Thompson" comments said Dr. William Thompson label "race effects - were excluded from - Pediatrics paper" label race effects - were excluded from - Pediatrics paper
+12 1 1.0 source "science fraud" source science fraud edge "carried out for sole purpose of fraudulently burying" edge carried out for sole purpose of fraudulently burying target "statistical links" target statistical links comments "between vaccines and autism" comments between vaccines and autism label "science fraud - carried out for sole purpose of fraudulently burying - statistical links" label science fraud - carried out for sole purpose of fraudulently burying - statistical links
+12 47 1.0 source "science fraud" source science fraud edge "is criminal" edge is criminal target fraud target fraud label "science fraud - is criminal - fraud" label science fraud - is criminal - fraud
+12 51 1.0 source "science fraud" source science fraud edge "carried out at highest levels of" edge carried out at highest levels of target CDC target CDC label "science fraud - carried out at highest levels of - CDC" label science fraud - carried out at highest levels of - CDC
+14 4 1.0 source "vaccine scientists meeting" source vaccine scientists meeting edge "held to deliberately destroy" edge held to deliberately destroy target evidence target evidence label "vaccine scientists meeting - held to deliberately destroy - evidence" label vaccine scientists meeting - held to deliberately destroy - evidence
+16 32 1.0 source "meeting of scientists" source meeting of scientists edge "held to decide which to destroy" edge held to decide which to destroy target "piece of evidence" target piece of evidence comments "of vaccine-autism link" comments of vaccine-autism link label "meeting of scientists - held to decide which to destroy - piece of evidence" label meeting of scientists - held to decide which to destroy - piece of evidence
+17 50 1.0 source "national news headlines" source national news headlines edge "would be condemning the fraud as " edge would be condemning the fraud as  target "endangering the public" target endangering the public label "national news headlines - would be condemning the fraud as  - endangering the public" label national news headlines - would be condemning the fraud as  - endangering the public
+18 45 1.0 source "controversial findings" source controversial findings edge "were intentionally withheld from the final draft of the" edge were intentionally withheld from the final draft of the target "Pediatrics paper" target Pediatrics paper comments "said Dr. William Thompson" comments said Dr. William Thompson label "controversial findings - were intentionally withheld from the final draft of the - Pediatrics paper" label controversial findings - were intentionally withheld from the final draft of the - Pediatrics paper
+19 27 1.0 source "Attkisson's website" source Attkisson's website edge "is one of thousands of" edge is one of thousands of target "independent media websites" target independent media websites label "Attkisson's website - is one of thousands of - independent media websites" label Attkisson's website - is one of thousands of - independent media websites
+20 3 1.0 source vaccines source vaccines edge "in particular harm" edge in particular harm target "black children" target black children label "vaccines - in particular harm - black children" label vaccines - in particular harm - black children
+23 47 1.0 source investigation source investigation edge "none into" edge none into target fraud target fraud label "investigation - none into - fraud" label investigation - none into - fraud
+24 2 1.0 source "staged domestic terrorism events" source staged domestic terrorism events edge "so the FBI can catch them in the act" edge so the FBI can catch them in the act target terrorists target terrorists label "staged domestic terrorism events - so the FBI can catch them in the act - terrorists" label staged domestic terrorism events - so the FBI can catch them in the act - terrorists
+25 33 1.0 source "Dr. William Thompson" source Dr. William Thompson edge "omitted " edge omitted  target information target information comments "in 2004 article published in journal Pediatrics" comments in 2004 article published in journal Pediatrics label "Dr. William Thompson - omitted  - information" label Dr. William Thompson - omitted  - information
+25 34 1.0 source "Dr. William Thompson" source Dr. William Thompson edge is edge is target whistleblower target whistleblower label "Dr. William Thompson - is - whistleblower" label Dr. William Thompson - is - whistleblower
+27 38 1.0 source "independent media websites" source independent media websites edge "now favored on" edge now favored on target FETCH.news target FETCH.news label "independent media websites - now favored on - FETCH.news" label independent media websites - now favored on - FETCH.news
+27 35 1.0 source "independent media websites" source independent media websites edge "now favored on" edge now favored on target GoodGopher.com target GoodGopher.com label "independent media websites - now favored on - GoodGopher.com" label independent media websites - now favored on - GoodGopher.com
+31 36 1.0 source IRS source IRS edge is edge is target "political weapon" target political weapon label "IRS - is - political weapon" label IRS - is - political weapon
+32 49 1.0 source "piece of evidence" source piece of evidence edge of edge of target "vaccine-autism link" target vaccine-autism link label "piece of evidence - of - vaccine-autism link" label piece of evidence - of - vaccine-autism link
+34 6 1.0 source whistleblower source whistleblower edge "provided documents related to" edge provided documents related to target "2004 CDC study" target 2004 CDC study label "whistleblower - provided documents related to - 2004 CDC study" label whistleblower - provided documents related to - 2004 CDC study
+34 42 1.0 source whistleblower source whistleblower edge "worked with" edge worked with target "Rep. Bill Posey" target Rep. Bill Posey label "whistleblower - worked with - Rep. Bill Posey" label whistleblower - worked with - Rep. Bill Posey
+35 56 1.0 source GoodGopher.com source GoodGopher.com edge is edge is target "search engine" target search engine label "GoodGopher.com - is - search engine" label GoodGopher.com - is - search engine
+37 53 1.0 source "Sharyl Attkisson" source Sharyl Attkisson edge is edge is target "fearless indy media journalist" target fearless indy media journalist label "Sharyl Attkisson - is - fearless indy media journalist" label Sharyl Attkisson - is - fearless indy media journalist
+37 15 1.0 source "Sharyl Attkisson" source Sharyl Attkisson edge "first reported on this" edge first reported on this target revelation target revelation label "Sharyl Attkisson - first reported on this - revelation" label Sharyl Attkisson - first reported on this - revelation
+38 52 1.0 source FETCH.news source FETCH.news edge is edge is target "internet's truth-based alternative" target internet's truth-based alternative comments "to Google News" comments to Google News label "FETCH.news - is - internet's truth-based alternative" label FETCH.news - is - internet's truth-based alternative
+39 47 1.0 source "demand for justice" source demand for justice edge "will be none about" edge will be none about target fraud target fraud label "demand for justice - will be none about - fraud" label demand for justice - will be none about - fraud
+42 40 1.0 source "Rep. Bill Posey" source Rep. Bill Posey edge "is absolutely, resolutely" edge is absolutely, resolutely target pro-vaccine target pro-vaccine comments "said Rep. Bill Posey" comments said Rep. Bill Posey label "Rep. Bill Posey - is absolutely, resolutely - pro-vaccine" label Rep. Bill Posey - is absolutely, resolutely - pro-vaccine
+42 26 1.0 source "Rep. Bill Posey" source Rep. Bill Posey edge "finds recent Senate hearing on childhood vaccinations to be" edge finds recent Senate hearing on childhood vaccinations to be target troubling target troubling comments "said Rep. Bill Posey" comments said Rep. Bill Posey label "Rep. Bill Posey - finds recent Senate hearing on childhood vaccinations to be - troubling" label Rep. Bill Posey - finds recent Senate hearing on childhood vaccinations to be - troubling
+42 22 1.0 source "Rep. Bill Posey" source Rep. Bill Posey edge "gave statement on" edge gave statement on target "CDC destroying evidence" target CDC destroying evidence label "Rep. Bill Posey - gave statement on - CDC destroying evidence" label Rep. Bill Posey - gave statement on - CDC destroying evidence
+42 14 1.0 source "Rep. Bill Posey" source Rep. Bill Posey edge "released statement saying CDC held" edge released statement saying CDC held target "vaccine scientists meeting" target vaccine scientists meeting label "Rep. Bill Posey - released statement saying CDC held - vaccine scientists meeting" label Rep. Bill Posey - released statement saying CDC held - vaccine scientists meeting
+47 50 1.0 source fraud source fraud edge is edge is target "endangering the public" target endangering the public label "fraud - is - endangering the public" label fraud - is - endangering the public
+47 48 1.0 source fraud source fraud edge "in any other industry this would be considered" edge in any other industry this would be considered target "criminal fraud" target criminal fraud label "fraud - in any other industry this would be considered - criminal fraud" label fraud - in any other industry this would be considered - criminal fraud
+49 57 1.0 source "vaccine-autism link" source vaccine-autism link edge in edge in target "African-American children" target African-American children label "vaccine-autism link - in - African-American children" label vaccine-autism link - in - African-American children
+51 28 1.0 source CDC source CDC edge "is " edge is  target criminal target criminal label "CDC - is  - criminal" label CDC - is  - criminal
+51 4 1.0 source CDC source CDC edge "deliberately destroyed" edge deliberately destroyed target evidence target evidence comments "not surprising to learn" comments not surprising to learn label "CDC - deliberately destroyed - evidence" label CDC - deliberately destroyed - evidence
+51 43 1.0 source CDC source CDC edge "does not think" edge does not think target "black lives matter" target black lives matter label "CDC - does not think - black lives matter" label CDC - does not think - black lives matter
+51 44 1.0 source CDC source CDC edge "knowingly endangers" edge knowingly endangers target "lives of children" target lives of children comments "and covers it up with scientific fraud" comments and covers it up with scientific fraud label "CDC - knowingly endangers - lives of children" label CDC - knowingly endangers - lives of children
+51 29 1.0 source CDC source CDC edge "has been trying to bury for over a decade" edge has been trying to bury for over a decade target "real story on vaccines and autism" target real story on vaccines and autism label "CDC - has been trying to bury for over a decade - real story on vaccines and autism" label CDC - has been trying to bury for over a decade - real story on vaccines and autism
+51 14 1.0 source CDC source CDC edge held edge held target "vaccine scientists meeting" target vaccine scientists meeting label "CDC - held - vaccine scientists meeting" label CDC - held - vaccine scientists meeting
+51 9 1.0 source CDC source CDC edge "covers it up with" edge covers it up with target "scientific fraud" target scientific fraud label "CDC - covers it up with - scientific fraud" label CDC - covers it up with - scientific fraud
+54 41 1.0 source "brazen CDC scientific fraud" source brazen CDC scientific fraud edge "related by" edge related by target "CDC scientists Dr. William Thompson" target CDC scientists Dr. William Thompson label "brazen CDC scientific fraud - related by - CDC scientists Dr. William Thompson" label brazen CDC scientific fraud - related by - CDC scientists Dr. William Thompson
+55 47 1.0 source "mainstream media" source mainstream media edge "pretends never took place" edge pretends never took place target fraud target fraud comments "because it concerns vaccines" comments because it concerns vaccines label "mainstream media - pretends never took place - fraud" label mainstream media - pretends never took place - fraud
+56 13 1.0 source "search engine" source search engine edge "is for" edge is for target "truth seekers" target truth seekers label "search engine - is for - truth seekers" label search engine - is for - truth seekers

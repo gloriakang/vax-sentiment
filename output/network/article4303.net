@@ -1,0 +1,45 @@
+*vertices 24
+1 "vaccines cause autism" 0.0 0.0 ellipse
+2 "measles outbreak" 0.0 0.0 ellipse
+3 "insurance claims" 0.0 0.0 ellipse
+4 commitment 0.0 0.0 ellipse
+5 anti-vaxxer 0.0 0.0 ellipse
+6 "siblings with autism" 0.0 0.0 ellipse
+7 autism 0.0 0.0 ellipse
+8 "MMR vaccine" 0.0 0.0 ellipse
+9 "Journal of the American Medical Association" 0.0 0.0 ellipse
+10 "vaccination requirements" 0.0 0.0 ellipse
+11 vaccines 0.0 0.0 ellipse
+12 California 0.0 0.0 ellipse
+13 lawmakers 0.0 0.0 ellipse
+14 "MMR vaccine and autism" 0.0 0.0 ellipse
+15 "opponent of sanity-oriented legislation" 0.0 0.0 ellipse
+16 link 0.0 0.0 ellipse
+17 "true-believer cohort" 0.0 0.0 ellipse
+18 "JAMA study" 0.0 0.0 ellipse
+19 states 0.0 0.0 ellipse
+20 "high risk children" 0.0 0.0 ellipse
+21 "U.S. children" 0.0 0.0 ellipse
+22 "MMR vaccine and autism link" 0.0 0.0 ellipse
+23 anti-vaccine 0.0 0.0 ellipse
+24 "minority views" 0.0 0.0 ellipse
+*arcs
+2 19 1.0 source "measles outbreak" source measles outbreak edge "affected 14" edge affected 14 target states target states label "measles outbreak - affected 14 - states" label measles outbreak - affected 14 - states
+2 12 1.0 source "measles outbreak" source measles outbreak edge "began in" edge began in target California target California label "measles outbreak - began in - California" label measles outbreak - began in - California
+5 23 1.0 source anti-vaxxer source anti-vaxxer edge is edge is target anti-vaccine target anti-vaccine label "anti-vaxxer - is - anti-vaccine" label anti-vaxxer - is - anti-vaccine
+5 15 1.0 source anti-vaxxer source anti-vaxxer edge "is an effective" edge is an effective target "opponent of sanity-oriented legislation" target opponent of sanity-oriented legislation comments "of sanity-oriented legislation" comments of sanity-oriented legislation label "anti-vaxxer - is an effective - opponent of sanity-oriented legislation" label anti-vaxxer - is an effective - opponent of sanity-oriented legislation
+5 17 1.0 source anti-vaxxer source anti-vaxxer edge has edge has target "true-believer cohort" target true-believer cohort label "anti-vaxxer - has - true-believer cohort" label anti-vaxxer - has - true-believer cohort
+5 24 1.0 source anti-vaxxer source anti-vaxxer edge has edge has target "minority views" target minority views label "anti-vaxxer - has - minority views" label anti-vaxxer - has - minority views
+5 4 1.0 source anti-vaxxer source anti-vaxxer edge "has considerable" edge has considerable target commitment target commitment label "anti-vaxxer - has considerable - commitment" label anti-vaxxer - has considerable - commitment
+8 7 1.0 source "MMR vaccine" source MMR vaccine edge "no link between" edge no link between target autism target autism label "MMR vaccine - no link between - autism" label MMR vaccine - no link between - autism
+11 7 1.0 source vaccines source vaccines edge "can cause" edge can cause target autism target autism label "vaccines - can cause - autism" label vaccines - can cause - autism
+12 1 1.0 source California source California edge "where belief is widespread that" edge where belief is widespread that target "vaccines cause autism" target vaccines cause autism label "California - where belief is widespread that - vaccines cause autism" label California - where belief is widespread that - vaccines cause autism
+13 10 1.0 source lawmakers source lawmakers edge "in California and elsewhere are increasingly proposing strengthened" edge in California and elsewhere are increasingly proposing strengthened target "vaccination requirements" target vaccination requirements label "lawmakers - in California and elsewhere are increasingly proposing strengthened - vaccination requirements" label lawmakers - in California and elsewhere are increasingly proposing strengthened - vaccination requirements
+14 20 1.0 source "MMR vaccine and autism" source MMR vaccine and autism edge "no link even in" edge no link even in target "high risk children" target high risk children label "MMR vaccine and autism - no link even in - high risk children" label MMR vaccine and autism - no link even in - high risk children
+14 16 1.0 source "MMR vaccine and autism" source MMR vaccine and autism edge "has no" edge has no target link target link label "MMR vaccine and autism - has no - link" label MMR vaccine and autism - has no - link
+15 24 1.0 source "opponent of sanity-oriented legislation" source opponent of sanity-oriented legislation edge "anti-vaxxer is effective despite" edge anti-vaxxer is effective despite target "minority views" target minority views label "opponent of sanity-oriented legislation - anti-vaxxer is effective despite - minority views" label opponent of sanity-oriented legislation - anti-vaxxer is effective despite - minority views
+18 22 1.0 source "JAMA study" source JAMA study edge "examined insurance claims for 96,000 U.S. children born 2001-2007 to look for" edge examined insurance claims for 96,000 U.S. children born 2001-2007 to look for target "MMR vaccine and autism link" target MMR vaccine and autism link label "JAMA study - examined insurance claims for 96,000 U.S. children born 2001-2007 to look for - MMR vaccine and autism link" label JAMA study - examined insurance claims for 96,000 U.S. children born 2001-2007 to look for - MMR vaccine and autism link
+18 3 1.0 source "JAMA study" source JAMA study edge examined edge examined target "insurance claims" target insurance claims label "JAMA study - examined - insurance claims" label JAMA study - examined - insurance claims
+18 21 1.0 source "JAMA study" source JAMA study edge "examined insurance claims for 96,000" edge examined insurance claims for 96,000 target "U.S. children" target U.S. children label "JAMA study - examined insurance claims for 96,000 - U.S. children" label JAMA study - examined insurance claims for 96,000 - U.S. children
+18 9 1.0 source "JAMA study" source JAMA study edge "is in" edge is in target "Journal of the American Medical Association" target Journal of the American Medical Association label "JAMA study - is in - Journal of the American Medical Association" label JAMA study - is in - Journal of the American Medical Association
+20 6 1.0 source "high risk children" source high risk children edge have edge have target "siblings with autism" target siblings with autism label "high risk children - have - siblings with autism" label high risk children - have - siblings with autism

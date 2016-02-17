@@ -1,0 +1,112 @@
+*vertices 56
+1 efficacious 0.0 0.0 ellipse
+2 senators 0.0 0.0 ellipse
+3 "false concerns" 0.0 0.0 ellipse
+4 "religious exemption" 0.0 0.0 ellipse
+5 vaccinated 0.0 0.0 ellipse
+6 "vaccine opponents" 0.0 0.0 ellipse
+7 officials 0.0 0.0 ellipse
+8 "angry California parents" 0.0 0.0 ellipse
+9 "mandated vaccines" 0.0 0.0 ellipse
+10 "parental rights" 0.0 0.0 ellipse
+11 kindergarten 0.0 0.0 ellipse
+12 "legitimate reasons" 0.0 0.0 ellipse
+13 law 0.0 0.0 ellipse
+14 Assembly 0.0 0.0 ellipse
+15 "equal education" 0.0 0.0 ellipse
+16 "personal exemptions" 0.0 0.0 ellipse
+17 people 0.0 0.0 ellipse
+18 "SB 277" 0.0 0.0 ellipse
+19 "California governor" 0.0 0.0 ellipse
+20 vaccines 0.0 0.0 ellipse
+21 parents 0.0 0.0 ellipse
+22 compromise 0.0 0.0 ellipse
+23 "controversial bill" 0.0 0.0 ellipse
+24 "Senator Pan" 0.0 0.0 ellipse
+25 opt-outs 0.0 0.0 ellipse
+26 "personal belief exemptions" 0.0 0.0 ellipse
+27 "Senator Jeff Stone" 0.0 0.0 ellipse
+28 "California Coalition for Health Choice" 0.0 0.0 ellipse
+29 safe 0.0 0.0 ellipse
+30 families 0.0 0.0 ellipse
+31 supporters 0.0 0.0 ellipse
+32 "Governor Jerry Brown" 0.0 0.0 ellipse
+33 uninformed 0.0 0.0 ellipse
+34 critics 0.0 0.0 ellipse
+35 "public health" 0.0 0.0 ellipse
+36 republicans 0.0 0.0 ellipse
+37 unvaccinated 0.0 0.0 ellipse
+38 "legimate reasons" 0.0 0.0 ellipse
+39 protection 0.0 0.0 ellipse
+40 schools 0.0 0.0 ellipse
+41 "vaccine side effects" 0.0 0.0 ellipse
+42 "religious exemptions" 0.0 0.0 ellipse
+43 "SB 277 critics" 0.0 0.0 ellipse
+44 "home schooling" 0.0 0.0 ellipse
+45 "party lines" 0.0 0.0 ellipse
+46 science 0.0 0.0 ellipse
+47 "personal belief exemption" 0.0 0.0 ellipse
+48 democrat 0.0 0.0 ellipse
+49 "overwhelming approval" 0.0 0.0 ellipse
+50 anti-vaccine 0.0 0.0 ellipse
+51 responsibility 0.0 0.0 ellipse
+52 "medical exemptions" 0.0 0.0 ellipse
+53 shots 0.0 0.0 ellipse
+54 "California Senate" 0.0 0.0 ellipse
+55 "required vaccines" 0.0 0.0 ellipse
+56 myths 0.0 0.0 ellipse
+*arcs
+6 28 1.0 source "vaccine opponents" source vaccine opponents edge from edge from target "California Coalition for Health Choice" target California Coalition for Health Choice label "vaccine opponents - from - California Coalition for Health Choice" label vaccine opponents - from - California Coalition for Health Choice
+7 47 1.0 source officials source officials edge "only thing can do is educate about" edge only thing can do is educate about target "personal belief exemption" target personal belief exemption comments "Lisa Bakshi, mother from Placer Count" comments Lisa Bakshi, mother from Placer Count label "officials - only thing can do is educate about - personal belief exemption" label officials - only thing can do is educate about - personal belief exemption
+8 41 1.0 source "angry California parents" source angry California parents edge "have concerns over" edge have concerns over target "vaccine side effects" target vaccine side effects label "angry California parents - have concerns over - vaccine side effects" label angry California parents - have concerns over - vaccine side effects
+8 18 1.0 source "angry California parents" source angry California parents edge "have staged rallies and jammed hearing rooms" edge have staged rallies and jammed hearing rooms target "SB 277" target SB 277 label "angry California parents - have staged rallies and jammed hearing rooms - SB 277" label angry California parents - have staged rallies and jammed hearing rooms - SB 277
+8 10 1.0 source "angry California parents" source angry California parents edge "concerns over asserting" edge concerns over asserting target "parental rights" target parental rights label "angry California parents - concerns over asserting - parental rights" label angry California parents - concerns over asserting - parental rights
+16 18 1.0 source "personal exemptions" source personal exemptions edge "not permitted" edge not permitted target "SB 277" target SB 277 label "personal exemptions - not permitted - SB 277" label personal exemptions - not permitted - SB 277
+18 25 1.0 source "SB 277" source SB 277 edge "abolishing most" edge abolishing most target opt-outs target opt-outs label "SB 277 - abolishing most - opt-outs" label SB 277 - abolishing most - opt-outs
+18 30 1.0 source "SB 277" source SB 277 edge "tells that the government thinks it knows better to deeply devout" edge tells that the government thinks it knows better to deeply devout target families target families comments "Senator Mike Morrell" comments Senator Mike Morrell label "SB 277 - tells that the government thinks it knows better to deeply devout - families" label SB 277 - tells that the government thinks it knows better to deeply devout - families
+18 45 1.0 source "SB 277" source SB 277 edge "vote and debate often crossed" edge vote and debate often crossed target "party lines" target party lines label "SB 277 - vote and debate often crossed - party lines" label SB 277 - vote and debate often crossed - party lines
+18 5 1.0 source "SB 277" source SB 277 edge "require children before entering kindergarten" edge require children before entering kindergarten target vaccinated target vaccinated label "SB 277 - require children before entering kindergarten - vaccinated" label SB 277 - require children before entering kindergarten - vaccinated
+18 11 1.0 source "SB 277" source SB 277 edge "is required before entering" edge is required before entering target kindergarten target kindergarten label "SB 277 - is required before entering - kindergarten" label SB 277 - is required before entering - kindergarten
+18 23 1.0 source "SB 277" source SB 277 edge is edge is target "controversial bill" target controversial bill label "SB 277 - is - controversial bill" label SB 277 - is - controversial bill
+18 52 1.0 source "SB 277" source SB 277 edge "impact of difficulty of acquiring" edge impact of difficulty of acquiring target "medical exemptions" target medical exemptions label "SB 277 - impact of difficulty of acquiring - medical exemptions" label SB 277 - impact of difficulty of acquiring - medical exemptions
+18 40 1.0 source "SB 277" source SB 277 edge "would have impact on" edge would have impact on target schools target schools comments "California Coalition for Health Choice" comments California Coalition for Health Choice label "SB 277 - would have impact on - schools" label SB 277 - would have impact on - schools
+18 54 1.0 source "SB 277" source SB 277 edge "won overwhelming approval in" edge won overwhelming approval in target "California Senate" target California Senate label "SB 277 - won overwhelming approval in - California Senate" label SB 277 - won overwhelming approval in - California Senate
+18 13 1.0 source "SB 277" source SB 277 edge "supporters hope that it will clear the Assembly and be signed into" edge supporters hope that it will clear the Assembly and be signed into target law target law label "SB 277 - supporters hope that it will clear the Assembly and be signed into - law" label SB 277 - supporters hope that it will clear the Assembly and be signed into - law
+18 55 1.0 source "SB 277" source SB 277 edge "agreed to limit number to 10 of" edge agreed to limit number to 10 of target "required vaccines" target required vaccines label "SB 277 - agreed to limit number to 10 of - required vaccines" label SB 277 - agreed to limit number to 10 of - required vaccines
+18 26 1.0 source "SB 277" source SB 277 edge "most significant compromise was to grandfather in students whose parents have claimed" edge most significant compromise was to grandfather in students whose parents have claimed target "personal belief exemptions" target personal belief exemptions label "SB 277 - most significant compromise was to grandfather in students whose parents have claimed - personal belief exemptions" label SB 277 - most significant compromise was to grandfather in students whose parents have claimed - personal belief exemptions
+18 26 1.0 source "SB 277" source SB 277 edge abolishes edge abolishes target "personal belief exemptions" target personal belief exemptions comments "in CA" comments in CA label "SB 277 - abolishes - personal belief exemptions" label SB 277 - abolishes - personal belief exemptions
+19 35 1.0 source "California governor" source California governor edge "sees as major responsibility" edge sees as major responsibility target "public health" target public health label "California governor - sees as major responsibility - public health" label California governor - sees as major responsibility - public health
+19 10 1.0 source "California governor" source California governor edge "is sensitive to" edge is sensitive to target "parental rights" target parental rights label "California governor - is sensitive to - parental rights" label California governor - is sensitive to - parental rights
+20 29 1.0 source vaccines source vaccines edge "science is clear" edge science is clear target safe target safe label "vaccines - science is clear - safe" label vaccines - science is clear - safe
+20 39 1.0 source vaccines source vaccines edge "are necessary for" edge are necessary for target protection target protection label "vaccines - are necessary for - protection" label vaccines - are necessary for - protection
+20 1 1.0 source vaccines source vaccines edge "science is clear" edge science is clear target efficacious target efficacious label "vaccines - science is clear - efficacious" label vaccines - science is clear - efficacious
+20 17 1.0 source vaccines source vaccines edge "are necessary to protect" edge are necessary to protect target people target people label "vaccines - are necessary to protect - people" label vaccines - are necessary to protect - people
+21 12 1.0 source parents source parents edge "who do personal belief exemption now do it for" edge who do personal belief exemption now do it for target "legitimate reasons" target legitimate reasons label "parents - who do personal belief exemption now do it for - legitimate reasons" label parents - who do personal belief exemption now do it for - legitimate reasons
+21 12 1.0 source parents source parents edge "who claim personal belief exemption do it for" edge who claim personal belief exemption do it for target "legitimate reasons" target legitimate reasons label "parents - who claim personal belief exemption do it for - legitimate reasons" label parents - who claim personal belief exemption do it for - legitimate reasons
+21 26 1.0 source parents source parents edge "are not uninformed who claim" edge are not uninformed who claim target "personal belief exemptions" target personal belief exemptions label "parents - are not uninformed who claim - personal belief exemptions" label parents - are not uninformed who claim - personal belief exemptions
+21 33 1.0 source parents source parents edge "who do personal belief exemption don't do it because they are" edge who do personal belief exemption don't do it because they are target uninformed target uninformed label "parents - who do personal belief exemption don't do it because they are - uninformed" label parents - who do personal belief exemption don't do it because they are - uninformed
+22 8 1.0 source compromise source compromise edge "aimed at mollifying hundreds of" edge aimed at mollifying hundreds of target "angry California parents" target angry California parents label "compromise - aimed at mollifying hundreds of - angry California parents" label compromise - aimed at mollifying hundreds of - angry California parents
+22 26 1.0 source compromise source compromise edge "was to grandfather in students whose parents have claimed" edge was to grandfather in students whose parents have claimed target "personal belief exemptions" target personal belief exemptions label "compromise - was to grandfather in students whose parents have claimed - personal belief exemptions" label compromise - was to grandfather in students whose parents have claimed - personal belief exemptions
+23 49 1.0 source "controversial bill" source controversial bill edge won edge won target "overwhelming approval" target overwhelming approval label "controversial bill - won - overwhelming approval" label controversial bill - won - overwhelming approval
+23 31 1.0 source "controversial bill" source controversial bill edge "bolstering hopes of" edge bolstering hopes of target supporters target supporters label "controversial bill - bolstering hopes of - supporters" label controversial bill - bolstering hopes of - supporters
+24 34 1.0 source "Senator Pan" source Senator Pan edge "made changes that made bill more acceptable to" edge made changes that made bill more acceptable to target critics target critics comments Pitney comments Pitney label "Senator Pan - made changes that made bill more acceptable to - critics" label Senator Pan - made changes that made bill more acceptable to - critics
+24 14 1.0 source "Senator Pan" source Senator Pan edge "made changes that should improve bill's chances in" edge made changes that should improve bill's chances in target Assembly target Assembly comments Pitney comments Pitney label "Senator Pan - made changes that should improve bill's chances in - Assembly" label Senator Pan - made changes that should improve bill's chances in - Assembly
+27 56 1.0 source "Senator Jeff Stone" source Senator Jeff Stone edge denounced edge denounced target myths target myths label "Senator Jeff Stone - denounced - myths" label Senator Jeff Stone - denounced - myths
+28 2 1.0 source "California Coalition for Health Choice" source California Coalition for Health Choice edge "thanked who voted no" edge thanked who voted no target senators target senators label "California Coalition for Health Choice - thanked who voted no - senators" label California Coalition for Health Choice - thanked who voted no - senators
+28 18 1.0 source "California Coalition for Health Choice" source California Coalition for Health Choice edge "said they would step up efforts in Assembly to highlight impact of" edge said they would step up efforts in Assembly to highlight impact of target "SB 277" target SB 277 label "California Coalition for Health Choice - said they would step up efforts in Assembly to highlight impact of - SB 277" label California Coalition for Health Choice - said they would step up efforts in Assembly to highlight impact of - SB 277
+32 18 1.0 source "Governor Jerry Brown" source Governor Jerry Brown edge "has signaled that he supports" edge has signaled that he supports target "SB 277" target SB 277 comments "the bill" comments the bill label "Governor Jerry Brown - has signaled that he supports - SB 277" label Governor Jerry Brown - has signaled that he supports - SB 277
+32 4 1.0 source "Governor Jerry Brown" source Governor Jerry Brown edge "possibility he might urge legislators to include" edge possibility he might urge legislators to include target "religious exemption" target religious exemption label "Governor Jerry Brown - possibility he might urge legislators to include - religious exemption" label Governor Jerry Brown - possibility he might urge legislators to include - religious exemption
+35 51 1.0 source "public health" source public health edge "is a major" edge is a major target responsibility target responsibility label "public health - is a major - responsibility" label public health - is a major - responsibility
+36 15 1.0 source republicans source republicans edge "concerned about opportunities for " edge concerned about opportunities for  target "equal education" target equal education comments "in California" comments in California label "republicans - concerned about opportunities for  - equal education" label republicans - concerned about opportunities for  - equal education
+36 18 1.0 source republicans source republicans edge "most in California voted against" edge most in California voted against target "SB 277" target SB 277 comments "the measure" comments the measure label "republicans - most in California voted against - SB 277" label republicans - most in California voted against - SB 277
+37 44 1.0 source unvaccinated source unvaccinated edge "kindergarteners would require" edge kindergarteners would require target "home schooling" target home schooling label "unvaccinated - kindergarteners would require - home schooling" label unvaccinated - kindergarteners would require - home schooling
+39 20 1.0 source protection source protection edge "has been eroding for" edge has been eroding for target vaccines target vaccines label "protection - has been eroding for - vaccines" label protection - has been eroding for - vaccines
+42 18 1.0 source "religious exemptions" source religious exemptions edge "not permitted" edge not permitted target "SB 277" target SB 277 label "religious exemptions - not permitted - SB 277" label religious exemptions - not permitted - SB 277
+43 53 1.0 source "SB 277 critics" source SB 277 critics edge "concerns of ever-expanding list of" edge concerns of ever-expanding list of target shots target shots label "SB 277 critics - concerns of ever-expanding list of - shots" label SB 277 critics - concerns of ever-expanding list of - shots
+46 20 1.0 source science source science edge "is clear about" edge is clear about target vaccines target vaccines label "science - is clear about - vaccines" label science - is clear about - vaccines
+47 38 1.0 source "personal belief exemption" source personal belief exemption edge "is for" edge is for target "legimate reasons" target legimate reasons label "personal belief exemption - is for - legimate reasons" label personal belief exemption - is for - legimate reasons
+47 33 1.0 source "personal belief exemption" source personal belief exemption edge "not because they are" edge not because they are target uninformed target uninformed label "personal belief exemption - not because they are - uninformed" label personal belief exemption - not because they are - uninformed
+48 9 1.0 source democrat source democrat edge "had concerns about the list" edge had concerns about the list target "mandated vaccines" target mandated vaccines comments "Senator Richard Roth" comments Senator Richard Roth label "democrat - had concerns about the list - mandated vaccines" label democrat - had concerns about the list - mandated vaccines
+50 18 1.0 source anti-vaccine source anti-vaccine edge "folks are going to make a very hard push against" edge folks are going to make a very hard push against target "SB 277" target SB 277 comments "said Pitney" comments said Pitney label "anti-vaccine - folks are going to make a very hard push against - SB 277" label anti-vaccine - folks are going to make a very hard push against - SB 277
+52 18 1.0 source "medical exemptions" source medical exemptions edge "permitted by" edge permitted by target "SB 277" target SB 277 label "medical exemptions - permitted by - SB 277" label medical exemptions - permitted by - SB 277
+56 3 1.0 source myths source myths edge "have led to" edge have led to target "false concerns" target false concerns comments "Senator Jeff Stone" comments Senator Jeff Stone label "myths - have led to - false concerns" label myths - have led to - false concerns
