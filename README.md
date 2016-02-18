@@ -1,6 +1,14 @@
 Vaccination sentiment network analysis
 
-## current to-do:
+
+## to-do (2/25)
+- finish jupyter notebooks for pd export
+- look at distribution of aggregate measures
+- look at clusters of networks for terms with highest centrality
+- cluster articles by overlapping terms
+
+
+## to-do:
 - finish all data
 - list all network metrics to run + interpretation
 - create jupyter notebook for analysis
