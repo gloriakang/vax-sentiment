@@ -1,94 +1,93 @@
-*vertices 46
+*vertices 45
 1 FDA 0.0 0.0 ellipse
-2 "mercury based preservative" 0.0 0.0 ellipse
+2 "vaccine manufacturers" 0.0 0.0 ellipse
 3 "human carcinogen" 0.0 0.0 ellipse
-4 "eliminate mercury" 0.0 0.0 ellipse
-5 "vaccine industry watchdog" 0.0 0.0 ellipse
-6 "neurodevelopmental disorders" 0.0 0.0 ellipse
-7 "vaccine manufacturers" 0.0 0.0 ellipse
-8 "public-health officials" 0.0 0.0 ellipse
-9 neurotoxin 0.0 0.0 ellipse
-10 "safe level of exposure" 0.0 0.0 ellipse
-11 autism 0.0 0.0 ellipse
-12 "pregnant women" 0.0 0.0 ellipse
-13 mercury 0.0 0.0 ellipse
-14 "flu shot" 0.0 0.0 ellipse
-15 consumers 0.0 0.0 ellipse
-16 "autism risk" 0.0 0.0 ellipse
-17 "CDC documents" 0.0 0.0 ellipse
-18 "high risk of speech disorder" 0.0 0.0 ellipse
-19 vaccines 0.0 0.0 ellipse
-20 "anaphylactic shock" 0.0 0.0 ellipse
-21 thimerosal 0.0 0.0 ellipse
-22 "risks of autism" 0.0 0.0 ellipse
-23 "reproductive toxin" 0.0 0.0 ellipse
-24 "Freedom of Information Act" 0.0 0.0 ellipse
-25 "CDC officials" 0.0 0.0 ellipse
-26 "high risk of non-organic sleep disorder" 0.0 0.0 ellipse
-27 "correlation between thimerosal and neurological disorders" 0.0 0.0 ellipse
-28 teratogen 0.0 0.0 ellipse
-29 "flu vaccines" 0.0 0.0 ellipse
-30 "thimerosal-neurodevelopmental disorders link" 0.0 0.0 ellipse
-31 "immune-system disruptor" 0.0 0.0 ellipse
-32 "vaccine preservative" 0.0 0.0 ellipse
-33 "autism-vaccine link" 0.0 0.0 ellipse
-34 "thimerosal exposure" 0.0 0.0 ellipse
-35 "thimerosal phase out" 0.0 0.0 ellipse
-36 "Brian Hooker" 0.0 0.0 ellipse
-37 "precautionary measure" 0.0 0.0 ellipse
-38 ethylmercury 0.0 0.0 ellipse
-39 "high risk of autism" 0.0 0.0 ellipse
-40 CDC 0.0 0.0 ellipse
-41 "mercury content" 0.0 0.0 ellipse
-42 "Food and Drug Administration Modernization Act" 0.0 0.0 ellipse
-43 mutagen 0.0 0.0 ellipse
-44 "fetal toxin" 0.0 0.0 ellipse
-45 infants 0.0 0.0 ellipse
-46 "neurological disorders" 0.0 0.0 ellipse
+4 "vaccine industry watchdog" 0.0 0.0 ellipse
+5 "neurodevelopmental disorders" 0.0 0.0 ellipse
+6 "mercury based preservative" 0.0 0.0 ellipse
+7 "public-health officials" 0.0 0.0 ellipse
+8 neurotoxin 0.0 0.0 ellipse
+9 "safe level of exposure" 0.0 0.0 ellipse
+10 autism 0.0 0.0 ellipse
+11 "pregnant women" 0.0 0.0 ellipse
+12 mercury 0.0 0.0 ellipse
+13 "flu shot" 0.0 0.0 ellipse
+14 consumers 0.0 0.0 ellipse
+15 "autism risk" 0.0 0.0 ellipse
+16 "CDC documents" 0.0 0.0 ellipse
+17 "high risk of speech disorder" 0.0 0.0 ellipse
+18 vaccines 0.0 0.0 ellipse
+19 "anaphylactic shock" 0.0 0.0 ellipse
+20 thimerosal 0.0 0.0 ellipse
+21 "risks of autism" 0.0 0.0 ellipse
+22 "reproductive toxin" 0.0 0.0 ellipse
+23 "Freedom of Information Act" 0.0 0.0 ellipse
+24 "CDC officials" 0.0 0.0 ellipse
+25 "high risk of non-organic sleep disorder" 0.0 0.0 ellipse
+26 "correlation between thimerosal and neurological disorders" 0.0 0.0 ellipse
+27 teratogen 0.0 0.0 ellipse
+28 "flu vaccines" 0.0 0.0 ellipse
+29 "thimerosal-neurodevelopmental disorders link" 0.0 0.0 ellipse
+30 "immune-system disruptor" 0.0 0.0 ellipse
+31 "vaccine preservative" 0.0 0.0 ellipse
+32 "autism-vaccine link" 0.0 0.0 ellipse
+33 "thimerosal exposure" 0.0 0.0 ellipse
+34 "thimerosal phase out" 0.0 0.0 ellipse
+35 "Brian Hooker" 0.0 0.0 ellipse
+36 "precautionary measure" 0.0 0.0 ellipse
+37 ethylmercury 0.0 0.0 ellipse
+38 "high risk of autism" 0.0 0.0 ellipse
+39 CDC 0.0 0.0 ellipse
+40 "mercury content" 0.0 0.0 ellipse
+41 "Food and Drug Administration Modernization Act" 0.0 0.0 ellipse
+42 mutagen 0.0 0.0 ellipse
+43 "fetal toxin" 0.0 0.0 ellipse
+44 infants 0.0 0.0 ellipse
+45 "neurological disorders" 0.0 0.0 ellipse
 *arcs
-1 21 1.0 source FDA source FDA edge "gave two year deadline to remove" edge gave two year deadline to remove target thimerosal target thimerosal label "FDA - gave two year deadline to remove - thimerosal" label FDA - gave two year deadline to remove - thimerosal
-1 42 1.0 source FDA source FDA edge has edge has target "Food and Drug Administration Modernization Act" target Food and Drug Administration Modernization Act label "FDA - has - Food and Drug Administration Modernization Act" label FDA - has - Food and Drug Administration Modernization Act
-4 7 1.0 source "eliminate mercury" source eliminate mercury edge "requests denied by" edge requests denied by target "vaccine manufacturers" target vaccine manufacturers label "eliminate mercury - requests denied by - vaccine manufacturers" label eliminate mercury - requests denied by - vaccine manufacturers
-5 17 1.0 source "vaccine industry watchdog" source vaccine industry watchdog edge obtained edge obtained target "CDC documents" target CDC documents label "vaccine industry watchdog - obtained - CDC documents" label vaccine industry watchdog - obtained - CDC documents
-7 4 1.0 source "vaccine manufacturers" source vaccine manufacturers edge "requested to" edge requested to target "eliminate mercury" target eliminate mercury label "vaccine manufacturers - requested to - eliminate mercury" label vaccine manufacturers - requested to - eliminate mercury
-8 35 1.0 source "public-health officials" source public-health officials edge "announced would be phased out" edge announced would be phased out target "thimerosal phase out" target thimerosal phase out label "public-health officials - announced would be phased out - thimerosal phase out" label public-health officials - announced would be phased out - thimerosal phase out
-9 29 1.0 source neurotoxin source neurotoxin edge "remains in 60 percent of" edge remains in 60 percent of target "flu vaccines" target flu vaccines label "neurotoxin - remains in 60 percent of - flu vaccines" label neurotoxin - remains in 60 percent of - flu vaccines
-14 45 1.0 source "flu shot" source flu shot edge "administered to" edge administered to target infants target infants label "flu shot - administered to - infants" label flu shot - administered to - infants
-14 12 1.0 source "flu shot" source flu shot edge "administered to" edge administered to target "pregnant women" target pregnant women label "flu shot - administered to - pregnant women" label flu shot - administered to - pregnant women
-15 21 1.0 source consumers source consumers edge "will never know if other products contain" edge will never know if other products contain target thimerosal target thimerosal label "consumers - will never know if other products contain - thimerosal" label consumers - will never know if other products contain - thimerosal
-16 21 1.0 source "autism risk" source autism risk edge "from exposure during infancy" edge from exposure during infancy target thimerosal target thimerosal label "autism risk - from exposure during infancy - thimerosal" label autism risk - from exposure during infancy - thimerosal
-17 40 1.0 source "CDC documents" source CDC documents edge "kept under tight wraps by" edge kept under tight wraps by target CDC target CDC label "CDC documents - kept under tight wraps by - CDC" label CDC documents - kept under tight wraps by - CDC
-18 34 1.0 source "high risk of speech disorder" source high risk of speech disorder edge "associated with" edge associated with target "thimerosal exposure" target thimerosal exposure label "high risk of speech disorder - associated with - thimerosal exposure" label high risk of speech disorder - associated with - thimerosal exposure
-20 21 1.0 source "anaphylactic shock" source anaphylactic shock edge "humans can have reaction in response to" edge humans can have reaction in response to target thimerosal target thimerosal label "anaphylactic shock - humans can have reaction in response to - thimerosal" label anaphylactic shock - humans can have reaction in response to - thimerosal
-21 13 1.0 source thimerosal source thimerosal edge "is a known" edge is a known target mercury target mercury label "thimerosal - is a known - mercury" label thimerosal - is a known - mercury
-21 2 1.0 source thimerosal source thimerosal edge is edge is target "mercury based preservative" target mercury based preservative label "thimerosal - is - mercury based preservative" label thimerosal - is - mercury based preservative
-21 14 1.0 source thimerosal source thimerosal edge "still in" edge still in target "flu shot" target flu shot label "thimerosal - still in - flu shot" label thimerosal - still in - flu shot
-21 3 1.0 source thimerosal source thimerosal edge "is a known" edge is a known target "human carcinogen" target human carcinogen label "thimerosal - is a known - human carcinogen" label thimerosal - is a known - human carcinogen
-21 6 1.0 source thimerosal source thimerosal edge "can cause" edge can cause target "neurodevelopmental disorders" target neurodevelopmental disorders label "thimerosal - can cause - neurodevelopmental disorders" label thimerosal - can cause - neurodevelopmental disorders
-21 28 1.0 source thimerosal source thimerosal edge "is a known" edge is a known target teratogen target teratogen label "thimerosal - is a known - teratogen" label thimerosal - is a known - teratogen
-21 43 1.0 source thimerosal source thimerosal edge "is a known" edge is a known target mutagen target mutagen label "thimerosal - is a known - mutagen" label thimerosal - is a known - mutagen
-21 44 1.0 source thimerosal source thimerosal edge "is a recognized" edge is a recognized target "fetal toxin" target fetal toxin label "thimerosal - is a recognized - fetal toxin" label thimerosal - is a recognized - fetal toxin
-21 31 1.0 source thimerosal source thimerosal edge "is a known" edge is a known target "immune-system disruptor" target immune-system disruptor comments "at levels below 1 ppm" comments at levels below 1 ppm label "thimerosal - is a known - immune-system disruptor" label thimerosal - is a known - immune-system disruptor
-21 32 1.0 source thimerosal source thimerosal edge is edge is target "vaccine preservative" target vaccine preservative label "thimerosal - is - vaccine preservative" label thimerosal - is - vaccine preservative
-21 23 1.0 source thimerosal source thimerosal edge "is a recognized" edge is a recognized target "reproductive toxin" target reproductive toxin label "thimerosal - is a recognized - reproductive toxin" label thimerosal - is a recognized - reproductive toxin
-21 10 1.0 source thimerosal source thimerosal edge "for humans no toxicologically established" edge for humans no toxicologically established target "safe level of exposure" target safe level of exposure label "thimerosal - for humans no toxicologically established - safe level of exposure" label thimerosal - for humans no toxicologically established - safe level of exposure
-21 9 1.0 source thimerosal source thimerosal edge is edge is target neurotoxin target neurotoxin label "thimerosal - is - neurotoxin" label thimerosal - is - neurotoxin
-21 11 1.0 source thimerosal source thimerosal edge "can cause" edge can cause target autism target autism label "thimerosal - can cause - autism" label thimerosal - can cause - autism
-21 46 1.0 source thimerosal source thimerosal edge "has correlation with" edge has correlation with target "neurological disorders" target neurological disorders label "thimerosal - has correlation with - neurological disorders" label thimerosal - has correlation with - neurological disorders
-22 32 1.0 source "risks of autism" source risks of autism edge "associated with" edge associated with target "vaccine preservative" target vaccine preservative label "risks of autism - associated with - vaccine preservative" label risks of autism - associated with - vaccine preservative
-24 30 1.0 source "Freedom of Information Act" source Freedom of Information Act edge "requests have resulted in copious evidence for" edge requests have resulted in copious evidence for target "thimerosal-neurodevelopmental disorders link" target thimerosal-neurodevelopmental disorders link label "Freedom of Information Act - requests have resulted in copious evidence for - thimerosal-neurodevelopmental disorders link" label Freedom of Information Act - requests have resulted in copious evidence for - thimerosal-neurodevelopmental disorders link
-25 39 1.0 source "CDC officials" source CDC officials edge "informed internally in 2000 of" edge informed internally in 2000 of target "high risk of autism" target high risk of autism label "CDC officials - informed internally in 2000 of - high risk of autism" label CDC officials - informed internally in 2000 of - high risk of autism
-25 26 1.0 source "CDC officials" source CDC officials edge "informed internally in 2000 of" edge informed internally in 2000 of target "high risk of non-organic sleep disorder" target high risk of non-organic sleep disorder label "CDC officials - informed internally in 2000 of - high risk of non-organic sleep disorder" label CDC officials - informed internally in 2000 of - high risk of non-organic sleep disorder
-25 18 1.0 source "CDC officials" source CDC officials edge "informed internally in 2000 of" edge informed internally in 2000 of target "high risk of speech disorder" target high risk of speech disorder label "CDC officials - informed internally in 2000 of - high risk of speech disorder" label CDC officials - informed internally in 2000 of - high risk of speech disorder
-25 16 1.0 source "CDC officials" source CDC officials edge "clear evidence knew about" edge clear evidence knew about target "autism risk" target autism risk label "CDC officials - clear evidence knew about - autism risk" label CDC officials - clear evidence knew about - autism risk
-26 34 1.0 source "high risk of non-organic sleep disorder" source high risk of non-organic sleep disorder edge "associated with" edge associated with target "thimerosal exposure" target thimerosal exposure label "high risk of non-organic sleep disorder - associated with - thimerosal exposure" label high risk of non-organic sleep disorder - associated with - thimerosal exposure
-32 11 1.0 source "vaccine preservative" source vaccine preservative edge causes edge causes target autism target autism label "vaccine preservative - causes - autism" label vaccine preservative - causes - autism
-35 19 1.0 source "thimerosal phase out" source thimerosal phase out edge of edge of target vaccines target vaccines label "thimerosal phase out - of - vaccines" label thimerosal phase out - of - vaccines
-35 37 1.0 source "thimerosal phase out" source thimerosal phase out edge "CDC, American Academy of Pediatrics, and FDA insisted was" edge CDC, American Academy of Pediatrics, and FDA insisted was target "precautionary measure" target precautionary measure comments "insisted the CDC, American Academy of Pediatrics, and FDA" comments insisted the CDC, American Academy of Pediatrics, and FDA label "thimerosal phase out - CDC, American Academy of Pediatrics, and FDA insisted was - precautionary measure" label thimerosal phase out - CDC, American Academy of Pediatrics, and FDA insisted was - precautionary measure
-36 17 1.0 source "Brian Hooker" source Brian Hooker edge "has been requesting for nearly ten years" edge has been requesting for nearly ten years target "CDC documents" target CDC documents label "Brian Hooker - has been requesting for nearly ten years - CDC documents" label Brian Hooker - has been requesting for nearly ten years - CDC documents
-38 19 1.0 source ethylmercury source ethylmercury edge "review disclosed hitherto-unrecognized levels in" edge review disclosed hitherto-unrecognized levels in target vaccines target vaccines label "ethylmercury - review disclosed hitherto-unrecognized levels in - vaccines" label ethylmercury - review disclosed hitherto-unrecognized levels in - vaccines
-39 34 1.0 source "high risk of autism" source high risk of autism edge "associated with" edge associated with target "thimerosal exposure" target thimerosal exposure label "high risk of autism - associated with - thimerosal exposure" label high risk of autism - associated with - thimerosal exposure
-40 33 1.0 source CDC source CDC edge "denies even with confronted with their own data" edge denies even with confronted with their own data target "autism-vaccine link" target autism-vaccine link comments "something the CDC denies even when confronted with their own data." comments something the CDC denies even when confronted with their own data. label "CDC - denies even with confronted with their own data - autism-vaccine link" label CDC - denies even with confronted with their own data - autism-vaccine link
-40 27 1.0 source CDC source CDC edge "has been shunning for a very long time" edge has been shunning for a very long time target "correlation between thimerosal and neurological disorders" target correlation between thimerosal and neurological disorders label "CDC - has been shunning for a very long time - correlation between thimerosal and neurological disorders" label CDC - has been shunning for a very long time - correlation between thimerosal and neurological disorders
-40 17 1.0 source CDC source CDC edge "forced to release" edge forced to release target "CDC documents" target CDC documents label "CDC - forced to release - CDC documents" label CDC - forced to release - CDC documents
-42 41 1.0 source "Food and Drug Administration Modernization Act" source Food and Drug Administration Modernization Act edge "requiring study of" edge requiring study of target "mercury content" target mercury content comments "in FDA-approved products" comments in FDA-approved products label "Food and Drug Administration Modernization Act - requiring study of - mercury content" label Food and Drug Administration Modernization Act - requiring study of - mercury content
+1 20 1.0 source FDA source FDA edge "gave two year deadline to remove" edge gave two year deadline to remove target thimerosal target thimerosal label "FDA - gave two year deadline to remove - thimerosal" label FDA - gave two year deadline to remove - thimerosal
+1 41 1.0 source FDA source FDA edge has edge has target "Food and Drug Administration Modernization Act" target Food and Drug Administration Modernization Act label "FDA - has - Food and Drug Administration Modernization Act" label FDA - has - Food and Drug Administration Modernization Act
+2 12 1.0 source "vaccine manufacturers" source vaccine manufacturers edge "requested to eliminate" edge requested to eliminate target mercury target mercury label "vaccine manufacturers - requested to eliminate - mercury" label vaccine manufacturers - requested to eliminate - mercury
+4 16 1.0 source "vaccine industry watchdog" source vaccine industry watchdog edge obtained edge obtained target "CDC documents" target CDC documents label "vaccine industry watchdog - obtained - CDC documents" label vaccine industry watchdog - obtained - CDC documents
+7 34 1.0 source "public-health officials" source public-health officials edge "announced would be phased out" edge announced would be phased out target "thimerosal phase out" target thimerosal phase out label "public-health officials - announced would be phased out - thimerosal phase out" label public-health officials - announced would be phased out - thimerosal phase out
+8 28 1.0 source neurotoxin source neurotoxin edge "remains in 60 percent of" edge remains in 60 percent of target "flu vaccines" target flu vaccines label "neurotoxin - remains in 60 percent of - flu vaccines" label neurotoxin - remains in 60 percent of - flu vaccines
+12 2 1.0 source mercury source mercury edge "elimination requests denied by" edge elimination requests denied by target "vaccine manufacturers" target vaccine manufacturers label "mercury - elimination requests denied by - vaccine manufacturers" label mercury - elimination requests denied by - vaccine manufacturers
+13 44 1.0 source "flu shot" source flu shot edge "administered to" edge administered to target infants target infants label "flu shot - administered to - infants" label flu shot - administered to - infants
+13 11 1.0 source "flu shot" source flu shot edge "administered to" edge administered to target "pregnant women" target pregnant women label "flu shot - administered to - pregnant women" label flu shot - administered to - pregnant women
+14 20 1.0 source consumers source consumers edge "will never know if other products contain" edge will never know if other products contain target thimerosal target thimerosal label "consumers - will never know if other products contain - thimerosal" label consumers - will never know if other products contain - thimerosal
+15 20 1.0 source "autism risk" source autism risk edge "from exposure during infancy" edge from exposure during infancy target thimerosal target thimerosal label "autism risk - from exposure during infancy - thimerosal" label autism risk - from exposure during infancy - thimerosal
+16 39 1.0 source "CDC documents" source CDC documents edge "kept under tight wraps by" edge kept under tight wraps by target CDC target CDC label "CDC documents - kept under tight wraps by - CDC" label CDC documents - kept under tight wraps by - CDC
+17 33 1.0 source "high risk of speech disorder" source high risk of speech disorder edge "associated with" edge associated with target "thimerosal exposure" target thimerosal exposure label "high risk of speech disorder - associated with - thimerosal exposure" label high risk of speech disorder - associated with - thimerosal exposure
+19 20 1.0 source "anaphylactic shock" source anaphylactic shock edge "humans can have reaction in response to" edge humans can have reaction in response to target thimerosal target thimerosal label "anaphylactic shock - humans can have reaction in response to - thimerosal" label anaphylactic shock - humans can have reaction in response to - thimerosal
+20 12 1.0 source thimerosal source thimerosal edge "is a known" edge is a known target mercury target mercury label "thimerosal - is a known - mercury" label thimerosal - is a known - mercury
+20 6 1.0 source thimerosal source thimerosal edge is edge is target "mercury based preservative" target mercury based preservative label "thimerosal - is - mercury based preservative" label thimerosal - is - mercury based preservative
+20 13 1.0 source thimerosal source thimerosal edge "still in" edge still in target "flu shot" target flu shot label "thimerosal - still in - flu shot" label thimerosal - still in - flu shot
+20 3 1.0 source thimerosal source thimerosal edge "is a known" edge is a known target "human carcinogen" target human carcinogen label "thimerosal - is a known - human carcinogen" label thimerosal - is a known - human carcinogen
+20 5 1.0 source thimerosal source thimerosal edge "can cause" edge can cause target "neurodevelopmental disorders" target neurodevelopmental disorders label "thimerosal - can cause - neurodevelopmental disorders" label thimerosal - can cause - neurodevelopmental disorders
+20 27 1.0 source thimerosal source thimerosal edge "is a known" edge is a known target teratogen target teratogen label "thimerosal - is a known - teratogen" label thimerosal - is a known - teratogen
+20 42 1.0 source thimerosal source thimerosal edge "is a known" edge is a known target mutagen target mutagen label "thimerosal - is a known - mutagen" label thimerosal - is a known - mutagen
+20 43 1.0 source thimerosal source thimerosal edge "is a recognized" edge is a recognized target "fetal toxin" target fetal toxin label "thimerosal - is a recognized - fetal toxin" label thimerosal - is a recognized - fetal toxin
+20 30 1.0 source thimerosal source thimerosal edge "is a known" edge is a known target "immune-system disruptor" target immune-system disruptor comments "at levels below 1 ppm" comments at levels below 1 ppm label "thimerosal - is a known - immune-system disruptor" label thimerosal - is a known - immune-system disruptor
+20 31 1.0 source thimerosal source thimerosal edge is edge is target "vaccine preservative" target vaccine preservative label "thimerosal - is - vaccine preservative" label thimerosal - is - vaccine preservative
+20 22 1.0 source thimerosal source thimerosal edge "is a recognized" edge is a recognized target "reproductive toxin" target reproductive toxin label "thimerosal - is a recognized - reproductive toxin" label thimerosal - is a recognized - reproductive toxin
+20 9 1.0 source thimerosal source thimerosal edge "for humans no toxicologically established" edge for humans no toxicologically established target "safe level of exposure" target safe level of exposure label "thimerosal - for humans no toxicologically established - safe level of exposure" label thimerosal - for humans no toxicologically established - safe level of exposure
+20 8 1.0 source thimerosal source thimerosal edge is edge is target neurotoxin target neurotoxin label "thimerosal - is - neurotoxin" label thimerosal - is - neurotoxin
+20 10 1.0 source thimerosal source thimerosal edge "can cause" edge can cause target autism target autism label "thimerosal - can cause - autism" label thimerosal - can cause - autism
+20 45 1.0 source thimerosal source thimerosal edge "has correlation with" edge has correlation with target "neurological disorders" target neurological disorders label "thimerosal - has correlation with - neurological disorders" label thimerosal - has correlation with - neurological disorders
+21 31 1.0 source "risks of autism" source risks of autism edge "associated with" edge associated with target "vaccine preservative" target vaccine preservative label "risks of autism - associated with - vaccine preservative" label risks of autism - associated with - vaccine preservative
+23 29 1.0 source "Freedom of Information Act" source Freedom of Information Act edge "requests have resulted in copious evidence for" edge requests have resulted in copious evidence for target "thimerosal-neurodevelopmental disorders link" target thimerosal-neurodevelopmental disorders link label "Freedom of Information Act - requests have resulted in copious evidence for - thimerosal-neurodevelopmental disorders link" label Freedom of Information Act - requests have resulted in copious evidence for - thimerosal-neurodevelopmental disorders link
+24 38 1.0 source "CDC officials" source CDC officials edge "informed internally in 2000 of" edge informed internally in 2000 of target "high risk of autism" target high risk of autism label "CDC officials - informed internally in 2000 of - high risk of autism" label CDC officials - informed internally in 2000 of - high risk of autism
+24 25 1.0 source "CDC officials" source CDC officials edge "informed internally in 2000 of" edge informed internally in 2000 of target "high risk of non-organic sleep disorder" target high risk of non-organic sleep disorder label "CDC officials - informed internally in 2000 of - high risk of non-organic sleep disorder" label CDC officials - informed internally in 2000 of - high risk of non-organic sleep disorder
+24 17 1.0 source "CDC officials" source CDC officials edge "informed internally in 2000 of" edge informed internally in 2000 of target "high risk of speech disorder" target high risk of speech disorder label "CDC officials - informed internally in 2000 of - high risk of speech disorder" label CDC officials - informed internally in 2000 of - high risk of speech disorder
+24 15 1.0 source "CDC officials" source CDC officials edge "clear evidence knew about" edge clear evidence knew about target "autism risk" target autism risk label "CDC officials - clear evidence knew about - autism risk" label CDC officials - clear evidence knew about - autism risk
+25 33 1.0 source "high risk of non-organic sleep disorder" source high risk of non-organic sleep disorder edge "associated with" edge associated with target "thimerosal exposure" target thimerosal exposure label "high risk of non-organic sleep disorder - associated with - thimerosal exposure" label high risk of non-organic sleep disorder - associated with - thimerosal exposure
+31 10 1.0 source "vaccine preservative" source vaccine preservative edge causes edge causes target autism target autism label "vaccine preservative - causes - autism" label vaccine preservative - causes - autism
+34 18 1.0 source "thimerosal phase out" source thimerosal phase out edge of edge of target vaccines target vaccines label "thimerosal phase out - of - vaccines" label thimerosal phase out - of - vaccines
+34 36 1.0 source "thimerosal phase out" source thimerosal phase out edge "CDC, American Academy of Pediatrics, and FDA insisted was" edge CDC, American Academy of Pediatrics, and FDA insisted was target "precautionary measure" target precautionary measure comments "insisted the CDC, American Academy of Pediatrics, and FDA" comments insisted the CDC, American Academy of Pediatrics, and FDA label "thimerosal phase out - CDC, American Academy of Pediatrics, and FDA insisted was - precautionary measure" label thimerosal phase out - CDC, American Academy of Pediatrics, and FDA insisted was - precautionary measure
+35 16 1.0 source "Brian Hooker" source Brian Hooker edge "has been requesting for nearly ten years" edge has been requesting for nearly ten years target "CDC documents" target CDC documents label "Brian Hooker - has been requesting for nearly ten years - CDC documents" label Brian Hooker - has been requesting for nearly ten years - CDC documents
+37 18 1.0 source ethylmercury source ethylmercury edge "review disclosed hitherto-unrecognized levels in" edge review disclosed hitherto-unrecognized levels in target vaccines target vaccines label "ethylmercury - review disclosed hitherto-unrecognized levels in - vaccines" label ethylmercury - review disclosed hitherto-unrecognized levels in - vaccines
+38 33 1.0 source "high risk of autism" source high risk of autism edge "associated with" edge associated with target "thimerosal exposure" target thimerosal exposure label "high risk of autism - associated with - thimerosal exposure" label high risk of autism - associated with - thimerosal exposure
+39 32 1.0 source CDC source CDC edge "denies even with confronted with their own data" edge denies even with confronted with their own data target "autism-vaccine link" target autism-vaccine link label "CDC - denies even with confronted with their own data - autism-vaccine link" label CDC - denies even with confronted with their own data - autism-vaccine link
+39 26 1.0 source CDC source CDC edge "has been shunning for a very long time" edge has been shunning for a very long time target "correlation between thimerosal and neurological disorders" target correlation between thimerosal and neurological disorders label "CDC - has been shunning for a very long time - correlation between thimerosal and neurological disorders" label CDC - has been shunning for a very long time - correlation between thimerosal and neurological disorders
+39 16 1.0 source CDC source CDC edge "forced to release" edge forced to release target "CDC documents" target CDC documents label "CDC - forced to release - CDC documents" label CDC - forced to release - CDC documents
+41 40 1.0 source "Food and Drug Administration Modernization Act" source Food and Drug Administration Modernization Act edge "requiring study of" edge requiring study of target "mercury content" target mercury content comments "in FDA-approved products" comments in FDA-approved products label "Food and Drug Administration Modernization Act - requiring study of - mercury content" label Food and Drug Administration Modernization Act - requiring study of - mercury content

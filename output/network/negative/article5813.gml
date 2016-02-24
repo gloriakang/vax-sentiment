@@ -489,10 +489,11 @@ graph [
   ]
   edge [
     source 47
-    target 5
+    target 12
     key 0
-    edge "had harassed"
-    label "Nichole Rolfe - had harassed - Baker College nursing school instructors"
+    edge "wrongfully let go from"
+    comments "for trying to abide by proper protocol"
+    label "Nichole Rolfe - wrongfully let go from - Baker College nursing school"
   ]
   edge [
     source 47
@@ -510,18 +511,17 @@ graph [
   ]
   edge [
     source 47
-    target 12
+    target 5
     key 0
-    edge "wrongfully let go from"
-    comments "for trying to abide by proper protocol"
-    label "Nichole Rolfe - wrongfully let go from - Baker College nursing school"
+    edge "had harassed"
+    label "Nichole Rolfe - had harassed - Baker College nursing school instructors"
   ]
   edge [
     source 47
     target 13
     key 0
-    edge "says she was dismissed for raising concern's about"
-    label "Nichole Rolfe - says she was dismissed for raising concern's about - vaccine bullying curriculum"
+    edge "says she was dismissed for raising concerns about"
+    label "Nichole Rolfe - says she was dismissed for raising concerns about - vaccine bullying curriculum"
   ]
   edge [
     source 47

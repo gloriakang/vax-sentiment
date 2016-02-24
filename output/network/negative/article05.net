@@ -1,46 +1,49 @@
 *vertices 22
 1 "Jim Carrey" 0.0 0.0 ellipse
-2 "trace amounts of thimerosal" 0.0 0.0 ellipse
-3 "neurotoxins in vaccines" 0.0 0.0 ellipse
-4 "mandatory vaccines" 0.0 0.0 ellipse
-5 controversial 0.0 0.0 ellipse
-6 "governor of California" 0.0 0.0 ellipse
-7 children 0.0 0.0 ellipse
-8 mercury 0.0 0.0 ellipse
-9 "vaccine dangers" 0.0 0.0 ellipse
-10 "SB 277" 0.0 0.0 ellipse
-11 vaccines 0.0 0.0 ellipse
-12 "poisoning children" 0.0 0.0 ellipse
-13 Kennedy 0.0 0.0 ellipse
-14 fascist 0.0 0.0 ellipse
-15 pro-vaccine 0.0 0.0 ellipse
-16 "California government" 0.0 0.0 ellipse
-17 neurotoxins 0.0 0.0 ellipse
-18 aluminum 0.0 0.0 ellipse
-19 CDC 0.0 0.0 ellipse
-20 "vaccine corruption" 0.0 0.0 ellipse
-21 "mainstream media" 0.0 0.0 ellipse
-22 "vaccine corruption of CDC" 0.0 0.0 ellipse
+2 "neurotoxins in vaccines" 0.0 0.0 ellipse
+3 "mandatory vaccines" 0.0 0.0 ellipse
+4 controversial 0.0 0.0 ellipse
+5 "governor of California" 0.0 0.0 ellipse
+6 children 0.0 0.0 ellipse
+7 mercury 0.0 0.0 ellipse
+8 "vaccine dangers" 0.0 0.0 ellipse
+9 "SB 277" 0.0 0.0 ellipse
+10 vaccines 0.0 0.0 ellipse
+11 "poisoning children" 0.0 0.0 ellipse
+12 thimerosal 0.0 0.0 ellipse
+13 widespread 0.0 0.0 ellipse
+14 Kennedy 0.0 0.0 ellipse
+15 fascist 0.0 0.0 ellipse
+16 pro-vaccine 0.0 0.0 ellipse
+17 "California government" 0.0 0.0 ellipse
+18 neurotoxins 0.0 0.0 ellipse
+19 aluminum 0.0 0.0 ellipse
+20 CDC 0.0 0.0 ellipse
+21 "vaccine corruption" 0.0 0.0 ellipse
+22 "mainstream media" 0.0 0.0 ellipse
 *arcs
-1 9 1.0 source "Jim Carrey" source Jim Carrey edge "exposes truth about" edge exposes truth about target "vaccine dangers" target vaccine dangers label "Jim Carrey - exposes truth about - vaccine dangers" label Jim Carrey - exposes truth about - vaccine dangers
-1 10 1.0 source "Jim Carrey" source Jim Carrey edge "has been especially outspoken about " edge has been especially outspoken about  target "SB 277" target SB 277 label "Jim Carrey - has been especially outspoken about  - SB 277" label Jim Carrey - has been especially outspoken about  - SB 277
-1 10 1.0 source "Jim Carrey" source Jim Carrey edge "has been drawing much attention for his blatant dissent of" edge has been drawing much attention for his blatant dissent of target "SB 277" target SB 277 label "Jim Carrey - has been drawing much attention for his blatant dissent of - SB 277" label Jim Carrey - has been drawing much attention for his blatant dissent of - SB 277
-1 2 1.0 source "Jim Carrey" source Jim Carrey edge "shed light on" edge shed light on target "trace amounts of thimerosal" target trace amounts of thimerosal label "Jim Carrey - shed light on - trace amounts of thimerosal" label Jim Carrey - shed light on - trace amounts of thimerosal
-1 3 1.0 source "Jim Carrey" source Jim Carrey edge "is disgusted by the widespread use of" edge is disgusted by the widespread use of target "neurotoxins in vaccines" target neurotoxins in vaccines label "Jim Carrey - is disgusted by the widespread use of - neurotoxins in vaccines" label Jim Carrey - is disgusted by the widespread use of - neurotoxins in vaccines
-1 22 1.0 source "Jim Carrey" source Jim Carrey edge "shed light on" edge shed light on target "vaccine corruption of CDC" target vaccine corruption of CDC label "Jim Carrey - shed light on - vaccine corruption of CDC" label Jim Carrey - shed light on - vaccine corruption of CDC
-1 15 1.0 source "Jim Carrey" source Jim Carrey edge "claims to be" edge claims to be target pro-vaccine target pro-vaccine label "Jim Carrey - claims to be - pro-vaccine" label Jim Carrey - claims to be - pro-vaccine
-2 11 1.0 source "trace amounts of thimerosal" source trace amounts of thimerosal edge "is dangerous in" edge is dangerous in target vaccines target vaccines label "trace amounts of thimerosal - is dangerous in - vaccines" label trace amounts of thimerosal - is dangerous in - vaccines
-4 8 1.0 source "mandatory vaccines" source mandatory vaccines edge "poison children with" edge poison children with target mercury target mercury label "mandatory vaccines - poison children with - mercury" label mandatory vaccines - poison children with - mercury
-4 7 1.0 source "mandatory vaccines" source mandatory vaccines edge poison edge poison target children target children label "mandatory vaccines - poison - children" label mandatory vaccines - poison - children
-4 18 1.0 source "mandatory vaccines" source mandatory vaccines edge "poison children with" edge poison children with target aluminum target aluminum label "mandatory vaccines - poison children with - aluminum" label mandatory vaccines - poison children with - aluminum
-6 14 1.0 source "governor of California" source governor of California edge "Jim Carrey called a" edge Jim Carrey called a target fascist target fascist label "governor of California - Jim Carrey called a - fascist" label governor of California - Jim Carrey called a - fascist
-10 5 1.0 source "SB 277" source SB 277 edge is edge is target controversial target controversial label "SB 277 - is - controversial" label SB 277 - is - controversial
-12 4 1.0 source "poisoning children" source poisoning children edge "with mercury and aluminum in" edge with mercury and aluminum in target "mandatory vaccines" target mandatory vaccines label "poisoning children - with mercury and aluminum in - mandatory vaccines" label poisoning children - with mercury and aluminum in - mandatory vaccines
-13 15 1.0 source Kennedy source Kennedy edge "claims to be" edge claims to be target pro-vaccine target pro-vaccine label "Kennedy - claims to be - pro-vaccine" label Kennedy - claims to be - pro-vaccine
-13 3 1.0 source Kennedy source Kennedy edge "is disgusted by the widespread use of" edge is disgusted by the widespread use of target "neurotoxins in vaccines" target neurotoxins in vaccines label "Kennedy - is disgusted by the widespread use of - neurotoxins in vaccines" label Kennedy - is disgusted by the widespread use of - neurotoxins in vaccines
-16 4 1.0 source "California government" source California government edge "says yes to poisoning more children with mercury and aluminum in" edge says yes to poisoning more children with mercury and aluminum in target "mandatory vaccines" target mandatory vaccines label "California government - says yes to poisoning more children with mercury and aluminum in - mandatory vaccines" label California government - says yes to poisoning more children with mercury and aluminum in - mandatory vaccines
-16 12 1.0 source "California government" source California government edge "Jim Carrey tweeted" edge Jim Carrey tweeted target "poisoning children" target poisoning children comments "Jim Carrey called the governor of California a fascist for signing the bill into law, tweeting, California Gov says yes to poisoning more children with mercury and aluminum in mandatory vaccines." comments Jim Carrey called the governor of California a fascist for signing the bill into law, tweeting, California Gov says yes to poisoning more children with mercury and aluminum in mandatory vaccines. label "California government - Jim Carrey tweeted - poisoning children" label California government - Jim Carrey tweeted - poisoning children
-17 11 1.0 source neurotoxins source neurotoxins edge "are used in" edge are used in target vaccines target vaccines label "neurotoxins - are used in - vaccines" label neurotoxins - are used in - vaccines
-19 20 1.0 source CDC source CDC edge "involved with" edge involved with target "vaccine corruption" target vaccine corruption label "CDC - involved with - vaccine corruption" label CDC - involved with - vaccine corruption
-21 10 1.0 source "mainstream media" source mainstream media edge champions edge champions target "SB 277" target SB 277 label "mainstream media - champions - SB 277" label mainstream media - champions - SB 277
-21 10 1.0 source "mainstream media" source mainstream media edge "attempts to drown out objections to" edge attempts to drown out objections to target "SB 277" target SB 277 comments "While the mainstream media champions the cause and attempts to drown out the objections of the law's opponents, many people are also fighting back" comments While the mainstream media champions the cause and attempts to drown out the objections of the law's opponents, many people are also fighting back label "mainstream media - attempts to drown out objections to - SB 277" label mainstream media - attempts to drown out objections to - SB 277
+1 8 1.0 source "Jim Carrey" source Jim Carrey edge "exposes truth about" edge exposes truth about target "vaccine dangers" target vaccine dangers label "Jim Carrey - exposes truth about - vaccine dangers" label Jim Carrey - exposes truth about - vaccine dangers
+1 2 1.0 source "Jim Carrey" source Jim Carrey edge "is disgusted by the widespread use of" edge is disgusted by the widespread use of target "neurotoxins in vaccines" target neurotoxins in vaccines label "Jim Carrey - is disgusted by the widespread use of - neurotoxins in vaccines" label Jim Carrey - is disgusted by the widespread use of - neurotoxins in vaccines
+1 9 1.0 source "Jim Carrey" source Jim Carrey edge "has been especially outspoken about " edge has been especially outspoken about  target "SB 277" target SB 277 label "Jim Carrey - has been especially outspoken about  - SB 277" label Jim Carrey - has been especially outspoken about  - SB 277
+1 9 1.0 source "Jim Carrey" source Jim Carrey edge "has been drawing much attention for his blatant dissent of" edge has been drawing much attention for his blatant dissent of target "SB 277" target SB 277 label "Jim Carrey - has been drawing much attention for his blatant dissent of - SB 277" label Jim Carrey - has been drawing much attention for his blatant dissent of - SB 277
+1 16 1.0 source "Jim Carrey" source Jim Carrey edge "claims to be" edge claims to be target pro-vaccine target pro-vaccine label "Jim Carrey - claims to be - pro-vaccine" label Jim Carrey - claims to be - pro-vaccine
+1 21 1.0 source "Jim Carrey" source Jim Carrey edge "shed light on" edge shed light on target "vaccine corruption" target vaccine corruption comments "of CDC" comments of CDC label "Jim Carrey - shed light on - vaccine corruption" label Jim Carrey - shed light on - vaccine corruption
+1 12 1.0 source "Jim Carrey" source Jim Carrey edge "shed light on trace amounts of" edge shed light on trace amounts of target thimerosal target thimerosal label "Jim Carrey - shed light on trace amounts of - thimerosal" label Jim Carrey - shed light on trace amounts of - thimerosal
+2 13 1.0 source "neurotoxins in vaccines" source neurotoxins in vaccines edge is edge is target widespread target widespread label "neurotoxins in vaccines - is - widespread" label neurotoxins in vaccines - is - widespread
+3 7 1.0 source "mandatory vaccines" source mandatory vaccines edge "poison children with" edge poison children with target mercury target mercury label "mandatory vaccines - poison children with - mercury" label mandatory vaccines - poison children with - mercury
+3 6 1.0 source "mandatory vaccines" source mandatory vaccines edge poison edge poison target children target children label "mandatory vaccines - poison - children" label mandatory vaccines - poison - children
+3 19 1.0 source "mandatory vaccines" source mandatory vaccines edge "poison children with" edge poison children with target aluminum target aluminum label "mandatory vaccines - poison children with - aluminum" label mandatory vaccines - poison children with - aluminum
+5 15 1.0 source "governor of California" source governor of California edge "Jim Carrey called a" edge Jim Carrey called a target fascist target fascist label "governor of California - Jim Carrey called a - fascist" label governor of California - Jim Carrey called a - fascist
+9 4 1.0 source "SB 277" source SB 277 edge is edge is target controversial target controversial label "SB 277 - is - controversial" label SB 277 - is - controversial
+11 3 1.0 source "poisoning children" source poisoning children edge "with mercury and aluminum in" edge with mercury and aluminum in target "mandatory vaccines" target mandatory vaccines comments "California government" comments California government label "poisoning children - with mercury and aluminum in - mandatory vaccines" label poisoning children - with mercury and aluminum in - mandatory vaccines
+12 10 1.0 source thimerosal source thimerosal edge "trace amounts are dangerous in" edge trace amounts are dangerous in target vaccines target vaccines label "thimerosal - trace amounts are dangerous in - vaccines" label thimerosal - trace amounts are dangerous in - vaccines
+14 16 1.0 source Kennedy source Kennedy edge "claims to be" edge claims to be target pro-vaccine target pro-vaccine label "Kennedy - claims to be - pro-vaccine" label Kennedy - claims to be - pro-vaccine
+14 2 1.0 source Kennedy source Kennedy edge "is disgusted by the widespread use of" edge is disgusted by the widespread use of target "neurotoxins in vaccines" target neurotoxins in vaccines label "Kennedy - is disgusted by the widespread use of - neurotoxins in vaccines" label Kennedy - is disgusted by the widespread use of - neurotoxins in vaccines
+17 7 1.0 source "California government" source California government edge "poisoning more children with" edge poisoning more children with target mercury target mercury label "California government - poisoning more children with - mercury" label California government - poisoning more children with - mercury
+17 3 1.0 source "California government" source California government edge "says yes to poisoning more children with mercury and aluminum in" edge says yes to poisoning more children with mercury and aluminum in target "mandatory vaccines" target mandatory vaccines label "California government - says yes to poisoning more children with mercury and aluminum in - mandatory vaccines" label California government - says yes to poisoning more children with mercury and aluminum in - mandatory vaccines
+17 19 1.0 source "California government" source California government edge "poisoning more children with" edge poisoning more children with target aluminum target aluminum label "California government - poisoning more children with - aluminum" label California government - poisoning more children with - aluminum
+17 11 1.0 source "California government" source California government edge "Jim Carrey tweeted is" edge Jim Carrey tweeted is target "poisoning children" target poisoning children comments "Jim Carrey called the governor of California a fascist for signing the bill into law, tweeting, California Gov says yes to poisoning more children with mercury and aluminum in mandatory vaccines." comments Jim Carrey called the governor of California a fascist for signing the bill into law, tweeting, California Gov says yes to poisoning more children with mercury and aluminum in mandatory vaccines. label "California government - Jim Carrey tweeted is - poisoning children" label California government - Jim Carrey tweeted is - poisoning children
+18 10 1.0 source neurotoxins source neurotoxins edge "are used in" edge are used in target vaccines target vaccines label "neurotoxins - are used in - vaccines" label neurotoxins - are used in - vaccines
+20 21 1.0 source CDC source CDC edge "involved with" edge involved with target "vaccine corruption" target vaccine corruption label "CDC - involved with - vaccine corruption" label CDC - involved with - vaccine corruption
+22 9 1.0 source "mainstream media" source mainstream media edge champions edge champions target "SB 277" target SB 277 label "mainstream media - champions - SB 277" label mainstream media - champions - SB 277
+22 9 1.0 source "mainstream media" source mainstream media edge "attempts to drown out objections to" edge attempts to drown out objections to target "SB 277" target SB 277 comments "While the mainstream media champions the cause and attempts to drown out the objections of the law's opponents, many people are also fighting back" comments While the mainstream media champions the cause and attempts to drown out the objections of the law's opponents, many people are also fighting back label "mainstream media - attempts to drown out objections to - SB 277" label mainstream media - attempts to drown out objections to - SB 277

@@ -7,43 +7,43 @@ graph [
   ]
   node [
     id 1
-    label "those who are resistant to vaccinating"
-  ]
-  node [
-    id 2
     label "people"
   ]
   node [
-    id 3
+    id 2
     label "brain damage"
   ]
   node [
-    id 4
+    id 3
     label "government propaganda"
   ]
   node [
-    id 5
-    label "marketing pharmaceuticals to children"
+    id 4
+    label "Vaccine Injury Compensation Program"
   ]
   node [
-    id 6
+    id 5
     label "marketing vaccines to children"
   ]
   node [
-    id 7
-    label "children"
+    id 6
+    label "vaccine injury cases"
   ]
   node [
-    id 8
+    id 7
     label "seizures"
   ]
   node [
-    id 9
+    id 8
     label "lie"
   ]
   node [
-    id 10
+    id 9
     label "death"
+  ]
+  node [
+    id 10
+    label "sell vaccines to minors"
   ]
   node [
     id 11
@@ -51,7 +51,7 @@ graph [
   ]
   node [
     id 12
-    label "vaccine injury cases"
+    label "children"
   ]
   node [
     id 13
@@ -71,7 +71,7 @@ graph [
   ]
   node [
     id 17
-    label "selling vaccines to minors"
+    label "government"
   ]
   node [
     id 18
@@ -79,7 +79,7 @@ graph [
   ]
   node [
     id 19
-    label "Surgeon General Vivek Murthy"
+    label "marketing pharmaceuticals to children"
   ]
   node [
     id 20
@@ -91,7 +91,7 @@ graph [
   ]
   node [
     id 22
-    label "the government"
+    label "Surgeon General Vivek Murthy"
   ]
   node [
     id 23
@@ -115,54 +115,57 @@ graph [
   ]
   node [
     id 28
-    label "VICP"
-  ]
-  node [
-    id 29
     label "vaccine-resistant"
   ]
   node [
-    id 30
+    id 29
     label "vaccine-injured families"
   ]
   edge [
-    source 2
+    source 1
     target 25
     key 0
     edge "have"
     label "people - have - informed consent"
   ]
   edge [
-    source 4
+    source 3
     target 23
     key 0
     edge "is vaccine messages involving"
     label "government propaganda - is vaccine messages involving - Elmo"
   ]
   edge [
-    source 5
-    target 21
+    source 4
+    target 20
     key 0
-    edge "is"
-    label "marketing pharmaceuticals to children - is - unethical"
+    edge "has"
+    label "Vaccine Injury Compensation Program - has - paid damages"
   ]
   edge [
-    source 6
+    source 4
+    target 6
+    key 0
+    edge "has paid out $3 billion in damages to 4000"
+    label "Vaccine Injury Compensation Program - has paid out $3 billion in damages to 4000 - vaccine injury cases"
+  ]
+  edge [
+    source 5
     target 21
     key 0
     edge "is"
     label "marketing vaccines to children - is - unethical"
   ]
   edge [
-    source 7
-    target 25
+    source 6
+    target 29
     key 0
-    edge "cannot make decisions of"
-    label "children - cannot make decisions of - informed consent"
+    edge "Surgeon General Vivek Murthy is rubbing salt in the wounds of"
+    label "vaccine injury cases - Surgeon General Vivek Murthy is rubbing salt in the wounds of - vaccine-injured families"
   ]
   edge [
     source 11
-    target 9
+    target 8
     key 0
     edge "is a"
     comments "vaccine safety"
@@ -170,11 +173,18 @@ graph [
   ]
   edge [
     source 11
-    target 4
+    target 3
     key 0
     edge "telling children is unethical"
     comments "vaccine safety"
     label "vaccines are safe - telling children is unethical - government propaganda"
+  ]
+  edge [
+    source 12
+    target 25
+    key 0
+    edge "cannot make decisions of"
+    label "children - cannot make decisions of - informed consent"
   ]
   edge [
     source 13
@@ -192,10 +202,24 @@ graph [
   ]
   edge [
     source 16
-    target 4
+    target 3
     key 0
     edge "involving Elmo are"
     label "vaccine messages - involving Elmo are - government propaganda"
+  ]
+  edge [
+    source 17
+    target 24
+    key 0
+    edge "is not telling children about"
+    label "government - is not telling children about - vaccine-related adverse outcomes"
+  ]
+  edge [
+    source 17
+    target 3
+    key 0
+    edge "is telling"
+    label "government - is telling - government propaganda"
   ]
   edge [
     source 18
@@ -206,116 +230,105 @@ graph [
   ]
   edge [
     source 19
+    target 21
+    key 0
+    edge "is"
+    label "marketing pharmaceuticals to children - is - unethical"
+  ]
+  edge [
+    source 22
+    target 10
+    key 0
+    edge "uses Elmo to"
+    label "Surgeon General Vivek Murthy - uses Elmo to - sell vaccines to minors"
+  ]
+  edge [
+    source 22
     target 23
     key 0
     edge "uses to sell vaccines to minors"
-    comments "active v."
     label "Surgeon General Vivek Murthy - uses to sell vaccines to minors - Elmo"
   ]
   edge [
-    source 19
+    source 22
     target 23
     key 1
     edge "lied to"
     label "Surgeon General Vivek Murthy - lied to - Elmo"
   ]
   edge [
-    source 19
+    source 22
     target 11
     key 0
     edge "told Elmo that"
     label "Surgeon General Vivek Murthy - told Elmo that - vaccines are safe"
   ]
   edge [
-    source 19
-    target 17
-    key 0
-    edge "is"
-    comments "dup."
-    label "Surgeon General Vivek Murthy - is - selling vaccines to minors"
-  ]
-  edge [
-    source 19
-    target 1
-    key 0
-    edge "is taunting"
-    label "Surgeon General Vivek Murthy - is taunting - those who are resistant to vaccinating"
-  ]
-  edge [
-    source 19
-    target 5
+    source 22
+    target 19
     key 0
     edge "is"
     label "Surgeon General Vivek Murthy - is - marketing pharmaceuticals to children"
   ]
   edge [
-    source 19
-    target 6
+    source 22
+    target 5
     key 0
     edge "is"
     label "Surgeon General Vivek Murthy - is - marketing vaccines to children"
   ]
   edge [
-    source 19
+    source 22
     target 21
     key 0
     edge "is"
     label "Surgeon General Vivek Murthy - is - unethical"
   ]
   edge [
-    source 19
-    target 29
+    source 22
+    target 28
     key 0
     edge "is taunting families who are"
     label "Surgeon General Vivek Murthy - is taunting families who are - vaccine-resistant"
   ]
   edge [
-    source 19
-    target 30
+    source 22
+    target 28
+    key 1
+    edge "is taunting those who are"
+    label "Surgeon General Vivek Murthy - is taunting those who are - vaccine-resistant"
+  ]
+  edge [
+    source 22
+    target 29
     key 0
     edge "is rubbing salt in the wounds of"
     label "Surgeon General Vivek Murthy - is rubbing salt in the wounds of - vaccine-injured families"
   ]
   edge [
-    source 22
-    target 24
-    key 0
-    edge "is not telling children about"
-    label "the government - is not telling children about - vaccine-related adverse outcomes"
-  ]
-  edge [
     source 23
-    target 17
+    target 10
     key 0
-    edge "is used by Surgeon General Vivek Murthy in"
-    comments "dup."
-    label "Elmo - is used by Surgeon General Vivek Murthy in - selling vaccines to minors"
-  ]
-  edge [
-    source 23
-    target 19
-    key 0
-    edge "is used to sell vaccines to minors by"
-    comments "passive v."
-    label "Elmo - is used to sell vaccines to minors by - Surgeon General Vivek Murthy"
+    edge "is used to"
+    label "Elmo - is used to - sell vaccines to minors"
   ]
   edge [
     source 24
-    target 8
+    target 7
     key 0
     edge "include"
     label "vaccine-related adverse outcomes - include - seizures"
   ]
   edge [
     source 24
-    target 10
+    target 9
     key 0
     edge "include"
     label "vaccine-related adverse outcomes - include - death"
   ]
   edge [
     source 24
-    target 3
+    target 2
     key 0
     edge "include"
     label "vaccine-related adverse outcomes - include - brain damage"
@@ -333,19 +346,5 @@ graph [
     key 0
     edge "include"
     label "vaccine-related adverse outcomes - include - paralysis"
-  ]
-  edge [
-    source 28
-    target 20
-    key 0
-    edge "has"
-    label "VICP - has - paid damages"
-  ]
-  edge [
-    source 28
-    target 12
-    key 0
-    edge "has paid out $3 billion in damages to 4000"
-    label "VICP - has paid out $3 billion in damages to 4000 - vaccine injury cases"
   ]
 ]
