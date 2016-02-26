@@ -1,11 +1,7 @@
-
-# coding: utf-8
-
 # # network data
 # 0. Network-wide statistics
 # 1. Creates dataframe for network-level statistics
 # 2. Writes to csv file
-# 3. Calculation notes below
 
 
 import networkx as nx
@@ -14,8 +10,10 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import os
 from glob import glob
+plt.style.use('ggplot')
 
-gml_files = glob('../output/network/*/*.gml')
+
+gml_files = glob('../vax-sentiment/output/network/*/*.gml')
 
 
 def calculate_graph_inf(graph):
@@ -35,6 +33,34 @@ def highest_centrality(cent_dict):
     cent_items.sort()
     cent_items.reverse()
     return tuple(reversed(cent_items[0]))
+
+from random import randint
+
+def centrality_scatter(dict1, dict2, ylab = "", xlab = "", title = "", line = False):
+    # create figure and draw axis
+    fig = plt.figure(figsize = (10,10))
+    ax1 = fig.add_subplot(111)
+    # create items and extract centralities
+    items1 = sorted(dict1.items())
+    items2 = sorted(dict2.items())
+    xdata = [b for a,b in items1]
+    ydata = [b for a,b in items2]
+    # add plot points by name
+    for p in xrange(len(items1)):
+        ax1.text(x = xdata[p], y = ydata[p], s = str(items1[p][0]), color="b", fontsize=randint(1,20))
+    # axes
+    plt.xlim((0.0, max(xdata)+(.15*max(xdata))))
+    plt.ylim((0.0, max(ydata)+(.15*max(ydata))))    
+    # labels
+    ax1.set_title(title)
+    ax1.set_xlabel(xlab)
+    ax1.set_ylabel(ylab)
+    plt.show()
+
+###
+
+centrality_scatter(bet_cen, deg_cen, ylab = "degree centrality", xlab = "betweenness centrality")
+
 
 
 
@@ -125,17 +151,16 @@ for graph_num, gml_graph in enumerate(gml_files):
     
     network_data = network_data.append(graph_values, ignore_index=True)
     
-    if graph_num == 0:
-        break
+#    if graph_num == 0:
+#        break
 
-
-# In[5]:
-
-#network_data
-
-
-# In[6]:
 
 # save dataframe to csv
 # network_data.to_csv('', encoding = 'utf-8')
+
+
+
+
+
+
 
