@@ -2,5 +2,6 @@
 
 *.png
 
-
 .DS_Store
+.RData
+.Rhistory
