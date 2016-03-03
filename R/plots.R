@@ -1,5 +1,5 @@
 library(ggplot2)
-View(network_df2)
+# View(network_df)
 
 multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
   library(grid)
@@ -37,15 +37,29 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
   }
 }
 
-g = ggplot(data = network_df2, mapping = aes(y = avg.deg.cent, x = sentiment)) + geom_violin() + geom_text(aes(label=name)) + geom_jitter()
-h = ggplot(data = network_df2, mapping = aes(y = avg.bet.cent, x = sentiment)) + geom_violin()
-multiplot(g,h)
+
+# violin multiplot
+a = ggplot(data = network_df, mapping = aes(y = avg.deg.cent, x = sentiment, fill = sentiment)) + geom_violin()
+b = ggplot(data = network_df, mapping = aes(y = avg.bet.cent, x = sentiment, fill = sentiment)) + geom_violin()
+multiplot(a,b)
+
+# box plots
+a = ggplot(data = network_df, mapping = aes(y = avg.bet.cent, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
+b = ggplot(data = network_df, mapping = aes(y = avg.deg.cent, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
+c = ggplot(data = network_df, mapping = aes(y = avg.degree, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
+d = ggplot(data = network_df, mapping = aes(y = density, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
+
+multiplot(a,b,c,d)
+
+# scatter plot
+ggplot(data = network_df, mapping = aes(y = avg.bet.cent, x = avg.deg.cent, color = sentiment)) + geom_point(alpha=0.8) + geom_smooth(method = "lm", se = FALSE)
+
+ggplot(data = network_df, mapping = aes(x = n.nodes, y = avg.degree, color = sentiment)) + geom_point(alpha=0.8)
 
 
-ggplot(data = network_df2, mapping = aes(y = avg.deg.cent, x = sentiment)) + geom_boxplot()
-
-ggplot(data = network_df2, mapping = aes(y = avg.bet.cent, x = avg.deg.cent, color = sentiment)) +
-  geom_point(alpha=0.5)
+#
+ggplot(data = network_df, mapping = aes(x = sentiment, y = ))
 
 
-ggplot(data = network_df2, mapping = aes(x = sentiment, y = ))
+
+
