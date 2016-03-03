@@ -57,9 +57,3 @@ ggplot(data = network_df, mapping = aes(y = avg.bet.cent, x = avg.deg.cent, colo
 ggplot(data = network_df, mapping = aes(x = n.nodes, y = avg.degree, color = sentiment)) + geom_point(alpha=0.8)
 
 
-#
-ggplot(data = network_df, mapping = aes(x = sentiment, y = ))
-
-
-
-

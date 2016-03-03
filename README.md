@@ -1,14 +1,27 @@
 Vaccination sentiment network analysis
 
+### to-do (3/3)
+- spectrum of sentiment (highly positive to less positive, etc.)
+- try manually separating by argument topic: what are people talking about
+- check out CINET for targeted node removal (Maleq)
+- K cores
+- start working on union of network graphs (grouped by sentiment)
 
-## to-do (2/25)
+### to-do (2/25)
+- make box plots per sentiment
+- some other nice figs explaining what the data means
+- fix high centrality node data
+- check out k-cores
+- try manually separating by argument topic
+- start working on union of network graphs (grouped by sentiment)
+
+### to-do (2/18)
 - finish jupyter notebooks for pd export
 - look at distribution of aggregate measures
 - look at clusters of networks for terms with highest centrality
 - cluster articles by overlapping terms
 
-
-## to-do:
+### to-do (2/11)
 - finish all data
 - list all network metrics to run + interpretation
 - create jupyter notebook for analysis
@@ -79,7 +92,7 @@ Assortativity measures the similarity of connections in the graph with respect t
 ### Digraph connectivity
 A digraph G is called weakly connected (or just connected) if the undirected underlying graph obtained by replacing all directed edges of G with undirected edges is a connected graph. A digraph is strongly connected or strong if it contains a directed path from u to v and a directed path from v to u for every pair of vertices u,v. The strong components are the maximal strongly connected subgraphs.
 
-**Strong connectivity**: 
+**Strong connectivity**:
 number_strongly_connected_components(G)
 strongly_connected_component_subgraphs(G, copy=True)
 
