@@ -25,8 +25,8 @@ Diameter is the longest path in the network; higher values of average path and d
 
 Degree centrality refers to the number of connections (edges) that a node has; often interpreted in terms of immediate risk of that node catching whatever is spreading through the network.
 
-- in-degree: number of (incoming) edges directed to a node
-- out-degree: number of (outgoing) edges the node directs to others
+- In-degree: number of (incoming) edges directed to a node
+- Out-degree: number of (outgoing) edges the node directs to others
 
 2. Betweenness centrality
 
