@@ -48,12 +48,10 @@ a = ggplot(data = network_df, mapping = aes(y = avg.bet.cent, x = sentiment, fil
 b = ggplot(data = network_df, mapping = aes(y = avg.deg.cent, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
 c = ggplot(data = network_df, mapping = aes(y = avg.degree, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
 d = ggplot(data = network_df, mapping = aes(y = density, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
-
 multiplot(a,b,c,d)
 
 # scatter plot
 ggplot(data = network_df, mapping = aes(y = avg.bet.cent, x = avg.deg.cent, color = sentiment)) + geom_point(alpha=0.8) + geom_smooth(method = "lm", se = FALSE)
-
 ggplot(data = network_df, mapping = aes(x = n.nodes, y = avg.degree, color = sentiment)) + geom_point(alpha=0.8)
 
 
