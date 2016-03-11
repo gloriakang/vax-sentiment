@@ -1,0 +1,251 @@
+name,sentiment,node,degree,degree centrality,betweenness centrality,closeness centrality
+neutral_all.gml,neutral,7-11 year olds,2,0.00803212851406,0.0,0.0142793395805
+neutral_all.gml,neutral,Alfred and Lisa Claire Dwoskin,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,Americans,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,Andrew Wakefield,5,0.0200803212851,0.000437232802176,0.021686746988
+neutral_all.gml,neutral,Australia,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,Barry Segal,1,0.00401606425703,0.0,0.0177260767207
+neutral_all.gml,neutral,Ben Allen,4,0.0160642570281,0.0,0.0460145667415
+neutral_all.gml,neutral,CDC,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,CDC epidemiologist,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,CDC investigators,2,0.00803212851406,3.2387614976e-05,0.00401606425703
+neutral_all.gml,neutral,California,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,Chairwoman Carol Liu,2,0.00803212851406,0.0,0.0464716006885
+neutral_all.gml,neutral,Children's Hospital of Philadelphia,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,Chris Christie,3,0.0120481927711,0.0,0.0120481927711
+neutral_all.gml,neutral,Connie Leyva,3,0.0120481927711,0.0,0.0452476572959
+neutral_all.gml,neutral,Current schedule,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,Debate,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,Disneyland measles outbreak,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,Dr. Anna Acosta,2,0.00803212851406,0.0,0.00803212851406
+neutral_all.gml,neutral,Dr. Paul Offit,3,0.0120481927711,0.0,0.0125502008032
+neutral_all.gml,neutral,Drew Downing,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,Dwoskin Family Foundation,8,0.0321285140562,0.0,0.0325301204819
+neutral_all.gml,neutral,Focus for Health,4,0.0160642570281,0.00024290711232,0.0215146299484
+neutral_all.gml,neutral,Gambhir study,3,0.0120481927711,0.0,0.0120481927711
+neutral_all.gml,neutral,Generation Rescue,4,0.0160642570281,0.000388651379712,0.0214190093708
+neutral_all.gml,neutral,Immunization Action Coalition,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,Jenny McCarthy,3,0.0120481927711,0.0,0.0
+neutral_all.gml,neutral,Lisa and J.B. Handley,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,MMR vaccine,1,0.00401606425703,0.0,0.0053547523427
+neutral_all.gml,neutral,MMR vaccine causes autism,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,National Vaccine Information Center,2,0.00803212851406,1.6193807488e-05,0.00401606425703
+neutral_all.gml,neutral,PLOS Computational Biology,1,0.00401606425703,0.0,0.0339382220239
+neutral_all.gml,neutral,Pez dispensers,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,Rand Paul,3,0.0120481927711,0.0,0.0120481927711
+neutral_all.gml,neutral,Renee Gentry,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,Republican,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,Richard Pan,2,0.00803212851406,0.0,0.00903614457831
+neutral_all.gml,neutral,SB277,26,0.104417670683,0.00468001036404,0.0697233377956
+neutral_all.gml,neutral,SB277 change,1,0.00401606425703,0.0,0.0053547523427
+neutral_all.gml,neutral,SB277 opponents,2,0.00803212851406,0.0,0.00803212851406
+neutral_all.gml,neutral,SB277 proposal,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,Saron Runner,1,0.00401606425703,0.0,0.0437880554476
+neutral_all.gml,neutral,Senate Education Committee,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,Senate committee,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,Senate panel,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,Tdap,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,Tina Kimmel,2,0.00803212851406,0.0,0.0464716006885
+neutral_all.gml,neutral,U.S.,3,0.0120481927711,0.0,0.0
+neutral_all.gml,neutral,University of British Columbia,2,0.00803212851406,0.0,0.00401606425703
+neutral_all.gml,neutral,Vaccinations,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,Vaccine Injured Petitioners Bar Association,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,Wakefield study,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,Whooping cough,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,acelluar vaccine,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,acellular pertussis vaccine,8,0.0321285140562,0.00116595413914,0.0416385542169
+neutral_all.gml,neutral,adolescents,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,age 65 and older,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,age 85 and older,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,ages 65-84,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,aluminum,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,alzheimer's,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,amendent,2,0.00803212851406,0.0,0.00803212851406
+neutral_all.gml,neutral,anti-vaccine,4,0.0160642570281,9.71628449281e-05,0.0120481927711
+neutral_all.gml,neutral,anti-vaccine bandwagon,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,anti-vaccine label,2,0.00803212851406,0.0,0.00803212851406
+neutral_all.gml,neutral,anti-vaccine movement,9,0.0361445783133,0.000566783262081,0.0206540447504
+neutral_all.gml,neutral,anti-vaccine voices,3,0.0120481927711,0.0,0.0120481927711
+neutral_all.gml,neutral,anti-vaxx movement,1,0.00401606425703,0.0,0.0140562248996
+neutral_all.gml,neutral,anti-vaxxers,3,0.0120481927711,6.47752299521e-05,0.0125502008032
+neutral_all.gml,neutral,artificial vaccine,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,artificially created,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,artificially created vaccine,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,asthma,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,autism,2,0.00803212851406,1.6193807488e-05,0.00401606425703
+neutral_all.gml,neutral,autism epidemic,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,autism spectrum disorder,2,0.00803212851406,0.0,0.00803212851406
+neutral_all.gml,neutral,bacteria,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,booster,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,breathing,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,cases,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,celebrities,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,changes,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,changes in diagnostic criteria,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,changes to SB277,3,0.0120481927711,0.000582977069569,0.0358577165806
+neutral_all.gml,neutral,childhood illnesses,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,children,6,0.0240963855422,0.00226713304832,0.0542861099571
+neutral_all.gml,neutral,chronic illness,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,clusters who refuse vaccination,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,cognitive disorders,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,committee hearing room,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,committee members,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,concerns,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,concerns about vaccine duration,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,crazy people,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,data,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,deadly disease,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,death,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,death of elderly,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,decreasing effectiveness,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,deprive young people of right to an education,3,0.0120481927711,0.0,0.0
+neutral_all.gml,neutral,discredited,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,disease,4,0.0160642570281,0.0,0.0
+neutral_all.gml,neutral,drop in vaccine efficacy,1,0.00401606425703,0.0,0.0324322500084
+neutral_all.gml,neutral,effective,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,effectiveness,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,elders,2,0.00803212851406,3.2387614976e-05,0.00401606425703
+neutral_all.gml,neutral,exemption,2,0.00803212851406,1.6193807488e-05,0.00401606425703
+neutral_all.gml,neutral,fair balance,2,0.00803212851406,0.000226713304832,0.00401606425703
+neutral_all.gml,neutral,findings,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,for-profit,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,former research scientist,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,friends and family,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,government mandate,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,high risk,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,high vaccine coverage,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,high-dose flu vaccine,11,0.0441767068273,0.000178131882368,0.0404953145917
+neutral_all.gml,neutral,home-school,5,0.0200803212851,0.0,0.0
+neutral_all.gml,neutral,hospitalization of elderly,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,immune disorders,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,immune response,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,immune responses,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,immunization,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,immunization waivers,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,immunization waviers,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,immunizations,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,immunized person,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,improved pertussis vaccine,2,0.00803212851406,3.2387614976e-05,0.0053547523427
+neutral_all.gml,neutral,in between,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,inclusion of out-of-hospital diagnoses,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,increase in cases,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,increase in pertussis,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,increase in pertussis cases,2,0.00803212851406,1.6193807488e-05,0.00401606425703
+neutral_all.gml,neutral,infant,2,0.00803212851406,0.00024290711232,0.0311591192356
+neutral_all.gml,neutral,infant deaths,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,inflammatory disorders,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,influenza illness,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,kindergarteners,2,0.00803212851406,0.0,0.00803212851406
+neutral_all.gml,neutral,lawyer,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,link between aluminum in vaccines and neurological disorders,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,low number of cases,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,low-income family,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,magic,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,major flu impacts,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,man-made,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,maternal inoculation,1,0.00401606425703,0.0,0.0228469433289
+neutral_all.gml,neutral,measles outbreak,1,0.00401606425703,0.0,0.0140562248996
+neutral_all.gml,neutral,measles vaccination is safe,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,medical belief,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,medical license,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,medical science,3,0.0120481927711,0.0,0.0120481927711
+neutral_all.gml,neutral,minimal,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,miracles,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,misrepresentation,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,mixed findings,1,0.00401606425703,0.0,0.0240963855422
+neutral_all.gml,neutral,necessary,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,negative perception,3,0.0120481927711,0.0,0.013143483023
+neutral_all.gml,neutral,neurological disorders,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,new whooping cough vaccine,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,nonprofit organizations,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,not perfect,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,open conversations,3,0.0120481927711,1.6193807488e-05,0.0053547523427
+neutral_all.gml,neutral,options,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,parent's option,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,parents,8,0.0321285140562,0.000761108951937,0.0522925033467
+neutral_all.gml,neutral,parents with vaccine-injured children,4,0.0160642570281,0.0,0.0171352074967
+neutral_all.gml,neutral,people,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,personal belief,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,personal belief exemption,2,0.00803212851406,0.000226713304832,0.00401606425703
+neutral_all.gml,neutral,personal beliefs,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,pertussis,6,0.0240963855422,0.000129550459904,0.0206540447504
+neutral_all.gml,neutral,pertussis cases,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,pertussis in adults,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,pertussis in infants,3,0.0120481927711,0.0,0.0120481927711
+neutral_all.gml,neutral,pertussis in teens,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,pertussis vaccine,7,0.0281124497992,0.000145744267392,0.0120481927711
+neutral_all.gml,neutral,pharmaceuticals,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,polarized area,4,0.0160642570281,4.8581422464e-05,0.0120481927711
+neutral_all.gml,neutral,politicians,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,pregnant women,1,0.00401606425703,0.0,0.00917957544464
+neutral_all.gml,neutral,president,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,preteens,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,proposed restrictions,4,0.0160642570281,0.00024290711232,0.00401606425703
+neutral_all.gml,neutral,protection,1,0.00401606425703,0.0,0.0339382220239
+neutral_all.gml,neutral,protest,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,protested,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,provide protection,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,public education,3,0.0120481927711,0.0,0.0
+neutral_all.gml,neutral,reach everyone,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,reduced immunity,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,reduced pertussis cases,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,religious exemptions,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,research,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,rise,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,risk of complications,2,0.00803212851406,0.0,0.00803212851406
+neutral_all.gml,neutral,rubella vaccination is safe,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,safety against communicable diseases,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,school,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,severe coughing,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,severe disease,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,side effect risk,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,side effects,1,0.00401606425703,0.0,0.0311591192356
+neutral_all.gml,neutral,side of right and good,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,significantly increased,3,0.0120481927711,0.0,0.0
+neutral_all.gml,neutral,single working parent,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,sleep,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,small clusters,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,standard flu vaccine,2,0.00803212851406,0.0,0.00803212851406
+neutral_all.gml,neutral,standard vaccine,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,state-required vaccinations,2,0.00803212851406,9.71628449281e-05,0.00401606425703
+neutral_all.gml,neutral,students enrolled in independent study program,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,symptomatic flu infections,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,the sake of being anti-vaccine,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,trend is upward,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,upward trend,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,vaccinated children,2,0.00803212851406,0.000226713304832,0.00401606425703
+neutral_all.gml,neutral,vaccination,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,vaccination change,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,vaccination schedule,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,vaccine allergy,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,vaccine choice,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,vaccine concerns,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,vaccine debate,4,0.0160642570281,0.0,0.0196787148594
+neutral_all.gml,neutral,vaccine efficacy,2,0.00803212851406,4.8581422464e-05,0.00401606425703
+neutral_all.gml,neutral,vaccine exemptions,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,vaccine modification,1,0.00401606425703,0.0,0.0053547523427
+neutral_all.gml,neutral,vaccine protocols,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,vaccine reaction,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,vaccine refusal,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,vaccine refusal clusters,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,vaccine risks,3,0.0120481927711,0.000145744267392,0.00401606425703
+neutral_all.gml,neutral,vaccine safety,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,vaccine-injured children,3,0.0120481927711,0.0,0.0
+neutral_all.gml,neutral,vaccine-preventable diseases,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,vaccines,17,0.0682730923695,0.000680139914497,0.0562248995984
+neutral_all.gml,neutral,vaccines cause childhood illnesses,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,vaccines should be voluntary,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,vomiting,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,waning effectiveness of Tdap,2,0.00803212851406,0.0,0.0
+neutral_all.gml,neutral,waning immunity,1,0.00401606425703,0.0,0.00917957544464
+neutral_all.gml,neutral,wealthy family foundations,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,whole-cell vaccine,5,0.0200803212851,0.00194325689856,0.0410733844469
+neutral_all.gml,neutral,whole-virus DTaP vaccine,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,whooping cough,4,0.0160642570281,0.000113356652416,0.0144578313253
+neutral_all.gml,neutral,whooping cough booster shot,2,0.00803212851406,0.0,0.00803212851406
+neutral_all.gml,neutral,whooping cough cases,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,whooping cough vaccination,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,whooping cough vaccination is safe,1,0.00401606425703,0.0,0.0
+neutral_all.gml,neutral,whooping cough vaccine,1,0.00401606425703,0.0,0.00401606425703
+neutral_all.gml,neutral,young children,1,0.00401606425703,0.0,0.00917957544464
+neutral_all.gml,neutral,young people,1,0.00401606425703,0.0,0.00401606425703

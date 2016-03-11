@@ -1,0 +1,1564 @@
+name,sentiment,node,degree,degree centrality,betweenness centrality,closeness centrality
+neg_all.gml,neg,religious exemption,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,adverse effects,15,0.00960307298335,3.77314847093e-05,0.0089628681178
+neg_all.gml,neg,flu shot campaign,1,0.000640204865557,0.0,0.00146332540699
+neg_all.gml,neg,toxic adjuvants,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,government health agencies,1,0.000640204865557,0.0,0.001152368758
+neg_all.gml,neg,controversial,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,swine-flu-related drugs,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,safe level of exposure,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,heightened emotion,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,Dr. Paul Offit,16,0.0102432778489,0.0,0.00942847165638
+neg_all.gml,neg,tremors,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,disability,3,0.00192061459667,0.0,0.0626574801938
+neg_all.gml,neg,proper protocol,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,flu shot while pregnant,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,genetic tests,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,partial facial paralysis,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Merck's RotaTeq vaccine,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,safe form of mercury,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,financial compensation,7,0.0044814340589,0.00160878301471,0.0543049811897
+neg_all.gml,neg,legislators,2,0.00128040973111,8.20249667594e-07,0.000960307298335
+neg_all.gml,neg,risk,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,compassion,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine additives,9,0.00576184379001,0.00327404116934,0.0800533352315
+neg_all.gml,neg,Hilleman,2,0.00128040973111,0.0,0.0521616258069
+neg_all.gml,neg,medical industry,1,0.000640204865557,0.0,0.0585076699467
+neg_all.gml,neg,medical ethics,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,financial conlicts of interest,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,school,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,irritable bowels,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,sicker children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine program,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Renee Gentry,2,0.00128040973111,0.0,0.0608148306408
+neg_all.gml,neg,convenience,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine damage,12,0.00768245838668,0.0268238403557,0.103590555921
+neg_all.gml,neg,first measles vaccine,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,neural damage,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,protection,2,0.00128040973111,0.000313034614809,0.0569129180161
+neg_all.gml,neg,sinister revenue model,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,members of the herd,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,traditional medicine,1,0.000640204865557,0.0,0.0628114444549
+neg_all.gml,neg,autism rates,3,0.00192061459667,8.20249667594e-07,0.00128040973111
+neg_all.gml,neg,stay awake during the school day,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,oxymoron,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mutagen,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,seasonal influenza vaccine,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,pro-vax people,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,changes,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,punishment,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Government Accounting Office,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,hepatitis B vaccines,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,pharma-controlled lamestream media,1,0.000640204865557,0.0,0.062260604927
+neg_all.gml,neg,house of cards,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,hospital,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,WHO,2,0.00128040973111,0.0,0.0014404609475
+neg_all.gml,neg,Church of Vaccines,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,Vaccine Adverse Event Reporting System,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,Iraq war,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,blood-transmitted disease,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,right to informed consent,2,0.00128040973111,0.0,0.00261416986769
+neg_all.gml,neg,worldwide measles death rates,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,MTHFR C677T enzyme defects,5,0.00320102432778,0.000136571569654,0.000640204865557
+neg_all.gml,neg,mentally-challenged status,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,vaccine story,8,0.00512163892446,0.000691893377727,0.00288092189501
+neg_all.gml,neg,vaccine court,12,0.00768245838668,0.00170119781059,0.00660421861311
+neg_all.gml,neg,Pandemrix victims,3,0.00192061459667,2.46074900278e-06,0.0014404609475
+neg_all.gml,neg,secret gathering,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,15 doses of seven vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,sucrose,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,poor access to nutritious food,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,revenues,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,stand up and fight,2,0.00128040973111,0.000255507771455,0.0481367830809
+neg_all.gml,neg,medical science,2,0.00128040973111,0.000159743622764,0.0822873817961
+neg_all.gml,neg,safety of simultaneous vaccinations,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,initiatives that helped the poor,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,black children,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,vaccine injury lawsuits,2,0.00128040973111,0.0,0.0014404609475
+neg_all.gml,neg,Washington Post,3,0.00192061459667,0.000109255287953,0.087558977777
+neg_all.gml,neg,recent increase of autism,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,polio,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,medical treatment,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,travel,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,real story on vaccines and autism,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,toxic,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,human beings,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,widespread,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,truthful,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,loss of language,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,fever,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,arthritis,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,more health,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,law,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,newborn boys,2,0.00128040973111,0.000130419697147,0.000640204865557
+neg_all.gml,neg,federal level,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,medical license,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,effective,4,0.00256081946223,0.0,0.0
+neg_all.gml,neg,cigarettes,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,safety concerns,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,non-medical legal exemptions to vaccination,6,0.00384122919334,0.000792361178896,0.00329248216572
+neg_all.gml,neg,Nichole Rolfe,18,0.01152368758,2.37872403602e-05,0.0601482223033
+neg_all.gml,neg,Mexican descent,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,senators,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,inflammatory adjuvant,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,trace levels of mercury,2,0.00128040973111,0.0,0.0426338993896
+neg_all.gml,neg,more severe autism,1,0.000640204865557,0.0,0.0682643061164
+neg_all.gml,neg,unfair market practices,2,0.00128040973111,0.000132470321316,0.000640204865557
+neg_all.gml,neg,California government,7,0.0044814340589,0.000525971428517,0.0659438283296
+neg_all.gml,neg,get lost,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,first-world nations,3,0.00192061459667,8.20249667594e-07,0.0686467267659
+neg_all.gml,neg,folate,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,biological and military programs,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,GlaxoSmithKline,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,hidden,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Freedom of Information Act,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,low-level mercury poisoning,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,diseases,2,0.00128040973111,0.000660300982413,0.00177834684877
+neg_all.gml,neg,litigious,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,safe,6,0.00384122919334,0.0,0.0
+neg_all.gml,neg,intimidation,1,0.000640204865557,0.0,0.00152519394442
+neg_all.gml,neg,MRC-5 cells,2,0.00128040973111,8.20249667594e-07,0.000853606487409
+neg_all.gml,neg,Merck,15,0.00960307298335,0.000543005279947,0.0736586876086
+neg_all.gml,neg,California's vaccine violence,1,0.000640204865557,0.0,0.0714028949034
+neg_all.gml,neg,schools,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,cellular degeneration,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,loss of consciousness,2,0.00128040973111,4.92149800556e-06,0.000853606487409
+neg_all.gml,neg,genetically engineered human protein,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,pharmaceutical industry,8,0.00512163892446,7.38224700834e-06,0.00384122919334
+neg_all.gml,neg,pharma-controlled,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,children with vaccine injuries,3,0.00192061459667,0.0,0.00204865556978
+neg_all.gml,neg,childhood vaccinations,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,toxic load,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,media stories,3,0.00192061459667,0.0,0.0588008524825
+neg_all.gml,neg,encephalitis,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine manufacturers,11,0.00704225352113,0.00274124708159,0.0667974701203
+neg_all.gml,neg,mandates,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,cancer patients,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,dangerous medical intervention,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,actual number measles cases,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,questionable ethical practices,1,0.000640204865557,0.0,0.00241307987787
+neg_all.gml,neg,safety,3,0.00192061459667,0.00104947824647,0.0568998436035
+neg_all.gml,neg,to vaccinate children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,refusal of medical care,1,0.000640204865557,0.0,0.00152519394442
+neg_all.gml,neg,permanent injury,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine risks,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measles recovery period,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,rational scientist,5,0.00320102432778,0.0,0.0642640911913
+neg_all.gml,neg,revisionist history purge,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,USDA food donations,4,0.00256081946223,0.000256328021123,0.0631834324427
+neg_all.gml,neg,mandatory vaccination law,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,MRC-5,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,regional lymphadenopathy,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,deliberate release of pathogens,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,medical genocide,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,information about vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine agenda,3,0.00192061459667,0.0,0.0644179280808
+neg_all.gml,neg,vaccinating children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,children of California,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,AIDS,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,elderly people,3,0.00192061459667,0.000764882815031,0.0490854179957
+neg_all.gml,neg,political weapon,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Congress,3,0.00192061459667,0.0,0.0575838322317
+neg_all.gml,neg,lawsuits,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,quack science section,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,top health officials,1,0.000640204865557,0.0,0.0641575198202
+neg_all.gml,neg,Big Tobacco,2,0.00128040973111,0.0,0.0864887136317
+neg_all.gml,neg,immunization schedule,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,exposures,2,0.00128040973111,0.0,0.0596792936871
+neg_all.gml,neg,CDC officials,5,0.00320102432778,0.0,0.065090630497
+neg_all.gml,neg,Italian descent,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,thimerosal-neurodevelopmental disorders link,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Connie Smith,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,injected,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,monster under the bed,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,human muscle tissue,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,target,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Paul Offit,1,0.000640204865557,0.0,0.0549578980539
+neg_all.gml,neg,pneumonia,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,high risk of speech disorder,2,0.00128040973111,1.36708277932e-07,0.000640204865557
+neg_all.gml,neg,guilt,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine companies,4,0.00256081946223,0.0,0.00256081946223
+neg_all.gml,neg,iron,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,sellout editors,2,0.00128040973111,0.000138536617992,0.051838639432
+neg_all.gml,neg,spectrum,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,wander off,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,MMR vaccine,2,0.00128040973111,0.0,0.0595024124195
+neg_all.gml,neg,biological warfare program,3,0.00192061459667,8.20249667594e-07,0.000640204865557
+neg_all.gml,neg,vaccine injury denialism,3,0.00192061459667,0.000264120392965,0.00128040973111
+neg_all.gml,neg,highest vaccine rates,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,defective vaccines,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,unvaccinated,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,multi-dose vaccines,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,adverse events,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,people you know,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pro-vaccine,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,neurological damage,4,0.00256081946223,0.00207208001879,0.0672874271139
+neg_all.gml,neg,young adults,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine-damaged child,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,MTHFR C677T defect,4,0.00256081946223,0.0,0.00256081946223
+neg_all.gml,neg,formaldehyde,10,0.00640204865557,0.00128760464157,0.0697704279454
+neg_all.gml,neg,glutathione levels,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccination ,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,campaign of fear mongering,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,vaccines harm no children at all,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,aborted human fetus,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,accepted rate,1,0.000640204865557,0.0,0.0595024124195
+neg_all.gml,neg,marketing vaccines to children,2,0.00128040973111,0.0,0.000640204865557
+neg_all.gml,neg,lemming society,5,0.00320102432778,3.28099867038e-06,0.00128040973111
+neg_all.gml,neg,critical thinking,4,0.00256081946223,4.10124833797e-06,0.00128040973111
+neg_all.gml,neg,vaccines with thimerosal,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,national news headlines,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,vaccine adverse event,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Peter Todd,3,0.00192061459667,2.05062416898e-06,0.00177834684877
+neg_all.gml,neg,severe autism,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,bacillus thuringiensis bacteria,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,race effects,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,vaccine decisions,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,chest pain,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,sodium phosphate dibasic,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,influenza vaccine,3,0.00192061459667,0.000270207817284,0.00170721297482
+neg_all.gml,neg,measles is deadly,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Gardasil injury claims information,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,intellectual bullies,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,parental choice,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mandatory Health Law,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,cumulative effect of vaccines,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,Pharmaceutical companies,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,individual doctors,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,blood serum of aborted baby cows,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,health problems,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,cataplexy,4,0.00256081946223,0.000309205110024,0.0627845422576
+neg_all.gml,neg,elopement,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine refusal,2,0.00128040973111,0.0,0.00160051216389
+neg_all.gml,neg,swine flu,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,encephalopathy,7,0.0044814340589,0.00152320363272,0.0594396494375
+neg_all.gml,neg,permanent neurological injury,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,powerful lobbying,3,0.00192061459667,0.00107452706455,0.00502421644491
+neg_all.gml,neg,Flinstones,1,0.000640204865557,0.0,0.04804611443
+neg_all.gml,neg,ignorance of scientific facts,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,compensation,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,self-insurance policy,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Baker College nursing school,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,First do no harm,2,0.00128040973111,0.0,0.000640204865557
+neg_all.gml,neg,Pandemrix-narcolepsy link,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,CDC website,6,0.00384122919334,0.000378271805039,0.0599721596141
+neg_all.gml,neg,U.S. public,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,vaccine ingredient,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,flu shot toxins,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,big Pharma,3,0.00192061459667,8.20249667594e-07,0.00128040973111
+neg_all.gml,neg,statistically acceptable collateral damage,2,0.00128040973111,0.000255917896289,0.0458404578395
+neg_all.gml,neg,New Jersey law,1,0.000640204865557,0.0,0.0544280370592
+neg_all.gml,neg,Matthew Downing,6,0.00384122919334,0.000255507771455,0.0795406540303
+neg_all.gml,neg,vaccine safety concerns,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,VAERS,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,logic,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,healthier children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,death from murder,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,poor access to clean water,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,informed consent rights,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,vaccine messages,1,0.000640204865557,0.0,0.000960307298335
+neg_all.gml,neg,uninformed consent,5,0.00320102432778,1.64049933519e-06,0.00256081946223
+neg_all.gml,neg,vaccine successes,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,trust,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine science,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,AIDS virus,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,behavior changes,7,0.0044814340589,4.71643558866e-06,0.00419043184728
+neg_all.gml,neg,trigger,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,H1N1 swine flu vaccine,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,cranial nerve paralysis,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,families,1,0.000640204865557,0.0,0.058781846742
+neg_all.gml,neg,live viruses,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,efficacy,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,drugs,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,immune-system disruptor,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,child,8,0.00512163892446,0.00179344172112,0.0474219833824
+neg_all.gml,neg,censored,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,public health system,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccinating,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,autism cases,3,0.00192061459667,0.000255507771455,0.0577730932955
+neg_all.gml,neg,mistake,2,0.00128040973111,0.0,0.000640204865557
+neg_all.gml,neg,hepatitis B risk factors,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,initiatives that helped minorities,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,unable to do their jobs,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,hepatitis B vaccination,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,ACIP's rotavirus use recommendation,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,experts,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,immune system,3,0.00192061459667,0.000501582671734,0.0680827430473
+neg_all.gml,neg,death from congenital disease,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,smallpox vaccine,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine reactions,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,babies,3,0.00192061459667,6.15187250695e-06,0.001152368758
+neg_all.gml,neg,mercury additive,2,0.00128040973111,0.000132060196483,0.000853606487409
+neg_all.gml,neg,more vaccination,4,0.00256081946223,0.0,0.00192061459667
+neg_all.gml,neg,parents of vaccine-injured children,4,0.00256081946223,0.0,0.072741733131
+neg_all.gml,neg,greater severity of autism,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pain and suffering,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,30 year old car,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,matter of national security,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,immunocompromised children,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,tune,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,wrong vaccine,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mandatory doses,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,emergency room visits,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Food and Drug Administration Modernization Act,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,severe autism issues,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,Bruesewitz v. Wyeth,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,claims,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,human rights,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mumps vaccine,4,0.00256081946223,0.0,0.0
+neg_all.gml,neg,corporate-controlled science,1,0.000640204865557,0.0,0.0585076699467
+neg_all.gml,neg,hallucinations,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,facts,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,human right,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,dissenters,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,syncope,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,genetic screening,3,0.00192061459667,0.000132060196483,0.000640204865557
+neg_all.gml,neg,obedient,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,skin reactions,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,poisoning children,2,0.00128040973111,0.0,0.056343270975
+neg_all.gml,neg,humanity,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,actual rates,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccines spread disease,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,war propaganda,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,vaccine apologists,4,0.00256081946223,0.0,0.0634237954877
+neg_all.gml,neg,lymphoma,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,precautionary measure,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,denying responsibility,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,human DNA,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,William Thompson,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,thimerosal-induced cellular damage,5,0.00320102432778,0.00052824078593,0.00256081946223
+neg_all.gml,neg,government partnership with big Pharma,4,0.00256081946223,0.0,0.00266752027315
+neg_all.gml,neg,infant boys,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,preventable disease,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,right,2,0.00128040973111,0.0,0.0482820859444
+neg_all.gml,neg,people,18,0.01152368758,0.0,0.063663003868
+neg_all.gml,neg,elderly,3,0.00192061459667,0.00136021318836,0.0646359653461
+neg_all.gml,neg,harassment,7,0.0044814340589,0.000130419697147,0.0773482118029
+neg_all.gml,neg,neomycin,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,number of shots,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,quality of life,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,total quack science delusion,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,everything,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,staged domestic terrorism events,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,polio vaccine,8,0.00512163892446,0.000135751319987,0.00128040973111
+neg_all.gml,neg,infectious disease,2,0.00128040973111,0.00230534179914,0.0681576827755
+neg_all.gml,neg,African American males,2,0.00128040973111,0.0,0.0596792936871
+neg_all.gml,neg,death from car accident,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,marketing,2,0.00128040973111,2.05062416898e-07,0.000640204865557
+neg_all.gml,neg,health care workers,1,0.000640204865557,0.0,0.0544280370592
+neg_all.gml,neg,blatant violations of the Hippocratic Oath,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine harm,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,post,3,0.00192061459667,0.0,0.0655028182985
+neg_all.gml,neg,Global Post,3,0.00192061459667,0.0,0.0636948929611
+neg_all.gml,neg,citizens,4,0.00256081946223,0.0,0.00560611828217
+neg_all.gml,neg,real risks,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,trustworthy,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,genocide,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,revelation,2,0.00128040973111,2.87087383658e-06,0.00142591083692
+neg_all.gml,neg,mantra of pharma-controlled press,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,science of genetics,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,extraordinary powers,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,new viruses,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine abuse,1,0.000640204865557,0.0,0.0384885492974
+neg_all.gml,neg,vaccine injury compensation program,1,0.000640204865557,0.0,0.062260604927
+neg_all.gml,neg,Vaccine Injured Petitioners Bar Association,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccination,9,0.00576184379001,0.000795334583941,0.00230473751601
+neg_all.gml,neg,support,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,payment,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lives of children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,DNA,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,waves of vaccination,4,0.00256081946223,8.20249667594e-07,0.000640204865557
+neg_all.gml,neg,cod-liver oil,3,0.00192061459667,0.000355373168485,0.0061376162111
+neg_all.gml,neg,delusional junk science,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,failure,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,deceitful social engineering,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,one specific age range,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,voluntary vaccination decisions,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Pediatrics paper,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,delusions of their parents,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,endangering the public,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,cancers,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,IV drug abuse,1,0.000640204865557,0.0,0.0630505136422
+neg_all.gml,neg,vaccine toxins,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,number of measles cases,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,promises,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,higher education,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,cow skin,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,evidence,9,0.00576184379001,0.00162739121469,0.0742683715761
+neg_all.gml,neg,health insurance,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,vaccine mandates,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,unconcscionable,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,New York Times,3,0.00192061459667,0.000109255287953,0.087558977777
+neg_all.gml,neg,lawsuit claims,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,forced vaccination,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Kennedy,5,0.00320102432778,0.0,0.00329248216572
+neg_all.gml,neg,gene variation,1,0.000640204865557,0.0,0.082442625834
+neg_all.gml,neg,civil litigation,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,injecting mercury,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,informed consent protocols,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lying about vaccine safety,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,World War II,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,culprit,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Jenny McCarthy,3,0.00192061459667,0.0,0.00228644594842
+neg_all.gml,neg,college campuses,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,over-vaccination,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,thimerosal manufactuers,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,profits,7,0.0044814340589,0.00387807201506,0.0663145968423
+neg_all.gml,neg,safe level,2,0.00128040973111,0.0,0.0424190818986
+neg_all.gml,neg,biological weapons,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Vaccine Injury Compensation Program,5,0.00320102432778,0.00235042542249,0.00576184379001
+neg_all.gml,neg,battle,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,get child vaccinated,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,supposedly independent vaccine advisory panels,1,0.000640204865557,0.0,0.0715056328817
+neg_all.gml,neg,runny nose,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,flu shot ingredients,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,outright lies,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,public health officials,4,0.00256081946223,0.000134931070319,0.00200064020487
+neg_all.gml,neg,trust of patients,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,5 to 7 vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,cover-ups,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Sharyl Attkisson,2,0.00128040973111,0.0,0.00167279335839
+neg_all.gml,neg,parent-reported cases,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,thimerosal phase out,3,0.00192061459667,0.000255917896289,0.0684648200305
+neg_all.gml,neg,convulsions,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,petitioner-friendly,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,unavoidably unsafe,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Saddam's imaginary WMDs,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,member of the lunatic fringe,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,global measles death count for children,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,neurotoxin,3,0.00192061459667,0.000132060196483,0.000640204865557
+neg_all.gml,neg,autism trigger,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,nutrition-lacking food,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,vaccine-injured child,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,medical associations,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,genetic correlation,2,0.00128040973111,0.000146318869871,0.0822873817961
+neg_all.gml,neg,limb paralysis,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccines are effective,4,0.00256081946223,0.000107986223825,0.00170721297482
+neg_all.gml,neg,lawyer of Pandemrix victims,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,public outcry,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,flu shot vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,time-consuming,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,brain dysfunction,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,water,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,criminal mafia,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,misguided notion,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,connective tissue disorders,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mandating vaccines,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,measles mortality rate,3,0.00192061459667,0.000135409549292,0.00128040973111
+neg_all.gml,neg,sanitation improvements,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,ethicality,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,UK government,4,0.00256081946223,0.000343958027278,0.0478156407734
+neg_all.gml,neg,ineffective,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,studies,2,0.00128040973111,0.0,0.0627278333496
+neg_all.gml,neg,viral replication,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,"Robert F. Kennedy, Jr.",1,0.000640204865557,0.0,0.00163892445583
+neg_all.gml,neg,brain damage,5,0.00320102432778,0.000745837073444,0.0514082646754
+neg_all.gml,neg,neurodevelopmental disorders,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,bribery,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,market,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,covering up side effects,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Australia,1,0.000640204865557,0.0,0.054578792145
+neg_all.gml,neg,immune system dysfunction,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,ethical track record,4,0.00256081946223,0.0,0.00256081946223
+neg_all.gml,neg,social campaigns,2,0.00128040973111,0.0,0.00737759892689
+neg_all.gml,neg,criminal side,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,aspirin,4,0.00256081946223,3.69112350417e-06,0.000640204865557
+neg_all.gml,neg,federal government representatives,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,"measles, mumps, rubella vaccine and autism",1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,sourced blood,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,ignorant,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,health outcomes,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,Senate hearing,2,0.00128040973111,1.23037450139e-06,0.000640204865557
+neg_all.gml,neg,high risk of autism,2,0.00128040973111,1.36708277932e-07,0.000640204865557
+neg_all.gml,neg,top secret biological programs,2,0.00128040973111,2.05062416898e-07,0.000640204865557
+neg_all.gml,neg,whooping cough outbreaks,1,0.000640204865557,0.0,0.0514988754951
+neg_all.gml,neg,antibiotic neomycin,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,MMR,2,0.00128040973111,0.000766523314366,0.0518751720801
+neg_all.gml,neg,brain cancer,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measles outbreak,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lobbying,2,0.00128040973111,0.000107042581621,0.000640204865557
+neg_all.gml,neg,spermicidal applications,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,loss of coordination,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine injury reporting system,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,Guillain Barre Sydrome,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lying about vaccine efficacy,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,California Governor Jerry Brown,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,public health,6,0.00384122919334,0.000134110820652,0.000640204865557
+neg_all.gml,neg,48 doses of 14 vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,good news,1,0.000640204865557,0.0,0.00256081946223
+neg_all.gml,neg,fascist,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,gelatin,2,0.00128040973111,0.000396180589448,0.001152368758
+neg_all.gml,neg,paid shills for pharmaceutical industry,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,comprehensive studies,2,0.00128040973111,0.0,0.000640204865557
+neg_all.gml,neg,smallpox vaccination,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,national health policy,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,false grounds,2,0.00128040973111,0.0,0.00224071702945
+neg_all.gml,neg,mental function,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,autism rate,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mutated genes,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,years,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,RH-,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,fetal bovine serum,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,genetic predisposition,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lower glutahione levels,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,terrorists,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,swine flu pandemic,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pediatric market,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,conventional health experts,1,0.000640204865557,0.0,0.0476475693698
+neg_all.gml,neg,CDC published warnings,1,0.000640204865557,0.0,0.0543367754786
+neg_all.gml,neg,vaccine choices,6,0.00384122919334,0.000176825322092,0.0615205791797
+neg_all.gml,neg,World War I,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,high price,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,legal right,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,chickenpox vaccine,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,extreme challenges,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccines and autism,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,1 in 83,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,deliberate release of toxins,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,aborted fetus,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measle decline,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measles historic cycle,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,fiction and reality,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,scare the crap out of you,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measles antibodies,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccines are not safe,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,pharmacies,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,clincial trial data,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,control group,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,Secretary of U.S. Department of Health and Human Services,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,ADHD,1,0.000640204865557,0.0,0.0628114444549
+neg_all.gml,neg,injecting children,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,flu vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,a-okay,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,criminal cover-up,2,0.00128040973111,0.0,0.0745678760787
+neg_all.gml,neg,girl,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,medications,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,African women,3,0.00192061459667,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,California's lawmakers,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,investigation,1,0.000640204865557,0.0,0.0628273259833
+neg_all.gml,neg,my son's autism,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,IV drug abusers,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,personal exemption,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Pro-Quad Hepatitis A,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,phthalates,2,0.00128040973111,0.0,0.0595024124195
+neg_all.gml,neg,thimerosal-free pediatric formulations,1,0.000640204865557,0.0,0.0591201699414
+neg_all.gml,neg,statistics,4,0.00256081946223,0.000137391819322,0.000640204865557
+neg_all.gml,neg,complicated,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Gardasil,16,0.0102432778489,7.09515962469e-05,0.0108923744487
+neg_all.gml,neg,cough,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,violation of law,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,nursing school at Baker College,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,SV40,19,0.0121638924456,0.0031194539445,0.0695939924715
+neg_all.gml,neg,flu-related hospitalizations,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,scare tactic,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine reaction symptoms,1,0.000640204865557,0.0,0.00146332540699
+neg_all.gml,neg,diabetes deaths,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,anti-vaccination,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,covering up deaths,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Marcia Angell,4,0.00256081946223,8.20249667594e-07,0.00192061459667
+neg_all.gml,neg,vaccine doctrine,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,U.S. government,2,0.00128040973111,0.0,0.0636174066671
+neg_all.gml,neg,surveys,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,special education services,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,statistical links,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,single dose vaccines,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,lobbyists,5,0.00320102432778,2.05062416898e-06,0.0613693314376
+neg_all.gml,neg,child abuse,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,CDC scientific fraud,2,0.00128040973111,1.23037450139e-06,0.000640204865557
+neg_all.gml,neg,giving children fewer vaccines on the same day,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,labor and delivery floor,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,questionable ingredient,9,0.00576184379001,0.00166486758573,0.0556345505854
+neg_all.gml,neg,revisionist stance,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pathogens,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,annual flu shot,4,0.00256081946223,0.000766523314366,0.0628114444549
+neg_all.gml,neg,population,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,childhood vaccine contents,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,essential oils,3,0.00192061459667,8.20249667594e-06,0.00582004423234
+neg_all.gml,neg,medical care,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,good bacteria,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,argument,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,big Ag,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,violation of Hippocratic Oath,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,seasonal flu vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,young doctors,7,0.0044814340589,2.87087383658e-06,0.00392125480154
+neg_all.gml,neg,GMO,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,non-profit charity,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,preservative,4,0.00256081946223,0.0,0.0
+neg_all.gml,neg,children with severe ASDs,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,healthy genes,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,autoimmune disorders,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine ingredients,3,0.00192061459667,5.94681009006e-06,0.0459726316862
+neg_all.gml,neg,independent media websites,3,0.00192061459667,6.15187250695e-06,0.00177834684877
+neg_all.gml,neg,Gardasil injuries,2,0.00128040973111,0.0,0.0023571179141
+neg_all.gml,neg,other neurological disorders,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pain,2,0.00128040973111,0.000130419697147,0.0437451464511
+neg_all.gml,neg,investigations,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,doses of vaccines,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,incidence,2,0.00128040973111,0.000846497656957,0.0629121207026
+neg_all.gml,neg,U.S. citizens,2,0.00128040973111,0.0,0.0706316299783
+neg_all.gml,neg,scientifically irresponsible assertion,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,fearless parents,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,critical thinking skills,1,0.000640204865557,0.0,0.001152368758
+neg_all.gml,neg,DNA virus,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,adult brain cells,2,0.00128040973111,0.0,0.0642238496417
+neg_all.gml,neg,short lived,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,heightened risk of narcolepsy,2,0.00128040973111,0.000795983948261,0.0514082646754
+neg_all.gml,neg,Kennedy's death,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,cancer-causing,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine delusions,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,contrived swine flu panic campaign,3,0.00192061459667,0.000132060196483,0.000640204865557
+neg_all.gml,neg,synthetic growth hormones,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Rho-GAM shots,2,0.00128040973111,0.0,0.0477971862613
+neg_all.gml,neg,childhood vaccination schedules,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,"aggressive, corporate-constructed effort",1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,troubling data,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,shocking revelations,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,financial collusion,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,good plumbing,1,0.000640204865557,0.0,0.0682643061164
+neg_all.gml,neg,industry-funded findings,2,0.00128040973111,4.39995592525e-05,0.0641575198202
+neg_all.gml,neg,Dissolving Illusions,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,profit-making,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,medical trade associations,4,0.00256081946223,1.02531208449e-06,0.0609323379754
+neg_all.gml,neg,flu-related doctor visits,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,employers,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,thousands of children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,denials,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,unethical,4,0.00256081946223,0.0,0.0
+neg_all.gml,neg,vaccine reaction,5,0.00320102432778,0.0,0.0
+neg_all.gml,neg,glutathione,2,0.00128040973111,0.0,0.00170721297482
+neg_all.gml,neg,aluminum,12,0.00768245838668,0.000700298040362,0.0700664835095
+neg_all.gml,neg,right to decide what you put into your own body,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,higher doses,2,0.00128040973111,0.000511015542911,0.0570174562331
+neg_all.gml,neg,homeopathy,1,0.000640204865557,0.0,0.00537474317363
+neg_all.gml,neg,government propaganda,4,0.00256081946223,0.0002657608923,0.000853606487409
+neg_all.gml,neg,Kennedy's first executive order,1,0.000640204865557,0.0,0.0547296950033
+neg_all.gml,neg,ethylmercury,3,0.00192061459667,0.0,0.068339404363
+neg_all.gml,neg,great records,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Ryan Mojabi,4,0.00256081946223,0.0,0.0550608397706
+neg_all.gml,neg,vaccines,94,0.0601792573624,0.0467803972517,0.0820964597965
+neg_all.gml,neg,complications,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,public hygiene improvements,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,therapies,2,0.00128040973111,2.05062416898e-07,0.000640204865557
+neg_all.gml,neg,parent,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,69 doses of 16 vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,U.S.,7,0.0044814340589,0.0,0.0700008727677
+neg_all.gml,neg,push vaccines on sick children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,coma,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,article,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,neonatal infection,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,normal behavior,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,risk of cancer,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,safety of vaccines,1,0.000640204865557,0.0,0.0595024124195
+neg_all.gml,neg,job,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,underdeveloped country,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measles rate,6,0.00384122919334,0.0,0.00256081946223
+neg_all.gml,neg,naturopathic physician,2,0.00128040973111,0.0,0.0014404609475
+neg_all.gml,neg,cancer,4,0.00256081946223,0.0,0.0
+neg_all.gml,neg,reduced oxidative-reduction activity,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,serious reactions,5,0.00320102432778,1.23037450139e-06,0.0520499837956
+neg_all.gml,neg,adverse reactions to drugs,1,0.000640204865557,0.0,0.0715056328817
+neg_all.gml,neg,drug companies,14,0.0089628681178,0.00363524157597,0.0716681189833
+neg_all.gml,neg,American Academy of Pediatrics,2,0.00128040973111,1.04991957452e-05,0.0475951228298
+neg_all.gml,neg,quackery,2,0.00128040973111,0.0,0.084587855355
+neg_all.gml,neg,reproductive toxin,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,inflammation of immune system,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measles,19,0.0121638924456,0.00208346149734,0.00864276568502
+neg_all.gml,neg,Robert F. Kennedy Jr.,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,Rep. Bill Posey,8,0.00512163892446,0.000515526916083,0.0772229552481
+neg_all.gml,neg,black lives matter,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,shut up,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,public conversation,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,"an infant can safely receive up to 10,000 vaccines at once and 100,000 in a lifetime",2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,grocery stores,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,greater social size,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,post-marking surveillance,3,0.00192061459667,3.69112350417e-05,0.00546308151942
+neg_all.gml,neg,media infiltration,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,believing the earth is flat,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mandating,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,thousands of people,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,death from heart disease,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,vaccine industry,41,0.0262483994878,0.00914282326279,0.106622909688
+neg_all.gml,neg,Thimerosal-free,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,protein,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,right to make informed health and vaccine choices,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,doctor,9,0.00576184379001,0.0,0.049599318981
+neg_all.gml,neg,media,5,0.00320102432778,0.000260278712812,0.00128040973111
+neg_all.gml,neg,basic human right,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,personal financial stake,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,same,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,food,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,internet's truth-based alternative,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine consent forms,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,IRS,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,Josh Hadfield,2,0.00128040973111,0.0,0.0014404609475
+neg_all.gml,neg,persons,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,seizures,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,antibodies,4,0.00256081946223,0.0,0.0
+neg_all.gml,neg,crime against children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine manufactuers,1,0.000640204865557,0.0,0.0544797356421
+neg_all.gml,neg,United Kingdom,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,fabrication of vaccine successes,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,Polysorbate 80,2,0.00128040973111,1.22308498657e-06,0.0488337971621
+neg_all.gml,neg,researchers,2,0.00128040973111,0.0,0.0418940279877
+neg_all.gml,neg,polio vaccines,5,0.00320102432778,0.000205076087726,0.05959697286
+neg_all.gml,neg,health of children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,formula,5,0.00320102432778,5.74174767316e-06,0.00128040973111
+neg_all.gml,neg,media journalist,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,International Business Times,4,0.00256081946223,0.0,0.0643361171485
+neg_all.gml,neg,independent reviews,3,0.00192061459667,0.0,0.00192061459667
+neg_all.gml,neg,single visit,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,death,4,0.00256081946223,0.000264120392965,0.00128040973111
+neg_all.gml,neg,asthma,3,0.00192061459667,0.000170570918376,0.0628114444549
+neg_all.gml,neg,toxic substances,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,toxic heavy metal,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,"Evidence of Harm: Mercury in Vaccines and the Autism Epidemic, A Medical Controversy",1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,shingles,7,0.0044814340589,0.000649637736734,0.0543288043883
+neg_all.gml,neg,pediatrics instructor,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,corporate-funded make-believe science tabloids,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,monosodium L-glutamate,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,real,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,drug representatives,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,simultaneous vaccinations,6,0.00384122919334,0.00028893294541,0.0425429438691
+neg_all.gml,neg,decline in measles prior to measles vaccine,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,general population,2,0.00128040973111,6.56199734075e-06,0.00186241415435
+neg_all.gml,neg,medical fascism propaganda,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Vitamin B12,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,traffic,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,stories about vaccine-injured children,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,world,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,toxic chemical ingredients,5,0.00320102432778,0.000611222710635,0.0681576827755
+neg_all.gml,neg,Elmo,4,0.00256081946223,0.000133290570984,0.000640204865557
+neg_all.gml,neg,food supply,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,sanity,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,benefit,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,laughing,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,side effects,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,Norwegian government,2,0.00128040973111,1.23037450139e-06,0.0479324988935
+neg_all.gml,neg,modus operandi,4,0.00256081946223,9.43287117733e-06,0.00163892445583
+neg_all.gml,neg,imprisonment,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,early intervention,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,school bus staff,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,genetics,1,0.000640204865557,0.0,0.00146332540699
+neg_all.gml,neg,lifetime need,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,CDC documents,4,0.00256081946223,0.000510195293243,0.0741571913791
+neg_all.gml,neg,shingles risk,2,0.00128040973111,0.000526190161761,0.0478248733744
+neg_all.gml,neg,Dr. William Thompson,2,0.00128040973111,0.0,0.0564779936977
+neg_all.gml,neg,group of top government scientists and health officials,3,0.00192061459667,0.0,0.00204865556978
+neg_all.gml,neg,top students,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Vaccine Injury Compensation Fund,5,0.00320102432778,0.000251064752423,0.00128040973111
+neg_all.gml,neg,Merck virologists,4,0.00256081946223,0.0,0.00256081946223
+neg_all.gml,neg,school isolation rooms,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,population growth,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,false consent,1,0.000640204865557,0.0,0.00177834684877
+neg_all.gml,neg,Triton X-100,3,0.00192061459667,6.68430583941e-05,0.0488626986005
+neg_all.gml,neg,Zoster,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,1 in 68,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,expensive anti-narcolepsy drugs,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,parents who decide not to vaccinate,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,case facts,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,industry,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,unprecedented drive,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mass arrest,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lung tissue,3,0.00192061459667,1.23037450139e-06,0.000640204865557
+neg_all.gml,neg,ideology,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,special needs staff,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,discrimination,5,0.00320102432778,8.20249667594e-07,0.00256081946223
+neg_all.gml,neg,Baby Boom,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,sellout media,1,0.000640204865557,0.0,0.00163892445583
+neg_all.gml,neg,swine flu vaaccine,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,wrong doing,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,Andrew Wakefield,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,conflict of interest,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,anti-vaccination stances,4,0.00256081946223,1.23037450139e-06,0.000640204865557
+neg_all.gml,neg,mindless,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,unaware they're running over a cliff,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,righteous anger,3,0.00192061459667,0.00105921573742,0.0870597607051
+neg_all.gml,neg,delaying vaccinations,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,rational doctor,5,0.00320102432778,0.0,0.0642640911913
+neg_all.gml,neg,desire by big Pharma,3,0.00192061459667,0.000867355478604,0.0569652758064
+neg_all.gml,neg,endagered children,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,bovine calf serum,8,0.00512163892446,0.000921960626375,0.0044814340589
+neg_all.gml,neg,demyelination,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,fraud,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine package insert,2,0.00128040973111,8.20249667594e-07,0.000853606487409
+neg_all.gml,neg,criminal fraud,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,altered DNA material,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,normal life,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,medical dictatorship,2,0.00128040973111,0.0,0.0589454740438
+neg_all.gml,neg,bleeding during pregnancy,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine injury cases,2,0.00128040973111,0.000132470321316,0.000640204865557
+neg_all.gml,neg,shingles vaccine ingredients,12,0.00768245838668,0.00337468485324,0.0444357766785
+neg_all.gml,neg,side-effects of drug,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine choice advocate,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Spanish American War,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,you,10,0.00640204865557,0.00270111202703,0.0797697324335
+neg_all.gml,neg,multiple sclerosis,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,immunity,6,0.00384122919334,0.000136981694488,0.000640204865557
+neg_all.gml,neg,health officials,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,GMO soy and corn,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,escalating health conditions,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,questioning vaccines,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,deaths from pneuomnia,1,0.000640204865557,0.0,0.0490806083345
+neg_all.gml,neg,lung tissue1,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,CNN,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measles cases,8,0.00512163892446,0.000396180589448,0.0014404609475
+neg_all.gml,neg,Amish,2,0.00128040973111,0.0,0.00170721297482
+neg_all.gml,neg,cell death,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,scientific literature,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,fraudulent,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,for sale,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,influenza,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,remove heavy metals,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Supreme Court,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Norwegian health authorities,2,0.00128040973111,1.64049933519e-06,0.0547774938635
+neg_all.gml,neg,trace amounts of thimerosal,6,0.00384122919334,0.000819976251038,0.0628961450498
+neg_all.gml,neg,settlement,4,0.00256081946223,0.0,0.0
+neg_all.gml,neg,children,65,0.0416133162612,0.0236467386541,0.0743129370555
+neg_all.gml,neg,carpet,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Drug Companies and Doctor - A Story of Corruption,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,medical fraud,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pre-emptive strike,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,RA 27/3,4,0.00256081946223,0.0,0.0420273422328
+neg_all.gml,neg,sex with multiple partners,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,blockade,2,0.00128040973111,0.0,0.0587705946698
+neg_all.gml,neg,destructive nature,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,fall,2,0.00128040973111,2.87087383658e-06,0.000640204865557
+neg_all.gml,neg,vaccine choice rights,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,infectious diseases,3,0.00192061459667,1.23037450139e-06,0.0584616345523
+neg_all.gml,neg,toxic protein,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,shot of perspective,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,Zostavax,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mothers,5,0.00320102432778,1.76353678533e-05,0.00991549295775
+neg_all.gml,neg,autoimmune disorder,1,0.000640204865557,0.0,0.0538772927718
+neg_all.gml,neg,increased number of vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,exemptions,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,dangers of mercury,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lymphatic cancer,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,illogical,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,consumers,1,0.000640204865557,0.0,0.0641575198202
+neg_all.gml,neg,genetically weakened children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,nurse,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,everyone in America,1,0.000640204865557,0.0,0.0430833753424
+neg_all.gml,neg,public,7,0.0044814340589,0.0,0.0617627235807
+neg_all.gml,neg,threaten parents,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,correlation between thimerosal and neurological disorders,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,former cheerleaders,2,0.00128040973111,6.97667911715e-05,0.0714201324124
+neg_all.gml,neg,government contracts,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,violation of basic human rights,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,the cause,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,toxicity,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Constitution,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,potassium chloride,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,tetanus vaccine,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,one-size-fits-all mandatory vaccination policies,3,0.00192061459667,0.000511015542911,0.0516165505326
+neg_all.gml,neg,product inserts,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,The New England Journal of Medicine,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,MMR II,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,flu shot,8,0.00512163892446,0.00497719881692,0.0770644117007
+neg_all.gml,neg,childhood vaccines with thimerosal,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,loss of cognitive functions,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,injury,6,0.00384122919334,0.0,0.0
+neg_all.gml,neg,Centers for Disease Control and Prevention,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,early immunization,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,antibiotics,6,0.00384122919334,0.0264362002802,0.0873668498082
+neg_all.gml,neg,FETCH.news,2,0.00128040973111,1.64049933519e-06,0.000640204865557
+neg_all.gml,neg,blood or sexual contact,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,behavioral disorders,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,toxins,11,0.00704225352113,0.000679303433046,0.00329248216572
+neg_all.gml,neg,vaccine makers,2,0.00128040973111,0.000272322889641,0.000853606487409
+neg_all.gml,neg,electromagnetic fields,1,0.000640204865557,0.0,0.0595024124195
+neg_all.gml,neg,science,11,0.00704225352113,0.00141267499001,0.0683457558516
+neg_all.gml,neg,new vaccines,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,vaccine insert sheets,3,0.00192061459667,0.0,0.0594596971198
+neg_all.gml,neg,autism patients,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,13 doses of four vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,history,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,children with mild ASDs,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mandatory vaccinations,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,breast milk,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,philosophical exemption,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,information,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,genetic counseling,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,controversial findings,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,brain inflammation,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,chicken kidney cells,2,0.00128040973111,1.22308498657e-06,0.0488337971621
+neg_all.gml,neg,chicken pox,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,advice,1,0.000640204865557,0.0,0.0601541595369
+neg_all.gml,neg,Director of Nursing at Baker College,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pandemic H1N1 swine flu vaccine,3,0.00192061459667,0.000255917896289,0.0629973236621
+neg_all.gml,neg,Baby Boomers,5,0.00320102432778,0.0,0.0638979044434
+neg_all.gml,neg,childhood infection,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,MCR-5,5,0.00320102432778,0.000513476291914,0.0463221790796
+neg_all.gml,neg,lifelong condition,2,0.00128040973111,6.15187250695e-07,0.000640204865557
+neg_all.gml,neg,childhood vaccines,4,0.00256081946223,0.0037794780642,0.0401629672784
+neg_all.gml,neg,infant,1,0.000640204865557,0.0,0.0385542396065
+neg_all.gml,neg,change in attitude,2,0.00128040973111,1.06632456787e-05,0.00184529637719
+neg_all.gml,neg,False Claims Act,2,0.00128040973111,0.0,0.0628273259833
+neg_all.gml,neg,coercion methods,4,0.00256081946223,0.000384286969268,0.0648660967294
+neg_all.gml,neg,severe narcolepsy,2,0.00128040973111,0.0,0.0485506202157
+neg_all.gml,neg,human blood,4,0.00256081946223,0.000133290570984,0.000640204865557
+neg_all.gml,neg,scientific fraud,15,0.00960307298335,0.00285297712511,0.0743352398578
+neg_all.gml,neg,President Johnson,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,medical police state,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,genetic test,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,Crystal Downing,2,0.00128040973111,0.0,0.0666169487502
+neg_all.gml,neg,the herd,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,disclosed,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,autism spectrum disorder,4,0.00256081946223,0.0,0.0
+neg_all.gml,neg,methylfolate,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,neurotoxic chemical,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mitochondrial damage,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pig bones,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,shut your mouth and comply,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,Hollywood celebrities,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,outbreak,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measles complications,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,medical holocaust,2,0.00128040973111,2.24543346504e-05,0.000640204865557
+neg_all.gml,neg,vaccine preservatives,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Disneyland measles outbreak,3,0.00192061459667,0.000512656042246,0.0586354104591
+neg_all.gml,neg,infant death after vaccination,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,vaccines and flu shots,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,state public health laws,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,reactions,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,harm,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,everyone,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,idea,1,0.000640204865557,0.0,0.0873092319971
+neg_all.gml,neg,harmful toxins,2,0.00128040973111,2.74091959857e-05,0.0681576827755
+neg_all.gml,neg,up-to-date vaccinations,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,other vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measles deaths,5,0.00320102432778,0.0,0.0
+neg_all.gml,neg,vaccines caused their children's autism,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,meeting of scientists,1,0.000640204865557,0.0,0.0426923119937
+neg_all.gml,neg,vitamin supplements,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,research,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,health,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,issue,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,GlaxoSmithKine's Energix B,5,0.00320102432778,0.0,0.0615356688484
+neg_all.gml,neg,growing list of vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mercury,33,0.0211267605634,0.0100178538425,0.0749425171577
+neg_all.gml,neg,risen,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,United States,16,0.0102432778489,0.0,0.070163793134
+neg_all.gml,neg,bribery of doctors,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,reduction of thimerosal,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,genetically susceptible adults,3,0.00192061459667,0.0,0.083299387953
+neg_all.gml,neg,VAERS hepatitis B reports,2,0.00128040973111,0.0,0.0521731133067
+neg_all.gml,neg,male neonates,1,0.000640204865557,0.0,0.001152368758
+neg_all.gml,neg,MMR shot,1,0.000640204865557,0.0,0.0595024124195
+neg_all.gml,neg,prejudice,6,0.00384122919334,1.23037450139e-06,0.00320102432778
+neg_all.gml,neg,threat,1,0.000640204865557,0.0,0.0587705946698
+neg_all.gml,neg,GoodGopher.com,2,0.00128040973111,3.28099867038e-06,0.000853606487409
+neg_all.gml,neg,folic acid,5,0.00320102432778,1.23037450139e-06,0.00192061459667
+neg_all.gml,neg,vaccine adverse reactions,2,0.00128040973111,0.00429186431245,0.0742238595164
+neg_all.gml,neg,pushing vaccines on sick children,2,0.00128040973111,2.05062416898e-06,0.000640204865557
+neg_all.gml,neg,11 people,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,unexposed,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,lavish gifts,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,headache,2,0.00128040973111,4.92149800556e-06,0.000853606487409
+neg_all.gml,neg,omitting deaths,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,doctors,30,0.0192061459667,0.0304302541927,0.0868460796655
+neg_all.gml,neg,2009 swine flu pandemic,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,anaphylactic shock,1,0.000640204865557,0.0,0.0641575198202
+neg_all.gml,neg,adverse reactions,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,outrageous,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vitamin D deficiency,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,risks,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,vaccine manufacturer representatives,1,0.000640204865557,0.0,0.0641575198202
+neg_all.gml,neg,newborns,2,0.00128040973111,0.0,0.058958585862
+neg_all.gml,neg,drug industry,1,0.000640204865557,0.0,0.0641575198202
+neg_all.gml,neg,practice of family center care,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lab results,3,0.00192061459667,0.0,0.00128040973111
+neg_all.gml,neg,Octoxinol-9,3,0.00192061459667,6.68430583941e-05,0.0488626986005
+neg_all.gml,neg,public-health officials,1,0.000640204865557,0.0,0.0586216656372
+neg_all.gml,neg,mercury intoxication,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vulnerable,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Alysia Osoff,6,0.00384122919334,0.000268221641303,0.0700142838856
+neg_all.gml,neg,lie,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,Pro-Quad,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,natural immunity,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,the vaccinated herd,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,modern medicine,2,0.00128040973111,0.000136981694488,0.000640204865557
+neg_all.gml,neg,flu vaccine,2,0.00128040973111,0.0,0.0629973236621
+neg_all.gml,neg,mutations in MTHFR C677T enzyme,2,0.00128040973111,8.61262150974e-06,0.00224071702945
+neg_all.gml,neg,Tween 80,2,0.00128040973111,1.22308498657e-06,0.0488337971621
+neg_all.gml,neg,vaccine injury settlement,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,severe vaccine reactions,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,genetic susceptibility,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Dr. Suzanne Humphries,1,0.000640204865557,0.0,0.0682643061164
+neg_all.gml,neg,other side,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lying,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,antiviral qualities,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,not safe,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,stable diseases,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,headlines,1,0.000640204865557,0.0,0.0628273259833
+neg_all.gml,neg,Penn and Teller,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,personalized vaccine decisions,3,0.00192061459667,0.0,0.00192061459667
+neg_all.gml,neg,autism risk,2,0.00128040973111,0.0,0.0641575198202
+neg_all.gml,neg,autism rise,4,0.00256081946223,1.23037450139e-06,0.00192061459667
+neg_all.gml,neg,Children's Hospital,2,0.00128040973111,0.000271912764807,0.0629280439508
+neg_all.gml,neg,CDC study,2,0.00128040973111,8.20249667594e-07,0.000640204865557
+neg_all.gml,neg,CDC scientists,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccines contain additives,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Apartheid,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,whistle,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,courage,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,America,2,0.00128040973111,1.23037450139e-06,0.001152368758
+neg_all.gml,neg,widespread scientific bullying,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,tumors,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,recommendations,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,better diagnosis,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,dizziness,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,disablement,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,remove toxic chemicals,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,ineffective flu vaccine,2,0.00128040973111,0.0,0.0014404609475
+neg_all.gml,neg,government healthcare reform,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,parents of unvaccinated children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,false sense of security,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,death from suicide,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,disabled children,4,0.00256081946223,6.64402230751e-05,0.000640204865557
+neg_all.gml,neg,injecting,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pharmaceutical profits,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,learning disabilities,1,0.000640204865557,0.0,0.0628114444549
+neg_all.gml,neg,I do not believe in thimerosal,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,herd immunity,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,unconscious,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,thimerosal exposure,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,scientific tests,2,0.00128040973111,8.1457627406e-05,0.0514296136225
+neg_all.gml,neg,death from congenital malformation,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,high fructose corn syrup,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine-autism link,11,0.00704225352113,0.00283163856081,0.0539383752627
+neg_all.gml,neg,vaccine laws,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,vaccine corruption,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,efficacy rate,2,0.00128040973111,0.0,0.000640204865557
+neg_all.gml,neg,top government scientists,1,0.000640204865557,0.0,0.0641575198202
+neg_all.gml,neg,criminal conspiracy,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,FDA officials,1,0.000640204865557,0.0,0.0641575198202
+neg_all.gml,neg,rest of the world,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Disney,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Monosodium glutamate,1,0.000640204865557,0.0,0.0489619850766
+neg_all.gml,neg,flu shots do not work,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,disturbing ingredients,4,0.00256081946223,0.000396180589448,0.00192061459667
+neg_all.gml,neg,vaccine exemptions,4,0.00256081946223,1.43087997569e-05,0.000853606487409
+neg_all.gml,neg,narcolepsy,13,0.00832266325224,0.00358470629122,0.0681764434919
+neg_all.gml,neg,maximize profits,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,monosodium glutamate,3,0.00192061459667,2.20617865952e-05,0.0581829972295
+neg_all.gml,neg,silenced,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,forced vaccinations,4,0.00256081946223,0.0,0.0
+neg_all.gml,neg,Pandemrix,10,0.00640204865557,0.00165099169552,0.0461840423655
+neg_all.gml,neg,representative,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Surgeon General Vivek Murthy,10,0.00640204865557,0.0,0.00679746930783
+neg_all.gml,neg,family member,3,0.00192061459667,0.0,0.0516487371157
+neg_all.gml,neg,toxic chemicals,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,plants,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,widespread fear,2,0.00128040973111,0.000766523314366,0.0682643061164
+neg_all.gml,neg,assault and battery,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pig skin,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,holocaust,5,0.00320102432778,3.27416325648e-05,0.00184529637719
+neg_all.gml,neg,malnourishment,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,children with autism,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,seizure-like activity,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,tax dollars,2,0.00128040973111,0.0,0.0014404609475
+neg_all.gml,neg,improved living conditions,2,0.00128040973111,0.000255507771455,0.0682643061164
+neg_all.gml,neg,Varivax vaccine,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pregnant women,8,0.00512163892446,0.00350010102742,0.0542573974165
+neg_all.gml,neg,Attkisson's website,2,0.00128040973111,4.92149800556e-06,0.00153649167734
+neg_all.gml,neg,people who refuse flu shots,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,state level,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,vaccine proponents,2,0.00128040973111,0.0,0.0586266250544
+neg_all.gml,neg,chickenpox,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Guillian-Barre Syndrome,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,European Medicines Agency,1,0.000640204865557,0.0,0.0415105369635
+neg_all.gml,neg,Bill of Rights,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine-derived immunity,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,fabrication,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,aborted baby,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,shortness of breath,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,person,1,0.000640204865557,0.0,0.0632591838757
+neg_all.gml,neg,fresh foods,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,California's brain-damaged lawmakers,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,non-adversarial,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine industry watchdog,1,0.000640204865557,0.0,0.0627004981741
+neg_all.gml,neg,mercury detoxification,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,questions,3,0.00192061459667,1.64049933519e-06,0.000640204865557
+neg_all.gml,neg,high risk of non-organic sleep disorder,2,0.00128040973111,1.36708277932e-07,0.000640204865557
+neg_all.gml,neg,informal,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,health authorities,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,inexpensive test,1,0.000640204865557,0.0,0.00156147528185
+neg_all.gml,neg,parents,18,0.01152368758,0.00337549143208,0.0769447092905
+neg_all.gml,neg,antibioitic neomycin,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,demand for justice,1,0.000640204865557,0.0,0.0628273259833
+neg_all.gml,neg,freedom of choice,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,herd mentality,8,0.00512163892446,2.87087383658e-06,0.00392125480154
+neg_all.gml,neg,vaccine-associated infant death,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,profitable drugs,2,0.00128040973111,0.000255917896289,0.0500362123105
+neg_all.gml,neg,victims,4,0.00256081946223,0.00159627420728,0.0627050681535
+neg_all.gml,neg,non-profit vaccine safety group,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,chewable multivitamin,2,0.00128040973111,0.000766523314366,0.0628114444549
+neg_all.gml,neg,environmental issues,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,cause of death,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,economic numbers,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,trusted voices in defense of vaccine safety,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,obey the government,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,U.S. population,2,0.00128040973111,0.0,0.00582004423234
+neg_all.gml,neg,immunization,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,vaccine-resistant,5,0.00320102432778,2.05062416898e-06,0.00228644594842
+neg_all.gml,neg,vaccine-injured families,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,panel of experts,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,conventional medicine,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,mentally challenged,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,radicalism,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pharma-controlled press,5,0.00320102432778,0.0,0.0759494132575
+neg_all.gml,neg,amniocentesis,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,drug industry's greed,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccinated children,12,0.00768245838668,0.0031821886938,0.0589445547849
+neg_all.gml,neg,censored medical news stories,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,cellular toxicity,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,religion,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Hitler's minions,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measles vaccine,6,0.00384122919334,0.000153090486571,0.0014404609475
+neg_all.gml,neg,think globally act locally,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,central nervous system inflammatory demyelination,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,compromised immunity,6,0.00384122919334,0.00171881608991,0.0559108395499
+neg_all.gml,neg,False Claims document,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,central nervous system disorders,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,paying bribes,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,red spots on body,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccination issue,4,0.00256081946223,0.000150242397448,0.00128040973111
+neg_all.gml,neg,vaccine,13,0.00832266325224,0.00515341220672,0.062092007823
+neg_all.gml,neg,court of law,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,chronic disease,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,underlying condition,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,deaths from influenza,1,0.000640204865557,0.0,0.0490806083345
+neg_all.gml,neg,Big Pharma,7,0.0044814340589,0.00447878195928,0.0793353680993
+neg_all.gml,neg,disclosure,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,pock formation,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,paralysis,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pharmaceutical companies,12,0.00768245838668,0.00280180508616,0.0851443861142
+neg_all.gml,neg,criminal act,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,respiratory system,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,governor of California,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,delusional,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,radio talk show,1,0.000640204865557,0.0,0.00209133589415
+neg_all.gml,neg,chronic health conditions,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pharmaceuticals,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,environmental chemicals,2,0.00128040973111,0.0,0.0596792936871
+neg_all.gml,neg,national vaccination schedule,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,MTHFR,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,teratogen,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,ultimate price,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,link,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,autism-vaccine link,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,brain-damaged,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,rare disease,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,toxic and ineffective flu shots,5,0.00320102432778,0.00052824078593,0.00256081946223
+neg_all.gml,neg,French Canadian descent,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,families of unvaccinated children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pro vaccination camp,3,0.00192061459667,0.0,0.046015449319
+neg_all.gml,neg,crazy approach,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,basic freedom,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,mercury based preservative,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,health care professionals,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,adults,3,0.00192061459667,0.0,0.0516487371157
+neg_all.gml,neg,unsafe,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,swine flu vaccine,13,0.00832266325224,0.00139246267112,0.0586514371788
+neg_all.gml,neg,high levels of thimerosal,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Merck vaccine scientist,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,SB 277,26,0.0166453265045,0.00421265357073,0.0866940914267
+neg_all.gml,neg,politicians,7,0.0044814340589,0.000682447723438,0.00485207898106
+neg_all.gml,neg,serious problems,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,vaccine company,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pertussis vaccine,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,circuit court,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,search engine,2,0.00128040973111,2.05062416898e-06,0.000640204865557
+neg_all.gml,neg,vaccine-injured children,5,0.00320102432778,0.00028565194674,0.00228644594842
+neg_all.gml,neg,individualized approach,2,0.00128040973111,8.20249667594e-07,0.000640204865557
+neg_all.gml,neg,multi-dose vials,2,0.00128040973111,0.0,0.000640204865557
+neg_all.gml,neg,parents of vaccine injured children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,controlled trials,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,Miles Laboratory,1,0.000640204865557,0.0,0.04804611443
+neg_all.gml,neg,alternative media,2,0.00128040973111,2.87087383658e-06,0.00241307987787
+neg_all.gml,neg,vaccines are safe and effective,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,recombinant human albumin,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,genetic testing,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,incurable condition,2,0.00128040973111,6.15187250695e-07,0.000640204865557
+neg_all.gml,neg,rate of measles cases,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine effects,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,lung cancer,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,hidden motivations,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,Tdap vaccine,5,0.00320102432778,0.000258788770126,0.0645349190219
+neg_all.gml,neg,autistic children,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,vaccination schedule,5,0.00320102432778,0.000529881285266,0.00256081946223
+neg_all.gml,neg,thimerosal-autism link,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,mandatory vaccination,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,37 doses of 14 vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,ingredient,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,hydrolyzed porcine gelatin,3,0.00192061459667,0.00109346116104,0.0488434271753
+neg_all.gml,neg,parents who know that vaccines are not safe,1,0.000640204865557,0.0,0.00177287501231
+neg_all.gml,neg,large spike,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,nausea,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,spike in measles cases,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,potassium phosphate monobasic,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine injury victims,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,NVIC,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,number of recommended shots,3,0.00192061459667,0.000255917896289,0.0629973236621
+neg_all.gml,neg,genetically susceptible children,5,0.00320102432778,0.000806783902217,0.0832554686407
+neg_all.gml,neg,world's healthiest children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lifelong immunity,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,prevented pharmaceutical companies from lawsuits for thimerosal harm,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine violence,4,0.00256081946223,0.000133837404096,0.0631205451596
+neg_all.gml,neg,childhood diseases,3,0.00192061459667,0.000509375043576,0.0682643061164
+neg_all.gml,neg,painful skin rashes,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,CDC and Big Pharma,3,0.00192061459667,0.0,0.0630505136422
+neg_all.gml,neg,hundreds of thousands of dollars,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,flu shots,16,0.0102432778489,0.00631309216713,0.0646359653461
+neg_all.gml,neg,body,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,health care sector,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,residual components of MRC-5 cells,3,0.00192061459667,0.000162108675972,0.00128040973111
+neg_all.gml,neg,rules of due process and law,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,death from stomach ulcers,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,cycle of measles,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,threat of job loss,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,endotoxins,1,0.000640204865557,0.0,0.0595024124195
+neg_all.gml,neg,health choices,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,ACIP,1,0.000640204865557,0.0,0.0396123327079
+neg_all.gml,neg,David Kirby,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,toxic vaccines,2,0.00128040973111,3.13967130972e-05,0.0627368336388
+neg_all.gml,neg,illegal,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,genetically at-risk children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine effectiveness,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,mercury in a vaccine is safe,2,0.00128040973111,0.0,0.000640204865557
+neg_all.gml,neg,genetic tendencies,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,squalene,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,clinical research,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,highly susceptible,3,0.00192061459667,0.0,0.00170721297482
+neg_all.gml,neg,custody of children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,unable to sleep,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,generation of children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Homeland Security Bill,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,vaccination coverage,3,0.00192061459667,0.000511015542911,0.0557759987124
+neg_all.gml,neg,neurotoxic effects,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,former editor,2,0.00128040973111,0.0,0.001152368758
+neg_all.gml,neg,employment laws,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,sanctions,6,0.00384122919334,0.000128779197812,0.0769292495124
+neg_all.gml,neg,clients,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lie about vaccine safety,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,proof,2,0.00128040973111,0.0,0.0634462737926
+neg_all.gml,neg,distractions,3,0.00192061459667,0.000256943208374,0.0514478942338
+neg_all.gml,neg,epidemic proportions,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,corporate interests,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lost earnings,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pertussis vaccine booster doses,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,thimerosal-free vaccines,3,0.00192061459667,0.000123037450139,0.0657882113486
+neg_all.gml,neg,measles death rate,3,0.00192061459667,1.23037450139e-06,0.000960307298335
+neg_all.gml,neg,alzheimer's,3,0.00192061459667,0.000470242299018,0.0556595548778
+neg_all.gml,neg,hepatitis B,9,0.00576184379001,0.00148096077484,0.0746488906589
+neg_all.gml,neg,vaccine efficacy,5,0.00320102432778,0.0,0.0
+neg_all.gml,neg,aborted human fetal proteins,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,infectious disease declines,1,0.000640204865557,0.0,0.0682643061164
+neg_all.gml,neg,several vaccines administered simultaneously,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,sleeping cycle,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,acute respiratory illness,2,0.00128040973111,0.0,0.00113814198321
+neg_all.gml,neg,legality,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vitamin A supplements,2,0.00128040973111,0.0,0.00145501105808
+neg_all.gml,neg,U.S. measles death rates,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine injured,2,0.00128040973111,0.0,0.0413721836898
+neg_all.gml,neg,vaccine-injured children do not exist,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,nursing students,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,alienation,1,0.000640204865557,0.0,0.00184529637719
+neg_all.gml,neg,measles death,8,0.00512163892446,0.0,0.0
+neg_all.gml,neg,Nichole Rolfe lawsuit,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,vaccinations,7,0.0044814340589,0.000385312281352,0.0632473509378
+neg_all.gml,neg,brainwash and manipulate,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,vaccine injuries,4,0.00256081946223,1.23037450139e-06,0.00192061459667
+neg_all.gml,neg,African-American children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine products,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,Gardasil lawsuit claims information,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,big pharma sellout pages,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vitamin C,2,0.00128040973111,2.05062416898e-07,0.000640204865557
+neg_all.gml,neg,improved healthcare,1,0.000640204865557,0.0,0.0682643061164
+neg_all.gml,neg,vitamin D,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,fetal development,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,criminal,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,oil of oregano,1,0.000640204865557,0.0,0.00434354378016
+neg_all.gml,neg,physicians,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,American Nursing Association's Code of Ethics,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,vaccine injury,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,consent for vaccines,2,0.00128040973111,0.000132060196483,0.000640204865557
+neg_all.gml,neg,mandate,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,severe brain damage,2,0.00128040973111,4.2617132642e-05,0.0626574801938
+neg_all.gml,neg,special care,2,0.00128040973111,2.05062416898e-07,0.000640204865557
+neg_all.gml,neg,poison picked,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,airports,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,neurotoxins,5,0.00320102432778,0.000254687521788,0.0681014625257
+neg_all.gml,neg,vaccine-related adverse outcomes,6,0.00384122919334,0.000794001678231,0.0462357698723
+neg_all.gml,neg,truth,4,0.00256081946223,0.000655618457579,0.0594824733924
+neg_all.gml,neg,toxic microbes,1,0.000640204865557,0.0,0.0595024124195
+neg_all.gml,neg,shingles vaccine,16,0.0102432778489,0.00456060768158,0.0626416335878
+neg_all.gml,neg,cancer cells,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,myelin,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,improved santitation,1,0.000640204865557,0.0,0.0682643061164
+neg_all.gml,neg,toxic preservatives,3,0.00192061459667,0.0,0.0556386194052
+neg_all.gml,neg,wander,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccinated children versus unvaccinated children,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,studies funded by pharmaceutical companies,4,0.00256081946223,6.90767398638e-06,0.00128040973111
+neg_all.gml,neg,pharma-controlled U.S. media,1,0.000640204865557,0.0,0.062260604927
+neg_all.gml,neg,cancer viruses,6,0.00384122919334,0.000273990730632,0.0596113162951
+neg_all.gml,neg,math,1,0.000640204865557,0.0,0.0743513088761
+neg_all.gml,neg,CDC whistleblower,2,0.00128040973111,4.98711797897e-05,0.0594253884852
+neg_all.gml,neg,National Vaccine Injury Compensation Program,17,0.0108834827145,0.000497925725299,0.0710063908139
+neg_all.gml,neg,NHS medical staff,5,0.00320102432778,0.000318564464652,0.0433698160053
+neg_all.gml,neg,brain damaged and autistic,2,0.00128040973111,0.0019168892961,0.0537744288333
+neg_all.gml,neg,paid damages,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,scary,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,IRF1,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,organic,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Eli Lily drug company reps,2,0.00128040973111,0.0,0.0447362556874
+neg_all.gml,neg,genetically-modified human albumin,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,deadly diseases,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,compensation claims,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,collagen,3,0.00192061459667,0.000264940642633,0.00128040973111
+neg_all.gml,neg,big profit centers,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,ASD,8,0.00512163892446,0.000272322889641,0.00128040973111
+neg_all.gml,neg,swelling of the brain,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,gene products,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,nobody,1,0.000640204865557,0.0,0.000960307298335
+neg_all.gml,neg,chemicals,4,0.00256081946223,0.00108484853953,0.0555347576695
+neg_all.gml,neg,healthcare workers,1,0.000640204865557,0.0,0.0544280370592
+neg_all.gml,neg,marketing pharmaceuticals to children,2,0.00128040973111,0.0,0.000640204865557
+neg_all.gml,neg,genetic defects,2,0.00128040973111,3.69112350417e-06,0.00167279335839
+neg_all.gml,neg,clean up vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mercury content,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,solid marks,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,thimerosal in vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,patients,3,0.00192061459667,0.0,0.0613300892671
+neg_all.gml,neg,New York,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,multi-dose flu vaccine,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Jim Carrey,7,0.0044814340589,0.0,0.0852642433032
+neg_all.gml,neg,I believe in vaccines,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,Baker College nursing school instructors,7,0.0044814340589,9.84299601113e-06,0.00329248216572
+neg_all.gml,neg,pro-vaccine group,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,professional liars,2,0.00128040973111,0.000138536617992,0.051838639432
+neg_all.gml,neg,mandated vaccines,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,abortion chemicals,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,allergies,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,genetic ticking time bombs,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,other vaccine ingredients,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,whooping cough,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,idiopathic thrombocytopenia purpura,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,intelligent questions,11,0.00704225352113,0.00165989319123,0.0687059692666
+neg_all.gml,neg,additional vaccines,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,military records,4,0.00256081946223,0.0,0.00256081946223
+neg_all.gml,neg,children with ASD,11,0.00704225352113,0.0,0.00704225352113
+neg_all.gml,neg,The Vaccine and Autism Congressional Hearing,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,California bill,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,informed consent,12,0.00768245838668,0.00228054190348,0.0545681910567
+neg_all.gml,neg,disease,4,0.00256081946223,0.0,0.0
+neg_all.gml,neg,"if a little is good, a lot must be better",1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,genetic weaknesses,4,0.00256081946223,0.000256328021123,0.0686655754004
+neg_all.gml,neg,ex-models,2,0.00128040973111,6.97667911715e-05,0.0714201324124
+neg_all.gml,neg,science journals,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,government lies,4,0.00256081946223,0.0,0.00288092189501
+neg_all.gml,neg,neurotoxic,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,fear,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,national vaccine policy recommendations,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,debate,2,0.00128040973111,0.00116383174711,0.0475403107881
+neg_all.gml,neg,partners,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,truth seekers,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,line up,4,0.00256081946223,1.23037450139e-06,0.00204865556978
+neg_all.gml,neg,poor access to medical care,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,rash,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,reactive,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,risks of autism,1,0.000640204865557,0.0,0.0518427027465
+neg_all.gml,neg,vaccinated,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,scientific study,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,whistleblower,3,0.00192061459667,0.000258788770126,0.0653496519857
+neg_all.gml,neg,words,2,0.00128040973111,2.87539572577e-05,0.0681952145391
+neg_all.gml,neg,widespread health problems,2,0.00128040973111,0.0,0.0626574801938
+neg_all.gml,neg,too much of a jump,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine scientists meeting,3,0.00192061459667,0.0,0.0626574801938
+neg_all.gml,neg,across Europe,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,taxes,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,dramatic rise,1,0.000640204865557,0.0,0.054578792145
+neg_all.gml,neg,price of vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,FDA,6,0.00384122919334,0.00277854106566,0.0642503292364
+neg_all.gml,neg,risky flu vaccine,2,0.00128040973111,0.0,0.0014404609475
+neg_all.gml,neg,should be questioned,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,vaccine-development business,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mandatory vaccines,7,0.0044814340589,0.000259335603238,0.06543857839
+neg_all.gml,neg,digestive tract,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,sell vaccines to minors,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,promiscuous sexual behavior,1,0.000640204865557,0.0,0.0630505136422
+neg_all.gml,neg,conflicts of interest,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,financial influence,2,0.00128040973111,0.00139498511639,0.0621387403929
+neg_all.gml,neg,state,3,0.00192061459667,0.00185474854836,0.0647035055397
+neg_all.gml,neg,families who decline vaccines,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,cervical cancer,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,eye pain,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,injury claims,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,harmed by vaccines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,harm's way,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,medical professionals,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lawsuit,2,0.00128040973111,1.23037450139e-06,0.000640204865557
+neg_all.gml,neg,genetically vulnerable children,4,0.00256081946223,0.00078954498837,0.0575075503149
+neg_all.gml,neg,hepatitis B vaccine,17,0.0108834827145,0.00578437331422,0.0691857595548
+neg_all.gml,neg,The Advisory Committee on Immunization Practices,5,0.00320102432778,1.23037450139e-06,0.00192061459667
+neg_all.gml,neg,vaccine-damaged children,9,0.00576184379001,0.00232236332612,0.0735406826622
+neg_all.gml,neg,mental illness,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,mainstream media,29,0.0185659411012,0.0212521945124,0.111419261901
+neg_all.gml,neg,placebo,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pack of lemmings,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,blanket statement,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,human carcinogen,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,live-virus vaccine,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,THEY,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,foreign countries,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,respect,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,brain-damanged,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pandemic H1N1 vaccine,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,guinea pigs,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,War on Poverty,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,thimerosal removal,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,questionable ingredients in vaccines,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,larger campaign,4,0.00256081946223,1.23037450139e-06,0.00192061459667
+neg_all.gml,neg,vaccine manufacturer,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,conversation about vaccination,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,infant death,2,0.00128040973111,3.28099867038e-06,0.000640204865557
+neg_all.gml,neg,swine flu vaccines,1,0.000640204865557,0.0,0.0632591838757
+neg_all.gml,neg,Western medicine,2,0.00128040973111,0.000263300143298,0.000853606487409
+neg_all.gml,neg,CDC,50,0.0320102432778,0.0158275030492,0.0910941593255
+neg_all.gml,neg,unvaccinated health care workers,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,value,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,aborted human baby,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,whistleblowers,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,For Profit Offit,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pandemic H1N1 swine flu,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,us not comprehending,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,rubella vaccine,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,bad science,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,systemic reactions,4,0.00256081946223,1.23037450139e-06,0.00192061459667
+neg_all.gml,neg,mandatory flu shots,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,National Academy of Science Institute of Medicine,1,0.000640204865557,0.0,0.001152368758
+neg_all.gml,neg,legal immunity,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,Jimmy Kimmel,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,vaccine choice,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Prevnar,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,denial,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,clinical trials,3,0.00192061459667,8.20249667594e-07,0.000640204865557
+neg_all.gml,neg,vaccines are safe,8,0.00512163892446,0.000644224444015,0.00315177779967
+neg_all.gml,neg,live-virus vaccines,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,injecting any substance,3,0.00192061459667,0.0,0.00192061459667
+neg_all.gml,neg,Disneyland measles operation,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,bone cancer,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine inserts,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,independent review,1,0.000640204865557,0.0,0.0506153116205
+neg_all.gml,neg,chronic illness,2,0.00128040973111,0.0,0.0626574801938
+neg_all.gml,neg,nervous system,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,science that disproves the official narrative,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,population increase,3,0.00192061459667,0.000132470321316,0.0014404609475
+neg_all.gml,neg,reporting,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,top secret military programs,2,0.00128040973111,2.05062416898e-07,0.000640204865557
+neg_all.gml,neg,annual influenza vaccinations,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Brian Hooker,1,0.000640204865557,0.0,0.0627004981741
+neg_all.gml,neg,diabetes,1,0.000640204865557,0.0,0.0628114444549
+neg_all.gml,neg,lupus,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,fighting,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,healthy gut flora,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Herpes Zoster,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,unvaccinated children,8,0.00512163892446,0.000676958886079,0.0589305303845
+neg_all.gml,neg,flu-related deaths,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,autism spectrum disorders,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,letter to the editor,1,0.000640204865557,0.0,0.00209133589415
+neg_all.gml,neg,advertised,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,school vaccination requirement,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,generous,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine safety,10,0.00640204865557,0.0,0.0
+neg_all.gml,neg,vaccinia virus-naive subjects,2,0.00128040973111,0.0,0.00200064020487
+neg_all.gml,neg,vitamin B12,2,0.00128040973111,2.05062416898e-07,0.000640204865557
+neg_all.gml,neg,rational approach,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,variant genotypes,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,aluminum adjuvants,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,parents' consent,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,government,11,0.00704225352113,0.0016035670681,0.0540442983212
+neg_all.gml,neg,measles death count,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,Norwegians,1,0.000640204865557,0.0,0.0415105369635
+neg_all.gml,neg,WHO vaccine specialists,1,0.000640204865557,0.0,0.0641575198202
+neg_all.gml,neg,school officials,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,necessary,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine pushers,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measles decline,5,0.00320102432778,0.000299204294025,0.00230473751601
+neg_all.gml,neg,neurotoxic chemicals,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,fetal toxin,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Codename Artichoke,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,neurotoxins in vaccines,3,0.00192061459667,8.20249667594e-07,0.000640204865557
+neg_all.gml,neg,Civil War,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,medical guidelines,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,lead,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,toxic additives,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,outright lie,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,diptheria vaccine,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,injection of carcinogenic chemicals,2,0.00128040973111,0.000255507771455,0.0438317294521
+neg_all.gml,neg,vaccine manufacturer profits,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,sick children,4,0.00256081946223,6.64402230751e-05,0.000640204865557
+neg_all.gml,neg,evaluating the science independently,1,0.000640204865557,0.0,0.001152368758
+neg_all.gml,neg,schedule,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,media industry,2,0.00128040973111,4.10124833797e-07,0.000640204865557
+neg_all.gml,neg,vaccine supply,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,pig gelatin,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,solid evidence,1,0.000640204865557,0.0,0.0557759987124
+neg_all.gml,neg,CDC scientist,1,0.000640204865557,0.0,0.0628273259833
+neg_all.gml,neg,monkey kidney cells,2,0.00128040973111,1.14971661741e-05,0.001152368758
+neg_all.gml,neg,conscientious belief exemption,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,extensive medication,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,Americans,7,0.0044814340589,0.0249045392727,0.0722535061862
+neg_all.gml,neg,vaccination dangers,2,0.00128040973111,0.0,0.00128040973111
+neg_all.gml,neg,risk of pneumonia,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,additives,4,0.00256081946223,0.00103421179339,0.0555472122014
+neg_all.gml,neg,Poison children for profit,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,Bush Administration,2,0.00128040973111,0.0,0.0812517632761
+neg_all.gml,neg,Chocks,3,0.00192061459667,0.000511835792579,0.0544280370592
+neg_all.gml,neg,benefits of drug,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,sudden infant death syndrome,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,vaccine dangers,4,0.00256081946223,0.00158111956887,0.0626574801938
+neg_all.gml,neg,heavy metals,2,0.00128040973111,0.0,0.0684648200305
+neg_all.gml,neg,FLULAVAL,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,thimerosal,61,0.039052496799,0.0174217939496,0.0762107751404
+neg_all.gml,neg,troubling,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,drownings,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Merck Pharmaceuticals,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,human biology,4,0.00256081946223,0.0,0.0
+neg_all.gml,neg,vaccinations save lives,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,healthy people,1,0.000640204865557,0.0,0.00224071702945
+neg_all.gml,neg,market share,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,infants,3,0.00192061459667,0.0,0.0
+neg_all.gml,neg,problem,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,falsifying drug study results,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,autism numbers,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,shocking dangers,1,0.000640204865557,0.0,0.000960307298335
+neg_all.gml,neg,deaths,9,0.00576184379001,0.00516781898074,0.0590569907502
+neg_all.gml,neg,parent's right,3,0.00192061459667,0.000263026726742,0.0424627154477
+neg_all.gml,neg,vaccine link,2,0.00128040973111,0.0,0.0014404609475
+neg_all.gml,neg,vaccine results,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,MSG,11,0.00704225352113,0.00178304014911,0.0691085433053
+neg_all.gml,neg,education,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,autism,28,0.0179257362356,0.0130438243153,0.0697115168044
+neg_all.gml,neg,hospitalization,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,metal compounds,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,measles data,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,ingredients,1,0.000640204865557,0.0,0.000640204865557
+neg_all.gml,neg,infant who died from simultaneous vaccinations,3,0.00192061459667,0.000758348159346,0.0714201324124
+neg_all.gml,neg,vaccine bullying curriculum,5,0.00320102432778,2.46074900278e-06,0.0564720545063
+neg_all.gml,neg,sick,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,conclusion,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Bell's Palsy,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,unethical advice,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,millions of dollars,4,0.00256081946223,0.000374033848423,0.00204865556978
+neg_all.gml,neg,piece of evidence,2,0.00128040973111,0.000255507771455,0.0476475693698
+neg_all.gml,neg,European countries,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,National Vaccine Information Center,5,0.00320102432778,0.0,0.0369867200199
+neg_all.gml,neg,Royal Navy records,1,0.000640204865557,0.0,0.00184529637719
+neg_all.gml,neg,influenza season,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,Every Child by Two,2,0.00128040973111,0.0,0.084587855355
+neg_all.gml,neg,students,1,0.000640204865557,0.0,0.000853606487409
+neg_all.gml,neg,peer bullying,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,neurological disorders,2,0.00128040973111,0.0,0.0
+neg_all.gml,neg,symptoms of autism,1,0.000640204865557,0.0,0.0
+neg_all.gml,neg,vaccine preservative,3,0.00192061459667,0.000255097646622,0.0593968870998
