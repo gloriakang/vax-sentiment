@@ -1,0 +1,1181 @@
+,name,sentiment,node,degree,degree centrality,betweenness centrality,closeness centrality
+0,article02.gml,positive,nonmedical reasons for exemption,1,0.0285714285714,0.0,0.065306122449
+1,article02.gml,positive,vaccine debate,2,0.0571428571429,0.00168067226891,0.0285714285714
+2,article02.gml,positive,personal preference,1,0.0285714285714,0.0,0.0
+3,article02.gml,positive,states,1,0.0285714285714,0.0,0.0285714285714
+4,article02.gml,positive,no brainer,1,0.0285714285714,0.0,0.0
+5,article02.gml,positive,presidential candidates,2,0.0571428571429,0.00168067226891,0.0380952380952
+6,article02.gml,positive,right to personal exemptions,2,0.0571428571429,0.0,0.065306122449
+7,article02.gml,positive,measles outbreaks,1,0.0285714285714,0.0,0.0
+8,article02.gml,positive,Senator Rand Paul,2,0.0571428571429,0.0,0.0571428571429
+9,article02.gml,positive,nonmedical reasons for exemptions,1,0.0285714285714,0.0,0.0
+10,article02.gml,positive,state-level issue,1,0.0285714285714,0.0,0.0
+11,article02.gml,positive,opting out of immunization,2,0.0571428571429,0.00168067226891,0.0285714285714
+12,article02.gml,positive,voluntary,1,0.0285714285714,0.0,0.0
+13,article02.gml,positive,American Medical Association,5,0.142857142857,0.0,0.114285714286
+14,article02.gml,positive,vaccine safety,1,0.0285714285714,0.0,0.0
+15,article02.gml,positive,vaccination,1,0.0285714285714,0.0,0.0
+16,article02.gml,positive,vaccine exemptions,1,0.0285714285714,0.0,0.0
+17,article02.gml,positive,policy makers,2,0.0571428571429,0.00168067226891,0.0380952380952
+18,article02.gml,positive,religion,4,0.114285714286,0.00252100840336,0.0857142857143
+19,article02.gml,positive,community health,1,0.0285714285714,0.0,0.0428571428571
+20,article02.gml,positive,vaccinations should be voluntary,1,0.0285714285714,0.0,0.0
+21,article02.gml,positive,measles,2,0.0571428571429,0.0,0.0285714285714
+22,article02.gml,positive,highly contagious disease,1,0.0285714285714,0.0,0.0
+23,article02.gml,positive,physicians,1,0.0285714285714,0.0,0.0
+24,article02.gml,positive,immunized people,1,0.0285714285714,0.0,0.0285714285714
+25,article02.gml,positive,spread of disease,1,0.0285714285714,0.0,0.0
+26,article02.gml,positive,protect the kid next to you,1,0.0285714285714,0.0,0.0
+27,article02.gml,positive,vaccinations,5,0.142857142857,0.0,0.142857142857
+28,article02.gml,positive,whooping cough,2,0.0571428571429,0.0,0.0285714285714
+29,article02.gml,positive,Hilary Clinton,1,0.0285714285714,0.0,0.0285714285714
+30,article02.gml,positive,end personal exemptions,3,0.0857142857143,0.0,0.0
+31,article02.gml,positive,Disneyland measles outbreak,2,0.0571428571429,0.0,0.0571428571429
+32,article02.gml,positive,controversy,1,0.0285714285714,0.0,0.0
+33,article02.gml,positive,immunization,3,0.0857142857143,0.0,0.0
+34,article02.gml,positive,state legislatures,2,0.0571428571429,0.0,0.0285714285714
+35,article02.gml,positive,mental disorders,2,0.0571428571429,0.0,0.0
+0,article1105.gml,positive,unvaccinated children,2,0.0540540540541,0.0,0.0540540540541
+1,article1105.gml,positive,tax benefits,1,0.027027027027,0.0,0.0
+2,article1105.gml,positive,Victoria's health minister,1,0.027027027027,0.0,0.0
+3,article1105.gml,positive,Scott Morrison,1,0.027027027027,0.0,0.027027027027
+4,article1105.gml,positive,government rebates,1,0.027027027027,0.0,0.0
+5,article1105.gml,positive,childcare,2,0.0540540540541,0.0,0.0
+6,article1105.gml,positive,childcare benefits,1,0.027027027027,0.0,0.0
+7,article1105.gml,positive,one child,1,0.027027027027,0.0,0.027027027027
+8,article1105.gml,positive,anti-vaccine group,1,0.027027027027,0.0,0.0
+9,article1105.gml,positive,Early Childhood Australia's chief executive,1,0.027027027027,0.0,0.0
+10,article1105.gml,positive,children,1,0.027027027027,0.0,0.027027027027
+11,article1105.gml,positive,"no jab, no pay policy",1,0.027027027027,0.0,0.0
+12,article1105.gml,positive,Samantha Page,1,0.027027027027,0.0,0.027027027027
+13,article1105.gml,positive,vaccinated children,2,0.0540540540541,0.000750750750751,0.027027027027
+14,article1105.gml,positive,non-judgmental environment,1,0.027027027027,0.0,0.0
+15,article1105.gml,positive,potential risks,1,0.027027027027,0.0,0.0
+16,article1105.gml,positive,vaccine-free day care centre,1,0.027027027027,0.0,0.0
+17,article1105.gml,positive,early education,1,0.027027027027,0.0,0.0
+18,article1105.gml,positive,federal government,1,0.027027027027,0.0,0.027027027027
+19,article1105.gml,positive,whooping cough,1,0.027027027027,0.0,0.0
+20,article1105.gml,positive,parents,5,0.135135135135,0.0,0.172119487909
+21,article1105.gml,positive,unvaccinated-friendly day care centres,4,0.108108108108,0.00225225225225,0.0608108108108
+22,article1105.gml,positive,conscientious objectors,1,0.027027027027,0.0,0.0
+23,article1105.gml,positive,regulation of childcare services,1,0.027027027027,0.0,0.027027027027
+24,article1105.gml,positive,early childcare advocacy group,1,0.027027027027,0.0,0.0
+25,article1105.gml,positive,Australian social services minister,1,0.027027027027,0.0,0.0
+26,article1105.gml,positive,government policy,2,0.0540540540541,0.0,0.0884520884521
+27,article1105.gml,positive,state and territory governments,1,0.027027027027,0.0,0.0
+28,article1105.gml,positive,Vaccine Free Family Day Care,1,0.027027027027,0.0,0.027027027027
+29,article1105.gml,positive,Early Childhood Australia,3,0.0810810810811,0.00225225225225,0.027027027027
+30,article1105.gml,positive,parents who refuse to vaccinate their children,7,0.189189189189,0.00375375375375,0.162162162162
+31,article1105.gml,positive,risk to pregnant women,1,0.027027027027,0.0,0.0
+32,article1105.gml,positive,family tax benefit,1,0.027027027027,0.0,0.0
+33,article1105.gml,positive,Jill Hennessy,2,0.0540540540541,0.0015015015015,0.027027027027
+34,article1105.gml,positive,Victorian government,1,0.027027027027,0.0,0.036036036036
+35,article1105.gml,positive,childcare rebate,1,0.027027027027,0.0,0.0
+36,article1105.gml,positive,vaccine-free day care centres,5,0.135135135135,0.003003003003,0.132432432432
+37,article1105.gml,positive,"Sydney, Australia",1,0.027027027027,0.0,0.0
+0,article111.gml,positive,86% vaccination coverage,3,0.0365853658537,0.00301114122252,0.0216802168022
+1,article111.gml,positive,92 to 94 percent vaccination coverage,4,0.0487804878049,0.0,0.0
+2,article111.gml,positive,Americans,1,0.0121951219512,0.0,0.0373475609756
+3,article111.gml,positive,Colorado,2,0.0243902439024,0.00112917795845,0.0217770034843
+4,article111.gml,positive,Libya,2,0.0243902439024,0.0,0.0450281425891
+5,article111.gml,positive,MMR shots,2,0.0243902439024,0.0,0.0
+6,article111.gml,positive,Ohio,2,0.0243902439024,0.00112917795845,0.0217770034843
+7,article111.gml,positive,Tanzania,2,0.0243902439024,0.0,0.0450281425891
+8,article111.gml,positive,United States,3,0.0365853658537,0.00105389942788,0.0274390243902
+9,article111.gml,positive,Wakefield study,2,0.0243902439024,0.00105389942788,0.0121951219512
+10,article111.gml,positive,Washington State public-private pilot program,1,0.0121951219512,0.0,0.0351506456241
+11,article111.gml,positive,adults,2,0.0243902439024,0.000451671183379,0.0182926829268
+12,article111.gml,positive,antivaccine movement,4,0.0487804878049,0.00135501355014,0.0365853658537
+13,article111.gml,positive,autism,1,0.0121951219512,0.0,0.0
+14,article111.gml,positive,backfire,1,0.0121951219512,0.0,0.0
+15,article111.gml,positive,behavioral science research,1,0.0121951219512,0.0,0.0162601626016
+16,article111.gml,positive,change in compliance,1,0.0121951219512,0.0,0.0
+17,article111.gml,positive,children,1,0.0121951219512,0.0,0.0
+18,article111.gml,positive,community advocates,1,0.0121951219512,0.0,0.0
+19,article111.gml,positive,community events,1,0.0121951219512,0.0,0.0
+20,article111.gml,positive,date and time for shot,2,0.0243902439024,0.000150557061126,0.0121951219512
+21,article111.gml,positive,decision to vaccinate,2,0.0243902439024,0.0,0.0
+22,article111.gml,positive,distrust of medical establishment,2,0.0243902439024,0.000451671183379,0.0121951219512
+23,article111.gml,positive,doctors,1,0.0121951219512,0.0,0.0
+24,article111.gml,positive,employees,1,0.0121951219512,0.0,0.0162601626016
+25,article111.gml,positive,fear of vaccine-autism link,1,0.0121951219512,0.0,0.0
+26,article111.gml,positive,fence sitters,1,0.0121951219512,0.0,0.0121951219512
+27,article111.gml,positive,fence-sitters,3,0.0365853658537,0.0,0.0497967479675
+28,article111.gml,positive,flu shots,2,0.0243902439024,0.0,0.0121951219512
+29,article111.gml,positive,friends,1,0.0121951219512,0.0,0.0351506456241
+30,article111.gml,positive,herd immunity,6,0.0731707317073,0.00150557061126,0.0243902439024
+31,article111.gml,positive,hesitant parents,3,0.0365853658537,0.000301114122252,0.0121951219512
+32,article111.gml,positive,important factor,1,0.0121951219512,0.0,0.0121951219512
+33,article111.gml,positive,interventions,2,0.0243902439024,0.000225835591689,0.0219512195122
+34,article111.gml,positive,laws requiring MMR vaccination,1,0.0121951219512,0.0,0.0
+35,article111.gml,positive,little nudges,1,0.0121951219512,0.0,0.0
+36,article111.gml,positive,low vaccination coverage,2,0.0243902439024,0.00271002710027,0.0219512195122
+37,article111.gml,positive,make plans ahead of time,1,0.0121951219512,0.0,0.0
+38,article111.gml,positive,measles,3,0.0365853658537,0.00210779885577,0.0243902439024
+39,article111.gml,positive,measles experience,1,0.0121951219512,0.0,0.0
+40,article111.gml,positive,measles outbreaks,1,0.0121951219512,0.0,0.0
+41,article111.gml,positive,measles protection,1,0.0121951219512,0.0,0.0219512195122
+42,article111.gml,positive,measles vaccination rate,5,0.0609756097561,0.00301114122252,0.0508830950378
+43,article111.gml,positive,measles vaccine,1,0.0121951219512,0.0,0.0
+44,article111.gml,positive,measles vaccine coverage,1,0.0121951219512,0.0,0.0121951219512
+45,article111.gml,positive,measles virus,4,0.0487804878049,0.0,0.0548780487805
+46,article111.gml,positive,measles virus ,1,0.0121951219512,0.0,0.0121951219512
+47,article111.gml,positive,met the bar,1,0.0121951219512,0.0,0.0
+48,article111.gml,positive,models of disease,1,0.0121951219512,0.0,0.0
+49,article111.gml,positive,neighbors,1,0.0121951219512,0.0,0.0
+50,article111.gml,positive,new strategies,2,0.0243902439024,0.000225835591689,0.0219512195122
+51,article111.gml,positive,parents,5,0.0609756097561,0.00180668473351,0.0439024390244
+52,article111.gml,positive,parents who refuse to vaccinate their children,2,0.0243902439024,0.000602228244505,0.0121951219512
+53,article111.gml,positive,parents who vehemently oppose vaccines,2,0.0243902439024,0.0,0.0277161862528
+54,article111.gml,positive,parents' hesitant attitudes,2,0.0243902439024,0.000150557061126,0.0121951219512
+55,article111.gml,positive,pediatricians,2,0.0243902439024,0.0,0.0274390243902
+56,article111.gml,positive,peer pressure,1,0.0121951219512,0.0,0.0121951219512
+57,article111.gml,positive,peers,1,0.0121951219512,0.0,0.0351506456241
+58,article111.gml,positive,policy makers,2,0.0243902439024,0.0,0.0459110473458
+59,article111.gml,positive,preventable disease,2,0.0243902439024,0.0,0.0
+60,article111.gml,positive,pro-vaccine parents,3,0.0365853658537,0.000903342366757,0.0439024390244
+61,article111.gml,positive,retracted 1998 Lancet study,1,0.0121951219512,0.0,0.0
+62,article111.gml,positive,scheduled appointment,1,0.0121951219512,0.0,0.0
+63,article111.gml,positive,schools,1,0.0121951219512,0.0,0.0
+64,article111.gml,positive,side effects,1,0.0121951219512,0.0,0.0
+65,article111.gml,positive,small nudges,1,0.0121951219512,0.0,0.0
+66,article111.gml,positive,social media,1,0.0121951219512,0.0,0.0
+67,article111.gml,positive,social norms,1,0.0121951219512,0.0,0.0121951219512
+68,article111.gml,positive,states,2,0.0243902439024,0.0,0.030487804878
+69,article111.gml,positive,strong-arm tactics,1,0.0121951219512,0.0,0.0
+70,article111.gml,positive,unvaccinated,1,0.0121951219512,0.0,0.0
+71,article111.gml,positive,vaccine hesitancy,1,0.0121951219512,0.0,0.0
+72,article111.gml,positive,vaccine information sources,1,0.0121951219512,0.0,0.0
+73,article111.gml,positive,vaccine mandates,5,0.0609756097561,0.00180668473351,0.0487804878049
+74,article111.gml,positive,vaccine message,5,0.0609756097561,0.00120445648901,0.0487804878049
+75,article111.gml,positive,vaccine refusal rates,1,0.0121951219512,0.0,0.0121951219512
+76,article111.gml,positive,vaccine safety,1,0.0121951219512,0.0,0.0
+77,article111.gml,positive,vaccine-autism link,4,0.0487804878049,0.00180668473351,0.0162601626016
+78,article111.gml,positive,vaccines,2,0.0243902439024,0.000150557061126,0.0121951219512
+79,article111.gml,positive,vague choice,1,0.0121951219512,0.0,0.0
+80,article111.gml,positive,victims,1,0.0121951219512,0.0,0.0
+81,article111.gml,positive,we,1,0.0121951219512,0.0,0.0121951219512
+82,article111.gml,positive,written down,1,0.0121951219512,0.0,0.0
+0,article1542.gml,positive,Cervarix,1,0.0227272727273,0.0,0.0227272727273
+1,article1542.gml,positive,Gardasil 4,1,0.0227272727273,0.0,0.0227272727273
+2,article1542.gml,positive,Gardasil 9,1,0.0227272727273,0.0,0.0227272727273
+3,article1542.gml,positive,HPV infection,2,0.0454545454545,0.0,0.0
+4,article1542.gml,positive,HPV vaccination rates,1,0.0227272727273,0.0,0.0227272727273
+5,article1542.gml,positive,HPV vaccine,16,0.363636363636,0.0687984496124,0.284090909091
+6,article1542.gml,positive,Tdap,3,0.0681818181818,0.00792811839323,0.0454545454545
+7,article1542.gml,positive,U.S.,1,0.0227272727273,0.0,0.0
+8,article1542.gml,positive,ages 11 or 12,1,0.0227272727273,0.0,0.0
+9,article1542.gml,positive,ages 14 to 17,1,0.0227272727273,0.0,0.030303030303
+10,article1542.gml,positive,at risk,2,0.0454545454545,0.0,0.0
+11,article1542.gml,positive,becomes cancer,1,0.0227272727273,0.0,0.0
+12,article1542.gml,positive,boys,1,0.0227272727273,0.0,0.0
+13,article1542.gml,positive,cancer,1,0.0227272727273,0.0,0.0
+14,article1542.gml,positive,cervical cancer,2,0.0454545454545,0.0,0.0
+15,article1542.gml,positive,cervical dysplasia,4,0.0909090909091,0.0045806906272,0.0727272727273
+16,article1542.gml,positive,daughters,1,0.0227272727273,0.0,0.0
+17,article1542.gml,positive,genital warts,5,0.113636363636,0.0197322057787,0.204545454545
+18,article1542.gml,positive,girls,1,0.0227272727273,0.0,0.0
+19,article1542.gml,positive,health benefits,1,0.0227272727273,0.0,0.0
+20,article1542.gml,positive,health care providers,2,0.0454545454545,0.0,0.0511363636364
+21,article1542.gml,positive,health officials,1,0.0227272727273,0.0,0.171122994652
+22,article1542.gml,positive,human papillomavirus,3,0.0681818181818,0.0,0.0
+23,article1542.gml,positive,immune response,3,0.0681818181818,0.00317124735729,0.184965034965
+24,article1542.gml,positive,immunization,1,0.0227272727273,0.0,0.0
+25,article1542.gml,positive,important vaccine,2,0.0454545454545,0.0,0.0
+26,article1542.gml,positive,magnitude of benefits,2,0.0454545454545,0.00528541226216,0.0227272727273
+27,article1542.gml,positive,meningitis,2,0.0454545454545,0.00264270613108,0.0227272727273
+28,article1542.gml,positive,one dose of vaccine,1,0.0227272727273,0.0,0.0
+29,article1542.gml,positive,parents,5,0.113636363636,0.0,0.181818181818
+30,article1542.gml,positive,prevent cancer,2,0.0454545454545,0.0,0.0
+31,article1542.gml,positive,preventing cancer,1,0.0227272727273,0.0,0.0
+32,article1542.gml,positive,protection,4,0.0909090909091,0.0237843551797,0.171122994652
+33,article1542.gml,positive,risk of cervical dysplasia,1,0.0227272727273,0.0,0.1375
+34,article1542.gml,positive,risk of precancerous changed,1,0.0227272727273,0.0,0.0227272727273
+35,article1542.gml,positive,sex,1,0.0227272727273,0.0,0.0
+36,article1542.gml,positive,sexually active,5,0.113636363636,0.00255461592671,0.0227272727273
+37,article1542.gml,positive,sexually transmitted virus,4,0.0909090909091,0.00105708245243,0.0227272727273
+38,article1542.gml,positive,teen girls,3,0.0681818181818,0.0,0.227272727273
+39,article1542.gml,positive,tetanus/diptheria/pertussis,1,0.0227272727273,0.0,0.0
+40,article1542.gml,positive,three-dose course,1,0.0227272727273,0.0,0.0
+41,article1542.gml,positive,vaccine,4,0.0909090909091,0.0163847780127,0.172805642633
+42,article1542.gml,positive,waiting longer,2,0.0454545454545,0.0,0.181818181818
+43,article1542.gml,positive,women,2,0.0454545454545,0.0,0.0454545454545
+44,article1542.gml,positive,young age group,1,0.0227272727273,0.0,0.0
+0,article1804.gml,positive,new version of Gardasil,3,0.0731707317073,0.0,0.10406504065
+1,article1804.gml,positive,positive health impact,2,0.0487804878049,0.000609756097561,0.0243902439024
+2,article1804.gml,positive,girls,5,0.121951219512,0.0,0.15243902439
+3,article1804.gml,positive,vaccinated,1,0.0243902439024,0.0,0.0243902439024
+4,article1804.gml,positive,free vaccine eligible girls,3,0.0731707317073,0.0,0.11149825784
+5,article1804.gml,positive,genital warts,5,0.121951219512,0.00609756097561,0.0243902439024
+6,article1804.gml,positive,young age group,1,0.0243902439024,0.0,0.0
+7,article1804.gml,positive,strong evidence,1,0.0243902439024,0.0,0.0325203252033
+8,article1804.gml,positive,abnormal cells,1,0.0243902439024,0.0,0.0
+9,article1804.gml,positive,Gardasil,11,0.268292682927,0.019512195122,0.109756097561
+10,article1804.gml,positive,Gardasil vaccine,1,0.0243902439024,0.0,0.0
+11,article1804.gml,positive,delaying Gardasil,2,0.0487804878049,0.0,0.0243902439024
+12,article1804.gml,positive,HPV strains,3,0.0731707317073,0.0,0.0
+13,article1804.gml,positive,one dose Gardasil,1,0.0243902439024,0.0,0.0
+14,article1804.gml,positive,free vaccine,1,0.0243902439024,0.0,0.0
+15,article1804.gml,positive,policy makers,1,0.0243902439024,0.0,0.0325203252033
+16,article1804.gml,positive,fast,1,0.0243902439024,0.0,0.0
+17,article1804.gml,positive,cervical dysplasia,7,0.170731707317,0.00914634146341,0.0878048780488
+18,article1804.gml,positive,parents,4,0.0975609756098,0.0,0.135501355014
+19,article1804.gml,positive,prevention opportunities,1,0.0243902439024,0.0,0.0
+20,article1804.gml,positive,delaying vaccination,3,0.0731707317073,0.00121951219512,0.0243902439024
+21,article1804.gml,positive,vaccination recommendations,1,0.0243902439024,0.0,0.0
+22,article1804.gml,positive,sexually active,2,0.0487804878049,0.0,0.0
+23,article1804.gml,positive,variety of medical conditions,2,0.0487804878049,0.0,0.0325203252033
+24,article1804.gml,positive,cervical cancer,5,0.121951219512,0.00792682926829,0.0243902439024
+25,article1804.gml,positive,sense of urgency,1,0.0243902439024,0.0,0.0
+26,article1804.gml,positive,physicians,1,0.0243902439024,0.0,0.0325203252033
+27,article1804.gml,positive,HPV vaccine benefits,3,0.0731707317073,0.0,0.0731707317073
+28,article1804.gml,positive,HPV,3,0.0731707317073,0.0,0.0
+29,article1804.gml,positive,United States,1,0.0243902439024,0.0,0.0
+30,article1804.gml,positive,boys,3,0.0731707317073,0.0,0.11149825784
+31,article1804.gml,positive,protection,1,0.0243902439024,0.0,0.0243902439024
+32,article1804.gml,positive,vaccinated girls,3,0.0731707317073,0.00243902439024,0.079822616408
+33,article1804.gml,positive,women,1,0.0243902439024,0.0,0.0
+34,article1804.gml,positive,daughters' health,2,0.0487804878049,0.0,0.0
+35,article1804.gml,positive,Cervarix,2,0.0487804878049,0.0,0.0853658536585
+36,article1804.gml,positive,benefits,1,0.0243902439024,0.0,0.0
+37,article1804.gml,positive,CDC,2,0.0487804878049,0.0,0.079674796748
+38,article1804.gml,positive,HPV vaccine,4,0.0975609756098,0.0,0.130081300813
+39,article1804.gml,positive,high school girls who received Gardasil,1,0.0243902439024,0.0,0.0703012912482
+40,article1804.gml,positive,high school girls,1,0.0243902439024,0.0,0.0
+41,article1804.gml,positive,three doses Gardasil,2,0.0487804878049,0.0,0.0
+0,article2.gml,positive,spread of communicable diseases,1,0.037037037037,0.0,0.0
+1,article2.gml,positive,choosing not to vaccinate children,3,0.111111111111,0.0,0.0
+2,article2.gml,positive,religious reasons,2,0.0740740740741,0.0,0.0
+3,article2.gml,positive,childcare,1,0.037037037037,0.0,0.0
+4,article2.gml,positive,medical issue,2,0.0740740740741,0.002849002849,0.037037037037
+5,article2.gml,positive,kindergarten,1,0.037037037037,0.0,0.0
+6,article2.gml,positive,vaccination,1,0.037037037037,0.0,0.0
+7,article2.gml,positive,personal beliefs,1,0.037037037037,0.0,0.0
+8,article2.gml,positive,children,1,0.037037037037,0.0,0.0925925925926
+9,article2.gml,positive,vaccines,1,0.037037037037,0.0,0.037037037037
+10,article2.gml,positive,change in mindset of families,1,0.037037037037,0.0,0.0
+11,article2.gml,positive,concerns,1,0.037037037037,0.0,0.0
+12,article2.gml,positive,parents,3,0.111111111111,0.0,0.111111111111
+13,article2.gml,positive,herd immunity,1,0.037037037037,0.0,0.0
+14,article2.gml,positive,interest in vaccinations,1,0.037037037037,0.0,0.0
+15,article2.gml,positive,personal belief reasons,1,0.037037037037,0.0,0.0
+16,article2.gml,positive,required vaccinations,4,0.148148148148,0.00569800569801,0.118518518519
+17,article2.gml,positive,families,3,0.111111111111,0.0,0.037037037037
+18,article2.gml,positive,good news,1,0.037037037037,0.0,0.0
+19,article2.gml,positive,measles,1,0.037037037037,0.0,0.0
+20,article2.gml,positive,public health,1,0.037037037037,0.0,0.037037037037
+21,article2.gml,positive,medical exemption,1,0.037037037037,0.0,0.0
+22,article2.gml,positive,fluke,1,0.037037037037,0.0,0.0
+23,article2.gml,positive,Arizona Deparment of Health Services,1,0.037037037037,0.0,0.121212121212
+24,article2.gml,positive,Disneyland outbreak,2,0.0740740740741,0.0,0.0740740740741
+25,article2.gml,positive,decrease in exemption rates,6,0.222222222222,0.00712250712251,0.185185185185
+26,article2.gml,positive,exemption rates,2,0.0740740740741,0.0,0.0740740740741
+27,article2.gml,positive,Arizona Department of Health Services,1,0.037037037037,0.0,0.0
+0,article29.gml,positive,Babies,1,0.013698630137,0.0,0.013698630137
+1,article29.gml,positive,Babies at 2 months,1,0.013698630137,0.0,0.013698630137
+2,article29.gml,positive,California,1,0.013698630137,0.0,0.013698630137
+3,article29.gml,positive,Caregivers,1,0.013698630137,0.0,0.0479452054795
+4,article29.gml,positive,Children,1,0.013698630137,0.0,0.013698630137
+5,article29.gml,positive,Close contacts,1,0.013698630137,0.0,0.0479452054795
+6,article29.gml,positive,Department of Public Health Immunization Program,1,0.013698630137,0.0,0.0182648401826
+7,article29.gml,positive,Dr. Adams,4,0.0547945205479,0.0,0.0570776255708
+8,article29.gml,positive,Dr. Bill Adams,2,0.027397260274,0.000190258751903,0.013698630137
+9,article29.gml,positive,Families,1,0.013698630137,0.0,0.013698630137
+10,article29.gml,positive,Healthcare professionals,1,0.013698630137,0.0,0.013698630137
+11,article29.gml,positive,Immunization programs,1,0.013698630137,0.0,0.013698630137
+12,article29.gml,positive,Infants,1,0.013698630137,0.0,0.013698630137
+13,article29.gml,positive,Infants and young children,1,0.013698630137,0.0,0.013698630137
+14,article29.gml,positive,National Infant Immunization Week,2,0.027397260274,0.0,0.027397260274
+15,article29.gml,positive,Parents,1,0.013698630137,0.0,0.013698630137
+16,article29.gml,positive,Partners,1,0.013698630137,0.0,0.013698630137
+17,article29.gml,positive,Polio,1,0.013698630137,0.0,0.0
+18,article29.gml,positive,Pregnant women,1,0.013698630137,0.0,0.0479452054795
+19,article29.gml,positive,Programs,1,0.013698630137,0.0,0.013698630137
+20,article29.gml,positive,Public health officials,1,0.013698630137,0.0,0.013698630137
+21,article29.gml,positive,Tdap vaccine,9,0.123287671233,0.00437595129376,0.0704500978474
+22,article29.gml,positive,U.S.,1,0.013698630137,0.0,0.0
+23,article29.gml,positive,Vaccination,1,0.013698630137,0.0,0.013698630137
+24,article29.gml,positive,Vaccines,3,0.041095890411,0.0,0.041095890411
+25,article29.gml,positive,babies,1,0.013698630137,0.0,0.0205479452055
+26,article29.gml,positive,baby,2,0.027397260274,0.0,0.0
+27,article29.gml,positive,caregivers,1,0.013698630137,0.0,0.0
+28,article29.gml,positive,child's doctor,1,0.013698630137,0.0,0.0
+29,article29.gml,positive,close contacts,1,0.013698630137,0.0,0.0
+30,article29.gml,positive,community,3,0.041095890411,0.0,0.0
+31,article29.gml,positive,deaths,1,0.013698630137,0.0,0.0
+32,article29.gml,positive,disease,1,0.013698630137,0.0,0.0
+33,article29.gml,positive,diseases,1,0.013698630137,0.0,0.013698630137
+34,article29.gml,positive,early immunity,1,0.013698630137,0.0,0.0
+35,article29.gml,positive,entire communities,1,0.013698630137,0.0,0.0
+36,article29.gml,positive,healthy communities,1,0.013698630137,0.0,0.0
+37,article29.gml,positive,high immunization rates,2,0.027397260274,0.0,0.0
+38,article29.gml,positive,hospitalizations,2,0.027397260274,0.0,0.0
+39,article29.gml,positive,illnesses,2,0.027397260274,0.0,0.0
+40,article29.gml,positive,immunization,1,0.013698630137,0.0,0.013698630137
+41,article29.gml,positive,immunization programs,1,0.013698630137,0.0,0.0
+42,article29.gml,positive,immunization schedule,2,0.027397260274,0.0,0.027397260274
+43,article29.gml,positive,improved immunization policy and funding,1,0.013698630137,0.0,0.0
+44,article29.gml,positive,increase in measles cases,1,0.013698630137,0.0,0.0182648401826
+45,article29.gml,positive,life-threatening diseases,1,0.013698630137,0.0,0.0
+46,article29.gml,positive,measles,2,0.027397260274,0.0,0.0
+47,article29.gml,positive,parents,3,0.041095890411,0.00114155251142,0.013698630137
+48,article29.gml,positive,physicians,1,0.013698630137,0.0,0.0
+49,article29.gml,positive,policy makers,1,0.013698630137,0.0,0.0
+50,article29.gml,positive,polio,3,0.041095890411,0.0,0.0872386445566
+51,article29.gml,positive,potential outbreaks,1,0.013698630137,0.0,0.0
+52,article29.gml,positive,pregnant women,2,0.027397260274,0.0,0.041095890411
+53,article29.gml,positive,preventing disease,1,0.013698630137,0.0,0.0
+54,article29.gml,positive,preventive health,1,0.013698630137,0.0,0.0
+55,article29.gml,positive,protecting infants,1,0.013698630137,0.0,0.0
+56,article29.gml,positive,public health tools,2,0.027397260274,0.0,0.0
+57,article29.gml,positive,rare diseases,1,0.013698630137,0.0,0.013698630137
+58,article29.gml,positive,recommended immunization schedule,2,0.027397260274,0.0,0.0
+59,article29.gml,positive,recommended immunizations,1,0.013698630137,0.0,0.0
+60,article29.gml,positive,responsibility,1,0.013698630137,0.0,0.0
+61,article29.gml,positive,serious childhood diseases,4,0.0547945205479,0.00076103500761,0.027397260274
+62,article29.gml,positive,spread of infectious diseases,2,0.027397260274,0.0,0.0
+63,article29.gml,positive,transmitted around the world,1,0.013698630137,0.0,0.0
+64,article29.gml,positive,vaccinated individuals,1,0.013698630137,0.0,0.0
+65,article29.gml,positive,vaccinating,1,0.013698630137,0.0,0.0246575342466
+66,article29.gml,positive,vaccination,5,0.0684931506849,0.00076103500761,0.0547945205479
+67,article29.gml,positive,vaccination of pregnant women,1,0.013698630137,0.0,0.013698630137
+68,article29.gml,positive,vaccine success,1,0.013698630137,0.0,0.0
+69,article29.gml,positive,vaccine-preventable diseases,2,0.027397260274,0.000190258751903,0.013698630137
+70,article29.gml,positive,vaccines,7,0.0958904109589,0.00076103500761,0.0547945205479
+71,article29.gml,positive,whooping couch vaccine,1,0.013698630137,0.0,0.0
+72,article29.gml,positive,whooping cough,3,0.041095890411,0.000380517503805,0.0182648401826
+73,article29.gml,positive,young children,2,0.027397260274,0.0,0.0
+0,article30.gml,positive,VPD,1,0.0625,0.0,0.0
+1,article30.gml,positive,body,1,0.0625,0.0,0.0625
+2,article30.gml,positive,diseases,1,0.0625,0.0,0.0
+3,article30.gml,positive,expected,1,0.0625,0.0,0.0
+4,article30.gml,positive,fever,1,0.0625,0.0,0.0
+5,article30.gml,positive,illness,2,0.125,0.0,0.0
+6,article30.gml,positive,imitation infection,2,0.125,0.0,0.125
+7,article30.gml,positive,immune system,1,0.0625,0.0,0.0
+8,article30.gml,positive,immunity,3,0.1875,0.0,0.0
+9,article30.gml,positive,immunity to diseases,1,0.0625,0.0,0.0
+10,article30.gml,positive,infection,2,0.125,0.0,0.0
+11,article30.gml,positive,minor symptoms,5,0.3125,0.0166666666667,0.25
+12,article30.gml,positive,natural defenses,1,0.0625,0.0,0.0
+13,article30.gml,positive,normal,1,0.0625,0.0,0.0
+14,article30.gml,positive,risk of infection,1,0.0625,0.0,0.0
+15,article30.gml,positive,vaccine,1,0.0625,0.0,0.173611111111
+16,article30.gml,positive,vaccines,9,0.5625,0.0,0.4375
+0,article31.gml,positive,ASD,6,0.127659574468,0.00231267345051,0.0212765957447
+1,article31.gml,positive,Jain study,1,0.0212765957447,0.0,0.0212765957447
+2,article31.gml,positive,MMR vaccine,4,0.0851063829787,0.0,0.0851063829787
+3,article31.gml,positive,MMR vaccine-autism link,2,0.0425531914894,0.000925069380204,0.0283687943262
+4,article31.gml,positive,United States,1,0.0212765957447,0.0,0.0283687943262
+5,article31.gml,positive,Wakefield study,2,0.0425531914894,0.000925069380204,0.0212765957447
+6,article31.gml,positive,autism,5,0.106382978723,0.0115633672525,0.031914893617
+7,article31.gml,positive,autism risk,8,0.170212765957,0.00647548566142,0.0212765957447
+8,article31.gml,positive,autism-linked genes,1,0.0212765957447,0.0,0.0212765957447
+9,article31.gml,positive,brain development,1,0.0212765957447,0.0,0.0
+10,article31.gml,positive,child,1,0.0212765957447,0.0,0.0283687943262
+11,article31.gml,positive,child with autism,1,0.0212765957447,0.0,0.0
+12,article31.gml,positive,children,2,0.0425531914894,0.00462534690102,0.0354609929078
+13,article31.gml,positive,children at increased genetic risk,2,0.0425531914894,0.00832562442183,0.0283687943262
+14,article31.gml,positive,children with ASD,3,0.063829787234,0.0,0.063829787234
+15,article31.gml,positive,children with affected older sibling,3,0.063829787234,0.0,0.0567375886525
+16,article31.gml,positive,children with affected older sibling and who had received MMR vaccine,1,0.0212765957447,0.0,0.0283687943262
+17,article31.gml,positive,children without affected older sibling,1,0.0212765957447,0.0,0.0283687943262
+18,article31.gml,positive,critical period,1,0.0212765957447,0.0,0.0
+19,article31.gml,positive,delaying vaccinations,2,0.0425531914894,0.00277520814061,0.0364741641337
+20,article31.gml,positive,environmental factors,3,0.063829787234,0.0,0.0744680851064
+21,article31.gml,positive,environmental trigger,3,0.063829787234,0.00138760407031,0.0212765957447
+22,article31.gml,positive,fraudulent,1,0.0212765957447,0.0,0.0
+23,article31.gml,positive,genes,1,0.0212765957447,0.0,0.0340425531915
+24,article31.gml,positive,genetic predisposition,3,0.063829787234,0.00925069380204,0.0340425531915
+25,article31.gml,positive,health officials,1,0.0212765957447,0.0,0.0212765957447
+26,article31.gml,positive,insulin,1,0.0212765957447,0.0,0.0
+27,article31.gml,positive,measles reappearance,1,0.0212765957447,0.0,0.0212765957447
+28,article31.gml,positive,mothers with pregnancy-related diabetes,1,0.0212765957447,0.0,0.0
+29,article31.gml,positive,no evidence,1,0.0212765957447,0.0,0.0283687943262
+30,article31.gml,positive,numerous international studies,1,0.0212765957447,0.0,0.031914893617
+31,article31.gml,positive,opted-out of vaccination,1,0.0212765957447,0.0,0.0
+32,article31.gml,positive,parents,2,0.0425531914894,0.0,0.0425531914894
+33,article31.gml,positive,parents of children with ASD,1,0.0212765957447,0.0,0.0372340425532
+34,article31.gml,positive,parents who choose to delay vaccination,2,0.0425531914894,0.0,0.0
+35,article31.gml,positive,parents who noticed developmental delays,1,0.0212765957447,0.0,0.0212765957447
+36,article31.gml,positive,prenatal development,1,0.0212765957447,0.0,0.0212765957447
+37,article31.gml,positive,problems with social interactions,1,0.0212765957447,0.0,0.0
+38,article31.gml,positive,repetitive behaviors,1,0.0212765957447,0.0,0.0
+39,article31.gml,positive,role,1,0.0212765957447,0.0,0.0
+40,article31.gml,positive,severity,1,0.0212765957447,0.0,0.0
+41,article31.gml,positive,sibling,1,0.0212765957447,0.0,0.0
+42,article31.gml,positive,theory,1,0.0212765957447,0.0,0.0523731587561
+43,article31.gml,positive,triple hit,3,0.063829787234,0.00323774283071,0.0579196217494
+44,article31.gml,positive,unable to speak,1,0.0212765957447,0.0,0.0
+45,article31.gml,positive,vaccination,1,0.0212765957447,0.0,0.0212765957447
+46,article31.gml,positive,vaccine-autism link,1,0.0212765957447,0.0,0.0
+47,article31.gml,positive,worried,1,0.0212765957447,0.0,0.0
+0,article36.gml,positive,2014-2015 FLULAVAL QUADRIVALENT flu vaccine,7,0.5,0.0604395604396,0.285714285714
+1,article36.gml,positive,CDC,1,0.0714285714286,0.0,0.198412698413
+2,article36.gml,positive,GSK flu vaccine recall,1,0.0714285714286,0.0,0.0952380952381
+3,article36.gml,positive,GlaxoSmithKline,2,0.142857142857,0.0,0.257142857143
+4,article36.gml,positive,Northern Hemisphere flu vaccine,1,0.0714285714286,0.0,0.0714285714286
+5,article36.gml,positive,flu vaccine recall,1,0.0714285714286,0.0,0.0
+6,article36.gml,positive,influenza viruses,1,0.0714285714286,0.0,0.0
+7,article36.gml,positive,reduced benefit,1,0.0714285714286,0.0,0.0
+8,article36.gml,positive,reduced effectiveness,1,0.0714285714286,0.0,0.0
+9,article36.gml,positive,reduced vaccine potency,2,0.142857142857,0.00549450549451,0.0714285714286
+10,article36.gml,positive,revaccinated,1,0.0714285714286,0.0,0.0
+11,article36.gml,positive,safety concern,1,0.0714285714286,0.0,0.0
+12,article36.gml,positive,suboptimal protection,1,0.0714285714286,0.0,0.0
+13,article36.gml,positive,vaccinated people,1,0.0714285714286,0.0,0.0714285714286
+14,article36.gml,positive,vaccine potency,2,0.142857142857,0.0,0.163265306122
+0,article37.gml,positive,Gardasil,1,0.05,0.0,0.05
+1,article37.gml,positive,HPV Vaccine Trial in Costa Rica,4,0.2,0.0,0.288095238095
+2,article37.gml,positive,HPV vaccine,8,0.4,0.0,0.35
+3,article37.gml,positive,HPV vaccine recommendations,3,0.15,0.00526315789474,0.1
+4,article37.gml,positive,age 11 or 12,1,0.05,0.0,0.0
+5,article37.gml,positive,age 26,1,0.05,0.0,0.0
+6,article37.gml,positive,cancer,3,0.15,0.0,0.0
+7,article37.gml,positive,cancer-causing types of HPV,1,0.05,0.0,0.0
+8,article37.gml,positive,current HPV infection,1,0.05,0.0,0.0
+9,article37.gml,positive,high-risk types of HPV,5,0.25,0.0,0.0
+10,article37.gml,positive,infection at multiple sites,1,0.05,0.0,0.0
+11,article37.gml,positive,infection of anus,3,0.15,0.00350877192982,0.1
+12,article37.gml,positive,infection of cervix,3,0.15,0.00350877192982,0.1
+13,article37.gml,positive,infection of mouth,3,0.15,0.00350877192982,0.1
+14,article37.gml,positive,multi-site protection,6,0.3,0.0144736842105,0.225
+15,article37.gml,positive,partial protection,2,0.1,0.0,0.05
+16,article37.gml,positive,reduction in HPV,1,0.05,0.0,0.0
+17,article37.gml,positive,vaccine efficacy,2,0.1,0.00131578947368,0.05
+18,article37.gml,positive,women previously exposed to HPV,5,0.25,0.0,0.0
+19,article37.gml,positive,women without previous HPV,1,0.05,0.0,0.0
+20,article37.gml,positive,young women,1,0.05,0.0,0.05
+0,article4150.gml,positive,children with family history of autism,1,0.0434782608696,0.0,0.0579710144928
+1,article4150.gml,positive,unvaccinated children,1,0.0434782608696,0.0,0.0
+2,article4150.gml,positive,autism spectrum disorders,1,0.0434782608696,0.0,0.0
+3,article4150.gml,positive,argument,1,0.0434782608696,0.0,0.0
+4,article4150.gml,positive,Disneyland measles outbreak,1,0.0434782608696,0.0,0.0434782608696
+5,article4150.gml,positive,vaccines do not cause autism,4,0.173913043478,0.0,0.0
+6,article4150.gml,positive,autism,2,0.0869565217391,0.0,0.0
+7,article4150.gml,positive,The Lancet,1,0.0434782608696,0.0,0.0434782608696
+8,article4150.gml,positive,vaccines are safe,1,0.0434782608696,0.0,0.0
+9,article4150.gml,positive,JAMA paper,2,0.0869565217391,0.0,0.0978260869565
+10,article4150.gml,positive,MMR vaccine,1,0.0434782608696,0.0,0.0434782608696
+11,article4150.gml,positive,public health organizations,1,0.0434782608696,0.0,0.0434782608696
+12,article4150.gml,positive,vaccines are effective,1,0.0434782608696,0.0,0.0
+13,article4150.gml,positive,vaccines,1,0.0434782608696,0.0,0.0434782608696
+14,article4150.gml,positive,Institute of Medicine,2,0.0869565217391,0.0,0.0869565217391
+15,article4150.gml,positive,MMR vaccines,1,0.0434782608696,0.0,0.0434782608696
+16,article4150.gml,positive,vaccine debate,1,0.0434782608696,0.0,0.0
+17,article4150.gml,positive,MMR vaccine does not cause autism,2,0.0869565217391,0.0,0.0
+18,article4150.gml,positive,MMR vaccine-autism link,4,0.173913043478,0.00592885375494,0.0434782608696
+19,article4150.gml,positive,thimerosal is safe,1,0.0434782608696,0.0,0.0
+20,article4150.gml,positive,CDC,1,0.0434782608696,0.0,0.0434782608696
+21,article4150.gml,positive,Federal Circuit,1,0.0434782608696,0.0,0.0434782608696
+22,article4150.gml,positive,scientific paper,1,0.0434782608696,0.0,0.0579710144928
+23,article4150.gml,positive,studies,3,0.130434782609,0.0,0.130434782609
+0,article4210.gml,positive,ASD,1,0.0161290322581,0.0,0.0
+1,article4210.gml,positive,ASD risk,2,0.0322580645161,0.00105764145955,0.0161290322581
+2,article4210.gml,positive,Age of Autism,2,0.0322580645161,0.0,0.17616254713
+3,article4210.gml,positive,Jain study,15,0.241935483871,0.0137493389741,0.244959677419
+4,article4210.gml,positive,MMR vaccine,5,0.0806451612903,0.00352547153182,0.0725806451613
+5,article4210.gml,positive,MMR vaccine and ASD,1,0.0161290322581,0.0,0.0
+6,article4210.gml,positive,MMR vaccine does not cause autism,1,0.0161290322581,0.0,0.0
+7,article4210.gml,positive,MMR vaccine safety,1,0.0161290322581,0.0,0.0
+8,article4210.gml,positive,MMR vaccine-autism link,2,0.0322580645161,0.0,0.0
+9,article4210.gml,positive,"Robert F. Kennedy, Jr.",2,0.0322580645161,0.00423056583818,0.0607210626186
+10,article4210.gml,positive,Wakefield study,2,0.0322580645161,0.0,0.0322580645161
+11,article4210.gml,positive,activism,2,0.0322580645161,0.0,0.0161290322581
+12,article4210.gml,positive,alternative explanation,1,0.0161290322581,0.0,0.0593841642229
+13,article4210.gml,positive,anti-vaccine groups,3,0.0483870967742,0.0,0.0
+14,article4210.gml,positive,anti-vaccine movement,1,0.0161290322581,0.0,0.0
+15,article4210.gml,positive,anti-vax movement,3,0.0483870967742,0.0,0.0516129032258
+16,article4210.gml,positive,autism,7,0.112903225806,0.00370174510841,0.0161290322581
+17,article4210.gml,positive,autism risk,1,0.0161290322581,0.0,0.0
+18,article4210.gml,positive,carefully conducted study,1,0.0161290322581,0.0,0.0
+19,article4210.gml,positive,children,4,0.0645161290323,0.00317292437864,0.0161290322581
+20,article4210.gml,positive,conspiracy theories,2,0.0322580645161,0.00237969328398,0.0502481389578
+21,article4210.gml,positive,end the anti-vax movement,2,0.0322580645161,0.0,0.0
+22,article4210.gml,positive,evidence,1,0.0161290322581,0.0,0.0161290322581
+23,article4210.gml,positive,fear,1,0.0161290322581,0.0,0.0161290322581
+24,article4210.gml,positive,fear of vaccine-autism link,2,0.0322580645161,0.0,0.0
+25,article4210.gml,positive,genetic component,1,0.0161290322581,0.0,0.0
+26,article4210.gml,positive,harmful association,3,0.0483870967742,0.00158646218932,0.0322580645161
+27,article4210.gml,positive,high-risk children,1,0.0161290322581,0.0,0.0
+28,article4210.gml,positive,ill effects,3,0.0483870967742,0.0,0.0
+29,article4210.gml,positive,large study,1,0.0161290322581,0.0,0.0
+30,article4210.gml,positive,long-discredited hypotheses,2,0.0322580645161,0.000264410364886,0.0161290322581
+31,article4210.gml,positive,lower rate of autism in vaccinated children,2,0.0322580645161,0.0,0.0
+32,article4210.gml,positive,medical advancement,1,0.0161290322581,0.0,0.0
+33,article4210.gml,positive,misguided claims,5,0.0806451612903,0.0,0.0790322580645
+34,article4210.gml,positive,money,1,0.0161290322581,0.0,0.0
+35,article4210.gml,positive,neurological problems,1,0.0161290322581,0.0,0.0
+36,article4210.gml,positive,observational study,1,0.0161290322581,0.0,0.0
+37,article4210.gml,positive,other good reasons,1,0.0161290322581,0.0,0.0593841642229
+38,article4210.gml,positive,parents,2,0.0322580645161,0.0,0.0322580645161
+39,article4210.gml,positive,parents of autistic children,4,0.0645161290323,0.0,0.089605734767
+40,article4210.gml,positive,previous studies,1,0.0161290322581,0.0,0.0161290322581
+41,article4210.gml,positive,protective effect of vaccines,9,0.145161290323,0.010135730654,0.0794044665012
+42,article4210.gml,positive,saved lives,1,0.0161290322581,0.0,0.0
+43,article4210.gml,positive,suprising results,1,0.0161290322581,0.0,0.0
+44,article4210.gml,positive,time,1,0.0161290322581,0.0,0.0
+45,article4210.gml,positive,true cause of autism,1,0.0161290322581,0.0,0.0
+46,article4210.gml,positive,unethical,1,0.0161290322581,0.0,0.0
+47,article4210.gml,positive,unlikely,1,0.0161290322581,0.0,0.0
+48,article4210.gml,positive,unvaccinated children,1,0.0161290322581,0.0,0.0
+49,article4210.gml,positive,unvaccinated high-risk children,1,0.0161290322581,0.0,0.0
+50,article4210.gml,positive,vaccinated children,3,0.0483870967742,0.0,0.185815289439
+51,article4210.gml,positive,vaccinated high-risk children,3,0.0483870967742,0.00114577824784,0.0362903225806
+52,article4210.gml,positive,vaccine-autism link,3,0.0483870967742,0.0,0.0
+53,article4210.gml,positive,vaccine-autism question,2,0.0322580645161,0.0,0.0
+54,article4210.gml,positive,vaccines,7,0.112903225806,0.00555261766261,0.0878136200717
+55,article4210.gml,positive,vaccines cause autism,1,0.0161290322581,0.0,0.0
+56,article4210.gml,positive,vaccines cause neurological problems,1,0.0161290322581,0.0,0.0
+57,article4210.gml,positive,vast amounts of money,1,0.0161290322581,0.0,0.0161290322581
+58,article4210.gml,positive,vast amounts of time,1,0.0161290322581,0.0,0.0161290322581
+59,article4210.gml,positive,we,2,0.0322580645161,0.0,0.0322580645161
+60,article4210.gml,positive,withholding vaccines,4,0.0645161290323,0.00555261766261,0.0362903225806
+61,article4210.gml,positive,younger sibling of child with autism,1,0.0161290322581,0.0,0.0215053763441
+62,article4210.gml,positive,younger siblings of children with ASD,1,0.0161290322581,0.0,0.0
+0,article4303.gml,positive,vaccines cause autism,1,0.0434782608696,0.0,0.0
+1,article4303.gml,positive,measles outbreak,2,0.0869565217391,0.0,0.0978260869565
+2,article4303.gml,positive,insurance claims,1,0.0434782608696,0.0,0.0
+3,article4303.gml,positive,commitment,1,0.0434782608696,0.0,0.0
+4,article4303.gml,positive,anti-vaxxer,5,0.217391304348,0.0,0.217391304348
+5,article4303.gml,positive,Journal of the American Medical Association,1,0.0434782608696,0.0,0.0
+6,article4303.gml,positive,autism,2,0.0869565217391,0.0,0.0
+7,article4303.gml,positive,MMR vaccine,1,0.0434782608696,0.0,0.0434782608696
+8,article4303.gml,positive,siblings with autism,1,0.0434782608696,0.0,0.0
+9,article4303.gml,positive,vaccination requirements,1,0.0434782608696,0.0,0.0
+10,article4303.gml,positive,vaccines,1,0.0434782608696,0.0,0.0434782608696
+11,article4303.gml,positive,California,2,0.0869565217391,0.00197628458498,0.0434782608696
+12,article4303.gml,positive,lawmakers,1,0.0434782608696,0.0,0.0434782608696
+13,article4303.gml,positive,MMR vaccine and autism,2,0.0869565217391,0.0,0.0978260869565
+14,article4303.gml,positive,opponent of sanity-oriented legislation,2,0.0869565217391,0.0,0.0434782608696
+15,article4303.gml,positive,link,1,0.0434782608696,0.0,0.0
+16,article4303.gml,positive,true-believer cohort,1,0.0434782608696,0.0,0.0
+17,article4303.gml,positive,JAMA study,4,0.173913043478,0.0,0.173913043478
+18,article4303.gml,positive,states,1,0.0434782608696,0.0,0.0
+19,article4303.gml,positive,high risk children,2,0.0869565217391,0.00197628458498,0.0434782608696
+20,article4303.gml,positive,U.S. children,1,0.0434782608696,0.0,0.0
+21,article4303.gml,positive,MMR vaccine and autism link,1,0.0434782608696,0.0,0.0
+22,article4303.gml,positive,anti-vaccine,1,0.0434782608696,0.0,0.0
+23,article4303.gml,positive,minority views,2,0.0869565217391,0.0,0.0
+0,article46.gml,positive,11-12 years of age,1,0.0126582278481,0.0,0.0
+1,article46.gml,positive,11-18 year olds,1,0.0126582278481,0.0,0.0
+2,article46.gml,positive,16 years of age,1,0.0126582278481,0.0,0.0
+3,article46.gml,positive,Neisseria meningitidis bacteria,3,0.0379746835443,0.000162284972412,0.0126582278481
+4,article46.gml,positive,antibiotics,2,0.0253164556962,0.00438169425511,0.139815880322
+5,article46.gml,positive,any shot,1,0.0126582278481,0.0,0.0
+6,article46.gml,positive,anyone,1,0.0126582278481,0.0,0.139815880322
+7,article46.gml,positive,arm,1,0.0126582278481,0.0,0.0
+8,article46.gml,positive,arm side effects,4,0.0506329113924,0.0,0.0506329113924
+9,article46.gml,positive,bacteria,1,0.0126582278481,0.0,0.0168776371308
+10,article46.gml,positive,booster dose,1,0.0126582278481,0.0,0.0
+11,article46.gml,positive,brain damage,1,0.0126582278481,0.0,0.0
+12,article46.gml,positive,carrier,2,0.0253164556962,0.0113599480688,0.0351617440225
+13,article46.gml,positive,carriers,2,0.0253164556962,0.000162284972412,0.0126582278481
+14,article46.gml,positive,cases,1,0.0126582278481,0.0,0.0
+15,article46.gml,positive,close contacts,3,0.0379746835443,0.0,0.118670886076
+16,article46.gml,positive,colleges,1,0.0126582278481,0.0,0.0
+17,article46.gml,positive,common side effects,3,0.0379746835443,0.0,0.0379746835443
+18,article46.gml,positive,communities,1,0.0126582278481,0.0,0.0
+19,article46.gml,positive,confusion,1,0.0126582278481,0.0,0.0
+20,article46.gml,positive,daily activities,1,0.0126582278481,0.0,0.0
+21,article46.gml,positive,deafness,1,0.0126582278481,0.0,0.0
+22,article46.gml,positive,death,2,0.0253164556962,0.0,0.139815880322
+23,article46.gml,positive,early diagnosis,1,0.0126582278481,0.0,0.139815880322
+24,article46.gml,positive,early treatment,1,0.0126582278481,0.0,0.139815880322
+25,article46.gml,positive,effective antibiotics,1,0.0126582278481,0.0,0.0
+26,article46.gml,positive,hardness of the skin,1,0.0126582278481,0.0,0.0
+27,article46.gml,positive,headache,2,0.0253164556962,0.0,0.0
+28,article46.gml,positive,healthy people,1,0.0126582278481,0.0,0.0
+29,article46.gml,positive,high fever,1,0.0126582278481,0.0,0.0
+30,article46.gml,positive,household,1,0.0126582278481,0.0,0.0
+31,article46.gml,positive,illness,1,0.0126582278481,0.0,0.0
+32,article46.gml,positive,increased sensitivity to light,1,0.0126582278481,0.0,0.0
+33,article46.gml,positive,infection,1,0.0126582278481,0.0,0.0
+34,article46.gml,positive,influenza symptoms,1,0.0126582278481,0.0,0.0
+35,article46.gml,positive,long-term disabilities,5,0.0632911392405,0.00908795845505,0.0506329113924
+36,article46.gml,positive,loss of limb,1,0.0126582278481,0.0,0.0
+37,article46.gml,positive,meningococcal conjugate vaccine,2,0.0253164556962,0.0,0.0253164556962
+38,article46.gml,positive,meningococcal conjugate vaccine booster dose,1,0.0126582278481,0.0,0.0126582278481
+39,article46.gml,positive,meningococcal disease,28,0.354430379747,0.0548523206751,0.2194092827
+40,article46.gml,positive,meningococcal disease cases,2,0.0253164556962,0.0,0.0516877637131
+41,article46.gml,positive,meningococcal disease symptoms,5,0.0632911392405,0.00973709834469,0.0506329113924
+42,article46.gml,positive,meningococcal outbreak,6,0.0759493670886,0.000811424862058,0.0632911392405
+43,article46.gml,positive,meningococcal vaccine,16,0.20253164557,0.022070756248,0.191455696203
+44,article46.gml,positive,mild,1,0.0126582278481,0.0,0.0
+45,article46.gml,positive,nausea,2,0.0253164556962,0.0,0.0
+46,article46.gml,positive,nervous system problems,1,0.0126582278481,0.0,0.0
+47,article46.gml,positive,other meningococcal disease cases,1,0.0126582278481,0.0,0.0
+48,article46.gml,positive,other populations,1,0.0126582278481,0.0,0.0
+49,article46.gml,positive,outbreak,1,0.0126582278481,0.0,0.0
+50,article46.gml,positive,pain,1,0.0126582278481,0.0,0.0
+51,article46.gml,positive,people,1,0.0126582278481,0.0,0.0168776371308
+52,article46.gml,positive,preteens,3,0.0379746835443,0.0,0.132546251217
+53,article46.gml,positive,prisons,1,0.0126582278481,0.0,0.0
+54,article46.gml,positive,prophylaxis,1,0.0126582278481,0.0,0.0
+55,article46.gml,positive,random cases,1,0.0126582278481,0.0,0.0
+56,article46.gml,positive,rash,1,0.0126582278481,0.0,0.0
+57,article46.gml,positive,reactions,1,0.0126582278481,0.0,0.0126582278481
+58,article46.gml,positive,respiratory secretions,2,0.0253164556962,0.0,0.0
+59,article46.gml,positive,risk of fainting,2,0.0253164556962,0.0,0.144918963682
+60,article46.gml,positive,run down feeling,1,0.0126582278481,0.0,0.0
+61,article46.gml,positive,safe,1,0.0126582278481,0.0,0.0
+62,article46.gml,positive,schools,1,0.0126582278481,0.0,0.0
+63,article46.gml,positive,serious illness,1,0.0126582278481,0.0,0.0
+64,article46.gml,positive,serogroup B,1,0.0126582278481,0.0,0.0
+65,article46.gml,positive,serogroup C,1,0.0126582278481,0.0,0.0
+66,article46.gml,positive,serogroup Y,1,0.0126582278481,0.0,0.0
+67,article46.gml,positive,serogroups of meningococcal disease,1,0.0126582278481,0.0,0.0
+68,article46.gml,positive,short amount of time,1,0.0126582278481,0.0,0.0
+69,article46.gml,positive,side effects,7,0.0886075949367,0.0,0.158982696551
+70,article46.gml,positive,stiff neck,1,0.0126582278481,0.0,0.0
+71,article46.gml,positive,swelling,1,0.0126582278481,0.0,0.0
+72,article46.gml,positive,symptoms,1,0.0126582278481,0.0,0.0
+73,article46.gml,positive,teen,1,0.0126582278481,0.0,0.138046333891
+74,article46.gml,positive,teenagers,1,0.0126582278481,0.0,0.0126582278481
+75,article46.gml,positive,teens,4,0.0506329113924,0.0,0.179023508137
+76,article46.gml,positive,tenderness,1,0.0126582278481,0.0,0.0
+77,article46.gml,positive,vaccines,1,0.0126582278481,0.0,0.0126582278481
+78,article46.gml,positive,vomiting,1,0.0126582278481,0.0,0.0
+79,article46.gml,positive,young adults,2,0.0253164556962,0.0,0.139815880322
+0,article5.gml,positive,ASD,3,0.0526315789474,0.0,0.0526315789474
+1,article5.gml,positive,ASD rate,1,0.0175438596491,0.0,0.0315789473684
+2,article5.gml,positive,ASD risk,1,0.0175438596491,0.0,0.0175438596491
+3,article5.gml,positive,California,1,0.0175438596491,0.0,0.0175438596491
+4,article5.gml,positive,MMR vaccine,2,0.0350877192982,0.0,0.0
+5,article5.gml,positive,MMR vaccine-ASD link,2,0.0350877192982,0.00093984962406,0.0315789473684
+6,article5.gml,positive,MMR vaccine-autism link,2,0.0350877192982,0.0,0.046783625731
+7,article5.gml,positive,NIH and partners,4,0.0701754385965,0.0,0.0701754385965
+8,article5.gml,positive,United States,1,0.0175438596491,0.0,0.0748538011696
+9,article5.gml,positive,Wakefield study,2,0.0350877192982,0.00062656641604,0.0175438596491
+10,article5.gml,positive,autism diagnosis,1,0.0175438596491,0.0,0.0
+11,article5.gml,positive,autism spectrum disorder,2,0.0350877192982,0.0,0.0350877192982
+12,article5.gml,positive,behavioral interventions,1,0.0175438596491,0.0,0.0
+13,article5.gml,positive,brain damage,1,0.0175438596491,0.0,0.0
+14,article5.gml,positive,challenge,1,0.0175438596491,0.0,0.0
+15,article5.gml,positive,children,1,0.0175438596491,0.0,0.0
+16,article5.gml,positive,children at higher risk for autism,5,0.0877192982456,0.00250626566416,0.0350877192982
+17,article5.gml,positive,children with cancer,3,0.0526315789474,0.00046992481203,0.0394736842105
+18,article5.gml,positive,children with immunosuppressive diseases,3,0.0526315789474,0.00046992481203,0.0394736842105
+19,article5.gml,positive,community,1,0.0175438596491,0.0,0.0
+20,article5.gml,positive,death,1,0.0175438596491,0.0,0.0
+21,article5.gml,positive,debunked study,1,0.0175438596491,0.0,0.0
+22,article5.gml,positive,decline in vaccination rates,2,0.0350877192982,0.0,0.0350877192982
+23,article5.gml,positive,delay vaccinations,1,0.0175438596491,0.0,0.0
+24,article5.gml,positive,ear infections,1,0.0175438596491,0.0,0.0
+25,article5.gml,positive,environmental risk factors for ASD,1,0.0175438596491,0.0,0.0
+26,article5.gml,positive,families,1,0.0175438596491,0.0,0.0
+27,article5.gml,positive,genetic risk factors for ASD,1,0.0175438596491,0.0,0.0
+28,article5.gml,positive,herd immunity,3,0.0526315789474,0.00093984962406,0.0175438596491
+29,article5.gml,positive,infectious disease,1,0.0175438596491,0.0,0.0
+30,article5.gml,positive,infectious diseases,1,0.0175438596491,0.0,0.0175438596491
+31,article5.gml,positive,measles,9,0.157894736842,0.00438596491228,0.122807017544
+32,article5.gml,positive,misplaced fear of ASD,3,0.0526315789474,0.00062656641604,0.0233918128655
+33,article5.gml,positive,no evidence,1,0.0175438596491,0.0,0.0
+34,article5.gml,positive,not vaccinating children,1,0.0175438596491,0.0,0.0175438596491
+35,article5.gml,positive,parental responsibility,2,0.0350877192982,0.0,0.0350877192982
+36,article5.gml,positive,parents,6,0.105263157895,0.0,0.143274853801
+37,article5.gml,positive,parents of child with ASD,1,0.0175438596491,0.0,0.0175438596491
+38,article5.gml,positive,pharmacological interventions,1,0.0175438596491,0.0,0.0
+39,article5.gml,positive,pneumonia,1,0.0175438596491,0.0,0.0
+40,article5.gml,positive,population immunity,3,0.0526315789474,0.0,0.0631578947368
+41,article5.gml,positive,potentially fatal childhood infectious disease,1,0.0175438596491,0.0,0.0
+42,article5.gml,positive,potentially fatal infection,1,0.0175438596491,0.0,0.0
+43,article5.gml,positive,prevent outbreaks,1,0.0175438596491,0.0,0.0
+44,article5.gml,positive,public health,2,0.0350877192982,0.0,0.0
+45,article5.gml,positive,refuse vaccinations,1,0.0175438596491,0.0,0.0
+46,article5.gml,positive,researchers,1,0.0175438596491,0.0,0.0311890838207
+47,article5.gml,positive,resurgence in potentially fatal childhood infectious diseases,1,0.0175438596491,0.0,0.0
+48,article5.gml,positive,resurgence of measles,2,0.0350877192982,0.0,0.0
+49,article5.gml,positive,scientists,1,0.0175438596491,0.0,0.0
+50,article5.gml,positive,seizures,1,0.0175438596491,0.0,0.0
+51,article5.gml,positive,serious consequences,1,0.0175438596491,0.0,0.0
+52,article5.gml,positive,sibling with ASD,1,0.0175438596491,0.0,0.0
+53,article5.gml,positive,vaccinations,4,0.0701754385965,0.0,0.0
+54,article5.gml,positive,vaccine,1,0.0175438596491,0.0,0.0
+55,article5.gml,positive,vaccine avoidance,1,0.0175438596491,0.0,0.0
+56,article5.gml,positive,vaccine delay,1,0.0175438596491,0.0,0.0175438596491
+57,article5.gml,positive,vaccine refusal,1,0.0175438596491,0.0,0.0175438596491
+0,article5077.gml,positive,Johns Hopkins University,1,0.0227272727273,0.0,0.0
+1,article5077.gml,positive,Michael Mina,2,0.0454545454545,0.0,0.0454545454545
+2,article5077.gml,positive,Mina study,5,0.113636363636,0.00528541226216,0.164204545455
+3,article5077.gml,positive,Mina team,2,0.0454545454545,0.0,0.0454545454545
+4,article5077.gml,positive,Princeton University,1,0.0227272727273,0.0,0.0
+5,article5077.gml,positive,United States,2,0.0454545454545,0.0,0.0454545454545
+6,article5077.gml,positive,William Moss,5,0.113636363636,0.00264270613108,0.142786561265
+7,article5077.gml,positive,antibiotics,1,0.0227272727273,0.0,0.0
+8,article5077.gml,positive,better health care,3,0.0681818181818,0.00211416490486,0.0454545454545
+9,article5077.gml,positive,childhood deaths,1,0.0227272727273,0.0,0.030303030303
+10,article5077.gml,positive,children,5,0.113636363636,0.00898520084567,0.168414918415
+11,article5077.gml,positive,computer models,1,0.0227272727273,0.0,0.0
+12,article5077.gml,positive,developing countries,3,0.0681818181818,0.0,0.0
+13,article5077.gml,positive,diarrhea deaths,1,0.0227272727273,0.0,0.0568181818182
+14,article5077.gml,positive,epidemiological data,1,0.0227272727273,0.0,0.0
+15,article5077.gml,positive,epidemiologist,1,0.0227272727273,0.0,0.0
+16,article5077.gml,positive,evidence,2,0.0454545454545,0.00739957716702,0.0742424242424
+17,article5077.gml,positive,health care improvement,1,0.0227272727273,0.0,0.0
+18,article5077.gml,positive,hypothesis,1,0.0227272727273,0.0,0.0
+19,article5077.gml,positive,immune amnesia,3,0.0681818181818,0.00739957716702,0.0454545454545
+20,article5077.gml,positive,immune protection,3,0.0681818181818,0.0,0.0
+21,article5077.gml,positive,immune system,7,0.159090909091,0.0174418604651,0.102272727273
+22,article5077.gml,positive,important message,1,0.0227272727273,0.0,0.0
+23,article5077.gml,positive,infectious diseases,2,0.0454545454545,0.000528541226216,0.0227272727273
+24,article5077.gml,positive,kids,1,0.0227272727273,0.0,0.0
+25,article5077.gml,positive,measles,6,0.136363636364,0.00845665961945,0.0969696969697
+26,article5077.gml,positive,measles cases number,1,0.0227272727273,0.0,0.0227272727273
+27,article5077.gml,positive,measles infection,1,0.0227272727273,0.0,0.0
+28,article5077.gml,positive,measles outbreaks,1,0.0227272727273,0.0,0.0
+29,article5077.gml,positive,measles vaccine,10,0.227272727273,0.0158562367865,0.0727272727273
+30,article5077.gml,positive,measles virus,1,0.0227272727273,0.0,0.129186602871
+31,article5077.gml,positive,medical student,1,0.0227272727273,0.0,0.0
+32,article5077.gml,positive,mortality rate decrease,1,0.0227272727273,0.0,0.0227272727273
+33,article5077.gml,positive,mystery,4,0.0909090909091,0.0,0.0
+34,article5077.gml,positive,number of deaths from other infections,1,0.0227272727273,0.0,0.0
+35,article5077.gml,positive,parents,1,0.0227272727273,0.0,0.0
+36,article5077.gml,positive,pneumonia deaths,1,0.0227272727273,0.0,0.0568181818182
+37,article5077.gml,positive,previous monkey studies show,1,0.0227272727273,0.0,0.0227272727273
+38,article5077.gml,positive,prior diseases,1,0.0227272727273,0.0,0.0
+39,article5077.gml,positive,public health benefits,3,0.0681818181818,0.00528541226216,0.0227272727273
+40,article5077.gml,positive,reduction in child mortality,2,0.0454545454545,0.0,0.0631313131313
+41,article5077.gml,positive,reduction in mortality,2,0.0454545454545,0.0,0.0631313131313
+42,article5077.gml,positive,scientists,2,0.0454545454545,0.0,0.0631313131313
+43,article5077.gml,positive,testing,1,0.0227272727273,0.0,0.0
+44,article5077.gml,positive,vaccines,1,0.0227272727273,0.0,0.0
+0,article609.gml,positive,Mississippi,1,0.00751879699248,0.0,0.00751879699248
+1,article609.gml,positive,vaccination rates,4,0.0300751879699,0.00444292549556,0.0672711189739
+2,article609.gml,positive,mumps vaccine,1,0.00751879699248,0.0,0.0
+3,article609.gml,positive,religious exemption,3,0.0225563909774,0.000170881749829,0.0169172932331
+4,article609.gml,positive,vaccinated,3,0.0225563909774,0.0,0.0
+5,article609.gml,positive,political issues,1,0.00751879699248,0.0,0.0
+6,article609.gml,positive,Minnesota,1,0.00751879699248,0.0,0.0
+7,article609.gml,positive,Faith Assembly,2,0.015037593985,0.0,0.00751879699248
+8,article609.gml,positive,religious communities,3,0.0225563909774,0.0101389838232,0.0759240759241
+9,article609.gml,positive,religions,2,0.015037593985,0.0,0.0566775683604
+10,article609.gml,positive,Dutch Bible belt,1,0.00751879699248,0.0,0.0
+11,article609.gml,positive,children,1,0.00751879699248,0.0,0.00751879699248
+12,article609.gml,positive,Catholics,2,0.015037593985,0.0,0.0601943455129
+13,article609.gml,positive,Orthodox Jewish communities,1,0.00751879699248,0.0,0.0
+14,article609.gml,positive,personal-belief exemptions,1,0.00751879699248,0.0,0.0
+15,article609.gml,positive,fully vaccinated,1,0.00751879699248,0.0,0.0
+16,article609.gml,positive,Jewish dietary laws,1,0.00751879699248,0.0,0.0
+17,article609.gml,positive,vaccine requirements,1,0.00751879699248,0.0,0.0
+18,article609.gml,positive,parents,1,0.00751879699248,0.0,0.00751879699248
+19,article609.gml,positive,West Virginia,1,0.00751879699248,0.0,0.00751879699248
+20,article609.gml,positive,anti-vaccine eugenics community,2,0.015037593985,0.0,0.00751879699248
+21,article609.gml,positive,oversease,1,0.00751879699248,0.0,0.0
+22,article609.gml,positive,vaccine-preventable diseases,5,0.0375939849624,0.0231259968102,0.0980307912639
+23,article609.gml,positive,popular religious groups,1,0.00751879699248,0.0,0.0283400809717
+24,article609.gml,positive,vaccinations,1,0.00751879699248,0.0,0.0
+25,article609.gml,positive,Pakistan,1,0.00751879699248,0.0,0.0
+26,article609.gml,positive,school,2,0.015037593985,0.0,0.0
+27,article609.gml,positive,cultured cells,3,0.0225563909774,0.0,0.0
+28,article609.gml,positive,subgroup of church members,1,0.00751879699248,0.0,0.0
+29,article609.gml,positive,Christian Scientists,2,0.015037593985,0.0,0.015037593985
+30,article609.gml,positive,India,1,0.00751879699248,0.0,0.0572860723237
+31,article609.gml,positive,religious doctrine,1,0.00751879699248,0.0,0.0
+32,article609.gml,positive,immunization,1,0.00751879699248,0.0,0.00751879699248
+33,article609.gml,positive,few religions,1,0.00751879699248,0.0,0.0283400809717
+34,article609.gml,positive,Muslim leaders,1,0.00751879699248,0.0,0.00751879699248
+35,article609.gml,positive,home-schooled children,1,0.00751879699248,0.0,0.00751879699248
+36,article609.gml,positive,Afghanistan,1,0.00751879699248,0.0,0.0
+37,article609.gml,positive,medical law,1,0.00751879699248,0.0,0.0
+38,article609.gml,positive,aborted fetuses,3,0.0225563909774,0.0,0.0
+39,article609.gml,positive,vaccine refusing,1,0.00751879699248,0.0,0.0
+40,article609.gml,positive,people,1,0.00751879699248,0.0,0.00751879699248
+41,article609.gml,positive,orthodox Hasidic Jews,4,0.0300751879699,0.0,0.0338345864662
+42,article609.gml,positive,Dutch reformed churches,4,0.0300751879699,0.00165185691501,0.0169172932331
+43,article609.gml,positive,rubella,1,0.00751879699248,0.0,0.00751879699248
+44,article609.gml,positive,vaccine refusal,2,0.015037593985,0.0,0.015037593985
+45,article609.gml,positive,hepatitis A vaccine,4,0.0300751879699,0.000151894888737,0.015037593985
+46,article609.gml,positive,Jehovah's Witnesses,3,0.0225563909774,0.00185121895648,0.0709878143635
+47,article609.gml,positive,Faith Tabernacle,2,0.015037593985,0.0,0.00751879699248
+48,article609.gml,positive,unvaccinated religious community,1,0.00751879699248,0.0,0.0
+49,article609.gml,positive,anti-vaccine,1,0.00751879699248,0.0,0.0
+50,article609.gml,positive,vaccines,15,0.112781954887,0.00558213716108,0.0451127819549
+51,article609.gml,positive,religion,1,0.00751879699248,0.0,0.0
+52,article609.gml,positive,polio vaccine,1,0.00751879699248,0.0,0.00751879699248
+53,article609.gml,positive,issue,1,0.00751879699248,0.0,0.0
+54,article609.gml,positive,polio vaccination effort,1,0.00751879699248,0.0,0.00751879699248
+55,article609.gml,positive,Muslim fundamentalists,4,0.0300751879699,0.00814536340852,0.0478828650574
+56,article609.gml,positive,faith healing,6,0.0451127819549,0.0,0.0
+57,article609.gml,positive,absolute objection,2,0.015037593985,0.0,0.00751879699248
+58,article609.gml,positive,medical exemption,3,0.0225563909774,0.000113921166553,0.015037593985
+59,article609.gml,positive,vaccine safety fears,1,0.00751879699248,0.0,0.0
+60,article609.gml,positive,opposition,1,0.00751879699248,0.0,0.0
+61,article609.gml,positive,gift from God,1,0.00751879699248,0.0,0.0
+62,article609.gml,positive,unvaccinated clusters,2,0.015037593985,0.0,0.0794172932331
+63,article609.gml,positive,most religions,1,0.00751879699248,0.0,0.00751879699248
+64,article609.gml,positive,Jews,5,0.0375939849624,0.00333219412167,0.071980650928
+65,article609.gml,positive,First Century Gospel Church,2,0.015037593985,0.0,0.00751879699248
+66,article609.gml,positive,healing through prayer,1,0.00751879699248,0.0,0.0
+67,article609.gml,positive,Catholic parents,3,0.0225563909774,0.0,0.0268528464017
+68,article609.gml,positive,outbreaks,2,0.015037593985,0.00222146274778,0.06283566058
+69,article609.gml,positive,vaccines are not necessary,1,0.00751879699248,0.0,0.0
+70,article609.gml,positive,Prabhupada Village,1,0.00751879699248,0.0,0.0
+71,article609.gml,positive,health of children,1,0.00751879699248,0.0,0.0283400809717
+72,article609.gml,positive,members,1,0.00751879699248,0.0,0.0
+73,article609.gml,positive,sterilize Muslims,2,0.015037593985,0.0,0.0
+74,article609.gml,positive,The Church,1,0.00751879699248,0.0,0.0283400809717
+75,article609.gml,positive,vaccine exemption,4,0.0300751879699,0.0,0.0406015037594
+76,article609.gml,positive,church congregation,1,0.00751879699248,0.0,0.0
+77,article609.gml,positive,personal belief,1,0.00751879699248,0.0,0.0
+78,article609.gml,positive,Eagle Mountain International Church,3,0.0225563909774,0.000113921166553,0.015037593985
+79,article609.gml,positive,philosophical,1,0.00751879699248,0.0,0.0
+80,article609.gml,positive,church,1,0.00751879699248,0.0,0.0
+81,article609.gml,positive,Nigeria,1,0.00751879699248,0.0,0.0
+82,article609.gml,positive,prohibits vaccinating members,1,0.00751879699248,0.0,0.0
+83,article609.gml,positive,vaccination,8,0.0601503759398,0.0082023239918,0.0751330881949
+84,article609.gml,positive,vaccine exemptions,1,0.00751879699248,0.0,0.0
+85,article609.gml,positive,personal-belief exemption,1,0.00751879699248,0.0,0.0
+86,article609.gml,positive,Disneyland,2,0.015037593985,0.0,0.0
+87,article609.gml,positive,Islamic principles,2,0.015037593985,0.0,0.0
+88,article609.gml,positive,polio vaccine opposition,9,0.0676691729323,0.00592390066074,0.0601503759398
+89,article609.gml,positive,tenets of organized religion,2,0.015037593985,0.000113921166553,0.00751879699248
+90,article609.gml,positive,opposed,5,0.0375939849624,0.00102529049897,0.00751879699248
+91,article609.gml,positive,alternative to vaccines,1,0.00751879699248,0.0,0.0
+92,article609.gml,positive,Pennsylvania,1,0.00751879699248,0.0,0.0
+93,article609.gml,positive,measles,7,0.0526315789474,0.0,0.0481203007519
+94,article609.gml,positive,unvaccinated worker,1,0.00751879699248,0.0,0.00751879699248
+95,article609.gml,positive,Dutch Reformed Churches,1,0.00751879699248,0.0,0.00751879699248
+96,article609.gml,positive,measles encephalitis,1,0.00751879699248,0.0,0.00751879699248
+97,article609.gml,positive,End Time Ministries,2,0.015037593985,0.0,0.00751879699248
+98,article609.gml,positive,religious exemptions,3,0.0225563909774,0.0,0.0
+99,article609.gml,positive,overseas countries,1,0.00751879699248,0.0,0.0
+100,article609.gml,positive,Church of the First Born,2,0.015037593985,0.0,0.00751879699248
+101,article609.gml,positive,rubella vaccine,3,0.0225563909774,3.79737221842e-05,0.015037593985
+102,article609.gml,positive,measles outbreak,1,0.00751879699248,0.0,0.0
+103,article609.gml,positive,immune system disorder,1,0.00751879699248,0.0,0.0
+104,article609.gml,positive,formal advice,1,0.00751879699248,0.0,0.0
+105,article609.gml,positive,Nepal,1,0.00751879699248,0.0,0.0572860723237
+106,article609.gml,positive,pig,2,0.015037593985,0.0,0.0
+107,article609.gml,positive,conspiracy,3,0.0225563909774,0.000455684666211,0.00751879699248
+108,article609.gml,positive,sterilization attempt,1,0.00751879699248,0.0,0.0
+109,article609.gml,positive,philosophical exemption,1,0.00751879699248,0.0,0.00751879699248
+110,article609.gml,positive,population health,1,0.00751879699248,0.0,0.0283400809717
+111,article609.gml,positive,religions with absolute objection,6,0.0451127819549,0.0,0.0451127819549
+112,article609.gml,positive,theological issues,1,0.00751879699248,0.0,0.0
+113,article609.gml,positive,polio,1,0.00751879699248,0.0,0.0
+114,article609.gml,positive,allergies,1,0.00751879699248,0.0,0.0
+115,article609.gml,positive,anti-vaccine views,2,0.015037593985,0.0,0.102107948443
+116,article609.gml,positive,Muslims,2,0.015037593985,0.0,0.0601943455129
+117,article609.gml,positive,Jehovah's witnesses,1,0.00751879699248,0.0,0.0
+118,article609.gml,positive,social issues,1,0.00751879699248,0.0,0.0
+119,article609.gml,positive,varicella vaccine,3,0.0225563909774,3.79737221842e-05,0.015037593985
+120,article609.gml,positive,unvaccinated,1,0.00751879699248,0.0,0.00751879699248
+121,article609.gml,positive,gelatin,2,0.015037593985,0.0,0.0
+122,article609.gml,positive,unvaccinated workers,1,0.00751879699248,0.0,0.00751879699248
+123,article609.gml,positive,church mission work,1,0.00751879699248,0.0,0.00751879699248
+124,article609.gml,positive,religious groups,17,0.127819548872,0.0257461836409,0.141003192914
+125,article609.gml,positive,pro-vaccine,1,0.00751879699248,0.0,0.0
+126,article609.gml,positive,Catholic Church,1,0.00751879699248,0.0,0.00751879699248
+127,article609.gml,positive,Hinduism,2,0.015037593985,0.0,0.0283400809717
+128,article609.gml,positive,personal religious beliefs,1,0.00751879699248,0.0,0.0
+129,article609.gml,positive,Amish,3,0.0225563909774,0.00131009341536,0.0169172932331
+130,article609.gml,positive,large outbreaks,1,0.00751879699248,0.0,0.0
+131,article609.gml,positive,Hib disease,2,0.015037593985,0.0,0.015037593985
+132,article609.gml,positive,personal belief exemption,1,0.00751879699248,0.0,0.0
+133,article609.gml,positive,Netherlands Reformed Congregation,2,0.015037593985,0.0,0.0
+0,article620.gml,positive,California,1,0.0133333333333,0.0,0.0
+1,article620.gml,positive,Disneyland outbreak,2,0.0266666666667,0.00018018018018,0.0133333333333
+2,article620.gml,positive,Los Angeles,2,0.0266666666667,0.0,0.0266666666667
+3,article620.gml,positive,Los Angeles County,1,0.0133333333333,0.0,0.0133333333333
+4,article620.gml,positive,MMR vaccine,5,0.0666666666667,0.00108108108108,0.0133333333333
+5,article620.gml,positive,Merck,1,0.0133333333333,0.0,0.0177777777778
+6,article620.gml,positive,Mississippi,2,0.0266666666667,0.0,0.03
+7,article620.gml,positive,Waldorf School of Princeton,2,0.0266666666667,0.0,0.0266666666667
+8,article620.gml,positive,West Virginia,2,0.0266666666667,0.0,0.03
+9,article620.gml,positive,annual tuition,1,0.0133333333333,0.0,0.0
+10,article620.gml,positive,at risk,1,0.0133333333333,0.0,0.0
+11,article620.gml,positive,cluster,4,0.0533333333333,0.000540540540541,0.0133333333333
+12,article620.gml,positive,communicable diseases,1,0.0133333333333,0.0,0.0
+13,article620.gml,positive,community,1,0.0133333333333,0.0,0.0
+14,article620.gml,positive,community members,2,0.0266666666667,0.0,0.030303030303
+15,article620.gml,positive,community-level,3,0.04,0.00036036036036,0.0133333333333
+16,article620.gml,positive,community-level immunization rates,1,0.0133333333333,0.0,0.0133333333333
+17,article620.gml,positive,danger,2,0.0266666666667,0.0,0.0
+18,article620.gml,positive,disease,1,0.0133333333333,0.0,0.0
+19,article620.gml,positive,doctors,1,0.0133333333333,0.0,0.0177777777778
+20,article620.gml,positive,driving factors,3,0.04,0.0,0.0426666666667
+21,article620.gml,positive,exemption rate,1,0.0133333333333,0.0,0.0
+22,article620.gml,positive,government policy,1,0.0133333333333,0.0,0.0
+23,article620.gml,positive,herd immunity,3,0.04,0.00108108108108,0.02
+24,article620.gml,positive,high,1,0.0133333333333,0.0,0.0
+25,article620.gml,positive,idea,3,0.04,0.00036036036036,0.0133333333333
+26,article620.gml,positive,ideas,1,0.0133333333333,0.0,0.0133333333333
+27,article620.gml,positive,immunization,3,0.04,0.0,0.04
+28,article620.gml,positive,immunization rates,3,0.04,0.0,0.0
+29,article620.gml,positive,infant death,1,0.0133333333333,0.0,0.0
+30,article620.gml,positive,infant disability,1,0.0133333333333,0.0,0.0
+31,article620.gml,positive,low immunization cluster,1,0.0133333333333,0.0,0.0133333333333
+32,article620.gml,positive,low rates of vaccination,1,0.0133333333333,0.0,0.0177777777778
+33,article620.gml,positive,low vaccination rates,3,0.04,0.000540540540541,0.03
+34,article620.gml,positive,measles,4,0.0533333333333,0.0018018018018,0.0177777777778
+35,article620.gml,positive,measles comeback,2,0.0266666666667,0.00108108108108,0.0133333333333
+36,article620.gml,positive,measles outbreak,2,0.0266666666667,0.00108108108108,0.04
+37,article620.gml,positive,measles vaccine,2,0.0266666666667,0.00018018018018,0.0133333333333
+38,article620.gml,positive,medical exemption,2,0.0266666666667,0.0,0.0
+39,article620.gml,positive,multi-state measles outbreak,1,0.0133333333333,0.0,0.0
+40,article620.gml,positive,parents,3,0.04,0.0,0.03
+41,article620.gml,positive,part of the story,1,0.0133333333333,0.0,0.0
+42,article620.gml,positive,people,1,0.0133333333333,0.0,0.0177777777778
+43,article620.gml,positive,personal exemptions,1,0.0133333333333,0.0,0.0
+44,article620.gml,positive,preschoolers,1,0.0133333333333,0.0,0.0
+45,article620.gml,positive,private schools,2,0.0266666666667,0.00018018018018,0.0133333333333
+46,article620.gml,positive,public health officials,1,0.0133333333333,0.0,0.02
+47,article620.gml,positive,public schools,1,0.0133333333333,0.0,0.0
+48,article620.gml,positive,recommended vaccine schedule,2,0.0266666666667,0.0,0.0
+49,article620.gml,positive,religious exemptions,1,0.0133333333333,0.0,0.0
+50,article620.gml,positive,sales,1,0.0133333333333,0.0,0.0
+51,article620.gml,positive,schools,5,0.0666666666667,0.0,0.0466666666667
+52,article620.gml,positive,serious childhood diseases,1,0.0133333333333,0.0,0.0
+53,article620.gml,positive,single measles case,1,0.0133333333333,0.0,0.0177777777778
+54,article620.gml,positive,social-network phenomenon,2,0.0266666666667,0.0,0.0
+55,article620.gml,positive,state immunization rates,1,0.0133333333333,0.0,0.0133333333333
+56,article620.gml,positive,state vaccination rates,2,0.0266666666667,0.0,0.03
+57,article620.gml,positive,state-level,1,0.0133333333333,0.0,0.0133333333333
+58,article620.gml,positive,state-level immunization rates,1,0.0133333333333,0.0,0.0133333333333
+59,article620.gml,positive,state-level policies,3,0.04,0.0,0.0568888888889
+60,article620.gml,positive,states,7,0.0933333333333,0.0027027027027,0.0555555555556
+61,article620.gml,positive,threat,1,0.0133333333333,0.0,0.0
+62,article620.gml,positive,vaccinated,1,0.0133333333333,0.0,0.0
+63,article620.gml,positive,vaccinated students,2,0.0266666666667,0.0,0.0
+64,article620.gml,positive,vaccination,2,0.0266666666667,0.0,0.0426666666667
+65,article620.gml,positive,vaccination exemptions,2,0.0266666666667,0.0,0.0266666666667
+66,article620.gml,positive,vaccination rate,1,0.0133333333333,0.0,0.0
+67,article620.gml,positive,vaccination rates,1,0.0133333333333,0.0,0.0
+68,article620.gml,positive,vaccine,1,0.0133333333333,0.0,0.0133333333333
+69,article620.gml,positive,vaccine exemption,2,0.0266666666667,0.0,0.0133333333333
+70,article620.gml,positive,vaccine is worse than disease,1,0.0133333333333,0.0,0.0
+71,article620.gml,positive,vaccine rates,2,0.0266666666667,0.0,0.0502564102564
+72,article620.gml,positive,variation,2,0.0266666666667,0.00018018018018,0.0133333333333
+73,article620.gml,positive,virus,1,0.0133333333333,0.0,0.0
+74,article620.gml,positive,wealthier regions,2,0.0266666666667,0.0,0.0
+75,article620.gml,positive,young children,1,0.0133333333333,0.0,0.0
+0,article6247.gml,positive,unvaccinated children,1,0.00925925925926,0.0,0.00925925925926
+1,article6247.gml,positive,what we already knew,3,0.0277777777778,0.000173070266528,0.0185185185185
+2,article6247.gml,positive,anti-vaccine website,14,0.12962962963,0.0,0.12962962963
+3,article6247.gml,positive,children,4,0.037037037037,0.0,0.0
+4,article6247.gml,positive,MMR vaccine doesn't trigger autism,1,0.00925925925926,0.0,0.0
+5,article6247.gml,positive,risk of mumps,1,0.00925925925926,0.0,0.0
+6,article6247.gml,positive,best-sellers,1,0.00925925925926,0.0,0.0
+7,article6247.gml,positive,autism risk,1,0.00925925925926,0.0,0.0
+8,article6247.gml,positive,likelihood of developing autism,1,0.00925925925926,0.0,0.00925925925926
+9,article6247.gml,positive,National Institutes of Health,1,0.00925925925926,0.0,0.0
+10,article6247.gml,positive,parents,3,0.0277777777778,0.0,0.0333333333333
+11,article6247.gml,positive,money,4,0.037037037037,0.000259605399792,0.0277777777778
+12,article6247.gml,positive,siblings,1,0.00925925925926,0.0,0.0
+13,article6247.gml,positive,vaccine-preventable diseases,1,0.00925925925926,0.0,0.0
+14,article6247.gml,positive,resources,2,0.0185185185185,0.0,0.0246913580247
+15,article6247.gml,positive,myth,3,0.0277777777778,0.0,0.0
+16,article6247.gml,positive,psychiatrist,1,0.00925925925926,0.0,0.0
+17,article6247.gml,positive,biologically-predisposed children,1,0.00925925925926,0.0,0.00925925925926
+18,article6247.gml,positive,developing world,1,0.00925925925926,0.0,0.0
+19,article6247.gml,positive,children with neurodevelopmental issues,2,0.0185185185185,0.000173070266528,0.00925925925926
+20,article6247.gml,positive,autism specialist,1,0.00925925925926,0.0,0.0
+21,article6247.gml,positive,risk of ASD recurrence,1,0.00925925925926,0.0,0.00925925925926
+22,article6247.gml,positive,financial forces,4,0.037037037037,0.000346140533056,0.0296296296296
+23,article6247.gml,positive,secretin,1,0.00925925925926,0.0,0.0
+24,article6247.gml,positive,choice to not vaccinate younger child,4,0.037037037037,0.0,0.037037037037
+25,article6247.gml,positive,findings,3,0.0277777777778,0.000346140533056,0.021164021164
+26,article6247.gml,positive,MMR vaccine is safe,1,0.00925925925926,0.0,0.0
+27,article6247.gml,positive,books,1,0.00925925925926,0.0,0.0
+28,article6247.gml,positive,salves,1,0.00925925925926,0.0,0.0
+29,article6247.gml,positive,anti-vaccine advocates,1,0.00925925925926,0.0,0.00925925925926
+30,article6247.gml,positive,universities,1,0.00925925925926,0.0,0.0
+31,article6247.gml,positive,Seattle Children's Hospital,1,0.00925925925926,0.0,0.0
+32,article6247.gml,positive,vitamins,1,0.00925925925926,0.0,0.0
+33,article6247.gml,positive,vaccinated children,1,0.00925925925926,0.0,0.00925925925926
+34,article6247.gml,positive,vaccinated children and unvaccinated children,4,0.037037037037,0.0,0.0
+35,article6247.gml,positive,disease,4,0.037037037037,0.000173070266528,0.0185185185185
+36,article6247.gml,positive,research,2,0.0185185185185,0.000346140533056,0.0123456790123
+37,article6247.gml,positive,vaccines,1,0.00925925925926,0.0,0.0
+38,article6247.gml,positive,age of onset of ASD,1,0.00925925925926,0.0,0.00925925925926
+39,article6247.gml,positive,scientists,1,0.00925925925926,0.0,0.0185185185185
+40,article6247.gml,positive,measles vaccine,2,0.0185185185185,0.0,0.0
+41,article6247.gml,positive,developmental disability,3,0.0277777777778,0.000173070266528,0.00925925925926
+42,article6247.gml,positive,unconscionable,1,0.00925925925926,0.0,0.0
+43,article6247.gml,positive,University of Minnesota,1,0.00925925925926,0.0,0.0
+44,article6247.gml,positive,Dr. Paul Offit,3,0.0277777777778,0.0,0.0277777777778
+45,article6247.gml,positive,answers,1,0.00925925925926,0.0,0.0
+46,article6247.gml,positive,proponents of alternative vaccine strategies,2,0.0185185185185,0.0,0.0185185185185
+47,article6247.gml,positive,MMR vaccine-autism link,6,0.0555555555556,0.00103842159917,0.0208333333333
+48,article6247.gml,positive,raw milk,1,0.00925925925926,0.0,0.0
+49,article6247.gml,positive,tapes,1,0.00925925925926,0.0,0.0
+50,article6247.gml,positive,study,5,0.0462962962963,0.0,0.0718390804598
+51,article6247.gml,positive,course of ASD,1,0.00925925925926,0.0,0.00925925925926
+52,article6247.gml,positive,Dr. Mark Schleiss,3,0.0277777777778,0.0,0.0378086419753
+53,article6247.gml,positive,nutritional supplements,1,0.00925925925926,0.0,0.0
+54,article6247.gml,positive,pediatrician,1,0.00925925925926,0.0,0.0
+55,article6247.gml,positive,threat,1,0.00925925925926,0.0,0.0
+56,article6247.gml,positive,anti-vaccine agenda,1,0.00925925925926,0.0,0.0
+57,article6247.gml,positive,studies,1,0.00925925925926,0.0,0.0185185185185
+58,article6247.gml,positive,natural foods,1,0.00925925925926,0.0,0.0
+59,article6247.gml,positive,genetically-predisposed children,1,0.00925925925926,0.0,0.00925925925926
+60,article6247.gml,positive,better aerosol vaccine,1,0.00925925925926,0.0,0.00925925925926
+61,article6247.gml,positive,at-risk unvaccinated children,1,0.00925925925926,0.0,0.00925925925926
+62,article6247.gml,positive,MMR vaccine safety,1,0.00925925925926,0.0,0.0
+63,article6247.gml,positive,vaccination,2,0.0185185185185,0.0,0.0246913580247
+64,article6247.gml,positive,risk of ASD,5,0.0462962962963,0.0,0.0
+65,article6247.gml,positive,risk of rubella,1,0.00925925925926,0.0,0.0
+66,article6247.gml,positive,ASD,1,0.00925925925926,0.0,0.0
+67,article6247.gml,positive,creams,1,0.00925925925926,0.0,0.0
+68,article6247.gml,positive,The Children's Hospital of Philadelphia,1,0.00925925925926,0.0,0.0
+69,article6247.gml,positive,families,2,0.0185185185185,0.000173070266528,0.00925925925926
+70,article6247.gml,positive,funds,1,0.00925925925926,0.0,0.0
+71,article6247.gml,positive,at-risk vaccinated children,1,0.00925925925926,0.0,0.00925925925926
+72,article6247.gml,positive,reassurance,3,0.0277777777778,0.000259605399792,0.0208333333333
+73,article6247.gml,positive,risk of measles,1,0.00925925925926,0.0,0.0
+74,article6247.gml,positive,physician,1,0.00925925925926,0.0,0.0
+75,article6247.gml,positive,fraud,1,0.00925925925926,0.0,0.0
+76,article6247.gml,positive,science,1,0.00925925925926,0.0,0.0185185185185
+77,article6247.gml,positive,other projects,1,0.00925925925926,0.0,0.0
+78,article6247.gml,positive,high-risk children,2,0.0185185185185,0.000432675666321,0.00925925925926
+79,article6247.gml,positive,celebrity status,1,0.00925925925926,0.0,0.0
+80,article6247.gml,positive,severity of ASD,1,0.00925925925926,0.0,0.00925925925926
+81,article6247.gml,positive,complications,1,0.00925925925926,0.0,0.0
+82,article6247.gml,positive,careers,1,0.00925925925926,0.0,0.0
+83,article6247.gml,positive,susceptible children,1,0.00925925925926,0.0,0.0
+84,article6247.gml,positive,video,1,0.00925925925926,0.0,0.0
+85,article6247.gml,positive,Vaccine Education Center,1,0.00925925925926,0.0,0.0
+86,article6247.gml,positive,electrostimulation,1,0.00925925925926,0.0,0.0
+87,article6247.gml,positive,vaccine safety,1,0.00925925925926,0.0,0.0
+88,article6247.gml,positive,Dr. Bryan King,3,0.0277777777778,0.0,0.0277777777778
+89,article6247.gml,positive,evidence,1,0.00925925925926,0.0,0.00925925925926
+90,article6247.gml,positive,someone looking to make a buck,1,0.00925925925926,0.0,0.0
+91,article6247.gml,positive,shame,1,0.00925925925926,0.0,0.0
+92,article6247.gml,positive,vaccine delivery,2,0.0185185185185,0.000259605399792,0.00925925925926
+93,article6247.gml,positive,exist,1,0.00925925925926,0.0,0.0
+94,article6247.gml,positive,autism,3,0.0277777777778,0.0,0.0
+95,article6247.gml,positive,MMR vaccine,4,0.037037037037,0.0,0.0296296296296
+96,article6247.gml,positive,hypotheses about autism,1,0.00925925925926,0.0,0.0
+97,article6247.gml,positive,Disneyland oubreak,1,0.00925925925926,0.0,0.0166666666667
+98,article6247.gml,positive,field,1,0.00925925925926,0.0,0.0
+99,article6247.gml,positive,arguments,1,0.00925925925926,0.0,0.0
+100,article6247.gml,positive,measles,4,0.037037037037,0.000346140533056,0.0185185185185
+101,article6247.gml,positive,former gastroenterologist,1,0.00925925925926,0.0,0.0
+102,article6247.gml,positive,chelators,1,0.00925925925926,0.0,0.0
+103,article6247.gml,positive,anti-vaccine argument,1,0.00925925925926,0.0,0.0123456790123
+104,article6247.gml,positive,at-risk children,1,0.00925925925926,0.0,0.0
+105,article6247.gml,positive,Andrew Wakefield,3,0.0277777777778,0.0,0.0277777777778
+106,article6247.gml,positive,spinal adjustment,1,0.00925925925926,0.0,0.0
+107,article6247.gml,positive,researchers,3,0.0277777777778,0.0,0.0246913580247
+108,article6247.gml,positive,Hollywood celebrities,1,0.00925925925926,0.0,0.00925925925926
+0,article664.gml,positive,immune memory cells,1,0.0357142857143,0.0,0.0
+1,article664.gml,positive,interventions,1,0.0357142857143,0.0,0.0
+2,article664.gml,positive,susceptibility to other illnesses,1,0.0357142857143,0.0,0.0
+3,article664.gml,positive,childhood mortality,4,0.142857142857,0.00132275132275,0.145833333333
+4,article664.gml,positive,long-term benefits,1,0.0357142857143,0.0,0.0
+5,article664.gml,positive,immune system,1,0.0357142857143,0.0,0.0
+6,article664.gml,positive,nonspecific vaccine benefits,1,0.0357142857143,0.0,0.0
+7,article664.gml,positive,immunospression,1,0.0357142857143,0.0,0.0357142857143
+8,article664.gml,positive,reduction in childhood mortality,2,0.0714285714286,0.00132275132275,0.0357142857143
+9,article664.gml,positive,vaccination,3,0.107142857143,0.00529100529101,0.0816326530612
+10,article664.gml,positive,childhood deaths from infectious diseases,1,0.0357142857143,0.0,0.0
+11,article664.gml,positive,herd immunity,3,0.107142857143,0.00793650793651,0.0714285714286
+12,article664.gml,positive,measles vaccine,8,0.285714285714,0.00661375661376,0.21875
+13,article664.gml,positive,impoverished populations,1,0.0357142857143,0.0,0.0
+14,article664.gml,positive,childhood infectious disease mortality,1,0.0357142857143,0.0,0.0
+15,article664.gml,positive,immunity,1,0.0357142857143,0.0,0.0
+16,article664.gml,positive,nonmeasles infectious diseases,3,0.107142857143,0.0,0.0
+17,article664.gml,positive,immunological mechanisms,1,0.0357142857143,0.0,0.0357142857143
+18,article664.gml,positive,measles,5,0.178571428571,0.0,0.178571428571
+19,article664.gml,positive,infection,1,0.0357142857143,0.0,0.0686813186813
+20,article664.gml,positive,measles infection,1,0.0357142857143,0.0,0.047619047619
+21,article664.gml,positive,infectious disease mortality,1,0.0357142857143,0.0,0.0
+22,article664.gml,positive,immunosuppression,3,0.107142857143,0.0026455026455,0.0357142857143
+23,article664.gml,positive,measles virus,1,0.0357142857143,0.0,0.047619047619
+24,article664.gml,positive,measles infections,3,0.107142857143,0.00925925925926,0.0952380952381
+25,article664.gml,positive,mass vaccination,1,0.0357142857143,0.0,0.047619047619
+26,article664.gml,positive,benefits,1,0.0357142857143,0.0,0.0
+27,article664.gml,positive,opportunistic infections,1,0.0357142857143,0.0,0.0
+28,article664.gml,positive,transient,1,0.0357142857143,0.0,0.0
+0,article665.gml,positive,vaccine campaign,2,0.0588235294118,0.0,0.0672268907563
+1,article665.gml,positive,promising news,3,0.0882352941176,0.00891265597148,0.0735294117647
+2,article665.gml,positive,eliminated virus,4,0.117647058824,0.00534759358289,0.0294117647059
+3,article665.gml,positive,Carribean,1,0.0294117647059,0.0,0.0392156862745
+4,article665.gml,positive,smallpox,1,0.0294117647059,0.0,0.0392156862745
+5,article665.gml,positive,pregnant women,3,0.0882352941176,0.0,0.0
+6,article665.gml,positive,World Health Organization,2,0.0588235294118,0.0,0.0990712074303
+7,article665.gml,positive,polio,1,0.0294117647059,0.0,0.0392156862745
+8,article665.gml,positive,MMR vaccine,1,0.0294117647059,0.0,0.0294117647059
+9,article665.gml,positive,rubella cases,2,0.0588235294118,0.000891265597148,0.0294117647059
+10,article665.gml,positive,severe symptoms,1,0.0294117647059,0.0,0.0
+11,article665.gml,positive,rubella virus,4,0.117647058824,0.0106951871658,0.0941176470588
+12,article665.gml,positive,birth defects,4,0.117647058824,0.0017825311943,0.0294117647059
+13,article665.gml,positive,rubella elimination,1,0.0294117647059,0.0,0.0
+14,article665.gml,positive,fear of vaccines,1,0.0294117647059,0.0,0.0294117647059
+15,article665.gml,positive,rubella outbreak,1,0.0294117647059,0.0,0.0392156862745
+16,article665.gml,positive,rubella,5,0.147058823529,0.0,0.147058823529
+17,article665.gml,positive,new transmission,1,0.0294117647059,0.0,0.0
+18,article665.gml,positive,measles,2,0.0588235294118,0.000891265597148,0.0294117647059
+19,article665.gml,positive,rubella elimination effort,2,0.0588235294118,0.0017825311943,0.0392156862745
+20,article665.gml,positive,miscarriage,2,0.0588235294118,0.0,0.0294117647059
+21,article665.gml,positive,elimination of rubella,1,0.0294117647059,0.0,0.0
+22,article665.gml,positive,eliminated,1,0.0294117647059,0.0,0.0
+23,article665.gml,positive,measles virus,2,0.0588235294118,0.0017825311943,0.0294117647059
+24,article665.gml,positive,bad news,1,0.0294117647059,0.0,0.0
+25,article665.gml,positive,overseas infections,1,0.0294117647059,0.0,0.0392156862745
+26,article665.gml,positive,adult vaccination program,2,0.0588235294118,0.000891265597148,0.0294117647059
+27,article665.gml,positive,German measles,1,0.0294117647059,0.0,0.0
+28,article665.gml,positive,rubella transmission,1,0.0294117647059,0.0,0.0
+29,article665.gml,positive,children,1,0.0294117647059,0.0,0.0392156862745
+30,article665.gml,positive,number of outbreaks,1,0.0294117647059,0.0,0.0
+31,article665.gml,positive,elsewhere in the globe,1,0.0294117647059,0.0,0.0
+32,article665.gml,positive,Western Hemisphere,1,0.0294117647059,0.0,0.0
+33,article665.gml,positive,Pan American Health Organization,1,0.0294117647059,0.0,0.0661764705882
+34,article665.gml,positive,elite list,1,0.0294117647059,0.0,0.0
+0,article828.gml,positive,Assembly,1,0.0181818181818,0.0,0.0
+1,article828.gml,positive,California Coalition for Health Choice,3,0.0545454545455,0.00538720538721,0.145454545455
+2,article828.gml,positive,California Senate,1,0.0181818181818,0.0,0.0
+3,article828.gml,positive,California governor,2,0.0363636363636,0.0,0.0409090909091
+4,article828.gml,positive,Governor Jerry Brown,2,0.0363636363636,0.0,0.145454545455
+5,article828.gml,positive,SB 277,21,0.381818181818,0.0464646464646,0.222727272727
+6,article828.gml,positive,SB 277 critics,1,0.0181818181818,0.0,0.0181818181818
+7,article828.gml,positive,Senator Jeff Stone,1,0.0181818181818,0.0,0.0242424242424
+8,article828.gml,positive,Senator Pan,2,0.0363636363636,0.0,0.0363636363636
+9,article828.gml,positive,angry California parents,4,0.0727272727273,0.00538720538721,0.159228650138
+10,article828.gml,positive,anti-vaccine,1,0.0181818181818,0.0,0.131964809384
+11,article828.gml,positive,compromise,2,0.0363636363636,0.0,0.120222634508
+12,article828.gml,positive,controversial bill,3,0.0545454545455,0.00740740740741,0.0363636363636
+13,article828.gml,positive,critics,1,0.0181818181818,0.0,0.0
+14,article828.gml,positive,democrat,1,0.0181818181818,0.0,0.0181818181818
+15,article828.gml,positive,efficacious,1,0.0181818181818,0.0,0.0
+16,article828.gml,positive,equal education,1,0.0181818181818,0.0,0.0
+17,article828.gml,positive,false concerns,1,0.0181818181818,0.0,0.0
+18,article828.gml,positive,families,1,0.0181818181818,0.0,0.0
+19,article828.gml,positive,home schooling,1,0.0181818181818,0.0,0.0
+20,article828.gml,positive,kindergarten,1,0.0181818181818,0.0,0.0
+21,article828.gml,positive,law,1,0.0181818181818,0.0,0.0
+22,article828.gml,positive,legimate reasons,1,0.0181818181818,0.0,0.0
+23,article828.gml,positive,legitimate reasons,2,0.0363636363636,0.0,0.0
+24,article828.gml,positive,mandated vaccines,1,0.0181818181818,0.0,0.0
+25,article828.gml,positive,medical exemptions,2,0.0363636363636,0.0,0.122884012539
+26,article828.gml,positive,myths,2,0.0363636363636,0.0003367003367,0.0181818181818
+27,article828.gml,positive,officials,1,0.0181818181818,0.0,0.0327272727273
+28,article828.gml,positive,opt-outs,1,0.0181818181818,0.0,0.0
+29,article828.gml,positive,overwhelming approval,1,0.0181818181818,0.0,0.0
+30,article828.gml,positive,parental rights,2,0.0363636363636,0.0,0.0
+31,article828.gml,positive,parents,4,0.0727272727273,0.0,0.0545454545455
+32,article828.gml,positive,party lines,1,0.0181818181818,0.0,0.0
+33,article828.gml,positive,people,1,0.0181818181818,0.0,0.0
+34,article828.gml,positive,personal belief exemption,3,0.0545454545455,0.000673400673401,0.0363636363636
+35,article828.gml,positive,personal belief exemptions,4,0.0727272727273,0.0,0.0
+36,article828.gml,positive,personal exemptions,1,0.0181818181818,0.0,0.131964809384
+37,article828.gml,positive,protection,2,0.0363636363636,0.0,0.0415584415584
+38,article828.gml,positive,public health,2,0.0363636363636,0.0003367003367,0.0181818181818
+39,article828.gml,positive,religious exemption,1,0.0181818181818,0.0,0.0
+40,article828.gml,positive,religious exemptions,1,0.0181818181818,0.0,0.131964809384
+41,article828.gml,positive,republicans,2,0.0363636363636,0.0,0.145454545455
+42,article828.gml,positive,required vaccines,1,0.0181818181818,0.0,0.0
+43,article828.gml,positive,responsibility,1,0.0181818181818,0.0,0.0
+44,article828.gml,positive,safe,1,0.0181818181818,0.0,0.0
+45,article828.gml,positive,schools,1,0.0181818181818,0.0,0.0
+46,article828.gml,positive,science,1,0.0181818181818,0.0,0.0505050505051
+47,article828.gml,positive,senators,1,0.0181818181818,0.0,0.0
+48,article828.gml,positive,shots,1,0.0181818181818,0.0,0.0
+49,article828.gml,positive,supporters,1,0.0181818181818,0.0,0.0
+50,article828.gml,positive,uninformed,2,0.0363636363636,0.0,0.0
+51,article828.gml,positive,unvaccinated,1,0.0181818181818,0.0,0.0181818181818
+52,article828.gml,positive,vaccinated,1,0.0181818181818,0.0,0.0
+53,article828.gml,positive,vaccine opponents,1,0.0181818181818,0.0,0.107235621521
+54,article828.gml,positive,vaccine side effects,1,0.0181818181818,0.0,0.0
+55,article828.gml,positive,vaccines,6,0.109090909091,0.0023569023569,0.0727272727273
