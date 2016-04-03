@@ -1,0 +1,2 @@
+,name,sentiment,# nodes,# edges,avg deg,avg in-deg,avg out-deg,density,deg assort coef,avg deg cent,avg bet cent,avg clo cent,high deg cent,high bet cent,high clo cent,avg node conn,# conn comp,gc size,# strong comp,# weak comp
+0,article_neu1.gml,neutral,212.0,237.0,2.2358,1.1179,1.1179,0.0053,-0.1193,0.0106,0.0003,0.0103,"(u'SB 277', 0.15639810426540285)","(u'SB 277', 0.008959602798465357)","(u'SB 277', 0.10161695009757456)",0.0257,17.0,152.0,209.0,17.0
