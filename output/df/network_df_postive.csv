@@ -1,2 +1,2 @@
 ,name,sentiment,# nodes,# edges,avg deg,avg in-deg,avg out-deg,density,deg assort coef,avg deg cent,avg bet cent,avg clo cent,high deg cent,high bet cent,high clo cent,avg node conn,# conn comp,gc size,# strong comp,# weak comp
-0,article_pos1.gml,positive,840.0,1127.0,2.6833,1.3417,1.3417,0.0016,0.002,0.0032,0.0005,0.0172,"(u'vaccines', 0.07508939213349225)","(u'measles', 0.046632356320202156)","(u'parents', 0.13892212309293947)",0.0981,58.0,673.0,769.0,58.0
+0,article_pos1.gml,positive,652.0,1140.0,3.4969,1.7485,1.7485,0.0027,-0.0194,0.0054,0.0013,0.0418,"(u'vaccines', 0.10445468509984639)","(u'vaccines', 0.06397393762721634)","(u'parents', 0.21147961343541735)",0.2395,21.0,585.0,533.0,21.0
