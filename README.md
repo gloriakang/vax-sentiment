@@ -1,5 +1,10 @@
 Network analysis of vaccination knowledge and sentiment
 
+### to-do (4/7)
+- draft methods and results
+- tables for greatest component
+- figures of k-cores in Gephi
+
 ### to-do (3/17)
 - clean the 3 combined datatables (i.e. article_neg.csv)
 - keep track of knowledge representation issues
