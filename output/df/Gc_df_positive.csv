@@ -1,0 +1,2 @@
+,name,sentiment,# nodes,# edges,density,deg assort coef,avg deg cent,avg bet cent,avg clo cent,high deg cent,high bet cent,high clo cent,avg node conn,# conn comp,gc size
+0,Gc_positive.gml,positive,585,1088,0.0064,-0.099,0.0064,0.006,0.2292,"(vaccines, 0.116438356164)","(parents, 0.271838812819)","(parents, 0.368686868687)",1.3117,1,585

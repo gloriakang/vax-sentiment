@@ -1,0 +1,2 @@
+,name,sentiment,# nodes,# edges,density,deg assort coef,avg deg cent,avg bet cent,avg clo cent,high deg cent,high bet cent,high clo cent,avg node conn,# conn comp,gc size
+0,Gc_neutral.gml,neutral,171.0,221.0,0.0152,-0.2807,0.0152,0.0342,0.1533,"(SB 277, 0.194117647059)","(vaccines, 0.574881076691)","(vaccines, 0.233516483516)",1.035,1.0,171.0
