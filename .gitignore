@@ -1,7 +1,9 @@
 *ipynb_checkpoints/
 
 *.png
+*.R
 
 .DS_Store
 .RData
 .Rhistory
+
