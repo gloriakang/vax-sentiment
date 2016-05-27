@@ -1,0 +1,1141 @@
+,name,sentiment,node,degree,deg cent,bet cent,clo cent
+0,Gc_negative.gml,negative,ACIP,1,0.000877963125549,0.0,0.164690572585
+1,Gc_negative.gml,negative,ACIP's rotavirus use recommendation,1,0.000877963125549,0.0,0.206752586676
+2,Gc_negative.gml,negative,ADHD,1,0.000877963125549,0.0,0.252382007534
+3,Gc_negative.gml,negative,AIDS,1,0.000877963125549,0.0,0.195603640735
+4,Gc_negative.gml,negative,African American males,2,0.0017559262511,0.0,0.245845024822
+5,Gc_negative.gml,negative,African women,3,0.00263388937665,0.00262473723185,0.265997197571
+6,Gc_negative.gml,negative,African-American children,1,0.000877963125549,0.0,0.227936762057
+7,Gc_negative.gml,negative,Alysia Osoff,6,0.00526777875329,0.00627204976995,0.210380495013
+8,Gc_negative.gml,negative,America,2,0.0017559262511,0.00350876651581,0.183591231464
+9,Gc_negative.gml,negative,American Academy of Pediatrics,2,0.0017559262511,0.000549639735964,0.258276643991
+10,Gc_negative.gml,negative,American Nursing Association's Code of Ethics,2,0.0017559262511,0.000977563390404,0.224256743453
+11,Gc_negative.gml,negative,Americans,7,0.00614574187884,0.00573814491957,0.277263875365
+12,Gc_negative.gml,negative,Amish,2,0.0017559262511,0.0017559262511,0.168940967072
+13,Gc_negative.gml,negative,Andrew Wakefield,1,0.000877963125549,0.0,0.232496427842
+14,Gc_negative.gml,negative,Apartheid,1,0.000877963125549,0.0,0.175690266852
+15,Gc_negative.gml,negative,Attkisson's website,2,0.0017559262511,0.000877191628953,0.18385794996
+16,Gc_negative.gml,negative,Australia,1,0.000877963125549,0.0,0.217200610221
+17,Gc_negative.gml,negative,Baby Boom,2,0.0017559262511,0.0,0.242340425532
+18,Gc_negative.gml,negative,Baby Boomers,5,0.00438981562774,0.00889559586266,0.253901025412
+19,Gc_negative.gml,negative,Baker College nursing school,3,0.00263388937665,0.00321278595506,0.190086782377
+20,Gc_negative.gml,negative,Baker College nursing school instructors,6,0.00526777875329,0.00483737012958,0.226802070888
+21,Gc_negative.gml,negative,Bell's Palsy,1,0.000877963125549,0.0,0.217200610221
+22,Gc_negative.gml,negative,Big Pharma,13,0.0114135206321,0.0142323178857,0.28835443038
+23,Gc_negative.gml,negative,Big Tobacco,2,0.0017559262511,0.000241316564923,0.248907342657
+24,Gc_negative.gml,negative,Bill of Rights,1,0.000877963125549,0.0,0.175690266852
+25,Gc_negative.gml,negative,Brian Hooker,1,0.000877963125549,0.0,0.209259599486
+26,Gc_negative.gml,negative,Bruesewitz v. Wyeth,2,0.0017559262511,0.00350876651581,0.24696444059
+27,Gc_negative.gml,negative,Bush Administration,2,0.0017559262511,6.3079208524e-05,0.225992063492
+28,Gc_negative.gml,negative,CDC,62,0.054433713784,0.127408409017,0.319674431659
+29,Gc_negative.gml,negative,CDC and Big Pharma,3,0.00263388937665,0.000116276425371,0.223202038017
+30,Gc_negative.gml,negative,CDC documents,4,0.00351185250219,0.00231227526131,0.264576074332
+31,Gc_negative.gml,negative,CDC published warnings,1,0.000877963125549,0.0,0.204561781609
+32,Gc_negative.gml,negative,CDC scientific fraud,1,0.000877963125549,0.0,0.242288874708
+33,Gc_negative.gml,negative,CDC study,2,0.0017559262511,0.000455380055435,0.22876079534
+34,Gc_negative.gml,negative,CDC website,8,0.00702370500439,0.00469688106951,0.253392658509
+35,Gc_negative.gml,negative,CDC whistleblower,2,0.0017559262511,0.000448873972247,0.259394215441
+36,Gc_negative.gml,negative,CNN,1,0.000877963125549,0.0,0.176425030979
+37,Gc_negative.gml,negative,California Governor Jerry Brown,1,0.000877963125549,0.0,0.178582627783
+38,Gc_negative.gml,negative,California government,8,0.00702370500439,0.00476331219788,0.272422865343
+39,Gc_negative.gml,negative,California's vaccine violence,1,0.000877963125549,0.0,0.235039207594
+40,Gc_negative.gml,negative,Children's Hospital,2,0.0017559262511,0.0017559262511,0.208837550422
+41,Gc_negative.gml,negative,Chocks,3,0.00263388937665,0.003510309509,0.201914554157
+42,Gc_negative.gml,negative,Civil War,1,0.000877963125549,0.0,0.1989172197
+43,Gc_negative.gml,negative,Codename Artichoke,1,0.000877963125549,0.0,0.178052211974
+44,Gc_negative.gml,negative,Congress,3,0.00263388937665,0.00254987769057,0.247932085329
+45,Gc_negative.gml,negative,Connie Smith,2,0.0017559262511,3.08598638154e-06,0.161285754744
+46,Gc_negative.gml,negative,Constitution,1,0.000877963125549,0.0,0.175690266852
+47,Gc_negative.gml,negative,Crystal Downing,2,0.0017559262511,1.051600777e-05,0.221509140412
+48,Gc_negative.gml,negative,DNA,2,0.0017559262511,0.00134531668627,0.225366046696
+49,Gc_negative.gml,negative,DNA virus,1,0.000877963125549,0.0,0.218073903887
+50,Gc_negative.gml,negative,Disney,1,0.000877963125549,0.0,0.187212360289
+51,Gc_negative.gml,negative,Disneyland measles outbreak,3,0.00263388937665,0.00230187105843,0.210497135465
+52,Gc_negative.gml,negative,Dr. Paul Offit,16,0.0140474100088,0.0158990385258,0.260581102722
+53,Gc_negative.gml,negative,Dr. Suzanne Humphries,1,0.000877963125549,0.0,0.263779527559
+54,Gc_negative.gml,negative,Dr. William Thompson,2,0.0017559262511,4.64808329753e-05,0.180250039563
+55,Gc_negative.gml,negative,Eli Lily drug company reps,2,0.0017559262511,0.0017559262511,0.138716356108
+56,Gc_negative.gml,negative,Elmo,4,0.00351185250219,0.000111320976018,0.190404546974
+57,Gc_negative.gml,negative,Europe,1,0.000877963125549,0.0,0.217200610221
+58,Gc_negative.gml,negative,European Medicines Agency,1,0.000877963125549,0.0,0.172340747466
+59,Gc_negative.gml,negative,European countries,1,0.000877963125549,0.0,0.172340747466
+60,Gc_negative.gml,negative,Every Child by Two,2,0.0017559262511,0.0017559262511,0.24685739055
+61,Gc_negative.gml,negative,FDA,7,0.00614574187884,0.00543789960819,0.258218091136
+62,Gc_negative.gml,negative,FETCH.news,2,0.0017559262511,0.0017559262511,0.18385794996
+63,Gc_negative.gml,negative,FLULAVAL,2,0.0017559262511,0.0017559262511,0.176043276662
+64,Gc_negative.gml,negative,False Claims Act,3,0.00263388937665,0.0,0.226711783439
+65,Gc_negative.gml,negative,First do no harm,2,0.0017559262511,0.0,0.187027914614
+66,Gc_negative.gml,negative,Flinstones,1,0.000877963125549,0.0,0.168018881841
+67,Gc_negative.gml,negative,Food and Drug Administration Modernization Act,2,0.0017559262511,0.000129923842088,0.248040069686
+68,Gc_negative.gml,negative,For Profit Offit,1,0.000877963125549,0.0,0.206752586676
+69,Gc_negative.gml,negative,Freedom of Information Act,1,0.000877963125549,0.0,0.227936762057
+70,Gc_negative.gml,negative,French Canadian descent,1,0.000877963125549,0.0,0.158878504673
+71,Gc_negative.gml,negative,Gardasil,16,0.0140474100088,0.0276635056461,0.230101010101
+72,Gc_negative.gml,negative,Gardasil injuries,2,0.0017559262511,0.000120050295867,0.190883190883
+73,Gc_negative.gml,negative,GlaxoSmithKine's Energix B,5,0.00438981562774,0.00373746892095,0.267496477219
+74,Gc_negative.gml,negative,GlaxoSmithKline,2,0.0017559262511,0.0017559262511,0.172392916604
+75,Gc_negative.gml,negative,Global Post,3,0.00263388937665,0.00116150105663,0.252605899312
+76,Gc_negative.gml,negative,GoodGopher.com,2,0.0017559262511,0.00350876651581,0.183917326013
+77,Gc_negative.gml,negative,Government Accounting Office,1,0.000877963125549,0.0,0.17512300123
+78,Gc_negative.gml,negative,Guillain-Barre syndrome,1,0.000877963125549,0.0,0.217200610221
+79,Gc_negative.gml,negative,Guillian-Barre Syndrome,1,0.000877963125549,0.0,0.20284951024
+80,Gc_negative.gml,negative,HIV,1,0.000877963125549,0.0,0.208760997067
+81,Gc_negative.gml,negative,Herpes Zoster,1,0.000877963125549,0.0,0.180707599556
+82,Gc_negative.gml,negative,Hilleman,2,0.0017559262511,0.0017559262511,0.18397674043
+83,Gc_negative.gml,negative,Hitler's minions,1,0.000877963125549,0.0,0.202452897263
+84,Gc_negative.gml,negative,Hollywood celebrities,2,0.0017559262511,0.0017559262511,0.181890769722
+85,Gc_negative.gml,negative,Homeland Security Bill,1,0.000877963125549,0.0,0.224168470773
+86,Gc_negative.gml,negative,IRF1,1,0.000877963125549,0.0,0.179624664879
+87,Gc_negative.gml,negative,IV drug abuse,1,0.000877963125549,0.0,0.195603640735
+88,Gc_negative.gml,negative,International Business Times,4,0.00351185250219,0.0104892677109,0.254582029504
+89,Gc_negative.gml,negative,Italian descent,1,0.000877963125549,0.0,0.158878504673
+90,Gc_negative.gml,negative,Jenny McCarthy,3,0.00263388937665,0.00526160678053,0.182007031
+91,Gc_negative.gml,negative,Jim Carrey,7,0.00614574187884,0.00392248596928,0.263048498845
+92,Gc_negative.gml,negative,Jimmy Kimmel,1,0.000877963125549,0.0,0.22198401871
+93,Gc_negative.gml,negative,Josh Hadfield,2,0.0017559262511,0.00350876651581,0.180364212193
+94,Gc_negative.gml,negative,Kennedy's death,1,0.000877963125549,0.0,0.18209432454
+95,Gc_negative.gml,negative,Kennedy's first executive order,1,0.000877963125549,0.0,0.201771479185
+96,Gc_negative.gml,negative,MCR-5,5,0.00438981562774,0.00477704458494,0.2
+97,Gc_negative.gml,negative,MMR,7,0.00614574187884,0.00867279507548,0.247501086484
+98,Gc_negative.gml,negative,MRC-5 cells,2,0.0017559262511,0.0017559262511,0.158789906594
+99,Gc_negative.gml,negative,MTHFR C677T defect,12,0.0105355575066,0.0230077479296,0.188857569226
+100,Gc_negative.gml,negative,Matthew Downing,6,0.00526777875329,0.00471807253189,0.271902602053
+101,Gc_negative.gml,negative,Merck,21,0.0184372256365,0.0307965850013,0.263779527559
+102,Gc_negative.gml,negative,Merck scientists,1,0.000877963125549,0.0,0.155410015009
+103,Gc_negative.gml,negative,Merck's RotaTeq vaccine,2,0.0017559262511,0.0017559262511,0.20682767387
+104,Gc_negative.gml,negative,Mexican descent,1,0.000877963125549,0.0,0.158878504673
+105,Gc_negative.gml,negative,Miles Laboratory,1,0.000877963125549,0.0,0.168018881841
+106,Gc_negative.gml,negative,NHS medical staff,5,0.00438981562774,0.00352749925994,0.180965999364
+107,Gc_negative.gml,negative,NVIC,2,0.0017559262511,0.000194477885974,0.198882486468
+108,Gc_negative.gml,negative,National Academy of Science Institute of Medicine,1,0.000877963125549,0.0,0.203866117773
+109,Gc_negative.gml,negative,National Vaccine Information Center,5,0.00438981562774,0.00202145383737,0.233306022122
+110,Gc_negative.gml,negative,National Vaccine Injury Compensation Program,17,0.0149253731343,0.0298734729786,0.275320280396
+111,Gc_negative.gml,negative,New Jersey law,1,0.000877963125549,0.0,0.205707061586
+112,Gc_negative.gml,negative,New York Times,3,0.00263388937665,0.000927797540014,0.243272105938
+113,Gc_negative.gml,negative,Nichole Rolfe,18,0.0158033362599,0.0276336380861,0.234410372505
+114,Gc_negative.gml,negative,Nichole Rolfe lawsuit,2,0.0017559262511,0.000295980560752,0.173946243128
+115,Gc_negative.gml,negative,Norwegian government,2,0.0017559262511,6.36484691193e-06,0.202777283247
+116,Gc_negative.gml,negative,Norwegian health authorities,2,0.0017559262511,4.79669907672e-05,0.222157206944
+117,Gc_negative.gml,negative,Norwegians,1,0.000877963125549,0.0,0.172340747466
+118,Gc_negative.gml,negative,Octoxinol-9,3,0.00263388937665,0.000877191628953,0.247447316967
+119,Gc_negative.gml,negative,Pandemrix,10,0.00877963125549,0.0120361506918,0.208188630963
+120,Gc_negative.gml,negative,Pandemrix victims,3,0.00263388937665,0.00525929229074,0.169141669142
+121,Gc_negative.gml,negative,Pandemrix-narcolepsy link,1,0.000877963125549,0.0,0.147062621046
+122,Gc_negative.gml,negative,Paul Offit,1,0.000877963125549,0.0,0.172785194175
+123,Gc_negative.gml,negative,Pediatrics paper,3,0.00263388937665,0.003510309509,0.209144326111
+124,Gc_negative.gml,negative,Penn and Teller,1,0.000877963125549,0.0,0.22198401871
+125,Gc_negative.gml,negative,Peter Todd,3,0.00263388937665,0.00875494336443,0.20332024277
+126,Gc_negative.gml,negative,Polysorbate 80,2,0.0017559262511,0.0,0.247339847991
+127,Gc_negative.gml,negative,Prevnar,2,0.0017559262511,0.0017559262511,0.22207057906
+128,Gc_negative.gml,negative,Pro-Quad,1,0.000877963125549,0.0,0.170867086709
+129,Gc_negative.gml,negative,Pro-Quad Hepatitis A,1,0.000877963125549,0.0,0.1666910581
+130,Gc_negative.gml,negative,RA 27/3,4,0.00351185250219,0.00217960495302,0.206041968162
+131,Gc_negative.gml,negative,RH-,1,0.000877963125549,0.0,0.145225041438
+132,Gc_negative.gml,negative,Renee Gentry,2,0.0017559262511,0.0017559262511,0.216006068652
+133,Gc_negative.gml,negative,Rep. Bill Posey,8,0.00702370500439,0.00604861479834,0.254525139665
+134,Gc_negative.gml,negative,Rho-GAM shots,2,0.0017559262511,0.0,0.244315744316
+135,Gc_negative.gml,negative,Robert F. Kennedy Jr.,8,0.00702370500439,0.00924077506949,0.222591362126
+136,Gc_negative.gml,negative,Royal Navy records,1,0.000877963125549,0.0,0.19905627403
+137,Gc_negative.gml,negative,Ryan Mojabi,4,0.00351185250219,8.00325522829e-05,0.254127621598
+138,Gc_negative.gml,negative,SB 277,26,0.0228270412643,0.0326408351319,0.307173678533
+139,Gc_negative.gml,negative,SV40,19,0.0166812993854,0.0237434571905,0.2788249694
+140,Gc_negative.gml,negative,Secretary of U.S. Department of Health and Human Services,1,0.000877963125549,0.0,0.19996488764
+141,Gc_negative.gml,negative,Senate hearing,2,0.0017559262511,0.000455612336794,0.230800405268
+142,Gc_negative.gml,negative,Sharyl Attkisson,2,0.0017559262511,0.000877191628953,0.18385794996
+143,Gc_negative.gml,negative,Spanish American War,1,0.000877963125549,0.0,0.1989172197
+144,Gc_negative.gml,negative,Supreme Court,1,0.000877963125549,0.0,0.175690266852
+145,Gc_negative.gml,negative,Surgeon General Vivek Murthy,9,0.00790166812994,0.00768289289793,0.229175050302
+146,Gc_negative.gml,negative,THEY,2,0.0017559262511,0.0017559262511,0.208990825688
+147,Gc_negative.gml,negative,Tdap vaccine,5,0.00438981562774,0.000639245049683,0.213575848491
+148,Gc_negative.gml,negative,The Advisory Committee on Immunization Practices,5,0.00438981562774,0.00428077318642,0.249890302764
+149,Gc_negative.gml,negative,The Vaccine and Autism Congressional Hearing,1,0.000877963125549,0.0,0.243012588009
+150,Gc_negative.gml,negative,Triton X-100,3,0.00263388937665,0.000877191628953,0.247447316967
+151,Gc_negative.gml,negative,Tween 80,2,0.0017559262511,0.0,0.247339847991
+152,Gc_negative.gml,negative,U.S. citizens,2,0.0017559262511,0.000225088873725,0.225054337088
+153,Gc_negative.gml,negative,U.S. government,2,0.0017559262511,0.00350876651581,0.245262704565
+154,Gc_negative.gml,negative,U.S. measles mortality,1,0.000877963125549,0.0,0.189485942439
+155,Gc_negative.gml,negative,U.S. population,2,0.0017559262511,0.0,0.218241042345
+156,Gc_negative.gml,negative,UK government,4,0.00351185250219,0.00421500623541,0.218450326045
+157,Gc_negative.gml,negative,USDA food donations,4,0.00351185250219,0.00526314977372,0.252717994231
+158,Gc_negative.gml,negative,United Kingdom,1,0.000877963125549,0.0,0.217200610221
+159,Gc_negative.gml,negative,United States,23,0.0201931518876,0.0449101820109,0.276121212121
+160,Gc_negative.gml,negative,VAERS,1,0.000877963125549,0.0,0.20284951024
+161,Gc_negative.gml,negative,VAERS hepatitis B reports,2,0.0017559262511,0.0,0.214824594493
+162,Gc_negative.gml,negative,Vaccine Adverse Event Reporting System,1,0.000877963125549,0.0,0.211082283173
+163,Gc_negative.gml,negative,Vaccine Injured Petitioners Bar Association,1,0.000877963125549,0.0,0.177663391047
+164,Gc_negative.gml,negative,Vaccine Injury Compensation Fund,5,0.00438981562774,0.00268974315384,0.223552502453
+165,Gc_negative.gml,negative,Vaccine Injury Compensation Program,6,0.00526777875329,0.0267626466943,0.254014272971
+166,Gc_negative.gml,negative,Varivax vaccine,1,0.000877963125549,0.0,0.1666910581
+167,Gc_negative.gml,negative,Vitamin B12,1,0.000877963125549,0.0,0.158878504673
+168,Gc_negative.gml,negative,WHO,2,0.0017559262511,0.0017559262511,0.195335276968
+169,Gc_negative.gml,negative,WHO vaccine specialists,1,0.000877963125549,0.0,0.243012588009
+170,Gc_negative.gml,negative,Washington Post,3,0.00263388937665,0.000812106673424,0.240803382664
+171,Gc_negative.gml,negative,Western medicine,2,0.0017559262511,0.00027258821692,0.218701996928
+172,Gc_negative.gml,negative,World War I,2,0.0017559262511,0.0,0.1989172197
+173,Gc_negative.gml,negative,World War II,2,0.0017559262511,0.0,0.1989172197
+174,Gc_negative.gml,negative,Zostavax,1,0.000877963125549,0.0,0.201236749117
+175,Gc_negative.gml,negative,Zoster,1,0.000877963125549,0.0,0.201236749117
+176,Gc_negative.gml,negative,aborted baby,5,0.00438981562774,0.00752160273436,0.23207008965
+177,Gc_negative.gml,negative,abortion chemicals,2,0.0017559262511,0.0,0.264514630748
+178,Gc_negative.gml,negative,acute respiratory illness,2,0.0017559262511,0.0,0.187304719618
+179,Gc_negative.gml,negative,additive,2,0.0017559262511,0.0,0.271708015267
+180,Gc_negative.gml,negative,additives,3,0.00263388937665,6.96120052438e-05,0.205410279531
+181,Gc_negative.gml,negative,adult brain cells,2,0.0017559262511,7.74379452682e-05,0.243480119709
+182,Gc_negative.gml,negative,adults,3,0.00263388937665,3.59963062572e-05,0.221509140412
+183,Gc_negative.gml,negative,adverse effects,20,0.017559262511,0.0354044590811,0.25441143623
+184,Gc_negative.gml,negative,advertised,1,0.000877963125549,0.0,0.233019639935
+185,Gc_negative.gml,negative,advice,1,0.000877963125549,0.0,0.17384004884
+186,Gc_negative.gml,negative,airports,1,0.000877963125549,0.0,0.180050584888
+187,Gc_negative.gml,negative,alienation,1,0.000877963125549,0.0,0.22198401871
+188,Gc_negative.gml,negative,allergies,2,0.0017559262511,0.000246240200928,0.205521472393
+189,Gc_negative.gml,negative,altered DNA material,1,0.000877963125549,0.0,0.230194017785
+190,Gc_negative.gml,negative,alternative media,6,0.00526777875329,0.0151381128587,0.225143308954
+191,Gc_negative.gml,negative,aluminum,13,0.0114135206321,0.00526125618165,0.282350024789
+192,Gc_negative.gml,negative,alzheimer's,3,0.00263388937665,0.00120074555804,0.248148148148
+193,Gc_negative.gml,negative,amniocentesis,1,0.000877963125549,0.0,0.217657175616
+194,Gc_negative.gml,negative,anaphylactic shock,1,0.000877963125549,0.0,0.243012588009
+195,Gc_negative.gml,negative,annual flu shot,5,0.00438981562774,0.00298218922466,0.258922482382
+196,Gc_negative.gml,negative,anti-vaccination,10,0.00877963125549,0.0192945351423,0.222200546235
+197,Gc_negative.gml,negative,antibiotic neomycin,2,0.0017559262511,8.93466533323e-05,0.223245785966
+198,Gc_negative.gml,negative,antibiotics,6,0.00526777875329,0.00396712852058,0.279783836895
+199,Gc_negative.gml,negative,antibodies,4,0.00351185250219,0.000985143701555,0.2243892829
+200,Gc_negative.gml,negative,antiviral qualities,1,0.000877963125549,0.0,0.179285376987
+201,Gc_negative.gml,negative,argument,1,0.000877963125549,0.0,0.218618042226
+202,Gc_negative.gml,negative,arthritis,2,0.0017559262511,0.00118681240008,0.20419505199
+203,Gc_negative.gml,negative,aspirin,4,0.00351185250219,0.00526314977372,0.157931225735
+204,Gc_negative.gml,negative,assault and battery,1,0.000877963125549,0.0,0.221552227193
+205,Gc_negative.gml,negative,asthma,3,0.00263388937665,0.000789550709525,0.255381165919
+206,Gc_negative.gml,negative,autism,47,0.0412642669008,0.102846437721,0.324871648602
+207,Gc_negative.gml,negative,autism cases,3,0.00263388937665,0.000106298408816,0.218954248366
+208,Gc_negative.gml,negative,autism patients,1,0.000877963125549,0.0,0.208646272211
+209,Gc_negative.gml,negative,autism rate,3,0.00263388937665,0.00526160678053,0.203175169461
+210,Gc_negative.gml,negative,autism rise,4,0.00351185250219,0.00355490312121,0.221079192547
+211,Gc_negative.gml,negative,autism risk,2,0.0017559262511,0.0,0.254014272971
+212,Gc_negative.gml,negative,autism trigger,1,0.000877963125549,0.0,0.243012588009
+213,Gc_negative.gml,negative,autoimmune disorder,2,0.0017559262511,0.00118131187528,0.264637546468
+214,Gc_negative.gml,negative,babies,3,0.00263388937665,0.000273377304397,0.191235728677
+215,Gc_negative.gml,negative,battle,1,0.000877963125549,0.0,0.165408074354
+216,Gc_negative.gml,negative,behavior changes,7,0.00614574187884,0.00722722937333,0.251379386449
+217,Gc_negative.gml,negative,behavioral disorders,1,0.000877963125549,0.0,0.18122513922
+218,Gc_negative.gml,negative,benefit,1,0.000877963125549,0.0,0.263779527559
+219,Gc_negative.gml,negative,benefits of drug,1,0.000877963125549,0.0,0.224168470773
+220,Gc_negative.gml,negative,better diagnosis,1,0.000877963125549,0.0,0.181081081081
+221,Gc_negative.gml,negative,big Ag,3,0.00263388937665,0.000597431567879,0.229405840886
+222,Gc_negative.gml,negative,big profit centers,1,0.000877963125549,0.0,0.223992133727
+223,Gc_negative.gml,negative,biological and military programs,1,0.000877963125549,0.0,0.16819255759
+224,Gc_negative.gml,negative,biological warfare program,3,0.00263388937665,0.003510309509,0.216581099068
+225,Gc_negative.gml,negative,biological weapons,1,0.000877963125549,0.0,0.216416492495
+226,Gc_negative.gml,negative,black children,2,0.0017559262511,0.00525852079415,0.264146567718
+227,Gc_negative.gml,negative,black lives matter,1,0.000877963125549,0.0,0.242288874708
+228,Gc_negative.gml,negative,blanket statement,2,0.0017559262511,0.0017559262511,0.228028028028
+229,Gc_negative.gml,negative,blatant violations of the Hippocratic Oath,1,0.000877963125549,0.0,0.189928297482
+230,Gc_negative.gml,negative,bleeding during pregnancy,1,0.000877963125549,0.0,0.217657175616
+231,Gc_negative.gml,negative,blockade,2,0.0017559262511,0.0,0.225187821273
+232,Gc_negative.gml,negative,blood or sexual contact,1,0.000877963125549,0.0,0.195603640735
+233,Gc_negative.gml,negative,blood serum of aborted baby cows,1,0.000877963125549,0.0,0.185989549314
+234,Gc_negative.gml,negative,blood-transmitted disease,1,0.000877963125549,0.0,0.195603640735
+235,Gc_negative.gml,negative,body,1,0.000877963125549,0.0,0.181542875359
+236,Gc_negative.gml,negative,bone cancer,1,0.000877963125549,0.0,0.218073903887
+237,Gc_negative.gml,negative,bovine calf serum,8,0.00702370500439,0.00905560804115,0.192626416371
+238,Gc_negative.gml,negative,brain cancer,1,0.000877963125549,0.0,0.218073903887
+239,Gc_negative.gml,negative,brain damage,5,0.00438981562774,0.00323213790365,0.236798336798
+240,Gc_negative.gml,negative,brain damaged and autistic,2,0.0017559262511,0.0,0.28144304423
+241,Gc_negative.gml,negative,brain dysfunction,1,0.000877963125549,0.0,0.252382007534
+242,Gc_negative.gml,negative,brain inflammation,2,0.0017559262511,0.00298781246787,0.265192083818
+243,Gc_negative.gml,negative,brain-damaged,2,0.0017559262511,0.0,0.254070934642
+244,Gc_negative.gml,negative,brainwash and manipulate,3,0.00263388937665,0.003510309509,0.168291962175
+245,Gc_negative.gml,negative,breast milk,3,0.00263388937665,0.000287094988186,0.195234830305
+246,Gc_negative.gml,negative,bribery,2,0.0017559262511,0.00044164316407,0.247393570808
+247,Gc_negative.gml,negative,bullying,2,0.0017559262511,0.00291174472048,0.251268475623
+248,Gc_negative.gml,negative,campaign of fear mongering,1,0.000877963125549,0.0,0.181832694764
+249,Gc_negative.gml,negative,cancer,6,0.00526777875329,0.000690596183695,0.244893571275
+250,Gc_negative.gml,negative,cancer patients,2,0.0017559262511,0.00350876651581,0.17362804878
+251,Gc_negative.gml,negative,cancer viruses,6,0.00526777875329,0.00354688831239,0.225321463897
+252,Gc_negative.gml,negative,cancer-causing,1,0.000877963125549,0.0,0.218073903887
+253,Gc_negative.gml,negative,car,1,0.000877963125549,0.0,0.158878504673
+254,Gc_negative.gml,negative,carpet,1,0.000877963125549,0.0,0.198397491726
+255,Gc_negative.gml,negative,cataplexy,4,0.00351185250219,0.00429720319278,0.25509518477
+256,Gc_negative.gml,negative,cause of death,1,0.000877963125549,0.0,0.179200755192
+257,Gc_negative.gml,negative,cell death,1,0.000877963125549,0.0,0.195805397971
+258,Gc_negative.gml,negative,cellular degeneration,1,0.000877963125549,0.0,0.195805397971
+259,Gc_negative.gml,negative,cellular toxicity,1,0.000877963125549,0.0,0.243012588009
+260,Gc_negative.gml,negative,censored,1,0.000877963125549,0.0,0.225143308954
+261,Gc_negative.gml,negative,censored medical news stories,1,0.000877963125549,0.0,0.195335276968
+262,Gc_negative.gml,negative,central nervous system disorders,1,0.000877963125549,0.0,0.219841729396
+263,Gc_negative.gml,negative,central nervous system inflammatory demyelination,1,0.000877963125549,0.0,0.252382007534
+264,Gc_negative.gml,negative,cervical cancer,1,0.000877963125549,0.0,0.18708935611
+265,Gc_negative.gml,negative,change in attitude,2,0.0017559262511,0.00193670779176,0.222765499707
+266,Gc_negative.gml,negative,chemicals,4,0.00351185250219,0.000795294592779,0.206902815622
+267,Gc_negative.gml,negative,chest pain,2,0.0017559262511,0.00118681240008,0.20419505199
+268,Gc_negative.gml,negative,chewable multivitamin,2,0.0017559262511,0.00525852079415,0.252717994231
+269,Gc_negative.gml,negative,chicken kidney cells,2,0.0017559262511,0.0,0.247339847991
+270,Gc_negative.gml,negative,chickenpox,2,0.0017559262511,0.0017559262511,0.180764957943
+271,Gc_negative.gml,negative,chickenpox vaccine,1,0.000877963125549,0.0,0.153111977416
+272,Gc_negative.gml,negative,childhood diseases,4,0.00351185250219,0.00636894542658,0.27119047619
+273,Gc_negative.gml,negative,childhood vaccines,6,0.00526777875329,0.00444208540728,0.253731343284
+274,Gc_negative.gml,negative,children,76,0.0667251975417,0.1888762369,0.337481481481
+275,Gc_negative.gml,negative,children with autism,13,0.0114135206321,0.0209692774626,0.169873228934
+276,Gc_negative.gml,negative,children with severe ASDs,1,0.000877963125549,0.0,0.245051635112
+277,Gc_negative.gml,negative,chronic disease,4,0.00351185250219,0.00180954655768,0.283827560429
+278,Gc_negative.gml,negative,cigarettes,2,0.0017559262511,0.0,0.219164902829
+279,Gc_negative.gml,negative,circuit court,1,0.000877963125549,0.0,0.204158451335
+280,Gc_negative.gml,negative,citizens,4,0.00351185250219,0.00526314977372,0.175853018373
+281,Gc_negative.gml,negative,claims,1,0.000877963125549,0.0,0.215924170616
+282,Gc_negative.gml,negative,clinical research,1,0.000877963125549,0.0,0.217823675655
+283,Gc_negative.gml,negative,clinical trials,4,0.00351185250219,0.00236784597075,0.283756851021
+284,Gc_negative.gml,negative,cod-liver oil,3,0.00263388937665,0.00750683762413,0.24563295234
+285,Gc_negative.gml,negative,coercion methods,4,0.00351185250219,0.00343180497024,0.213977080594
+286,Gc_negative.gml,negative,collagen,3,0.00263388937665,0.003510309509,0.167796110784
+287,Gc_negative.gml,negative,college campuses,1,0.000877963125549,0.0,0.180050584888
+288,Gc_negative.gml,negative,coma,1,0.000877963125549,0.0,0.182269163066
+289,Gc_negative.gml,negative,compassion,1,0.000877963125549,0.0,0.232496427842
+290,Gc_negative.gml,negative,compensation,1,0.000877963125549,0.0,0.215924170616
+291,Gc_negative.gml,negative,compensation claims,1,0.000877963125549,0.0,0.177663391047
+292,Gc_negative.gml,negative,complicated,1,0.000877963125549,0.0,0.215924170616
+293,Gc_negative.gml,negative,complications,1,0.000877963125549,0.0,0.195603640735
+294,Gc_negative.gml,negative,compromised immunity,6,0.00526777875329,0.0103120896851,0.277263875365
+295,Gc_negative.gml,negative,conclusion,1,0.000877963125549,0.0,0.227936762057
+296,Gc_negative.gml,negative,conflict of interest,2,0.0017559262511,0.0,0.254014272971
+297,Gc_negative.gml,negative,connective tissue disorders,1,0.000877963125549,0.0,0.161537370586
+298,Gc_negative.gml,negative,conscientious belief exemption,1,0.000877963125549,0.0,0.206041968162
+299,Gc_negative.gml,negative,consent for vaccines,2,0.0017559262511,0.0017559262511,0.202344999112
+300,Gc_negative.gml,negative,consumers,1,0.000877963125549,0.0,0.243012588009
+301,Gc_negative.gml,negative,control group,1,0.000877963125549,0.0,0.233019639935
+302,Gc_negative.gml,negative,controlled trials,1,0.000877963125549,0.0,0.149710830705
+303,Gc_negative.gml,negative,controversial,1,0.000877963125549,0.0,0.235039207594
+304,Gc_negative.gml,negative,controversial findings,1,0.000877963125549,0.0,0.172995139733
+305,Gc_negative.gml,negative,convenience,1,0.000877963125549,0.0,0.246750433276
+306,Gc_negative.gml,negative,conventional health experts,1,0.000877963125549,0.0,0.227936762057
+307,Gc_negative.gml,negative,conversation about vaccination,3,0.00263388937665,3.14361778624e-05,0.220907680372
+308,Gc_negative.gml,negative,convulsions,1,0.000877963125549,0.0,0.20284951024
+309,Gc_negative.gml,negative,corporate constructed,1,0.000877963125549,0.0,0.214137995864
+310,Gc_negative.gml,negative,corporate interests,1,0.000877963125549,0.0,0.219122739515
+311,Gc_negative.gml,negative,corporate-controlled science,1,0.000877963125549,0.0,0.219122739515
+312,Gc_negative.gml,negative,corporate-funded make-believe science tabloids,1,0.000877963125549,0.0,0.149005756149
+313,Gc_negative.gml,negative,cough,1,0.000877963125549,0.0,0.218241042345
+314,Gc_negative.gml,negative,courage,1,0.000877963125549,0.0,0.202273130883
+315,Gc_negative.gml,negative,court of law,1,0.000877963125549,0.0,0.175690266852
+316,Gc_negative.gml,negative,cover-up,3,0.00263388937665,0.00205762089636,0.242701896442
+317,Gc_negative.gml,negative,covering up deaths,1,0.000877963125549,0.0,0.224168470773
+318,Gc_negative.gml,negative,covering up side effects,1,0.000877963125549,0.0,0.224168470773
+319,Gc_negative.gml,negative,cow skin,1,0.000877963125549,0.0,0.161537370586
+320,Gc_negative.gml,negative,cranial nerve paralysis,1,0.000877963125549,0.0,0.20284951024
+321,Gc_negative.gml,negative,crazy approach,2,0.0017559262511,0.0017559262511,0.154043819313
+322,Gc_negative.gml,negative,crime against children,1,0.000877963125549,0.0,0.22198401871
+323,Gc_negative.gml,negative,criminal,2,0.0017559262511,0.0017559262511,0.242391998298
+324,Gc_negative.gml,negative,criminal conspiracy,2,0.0017559262511,0.000140902223336,0.235039207594
+325,Gc_negative.gml,negative,criminal fraud,1,0.000877963125549,0.0,0.218199233716
+326,Gc_negative.gml,negative,criminal mafia,1,0.000877963125549,0.0,0.223860062893
+327,Gc_negative.gml,negative,criminal side,1,0.000877963125549,0.0,0.246750433276
+328,Gc_negative.gml,negative,critical thinking,5,0.00438981562774,0.00567215078396,0.205077421678
+329,Gc_negative.gml,negative,culprit,1,0.000877963125549,0.0,0.243012588009
+330,Gc_negative.gml,negative,cumulative effect of vaccines,1,0.000877963125549,0.0,0.209992625369
+331,Gc_negative.gml,negative,custody of children,1,0.000877963125549,0.0,0.199649430324
+332,Gc_negative.gml,negative,dangerous medical intervention,1,0.000877963125549,0.0,0.263779527559
+333,Gc_negative.gml,negative,deadly diseases,1,0.000877963125549,0.0,0.263779527559
+334,Gc_negative.gml,negative,death from car accident,1,0.000877963125549,0.0,0.189485942439
+335,Gc_negative.gml,negative,death from congenital disease,1,0.000877963125549,0.0,0.189485942439
+336,Gc_negative.gml,negative,death from congenital malformation,1,0.000877963125549,0.0,0.189485942439
+337,Gc_negative.gml,negative,death from heart disease,1,0.000877963125549,0.0,0.189485942439
+338,Gc_negative.gml,negative,death from murder,1,0.000877963125549,0.0,0.189485942439
+339,Gc_negative.gml,negative,death from stomach ulcers,1,0.000877963125549,0.0,0.189485942439
+340,Gc_negative.gml,negative,death from suicide,1,0.000877963125549,0.0,0.189485942439
+341,Gc_negative.gml,negative,deaths,13,0.0114135206321,0.0190445746704,0.273272552783
+342,Gc_negative.gml,negative,deaths from influenza,1,0.000877963125549,0.0,0.164738212323
+343,Gc_negative.gml,negative,deaths from pneuomnia,1,0.000877963125549,0.0,0.164738212323
+344,Gc_negative.gml,negative,debate,2,0.0017559262511,0.0,0.269012753897
+345,Gc_negative.gml,negative,deceitful social engineering,1,0.000877963125549,0.0,0.246750433276
+346,Gc_negative.gml,negative,defective vaccines,2,0.0017559262511,0.0,0.240244674119
+347,Gc_negative.gml,negative,delaying vaccinations,2,0.0017559262511,1.34871632084e-05,0.173442972438
+348,Gc_negative.gml,negative,deliberate release of pathogens,1,0.000877963125549,0.0,0.217823675655
+349,Gc_negative.gml,negative,deliberate release of toxins,1,0.000877963125549,0.0,0.217823675655
+350,Gc_negative.gml,negative,delusional,1,0.000877963125549,0.0,0.232496427842
+351,Gc_negative.gml,negative,delusions,1,0.000877963125549,0.0,0.223992133727
+352,Gc_negative.gml,negative,demand for justice,1,0.000877963125549,0.0,0.218199233716
+353,Gc_negative.gml,negative,demyelination,1,0.000877963125549,0.0,0.211082283173
+354,Gc_negative.gml,negative,denial,2,0.0017559262511,0.000203137186554,0.235281966536
+355,Gc_negative.gml,negative,denying responsibility,1,0.000877963125549,0.0,0.224168470773
+356,Gc_negative.gml,negative,desire by Big Pharma,2,0.0017559262511,0.0017559262511,0.191589571068
+357,Gc_negative.gml,negative,destructive nature,1,0.000877963125549,0.0,0.181745651827
+358,Gc_negative.gml,negative,detoxification,2,0.0017559262511,0.0,0.247608695652
+359,Gc_negative.gml,negative,diabetes,1,0.000877963125549,0.0,0.252382007534
+360,Gc_negative.gml,negative,diabetes deaths,2,0.0017559262511,0.0017559262511,0.214743589744
+361,Gc_negative.gml,negative,digestive tract,1,0.000877963125549,0.0,0.107849635451
+362,Gc_negative.gml,negative,diptheria vaccine,2,0.0017559262511,0.0,0.216416492495
+363,Gc_negative.gml,negative,disability,4,0.00351185250219,0.00304556949699,0.281930693069
+364,Gc_negative.gml,negative,disabled children,4,0.00351185250219,0.00262926039707,0.264146567718
+365,Gc_negative.gml,negative,disclosure,1,0.000877963125549,0.0,0.22899075191
+366,Gc_negative.gml,negative,discrimination,5,0.00438981562774,0.00618380789655,0.225321463897
+367,Gc_negative.gml,negative,disease,6,0.00526777875329,0.0162216403926,0.265130353818
+368,Gc_negative.gml,negative,distractions,3,0.00263388937665,0.00107245710263,0.18745885451
+369,Gc_negative.gml,negative,dizziness,2,0.0017559262511,0.000801068305887,0.211946408634
+370,Gc_negative.gml,negative,doctors,40,0.0351185250219,0.0862559248759,0.302844988035
+371,Gc_negative.gml,negative,dramatic rise,1,0.000877963125549,0.0,0.201700017709
+372,Gc_negative.gml,negative,drownings,1,0.000877963125549,0.0,0.145225041438
+373,Gc_negative.gml,negative,drug companies,14,0.0122914837577,0.0307881776746,0.280680137999
+374,Gc_negative.gml,negative,drug industry's greed,1,0.000877963125549,0.0,0.18209432454
+375,Gc_negative.gml,negative,drugs,1,0.000877963125549,0.0,0.136407185629
+376,Gc_negative.gml,negative,early immunization,1,0.000877963125549,0.0,0.198018080668
+377,Gc_negative.gml,negative,early intervention,1,0.000877963125549,0.0,0.218618042226
+378,Gc_negative.gml,negative,education,2,0.0017559262511,6.17197276308e-07,0.184036193246
+379,Gc_negative.gml,negative,effective,4,0.00351185250219,0.00076220818104,0.266619850187
+380,Gc_negative.gml,negative,efficacy,3,0.00263388937665,0.00454901999783,0.271837708831
+381,Gc_negative.gml,negative,elderly,6,0.00526777875329,0.00952247335396,0.2453683757
+382,Gc_negative.gml,negative,electromagnetic fields,1,0.000877963125549,0.0,0.245262704565
+383,Gc_negative.gml,negative,elopement,1,0.000877963125549,0.0,0.145225041438
+384,Gc_negative.gml,negative,emergency room visits,1,0.000877963125549,0.0,0.185959183673
+385,Gc_negative.gml,negative,employers,2,0.0017559262511,1.22153627603e-06,0.191815426069
+386,Gc_negative.gml,negative,employment laws,1,0.000877963125549,0.0,0.221552227193
+387,Gc_negative.gml,negative,encephalitis,1,0.000877963125549,0.0,0.173522242535
+388,Gc_negative.gml,negative,encephalopathy,7,0.00614574187884,0.00555509938291,0.277398928397
+389,Gc_negative.gml,negative,endangered children,1,0.000877963125549,0.0,0.128933665384
+390,Gc_negative.gml,negative,endotoxins,1,0.000877963125549,0.0,0.245262704565
+391,Gc_negative.gml,negative,environmental chemicals,2,0.0017559262511,0.0,0.245315528753
+392,Gc_negative.gml,negative,environmental issues,1,0.000877963125549,0.0,0.181081081081
+393,Gc_negative.gml,negative,epidemic proportions,1,0.000877963125549,0.0,0.218241042345
+394,Gc_negative.gml,negative,escalating health conditions,1,0.000877963125549,0.0,0.203138933476
+395,Gc_negative.gml,negative,essential oils,3,0.00263388937665,0.003510309509,0.2184084372
+396,Gc_negative.gml,negative,ethical track record,4,0.00351185250219,0.000179931197276,0.221466070387
+397,Gc_negative.gml,negative,ethicality,1,0.000877963125549,0.0,0.170203227735
+398,Gc_negative.gml,negative,ethylmercury,3,0.00263388937665,0.000475652660606,0.264024107557
+399,Gc_negative.gml,negative,everyone,2,0.0017559262511,0.000100701178216,0.185203252033
+400,Gc_negative.gml,negative,evidence,11,0.00965759438104,0.00526923852927,0.279646452247
+401,Gc_negative.gml,negative,ex-models,2,0.0017559262511,0.000626318199365,0.247824194952
+402,Gc_negative.gml,negative,exemptions,2,0.0017559262511,0.0017559262511,0.24685739055
+403,Gc_negative.gml,negative,expensive anti-narcolepsy drugs,2,0.0017559262511,0.0017559262511,0.152865387196
+404,Gc_negative.gml,negative,experts,1,0.000877963125549,0.0,0.20284951024
+405,Gc_negative.gml,negative,exposures,2,0.0017559262511,0.0017559262511,0.2453683757
+406,Gc_negative.gml,negative,extensive medication,2,0.0017559262511,7.71496595386e-07,0.126471241395
+407,Gc_negative.gml,negative,extraordinary powers,1,0.000877963125549,0.0,0.175690266852
+408,Gc_negative.gml,negative,extreme challenges,1,0.000877963125549,0.0,0.245262704565
+409,Gc_negative.gml,negative,eye pain,1,0.000877963125549,0.0,0.20284951024
+410,Gc_negative.gml,negative,facts,2,0.0017559262511,0.000222383886899,0.236995422389
+411,Gc_negative.gml,negative,failure,2,0.0017559262511,0.000179587528717,0.205225225225
+412,Gc_negative.gml,negative,fall,2,0.0017559262511,0.000642358681695,0.211160548758
+413,Gc_negative.gml,negative,false grounds,2,0.0017559262511,0.0,0.197229437229
+414,Gc_negative.gml,negative,false sense of security,1,0.000877963125549,0.0,0.159747545582
+415,Gc_negative.gml,negative,falsifying drug study results,1,0.000877963125549,0.0,0.224168470773
+416,Gc_negative.gml,negative,families,1,0.000877963125549,0.0,0.216498764493
+417,Gc_negative.gml,negative,families who decline vaccines,3,0.00263388937665,0.00591621253562,0.248040069686
+418,Gc_negative.gml,negative,family member,3,0.00263388937665,3.59963062572e-05,0.221509140412
+419,Gc_negative.gml,negative,fear,1,0.000877963125549,0.0,0.234942244224
+420,Gc_negative.gml,negative,federal level,1,0.000877963125549,0.0,0.179936808847
+421,Gc_negative.gml,negative,fetal bovine serum,2,0.0017559262511,0.0017559262511,0.228439630967
+422,Gc_negative.gml,negative,fetal development,2,0.0017559262511,0.0017559262511,0.187150837989
+423,Gc_negative.gml,negative,fetal toxin,1,0.000877963125549,0.0,0.243012588009
+424,Gc_negative.gml,negative,fever,3,0.00263388937665,0.0108946986194,0.225232351196
+425,Gc_negative.gml,negative,fiction and reality,1,0.000877963125549,0.0,0.16819255759
+426,Gc_negative.gml,negative,fighting,1,0.000877963125549,0.0,0.215924170616
+427,Gc_negative.gml,negative,financial collusion,1,0.000877963125549,0.0,0.246750433276
+428,Gc_negative.gml,negative,financial compensation,7,0.00614574187884,0.00562344210819,0.254070934642
+429,Gc_negative.gml,negative,financial influence,3,0.00263388937665,0.00668706675745,0.258511121198
+430,Gc_negative.gml,negative,first-world nations,3,0.00263388937665,0.000393630799168,0.269585798817
+431,Gc_negative.gml,negative,flu season,1,0.000877963125549,0.0,0.214824594493
+432,Gc_negative.gml,negative,flu shot campaign,1,0.000877963125549,0.0,0.134776949473
+433,Gc_negative.gml,negative,flu shot ingredients,1,0.000877963125549,0.0,0.189612119194
+434,Gc_negative.gml,negative,flu shot toxins,1,0.000877963125549,0.0,0.208914159941
+435,Gc_negative.gml,negative,flu shot while pregnant,1,0.000877963125549,0.0,0.243012588009
+436,Gc_negative.gml,negative,flu shots,33,0.0289727831431,0.0576094115201,0.303733333333
+437,Gc_negative.gml,negative,flu-related deaths,1,0.000877963125549,0.0,0.233019639935
+438,Gc_negative.gml,negative,flu-related doctor visits,1,0.000877963125549,0.0,0.233019639935
+439,Gc_negative.gml,negative,flu-related hospitalizations,1,0.000877963125549,0.0,0.233019639935
+440,Gc_negative.gml,negative,folate,1,0.000877963125549,0.0,0.137311633514
+441,Gc_negative.gml,negative,folic acid,5,0.00438981562774,0.0105031546496,0.159144893112
+442,Gc_negative.gml,negative,food,1,0.000877963125549,0.0,0.252382007534
+443,Gc_negative.gml,negative,food supply,3,0.00263388937665,0.000597431567879,0.229405840886
+444,Gc_negative.gml,negative,for sale,1,0.000877963125549,0.0,0.219122739515
+445,Gc_negative.gml,negative,formaldehyde,11,0.00965759438104,0.00333661268741,0.27753411306
+446,Gc_negative.gml,negative,former cheerleaders,2,0.0017559262511,0.000626318199365,0.247824194952
+447,Gc_negative.gml,negative,formula,5,0.00438981562774,0.0025247488584,0.206116539993
+448,Gc_negative.gml,negative,fraud,1,0.000877963125549,0.0,0.218199233716
+449,Gc_negative.gml,negative,fraudulent,1,0.000877963125549,0.0,0.246750433276
+450,Gc_negative.gml,negative,freedom of choice,2,0.0017559262511,0.00185911075311,0.24696444059
+451,Gc_negative.gml,negative,fresh foods,1,0.000877963125549,0.0,0.201771479185
+452,Gc_negative.gml,negative,gelatin,2,0.0017559262511,0.00525852079415,0.201450300672
+453,Gc_negative.gml,negative,gene products,1,0.000877963125549,0.0,0.20284951024
+454,Gc_negative.gml,negative,gene variation,1,0.000877963125549,0.0,0.223596387907
+455,Gc_negative.gml,negative,general population,2,0.0017559262511,0.0064784410253,0.218660011519
+456,Gc_negative.gml,negative,generation of children,1,0.000877963125549,0.0,0.246750433276
+457,Gc_negative.gml,negative,generous,1,0.000877963125549,0.0,0.215924170616
+458,Gc_negative.gml,negative,genetic correlation,2,0.0017559262511,0.000240725447289,0.258218091136
+459,Gc_negative.gml,negative,genetic counseling,1,0.000877963125549,0.0,0.22899075191
+460,Gc_negative.gml,negative,genetic predisposition,9,0.00790166812994,0.0198753785896,0.276255154014
+461,Gc_negative.gml,negative,genetic screening,3,0.00263388937665,0.0,0.246323529412
+462,Gc_negative.gml,negative,genetic testing,4,0.00351185250219,0.003510309509,0.229175050302
+463,Gc_negative.gml,negative,genetic ticking time bombs,2,0.0017559262511,3.43205718254e-05,0.217366412214
+464,Gc_negative.gml,negative,genetically engineered human protein,2,0.0017559262511,0.0017559262511,0.26390176089
+465,Gc_negative.gml,negative,genetically susceptible adults,3,0.00263388937665,0.00247477014119,0.227118644068
+466,Gc_negative.gml,negative,genetically susceptible children,10,0.00877963125549,0.01813188207,0.27753411306
+467,Gc_negative.gml,negative,genetically-modified human albumin,1,0.000877963125549,0.0,0.230194017785
+468,Gc_negative.gml,negative,genetics,2,0.0017559262511,0.000909380145654,0.236209041891
+469,Gc_negative.gml,negative,genocide,1,0.000877963125549,0.0,0.16819255759
+470,Gc_negative.gml,negative,get lost,1,0.000877963125549,0.0,0.145225041438
+471,Gc_negative.gml,negative,girl,1,0.000877963125549,0.0,0.214662646061
+472,Gc_negative.gml,negative,giving children fewer vaccines on the same day,2,0.0017559262511,1.34871632084e-05,0.173442972438
+473,Gc_negative.gml,negative,global population,1,0.000877963125549,0.0,0.189485942439
+474,Gc_negative.gml,negative,glutathione,3,0.00263388937665,0.000343594595769,0.258276643991
+475,Gc_negative.gml,negative,glutathione levels,1,0.000877963125549,0.0,0.245051635112
+476,Gc_negative.gml,negative,good bacteria,1,0.000877963125549,0.0,0.213415776654
+477,Gc_negative.gml,negative,good news,1,0.000877963125549,0.0,0.173390165931
+478,Gc_negative.gml,negative,good plumbing,1,0.000877963125549,0.0,0.263779527559
+479,Gc_negative.gml,negative,government,11,0.00965759438104,0.0103560352979,0.262805722197
+480,Gc_negative.gml,negative,government contracts,2,0.0017559262511,0.0,0.208799266728
+481,Gc_negative.gml,negative,government health agencies,1,0.000877963125549,0.0,0.223860062893
+482,Gc_negative.gml,negative,government healthcare reform,1,0.000877963125549,0.0,0.22899075191
+483,Gc_negative.gml,negative,government partnership with Big Pharma,4,0.00351185250219,0.0040307165665,0.238784067086
+484,Gc_negative.gml,negative,government propaganda,4,0.00351185250219,0.00295767179852,0.230893979323
+485,Gc_negative.gml,negative,great records,1,0.000877963125549,0.0,0.17349581112
+486,Gc_negative.gml,negative,grocery stores,1,0.000877963125549,0.0,0.180050584888
+487,Gc_negative.gml,negative,group of top government scientists and health officials,2,0.0017559262511,0.0017559262511,0.222113884555
+488,Gc_negative.gml,negative,guilt,1,0.000877963125549,0.0,0.208150584795
+489,Gc_negative.gml,negative,guinea pigs,1,0.000877963125549,0.0,0.217823675655
+490,Gc_negative.gml,negative,hallucinations,1,0.000877963125549,0.0,0.206790123457
+491,Gc_negative.gml,negative,harassment,7,0.00614574187884,0.00674485578471,0.237192836318
+492,Gc_negative.gml,negative,harm,3,0.00263388937665,0.00246838465867,0.266682275814
+493,Gc_negative.gml,negative,harm's way,1,0.000877963125549,0.0,0.145225041438
+494,Gc_negative.gml,negative,harmful toxins,2,0.0017559262511,4.57680766093e-05,0.264146567718
+495,Gc_negative.gml,negative,headache,2,0.0017559262511,0.0070051890861,0.187335526316
+496,Gc_negative.gml,negative,headlines,1,0.000877963125549,0.0,0.218199233716
+497,Gc_negative.gml,negative,health,2,0.0017559262511,0.0017559262511,0.252493903791
+498,Gc_negative.gml,negative,health authorities,2,0.0017559262511,5.4795660927e-05,0.224610530467
+499,Gc_negative.gml,negative,health care professionals,3,0.00263388937665,4.49151419077e-05,0.214905660377
+500,Gc_negative.gml,negative,health choices,1,0.000877963125549,0.0,0.181456109606
+501,Gc_negative.gml,negative,health insurance,3,0.00263388937665,0.00200188077399,0.230893979323
+502,Gc_negative.gml,negative,health of children,1,0.000877963125549,0.0,0.197058823529
+503,Gc_negative.gml,negative,health officials,2,0.0017559262511,1.22153627603e-06,0.191815426069
+504,Gc_negative.gml,negative,health outcomes,2,0.0017559262511,0.0017559262511,0.24685739055
+505,Gc_negative.gml,negative,health problems,1,0.000877963125549,0.0,0.181542875359
+506,Gc_negative.gml,negative,healthier children,1,0.000877963125549,0.0,0.22198401871
+507,Gc_negative.gml,negative,healthy genes,1,0.000877963125549,0.0,0.218073903887
+508,Gc_negative.gml,negative,healthy gut flora,1,0.000877963125549,0.0,0.218660011519
+509,Gc_negative.gml,negative,healthy people,1,0.000877963125549,0.0,0.181542875359
+510,Gc_negative.gml,negative,heavy metals,2,0.0017559262511,0.0015208780991,0.26793695601
+511,Gc_negative.gml,negative,heightened emotion,2,0.0017559262511,0.0017559262511,0.203356543474
+512,Gc_negative.gml,negative,heightened risk of narcolepsy,2,0.0017559262511,0.000367441939012,0.191718565898
+513,Gc_negative.gml,negative,hepatitis B,9,0.00790166812994,0.012503437098,0.243116328709
+514,Gc_negative.gml,negative,hepatitis B vaccine,20,0.017559262511,0.0179765365138,0.279715127701
+515,Gc_negative.gml,negative,herd mentality,8,0.00702370500439,0.00603586448498,0.214178262505
+516,Gc_negative.gml,negative,high fructose corn syrup,1,0.000877963125549,0.0,0.176808444582
+517,Gc_negative.gml,negative,high price,1,0.000877963125549,0.0,0.181745651827
+518,Gc_negative.gml,negative,high risk of autism,2,0.0017559262511,0.0,0.254014272971
+519,Gc_negative.gml,negative,high risk of non-organic sleep disorder,2,0.0017559262511,0.0,0.254014272971
+520,Gc_negative.gml,negative,high risk of speech disorder,2,0.0017559262511,0.0,0.254014272971
+521,Gc_negative.gml,negative,higher doses,2,0.0017559262511,0.00525852079415,0.191718565898
+522,Gc_negative.gml,negative,higher education,1,0.000877963125549,0.0,0.134776949473
+523,Gc_negative.gml,negative,highly susceptible,3,0.00263388937665,1.87750620174e-05,0.203793165146
+524,Gc_negative.gml,negative,holocaust,5,0.00438981562774,0.00595723715841,0.253957636566
+525,Gc_negative.gml,negative,homeopathy,1,0.000877963125549,0.0,0.218241042345
+526,Gc_negative.gml,negative,hospital,1,0.000877963125549,0.0,0.136407185629
+527,Gc_negative.gml,negative,hospitalization,1,0.000877963125549,0.0,0.185959183673
+528,Gc_negative.gml,negative,house of cards,1,0.000877963125549,0.0,0.221595330739
+529,Gc_negative.gml,negative,human DNA,2,0.0017559262511,0.000309753999581,0.20515129683
+530,Gc_negative.gml,negative,human beings,1,0.000877963125549,0.0,0.217823675655
+531,Gc_negative.gml,negative,human biology,4,0.00351185250219,0.000136768970373,0.250054884742
+532,Gc_negative.gml,negative,human blood,4,0.00351185250219,0.00192794593239,0.209298052187
+533,Gc_negative.gml,negative,human carcinogen,1,0.000877963125549,0.0,0.243012588009
+534,Gc_negative.gml,negative,human rights,2,0.0017559262511,0.000251302822139,0.235768991927
+535,Gc_negative.gml,negative,humanity,1,0.000877963125549,0.0,0.246750433276
+536,Gc_negative.gml,negative,hundreds of thousands of dollars,2,0.0017559262511,7.71496595386e-07,0.183148416144
+537,Gc_negative.gml,negative,hydrolyzed porcine gelatin,3,0.00263388937665,0.00192383987631,0.193247370207
+538,Gc_negative.gml,negative,idea,1,0.000877963125549,0.0,0.234942244224
+539,Gc_negative.gml,negative,ideology,1,0.000877963125549,0.0,0.19278943805
+540,Gc_negative.gml,negative,idiopathic thrombocytopenia purpura,1,0.000877963125549,0.0,0.217200610221
+541,Gc_negative.gml,negative,"if a little is good, a lot must be better",1,0.000877963125549,0.0,0.216416492495
+542,Gc_negative.gml,negative,ignorance of scientific facts,2,0.0017559262511,0.0,0.232543895468
+543,Gc_negative.gml,negative,ignorant,1,0.000877963125549,0.0,0.173469387755
+544,Gc_negative.gml,negative,illegal,1,0.000877963125549,0.0,0.151061007958
+545,Gc_negative.gml,negative,illogical,2,0.0017559262511,0.0,0.173469387755
+546,Gc_negative.gml,negative,immune system,3,0.00263388937665,0.00118131187528,0.264637546468
+547,Gc_negative.gml,negative,immune system dysfunction,1,0.000877963125549,0.0,0.252382007534
+548,Gc_negative.gml,negative,immune-system disruptor,1,0.000877963125549,0.0,0.243012588009
+549,Gc_negative.gml,negative,immunity,9,0.00790166812994,0.00527830665378,0.271255060729
+550,Gc_negative.gml,negative,immunization,3,0.00263388937665,0.00184693743227,0.226847241585
+551,Gc_negative.gml,negative,immunization schedule,1,0.000877963125549,0.0,0.218618042226
+552,Gc_negative.gml,negative,immunocompromised children,2,0.0017559262511,0.0017559262511,0.147998960499
+553,Gc_negative.gml,negative,imprisonment,1,0.000877963125549,0.0,0.217823675655
+554,Gc_negative.gml,negative,improved healthcare,1,0.000877963125549,0.0,0.263779527559
+555,Gc_negative.gml,negative,improved living conditions,2,0.0017559262511,0.0,0.26574895007
+556,Gc_negative.gml,negative,improved santitation,1,0.000877963125549,0.0,0.263779527559
+557,Gc_negative.gml,negative,incidence,2,0.0017559262511,3.02426665391e-05,0.219249278152
+558,Gc_negative.gml,negative,incurable condition,2,0.0017559262511,0.000877191628953,0.144726810673
+559,Gc_negative.gml,negative,independent reviews,4,0.00351185250219,0.000489608714141,0.234700185452
+560,Gc_negative.gml,negative,independent vaccine advisory panels,1,0.000877963125549,0.0,0.232496427842
+561,Gc_negative.gml,negative,individual doctors,1,0.000877963125549,0.0,0.219207082371
+562,Gc_negative.gml,negative,individualized approach,2,0.0017559262511,0.00157317684809,0.228302264983
+563,Gc_negative.gml,negative,industry,1,0.000877963125549,0.0,0.181774656878
+564,Gc_negative.gml,negative,industry-funded findings,2,0.0017559262511,0.000123052793144,0.243272105938
+565,Gc_negative.gml,negative,ineffective,1,0.000877963125549,0.0,0.263779527559
+566,Gc_negative.gml,negative,ineffective flu vaccine,2,0.0017559262511,3.85748297693e-07,0.209067547724
+567,Gc_negative.gml,negative,inexpensive test,1,0.000877963125549,0.0,0.216498764493
+568,Gc_negative.gml,negative,infant death,1,0.000877963125549,0.0,0.202273130883
+569,Gc_negative.gml,negative,infant death after vaccination,6,0.00526777875329,0.00279612117413,0.246803900325
+570,Gc_negative.gml,negative,infants,7,0.00614574187884,0.00254578335534,0.265873015873
+571,Gc_negative.gml,negative,infectious diseases,6,0.00526777875329,0.00836597796036,0.276054289869
+572,Gc_negative.gml,negative,inflammation of immune system,1,0.000877963125549,0.0,0.219841729396
+573,Gc_negative.gml,negative,inflammatory adjuvant,1,0.000877963125549,0.0,0.220224284609
+574,Gc_negative.gml,negative,influenza,2,0.0017559262511,0.00350876651581,0.213535808024
+575,Gc_negative.gml,negative,informal,1,0.000877963125549,0.0,0.215924170616
+576,Gc_negative.gml,negative,information,4,0.00351185250219,0.00143603159999,0.213056490834
+577,Gc_negative.gml,negative,informed consent,21,0.0184372256365,0.0484546545854,0.284536597552
+578,Gc_negative.gml,negative,initiatives that helped minorities,1,0.000877963125549,0.0,0.18209432454
+579,Gc_negative.gml,negative,initiatives that helped the poor,1,0.000877963125549,0.0,0.18209432454
+580,Gc_negative.gml,negative,injected,2,0.0017559262511,3.01593938907e-05,0.245157124408
+581,Gc_negative.gml,negative,injecting,1,0.000877963125549,0.0,0.201628606833
+582,Gc_negative.gml,negative,injecting any substance,3,0.00263388937665,0.003510309509,0.120874456118
+583,Gc_negative.gml,negative,injecting children,2,0.0017559262511,3.08598638154e-07,0.20021093338
+584,Gc_negative.gml,negative,injecting mercury,1,0.000877963125549,0.0,0.195134486894
+585,Gc_negative.gml,negative,injection of carcinogenic chemicals,2,0.0017559262511,0.0017559262511,0.197127033576
+586,Gc_negative.gml,negative,injury,7,0.00614574187884,0.00378243005617,0.262502880848
+587,Gc_negative.gml,negative,injury claims,1,0.000877963125549,0.0,0.18708935611
+588,Gc_negative.gml,negative,intellectual bullies,1,0.000877963125549,0.0,0.202452897263
+589,Gc_negative.gml,negative,intelligent questions,11,0.00965759438104,0.0153523634779,0.290487120632
+590,Gc_negative.gml,negative,internet's truth-based alternative,1,0.000877963125549,0.0,0.155325242056
+591,Gc_negative.gml,negative,intimidation,1,0.000877963125549,0.0,0.16591405681
+592,Gc_negative.gml,negative,investigations,2,0.0017559262511,0.0017559262511,0.218282866999
+593,Gc_negative.gml,negative,iron,1,0.000877963125549,0.0,0.170918367347
+594,Gc_negative.gml,negative,irritable bowels,1,0.000877963125549,0.0,0.203138933476
+595,Gc_negative.gml,negative,issue,1,0.000877963125549,0.0,0.153918918919
+596,Gc_negative.gml,negative,job,3,0.00263388937665,0.00700580628338,0.184274389257
+597,Gc_negative.gml,negative,lab results,3,0.00263388937665,2.6466007015e-05,0.211004075584
+598,Gc_negative.gml,negative,labor and delivery floor,1,0.000877963125549,0.0,0.202273130883
+599,Gc_negative.gml,negative,larger campaign,4,0.00351185250219,0.00526314977372,0.155750034186
+600,Gc_negative.gml,negative,laughing,1,0.000877963125549,0.0,0.169016174507
+601,Gc_negative.gml,negative,lavish gifts,1,0.000877963125549,0.0,0.121831211894
+602,Gc_negative.gml,negative,law,2,0.0017559262511,0.0017559262511,0.232591382479
+603,Gc_negative.gml,negative,lawsuit,5,0.00438981562774,0.0128960635304,0.25647376717
+604,Gc_negative.gml,negative,lawyer of Pandemrix victims,1,0.000877963125549,0.0,0.168991097923
+605,Gc_negative.gml,negative,lead,2,0.0017559262511,0.0017559262511,0.197058823529
+606,Gc_negative.gml,negative,learning disabilities,1,0.000877963125549,0.0,0.252382007534
+607,Gc_negative.gml,negative,legal immunity,2,0.0017559262511,0.00036974541143,0.256762849414
+608,Gc_negative.gml,negative,legal right,2,0.0017559262511,0.000392253130801,0.193575798776
+609,Gc_negative.gml,negative,legality,1,0.000877963125549,0.0,0.170203227735
+610,Gc_negative.gml,negative,legislators,2,0.0017559262511,4.22433683051e-05,0.207732992887
+611,Gc_negative.gml,negative,lemming society,5,0.00438981562774,0.0107617678517,0.224654832347
+612,Gc_negative.gml,negative,letter to the editor,1,0.000877963125549,0.0,0.200246132208
+613,Gc_negative.gml,negative,lies,9,0.00790166812994,0.0104052144429,0.273141486811
+614,Gc_negative.gml,negative,lifelong condition,2,0.0017559262511,0.000877191628953,0.144726810673
+615,Gc_negative.gml,negative,lifelong immunity,1,0.000877963125549,0.0,0.263779527559
+616,Gc_negative.gml,negative,lifetime need,1,0.000877963125549,0.0,0.245262704565
+617,Gc_negative.gml,negative,limb paralysis,1,0.000877963125549,0.0,0.20284951024
+618,Gc_negative.gml,negative,line up,3,0.00263388937665,0.00134502924737,0.221767912773
+619,Gc_negative.gml,negative,link,2,0.0017559262511,0.0,0.259749144812
+620,Gc_negative.gml,negative,litigious,2,0.0017559262511,0.0017559262511,0.216006068652
+621,Gc_negative.gml,negative,live viruses,1,0.000877963125549,0.0,0.217283479588
+622,Gc_negative.gml,negative,live-virus vaccine,3,0.00263388937665,0.00700981806567,0.209915223
+623,Gc_negative.gml,negative,lives of children,1,0.000877963125549,0.0,0.242288874708
+624,Gc_negative.gml,negative,lobbying,5,0.00438981562774,0.0324211970163,0.249179610588
+625,Gc_negative.gml,negative,lobbyists,5,0.00438981562774,0.000456909754479,0.231175157297
+626,Gc_negative.gml,negative,logic,1,0.000877963125549,0.0,0.149573210768
+627,Gc_negative.gml,negative,loss of cognitive functions,1,0.000877963125549,0.0,0.20091726936
+628,Gc_negative.gml,negative,loss of consciousness,2,0.0017559262511,0.000183606886722,0.193872340426
+629,Gc_negative.gml,negative,loss of coordination,1,0.000877963125549,0.0,0.20091726936
+630,Gc_negative.gml,negative,loss of language,1,0.000877963125549,0.0,0.20091726936
+631,Gc_negative.gml,negative,lost earnings,1,0.000877963125549,0.0,0.153256189451
+632,Gc_negative.gml,negative,low-level mercury poisoning,1,0.000877963125549,0.0,0.245262704565
+633,Gc_negative.gml,negative,lung cancer,1,0.000877963125549,0.0,0.218073903887
+634,Gc_negative.gml,negative,lung tissue,4,0.00351185250219,0.00406537528983,0.18866986914
+635,Gc_negative.gml,negative,lupus,1,0.000877963125549,0.0,0.161537370586
+636,Gc_negative.gml,negative,lymphatic cancer,1,0.000877963125549,0.0,0.218073903887
+637,Gc_negative.gml,negative,lymphoma,1,0.000877963125549,0.0,0.203866117773
+638,Gc_negative.gml,negative,mainstream media,41,0.0359964881475,0.0623866522976,0.307008086253
+639,Gc_negative.gml,negative,male neonates,1,0.000877963125549,0.0,0.245262704565
+640,Gc_negative.gml,negative,malnourishment,1,0.000877963125549,0.0,0.218241042345
+641,Gc_negative.gml,negative,mandatory Health Law,1,0.000877963125549,0.0,0.186476751801
+642,Gc_negative.gml,negative,mandatory vaccines,29,0.0254609306409,0.0583235259015,0.296923879041
+643,Gc_negative.gml,negative,mantra of pharma-controlled press,1,0.000877963125549,0.0,0.191686300909
+644,Gc_negative.gml,negative,market,1,0.000877963125549,0.0,0.219207082371
+645,Gc_negative.gml,negative,market practices,1,0.000877963125549,0.0,0.206041968162
+646,Gc_negative.gml,negative,market share,1,0.000877963125549,0.0,0.160807567415
+647,Gc_negative.gml,negative,marketing,2,0.0017559262511,0.00077245944385,0.187273923052
+648,Gc_negative.gml,negative,marketing vaccines to children,2,0.0017559262511,0.0,0.186905152609
+649,Gc_negative.gml,negative,mass arrest,1,0.000877963125549,0.0,0.217823675655
+650,Gc_negative.gml,negative,math,1,0.000877963125549,0.0,0.242288874708
+651,Gc_negative.gml,negative,measles,23,0.0201931518876,0.0443727384277,0.27909826023
+652,Gc_negative.gml,negative,measles antibodies,1,0.000877963125549,0.0,0.202524893314
+653,Gc_negative.gml,negative,measles cases,17,0.0149253731343,0.0187870748027,0.248256320837
+654,Gc_negative.gml,negative,measles complications,1,0.000877963125549,0.0,0.159367566811
+655,Gc_negative.gml,negative,measles cycle,3,0.00263388937665,2.72228084372e-05,0.245209903122
+656,Gc_negative.gml,negative,measles data,1,0.000877963125549,0.0,0.16598659283
+657,Gc_negative.gml,negative,measles decline,7,0.00614574187884,0.00986139933533,0.248472949389
+658,Gc_negative.gml,negative,measles increase,1,0.000877963125549,0.0,0.1989172197
+659,Gc_negative.gml,negative,measles mortality,22,0.0193151887621,0.0252971634774,0.23373691771
+660,Gc_negative.gml,negative,measles outbreak,1,0.000877963125549,0.0,0.186751926545
+661,Gc_negative.gml,negative,measles rate,1,0.000877963125549,0.0,0.1989172197
+662,Gc_negative.gml,negative,measles recovery period,1,0.000877963125549,0.0,0.242288874708
+663,Gc_negative.gml,negative,measles vaccine,8,0.00702370500439,0.0056718364162,0.244578054542
+664,Gc_negative.gml,negative,medical associations,1,0.000877963125549,0.0,0.189738464101
+665,Gc_negative.gml,negative,medical care,2,0.0017559262511,6.17197276308e-07,0.184036193246
+666,Gc_negative.gml,negative,medical dictatorship,2,0.0017559262511,0.0,0.225187821273
+667,Gc_negative.gml,negative,medical ethics,1,0.000877963125549,0.0,0.235039207594
+668,Gc_negative.gml,negative,medical fraud,1,0.000877963125549,0.0,0.246750433276
+669,Gc_negative.gml,negative,medical genocide,2,0.0017559262511,0.0017559262511,0.217366412214
+670,Gc_negative.gml,negative,medical guidelines,1,0.000877963125549,0.0,0.217823675655
+671,Gc_negative.gml,negative,medical holocaust,2,0.0017559262511,0.000549988449311,0.234169407895
+672,Gc_negative.gml,negative,medical license,1,0.000877963125549,0.0,0.232496427842
+673,Gc_negative.gml,negative,medical police state,2,0.0017559262511,0.0,0.225143308954
+674,Gc_negative.gml,negative,medical trade associations,4,0.00351185250219,3.52853464451e-05,0.223552502453
+675,Gc_negative.gml,negative,medications,1,0.000877963125549,0.0,0.223596387907
+676,Gc_negative.gml,negative,member of the lunatic fringe,1,0.000877963125549,0.0,0.181832694764
+677,Gc_negative.gml,negative,members of the herd,1,0.000877963125549,0.0,0.181832694764
+678,Gc_negative.gml,negative,mental function,1,0.000877963125549,0.0,0.206790123457
+679,Gc_negative.gml,negative,mental illness,1,0.000877963125549,0.0,0.206790123457
+680,Gc_negative.gml,negative,mentally challenged,3,0.00263388937665,0.003510309509,0.264024107557
+681,Gc_negative.gml,negative,mercury,41,0.0359964881475,0.0628657728869,0.324501424501
+682,Gc_negative.gml,negative,mercury based preservative,1,0.000877963125549,0.0,0.243012588009
+683,Gc_negative.gml,negative,mercury is safe,2,0.0017559262511,0.0,0.232543895468
+684,Gc_negative.gml,negative,metal compounds,1,0.000877963125549,0.0,0.243012588009
+685,Gc_negative.gml,negative,methylfolate,1,0.000877963125549,0.0,0.158878504673
+686,Gc_negative.gml,negative,military records,4,0.00351185250219,0.00353276005993,0.20987654321
+687,Gc_negative.gml,negative,millions of dollars,4,0.00351185250219,0.0238026129033,0.203720264711
+688,Gc_negative.gml,negative,mindless,1,0.000877963125549,0.0,0.176425030979
+689,Gc_negative.gml,negative,misguided notion,1,0.000877963125549,0.0,0.201628606833
+690,Gc_negative.gml,negative,mistake,2,0.0017559262511,0.0,0.219164902829
+691,Gc_negative.gml,negative,mitochondrial damage,1,0.000877963125549,0.0,0.195805397971
+692,Gc_negative.gml,negative,modern medicine,2,0.0017559262511,0.0017559262511,0.22207057906
+693,Gc_negative.gml,negative,modus operandi,4,0.00351185250219,0.00358582822838,0.198882486468
+694,Gc_negative.gml,negative,monkey kidney cells,2,0.0017559262511,0.0,0.223552502453
+695,Gc_negative.gml,negative,monosodium glutamate,16,0.0140474100088,0.017265562263,0.28172149394
+696,Gc_negative.gml,negative,monster under the bed,1,0.000877963125549,0.0,0.189485942439
+697,Gc_negative.gml,negative,more health,2,0.0017559262511,0.0,0.22198401871
+698,Gc_negative.gml,negative,more severe autism,1,0.000877963125549,0.0,0.263779527559
+699,Gc_negative.gml,negative,mothers,5,0.00438981562774,0.00486548484353,0.22899075191
+700,Gc_negative.gml,negative,multi-dose vaccine,1,0.000877963125549,0.0,0.209915223
+701,Gc_negative.gml,negative,multi-dose vaccines,1,0.000877963125549,0.0,0.245051635112
+702,Gc_negative.gml,negative,multi-dose vials,2,0.0017559262511,0.0,0.243116328709
+703,Gc_negative.gml,negative,multiple sclerosis,1,0.000877963125549,0.0,0.211082283173
+704,Gc_negative.gml,negative,mumps vaccine,4,0.00351185250219,0.0015444374999,0.230847182813
+705,Gc_negative.gml,negative,mutagen,1,0.000877963125549,0.0,0.243012588009
+706,Gc_negative.gml,negative,myelin,1,0.000877963125549,0.0,0.218618042226
+707,Gc_negative.gml,negative,narcolepsy,13,0.0114135206321,0.0237148406306,0.260640732265
+708,Gc_negative.gml,negative,national news headlines,1,0.000877963125549,0.0,0.203138933476
+709,Gc_negative.gml,negative,national security,1,0.000877963125549,0.0,0.14406779661
+710,Gc_negative.gml,negative,national vaccination policy,3,0.00263388937665,0.003510309509,0.21937596302
+711,Gc_negative.gml,negative,nausea,1,0.000877963125549,0.0,0.18708935611
+712,Gc_negative.gml,negative,necessary,1,0.000877963125549,0.0,0.218576089042
+713,Gc_negative.gml,negative,neomycin,1,0.000877963125549,0.0,0.189612119194
+714,Gc_negative.gml,negative,neonatal infection,1,0.000877963125549,0.0,0.252382007534
+715,Gc_negative.gml,negative,nervous system,2,0.0017559262511,3.01593938907e-05,0.245157124408
+716,Gc_negative.gml,negative,neurological damage,7,0.00614574187884,0.00937790230671,0.263596389725
+717,Gc_negative.gml,negative,neurological disorders,5,0.00438981562774,0.000439435700684,0.261538461538
+718,Gc_negative.gml,negative,neurotoxic,4,0.00351185250219,2.12917686108e-05,0.256070143885
+719,Gc_negative.gml,negative,neurotoxin,9,0.00790166812994,0.00652135767459,0.264637546468
+720,Gc_negative.gml,negative,neurotoxins,1,0.000877963125549,0.0,0.263779527559
+721,Gc_negative.gml,negative,new viruses,1,0.000877963125549,0.0,0.181427206117
+722,Gc_negative.gml,negative,newborn boys,2,0.0017559262511,0.0,0.247178819444
+723,Gc_negative.gml,negative,newborns,2,0.0017559262511,0.0,0.218618042226
+724,Gc_negative.gml,negative,nobody,1,0.000877963125549,0.0,0.196514837819
+725,Gc_negative.gml,negative,non-adversarial,1,0.000877963125549,0.0,0.215924170616
+726,Gc_negative.gml,negative,non-profit charity,2,0.0017559262511,8.8207397584e-05,0.189328457447
+727,Gc_negative.gml,negative,normal behavior,1,0.000877963125549,0.0,0.213816406983
+728,Gc_negative.gml,negative,normal life,1,0.000877963125549,0.0,0.252382007534
+729,Gc_negative.gml,negative,number of measles cases,1,0.000877963125549,0.0,0.242288874708
+730,Gc_negative.gml,negative,number of recommended shots,3,0.00263388937665,0.003510309509,0.252605899312
+731,Gc_negative.gml,negative,number of shots,1,0.000877963125549,0.0,0.223860062893
+732,Gc_negative.gml,negative,number of vaccines,1,0.000877963125549,0.0,0.217117804041
+733,Gc_negative.gml,negative,numbers,1,0.000877963125549,0.0,0.245262704565
+734,Gc_negative.gml,negative,nurse,1,0.000877963125549,0.0,0.189928297482
+735,Gc_negative.gml,negative,nursing school at Baker College,2,0.0017559262511,0.000499169919105,0.190309106099
+736,Gc_negative.gml,negative,nutrition-lacking food,2,0.0017559262511,0.0017559262511,0.217200610221
+737,Gc_negative.gml,negative,obedient,1,0.000877963125549,0.0,0.234942244224
+738,Gc_negative.gml,negative,obey the government,1,0.000877963125549,0.0,0.183472938144
+739,Gc_negative.gml,negative,oil of oregano,1,0.000877963125549,0.0,0.179285376987
+740,Gc_negative.gml,negative,omitting deaths,1,0.000877963125549,0.0,0.224168470773
+741,Gc_negative.gml,negative,one specific age range,1,0.000877963125549,0.0,0.17349581112
+742,Gc_negative.gml,negative,operation,1,0.000877963125549,0.0,0.173919682394
+743,Gc_negative.gml,negative,organic,1,0.000877963125549,0.0,0.17847069884
+744,Gc_negative.gml,negative,other side,1,0.000877963125549,0.0,0.200246132208
+745,Gc_negative.gml,negative,outbreak,1,0.000877963125549,0.0,0.186751926545
+746,Gc_negative.gml,negative,outrageous,1,0.000877963125549,0.0,0.189485942439
+747,Gc_negative.gml,negative,over-vaccination,2,0.0017559262511,3.85748297693e-07,0.209067547724
+748,Gc_negative.gml,negative,oxymoron,1,0.000877963125549,0.0,0.216457620677
+749,Gc_negative.gml,negative,pack of lemmings,1,0.000877963125549,0.0,0.176425030979
+750,Gc_negative.gml,negative,paid damages,1,0.000877963125549,0.0,0.202596940591
+751,Gc_negative.gml,negative,pain,2,0.0017559262511,8.62790359173e-05,0.207430340557
+752,Gc_negative.gml,negative,pain and suffering,2,0.0017559262511,0.0018130932466,0.20634057971
+753,Gc_negative.gml,negative,painful skin rashes,1,0.000877963125549,0.0,0.180707599556
+754,Gc_negative.gml,negative,pandemic H1N1 swine flu,4,0.00351185250219,0.00440311057026,0.27353506244
+755,Gc_negative.gml,negative,pandemic H1N1 swine flu vaccine,22,0.0193151887621,0.0232958790903,0.277398928397
+756,Gc_negative.gml,negative,panel of experts,1,0.000877963125549,0.0,0.19996488764
+757,Gc_negative.gml,negative,panic,1,0.000877963125549,0.0,0.195268301046
+758,Gc_negative.gml,negative,paralysis,1,0.000877963125549,0.0,0.182269163066
+759,Gc_negative.gml,negative,parent's right,2,0.0017559262511,0.0,0.252437943262
+760,Gc_negative.gml,negative,parent-reported cases,1,0.000877963125549,0.0,0.245262704565
+761,Gc_negative.gml,negative,parental choice,1,0.000877963125549,0.0,0.235039207594
+762,Gc_negative.gml,negative,parental consent,1,0.000877963125549,0.0,0.235039207594
+763,Gc_negative.gml,negative,parents,20,0.017559262511,0.0270618349344,0.253505452927
+764,Gc_negative.gml,negative,parents of unvaccinated children,1,0.000877963125549,0.0,0.246750433276
+765,Gc_negative.gml,negative,parents of vaccine-injured children,5,0.00438981562774,0.00294184737001,0.265810968495
+766,Gc_negative.gml,negative,parents who know that vaccines are not safe,1,0.000877963125549,0.0,0.223992133727
+767,Gc_negative.gml,negative,partial facial paralysis,1,0.000877963125549,0.0,0.20284951024
+768,Gc_negative.gml,negative,partners,1,0.000877963125549,0.0,0.173390165931
+769,Gc_negative.gml,negative,pathogens,1,0.000877963125549,0.0,0.16819255759
+770,Gc_negative.gml,negative,patients,3,0.00263388937665,0.00290217248699,0.238334379577
+771,Gc_negative.gml,negative,paying bribes,1,0.000877963125549,0.0,0.224168470773
+772,Gc_negative.gml,negative,payment,1,0.000877963125549,0.0,0.192496197397
+773,Gc_negative.gml,negative,pediatric market,1,0.000877963125549,0.0,0.179936808847
+774,Gc_negative.gml,negative,pediatrics instructor,1,0.000877963125549,0.0,0.17384004884
+775,Gc_negative.gml,negative,peer bullying,1,0.000877963125549,0.0,0.145225041438
+776,Gc_negative.gml,negative,people,22,0.0193151887621,0.047392001774,0.278416035199
+777,Gc_negative.gml,negative,personal exemption,1,0.000877963125549,0.0,0.206041968162
+778,Gc_negative.gml,negative,personal financial stake,1,0.000877963125549,0.0,0.206752586676
+779,Gc_negative.gml,negative,pertussis vaccine,2,0.0017559262511,0.0,0.216416492495
+780,Gc_negative.gml,negative,petitioner-friendly,1,0.000877963125549,0.0,0.215924170616
+781,Gc_negative.gml,negative,pharma-controlled U.S. media,1,0.000877963125549,0.0,0.180250039563
+782,Gc_negative.gml,negative,pharma-controlled lamestream media,1,0.000877963125549,0.0,0.180250039563
+783,Gc_negative.gml,negative,pharma-controlled press,5,0.00438981562774,0.00219063602348,0.214178262505
+784,Gc_negative.gml,negative,pharmaceutical companies,31,0.027216856892,0.0552482989043,0.288866345422
+785,Gc_negative.gml,negative,pharmaceutical profits,1,0.000877963125549,0.0,0.217200610221
+786,Gc_negative.gml,negative,pharmacies,1,0.000877963125549,0.0,0.180050584888
+787,Gc_negative.gml,negative,philosophical exemption,1,0.000877963125549,0.0,0.206041968162
+788,Gc_negative.gml,negative,phthalates,2,0.0017559262511,0.0,0.245315528753
+789,Gc_negative.gml,negative,piece of evidence,1,0.000877963125549,0.0,0.227936762057
+790,Gc_negative.gml,negative,pig bones,1,0.000877963125549,0.0,0.143704264446
+791,Gc_negative.gml,negative,pig gelatin,1,0.000877963125549,0.0,0.201236749117
+792,Gc_negative.gml,negative,pig skin,1,0.000877963125549,0.0,0.143704264446
+793,Gc_negative.gml,negative,placebo,1,0.000877963125549,0.0,0.233019639935
+794,Gc_negative.gml,negative,pneumonia,2,0.0017559262511,0.00298781246787,0.265192083818
+795,Gc_negative.gml,negative,pock formation,1,0.000877963125549,0.0,0.134617657487
+796,Gc_negative.gml,negative,poison picked,1,0.000877963125549,0.0,0.217823675655
+797,Gc_negative.gml,negative,poisoning children,4,0.00351185250219,0.00350876651581,0.22996163941
+798,Gc_negative.gml,negative,polio vaccine,13,0.0114135206321,0.00980096934342,0.256012587098
+799,Gc_negative.gml,negative,politicians,7,0.00614574187884,0.0132507744944,0.20216542421
+800,Gc_negative.gml,negative,poor access to clean water,1,0.000877963125549,0.0,0.218241042345
+801,Gc_negative.gml,negative,poor access to medical care,1,0.000877963125549,0.0,0.218241042345
+802,Gc_negative.gml,negative,poor access to nutritious food,1,0.000877963125549,0.0,0.218241042345
+803,Gc_negative.gml,negative,population,2,0.0017559262511,0.00350876651581,0.264024107557
+804,Gc_negative.gml,negative,population growth,1,0.000877963125549,0.0,0.242288874708
+805,Gc_negative.gml,negative,population increase,3,0.00263388937665,0.0017559262511,0.198986722572
+806,Gc_negative.gml,negative,post,3,0.00263388937665,5.91410073258e-05,0.212897196262
+807,Gc_negative.gml,negative,post-marking surveillance,3,0.00263388937665,0.0043098348217,0.212104283054
+808,Gc_negative.gml,negative,potassium chloride,1,0.000877963125549,0.0,0.189612119194
+809,Gc_negative.gml,negative,potassium phosphate monobasic,1,0.000877963125549,0.0,0.189612119194
+810,Gc_negative.gml,negative,practice of family center care,1,0.000877963125549,0.0,0.221552227193
+811,Gc_negative.gml,negative,pre-emptive strike,1,0.000877963125549,0.0,0.14406779661
+812,Gc_negative.gml,negative,precautionary measure,1,0.000877963125549,0.0,0.216457620677
+813,Gc_negative.gml,negative,pregnant women,8,0.00702370500439,0.00758634340341,0.278144078144
+814,Gc_negative.gml,negative,prejudice,6,0.00526777875329,0.00793973414765,0.22541064714
+815,Gc_negative.gml,negative,preservative,6,0.00526777875329,0.00214836918616,0.265625
+816,Gc_negative.gml,negative,preventable disease,1,0.000877963125549,0.0,0.186751926545
+817,Gc_negative.gml,negative,pro-vaccination,8,0.00702370500439,0.00782459697027,0.230287100687
+818,Gc_negative.gml,negative,problem,2,0.0017559262511,0.00722151900914,0.267245424683
+819,Gc_negative.gml,negative,professional liars,2,0.0017559262511,0.000393137052703,0.236160066349
+820,Gc_negative.gml,negative,profit-making,1,0.000877963125549,0.0,0.19278943805
+821,Gc_negative.gml,negative,profitable drugs,2,0.0017559262511,0.00350876651581,0.160989399293
+822,Gc_negative.gml,negative,profits,7,0.00614574187884,0.0108607051175,0.236847577459
+823,Gc_negative.gml,negative,promiscuous sexual behavior,1,0.000877963125549,0.0,0.195603640735
+824,Gc_negative.gml,negative,promises,1,0.000877963125549,0.0,0.215924170616
+825,Gc_negative.gml,negative,proof,2,0.0017559262511,0.0017559262511,0.245157124408
+826,Gc_negative.gml,negative,proper protocol,1,0.000877963125549,0.0,0.189928297482
+827,Gc_negative.gml,negative,protection,2,0.0017559262511,0.000264982769069,0.221122112211
+828,Gc_negative.gml,negative,protein,1,0.000877963125549,0.0,0.164762042529
+829,Gc_negative.gml,negative,public,10,0.00877963125549,0.0111413192053,0.254866860595
+830,Gc_negative.gml,negative,public conversation,1,0.000877963125549,0.0,0.200246132208
+831,Gc_negative.gml,negative,public health,7,0.00614574187884,0.00953515548059,0.285320641283
+832,Gc_negative.gml,negative,public health laws,1,0.000877963125549,0.0,0.221552227193
+833,Gc_negative.gml,negative,public health officials,5,0.00438981562774,0.00757871122512,0.271708015267
+834,Gc_negative.gml,negative,public hygiene improvements,1,0.000877963125549,0.0,0.19905627403
+835,Gc_negative.gml,negative,push vaccines on sick children,2,0.0017559262511,2.26127620229e-05,0.185173142578
+836,Gc_negative.gml,negative,pushing vaccines on children,1,0.000877963125549,0.0,0.221552227193
+837,Gc_negative.gml,negative,quackery,6,0.00526777875329,0.00315642583963,0.284607696152
+838,Gc_negative.gml,negative,quality of life,1,0.000877963125549,0.0,0.223992133727
+839,Gc_negative.gml,negative,questionable ethical practices,1,0.000877963125549,0.0,0.224168470773
+840,Gc_negative.gml,negative,questions,3,0.00263388937665,0.00195020744326,0.229498287326
+841,Gc_negative.gml,negative,race effects,1,0.000877963125549,0.0,0.172995139733
+842,Gc_negative.gml,negative,radicalism,1,0.000877963125549,0.0,0.13434772352
+843,Gc_negative.gml,negative,radio talk show,1,0.000877963125549,0.0,0.200246132208
+844,Gc_negative.gml,negative,rare disease,1,0.000877963125549,0.0,0.195603640735
+845,Gc_negative.gml,negative,rash,1,0.000877963125549,0.0,0.155494880546
+846,Gc_negative.gml,negative,rate,1,0.000877963125549,0.0,0.245262704565
+847,Gc_negative.gml,negative,rates,2,0.0017559262511,0.00245075806415,0.246057463815
+848,Gc_negative.gml,negative,rational approach,1,0.000877963125549,0.0,0.149573210768
+849,Gc_negative.gml,negative,rational doctor,5,0.00438981562774,0.00101396059933,0.250164726554
+850,Gc_negative.gml,negative,rational scientist,5,0.00438981562774,0.00101396059933,0.250164726554
+851,Gc_negative.gml,negative,reactions,2,0.0017559262511,0.0017559262511,0.26390176089
+852,Gc_negative.gml,negative,reactive,1,0.000877963125549,0.0,0.217200610221
+853,Gc_negative.gml,negative,real,1,0.000877963125549,0.0,0.198397491726
+854,Gc_negative.gml,negative,real risks,2,0.0017559262511,0.000525788131001,0.236552440291
+855,Gc_negative.gml,negative,recombinant human albumin,1,0.000877963125549,0.0,0.208837550422
+856,Gc_negative.gml,negative,red spots on body,1,0.000877963125549,0.0,0.218241042345
+857,Gc_negative.gml,negative,reduced oxidative-reduction activity,1,0.000877963125549,0.0,0.195805397971
+858,Gc_negative.gml,negative,refusal of medical care,1,0.000877963125549,0.0,0.16591405681
+859,Gc_negative.gml,negative,regional lymphadenopathy,1,0.000877963125549,0.0,0.155494880546
+860,Gc_negative.gml,negative,religion,1,0.000877963125549,0.0,0.188732394366
+861,Gc_negative.gml,negative,religious exemption,1,0.000877963125549,0.0,0.206041968162
+862,Gc_negative.gml,negative,remove heavy metals,1,0.000877963125549,0.0,0.235039207594
+863,Gc_negative.gml,negative,reporting,1,0.000877963125549,0.0,0.188732394366
+864,Gc_negative.gml,negative,representative,1,0.000877963125549,0.0,0.154002163332
+865,Gc_negative.gml,negative,reproductive toxin,1,0.000877963125549,0.0,0.243012588009
+866,Gc_negative.gml,negative,research,2,0.0017559262511,0.000100206609015,0.186324227057
+867,Gc_negative.gml,negative,researchers,2,0.0017559262511,8.90195035253e-05,0.171072394112
+868,Gc_negative.gml,negative,residual components of MRC-5 cells,3,0.00263388937665,0.00185266900396,0.197229437229
+869,Gc_negative.gml,negative,respect,1,0.000877963125549,0.0,0.232496427842
+870,Gc_negative.gml,negative,respiratory system,1,0.000877963125549,0.0,0.107849635451
+871,Gc_negative.gml,negative,rest of the world,1,0.000877963125549,0.0,0.178052211974
+872,Gc_negative.gml,negative,revelation,2,0.0017559262511,7.71496595386e-07,0.155367616969
+873,Gc_negative.gml,negative,revenues,1,0.000877963125549,0.0,0.234942244224
+874,Gc_negative.gml,negative,revisionist history purge,1,0.000877963125549,0.0,0.202201313687
+875,Gc_negative.gml,negative,revisionist stance,1,0.000877963125549,0.0,0.133497421472
+876,Gc_negative.gml,negative,right,2,0.0017559262511,0.0017559262511,0.221638451061
+877,Gc_negative.gml,negative,righteous anger,3,0.00263388937665,0.00547493956432,0.276255154014
+878,Gc_negative.gml,negative,risen,1,0.000877963125549,0.0,0.168890865955
+879,Gc_negative.gml,negative,risk,1,0.000877963125549,0.0,0.186476751801
+880,Gc_negative.gml,negative,risk of cancer,1,0.000877963125549,0.0,0.218073903887
+881,Gc_negative.gml,negative,risk of pneumonia,1,0.000877963125549,0.0,0.233019639935
+882,Gc_negative.gml,negative,risks,2,0.0017559262511,6.16941699916e-05,0.221724742067
+883,Gc_negative.gml,negative,risks of autism,1,0.000877963125549,0.0,0.178052211974
+884,Gc_negative.gml,negative,risky flu vaccine,2,0.0017559262511,3.85748297693e-07,0.209067547724
+885,Gc_negative.gml,negative,rubella vaccine,1,0.000877963125549,0.0,0.216416492495
+886,Gc_negative.gml,negative,rules of due process and law,1,0.000877963125549,0.0,0.175690266852
+887,Gc_negative.gml,negative,runny nose,1,0.000877963125549,0.0,0.218241042345
+888,Gc_negative.gml,negative,safe,6,0.00526777875329,0.00103861432651,0.272749042146
+889,Gc_negative.gml,negative,safe form of mercury,2,0.0017559262511,0.0017559262511,0.245157124408
+890,Gc_negative.gml,negative,safe level,3,0.00263388937665,0.000558210013664,0.270739244117
+891,Gc_negative.gml,negative,safety,4,0.00351185250219,0.0026973783227,0.272879731672
+892,Gc_negative.gml,negative,sanctions,6,0.00526777875329,0.00333491644041,0.236798336798
+893,Gc_negative.gml,negative,sanitation improvements,1,0.000877963125549,0.0,0.19905627403
+894,Gc_negative.gml,negative,sanity,1,0.000877963125549,0.0,0.149573210768
+895,Gc_negative.gml,negative,scare tactic,1,0.000877963125549,0.0,0.189485942439
+896,Gc_negative.gml,negative,scare the crap out of you,1,0.000877963125549,0.0,0.163438082939
+897,Gc_negative.gml,negative,scary,2,0.0017559262511,0.00122209210591,0.221940763835
+898,Gc_negative.gml,negative,schedule,1,0.000877963125549,0.0,0.263779527559
+899,Gc_negative.gml,negative,school,1,0.000877963125549,0.0,0.263779527559
+900,Gc_negative.gml,negative,school bus staff,1,0.000877963125549,0.0,0.145225041438
+901,Gc_negative.gml,negative,school isolation rooms,1,0.000877963125549,0.0,0.145225041438
+902,Gc_negative.gml,negative,school officials,2,0.0017559262511,1.22153627603e-06,0.191815426069
+903,Gc_negative.gml,negative,school vaccination requirement,1,0.000877963125549,0.0,0.198018080668
+904,Gc_negative.gml,negative,schools,1,0.000877963125549,0.0,0.201771479185
+905,Gc_negative.gml,negative,science,17,0.0149253731343,0.0303540078154,0.280541871921
+906,Gc_negative.gml,negative,scientific fraud,18,0.0158033362599,0.0216554783105,0.27902988731
+907,Gc_negative.gml,negative,scientific literature,2,0.0017559262511,0.0017559262511,0.175069166923
+908,Gc_negative.gml,negative,scientific study,1,0.000877963125549,0.0,0.185716615033
+909,Gc_negative.gml,negative,scientific tests,2,0.0017559262511,0.00118257319884,0.247986065752
+910,Gc_negative.gml,negative,scientifically irresponsible assertion,2,0.0017559262511,0.000326224270964,0.269203497991
+911,Gc_negative.gml,negative,scientists,3,0.00263388937665,0.00181039064774,0.245157124408
+912,Gc_negative.gml,negative,search engine,2,0.0017559262511,0.0017559262511,0.155410015009
+913,Gc_negative.gml,negative,seasonal flu shot,2,0.0017559262511,0.000448210025333,0.251768346596
+914,Gc_negative.gml,negative,secret gathering,1,0.000877963125549,0.0,0.18209432454
+915,Gc_negative.gml,negative,seizures,4,0.00351185250219,0.0031710187691,0.225098814229
+916,Gc_negative.gml,negative,self-insurance policy,1,0.000877963125549,0.0,0.215924170616
+917,Gc_negative.gml,negative,sell vaccines to minors,2,0.0017559262511,0.0,0.186935827999
+918,Gc_negative.gml,negative,sellout editors,2,0.0017559262511,0.000393137052703,0.236160066349
+919,Gc_negative.gml,negative,sellout media,1,0.000877963125549,0.0,0.202560910546
+920,Gc_negative.gml,negative,serious problems,1,0.000877963125549,0.0,0.136407185629
+921,Gc_negative.gml,negative,serious reactions,5,0.00438981562774,0.00362404155191,0.228393823942
+922,Gc_negative.gml,negative,settlement,4,0.00351185250219,0.00266897223279,0.212262392844
+923,Gc_negative.gml,negative,severe autism,1,0.000877963125549,0.0,0.243012588009
+924,Gc_negative.gml,negative,severe autism issues,1,0.000877963125549,0.0,0.202416918429
+925,Gc_negative.gml,negative,severe brain damage,2,0.0017559262511,0.0,0.254752851711
+926,Gc_negative.gml,negative,severe narcolepsy,2,0.0017559262511,7.69292319399e-05,0.20423166577
+927,Gc_negative.gml,negative,shingles,7,0.00614574187884,0.00722773664916,0.220522749274
+928,Gc_negative.gml,negative,shingles risk,2,0.0017559262511,0.0,0.201485936671
+929,Gc_negative.gml,negative,shingles vaccine,16,0.0140474100088,0.0220318589772,0.251879699248
+930,Gc_negative.gml,negative,shingles vaccine ingredients,12,0.0105355575066,0.0239144548435,0.23392893818
+931,Gc_negative.gml,negative,shocking dangers,1,0.000877963125549,0.0,0.137047286728
+932,Gc_negative.gml,negative,shocking revelations,1,0.000877963125549,0.0,0.208760997067
+933,Gc_negative.gml,negative,shortness of breath,1,0.000877963125549,0.0,0.161537370586
+934,Gc_negative.gml,negative,shot of perspective,1,0.000877963125549,0.0,0.22198401871
+935,Gc_negative.gml,negative,should be questioned,3,0.00263388937665,0.000233429371338,0.247608695652
+936,Gc_negative.gml,negative,shut up,1,0.000877963125549,0.0,0.183472938144
+937,Gc_negative.gml,negative,shut your mouth and comply,3,0.00263388937665,0.00378288629727,0.250936329588
+938,Gc_negative.gml,negative,sick,1,0.000877963125549,0.0,0.186751926545
+939,Gc_negative.gml,negative,sick children,4,0.00351185250219,0.00262926039707,0.264146567718
+940,Gc_negative.gml,negative,sicker children,1,0.000877963125549,0.0,0.22198401871
+941,Gc_negative.gml,negative,side effects,3,0.00263388937665,0.00123541934622,0.271578445398
+942,Gc_negative.gml,negative,silenced,1,0.000877963125549,0.0,0.189928297482
+943,Gc_negative.gml,negative,simultaneous vaccinations,7,0.00614574187884,0.00233789310377,0.26574895007
+944,Gc_negative.gml,negative,single dose vaccines,3,0.00263388937665,0.0,0.243012588009
+945,Gc_negative.gml,negative,single visit,3,0.00263388937665,0.0,0.28144304423
+946,Gc_negative.gml,negative,sinister revenue model,1,0.000877963125549,0.0,0.223860062893
+947,Gc_negative.gml,negative,skin reactions,1,0.000877963125549,0.0,0.161537370586
+948,Gc_negative.gml,negative,sleeping cycle,1,0.000877963125549,0.0,0.206790123457
+949,Gc_negative.gml,negative,smallpox vaccination,3,0.00263388937665,0.00818342818936,0.218912166058
+950,Gc_negative.gml,negative,social campaigns,2,0.0017559262511,0.0,0.186354712042
+951,Gc_negative.gml,negative,social size,2,0.0017559262511,0.0,0.22198401871
+952,Gc_negative.gml,negative,sodium phosphate dibasic,1,0.000877963125549,0.0,0.189612119194
+953,Gc_negative.gml,negative,solid evidence,1,0.000877963125549,0.0,0.233019639935
+954,Gc_negative.gml,negative,solid marks,1,0.000877963125549,0.0,0.189928297482
+955,Gc_negative.gml,negative,sourced blood,1,0.000877963125549,0.0,0.173100303951
+956,Gc_negative.gml,negative,special care,2,0.0017559262511,0.000877191628953,0.224080267559
+957,Gc_negative.gml,negative,special education services,1,0.000877963125549,0.0,0.218618042226
+958,Gc_negative.gml,negative,special needs staff,1,0.000877963125549,0.0,0.145225041438
+959,Gc_negative.gml,negative,spectrum,1,0.000877963125549,0.0,0.217117804041
+960,Gc_negative.gml,negative,spermicidal applications,2,0.0017559262511,5.1433106359e-07,0.198466631817
+961,Gc_negative.gml,negative,squalene,1,0.000877963125549,0.0,0.230194017785
+962,Gc_negative.gml,negative,stable diseases,1,0.000877963125549,0.0,0.173469387755
+963,Gc_negative.gml,negative,stand up and fight,2,0.0017559262511,0.00146128831213,0.222027290448
+964,Gc_negative.gml,negative,state,1,0.000877963125549,0.0,0.202273130883
+965,Gc_negative.gml,negative,state level,4,0.00351185250219,0.0038680926719,0.249397854171
+966,Gc_negative.gml,negative,statistical links,1,0.000877963125549,0.0,0.218199233716
+967,Gc_negative.gml,negative,statistically acceptable collateral damage,2,0.0017559262511,0.000478631159454,0.233449477352
+968,Gc_negative.gml,negative,statistics,4,0.00351185250219,0.00763834675924,0.254582029504
+969,Gc_negative.gml,negative,stay awake during the school day,1,0.000877963125549,0.0,0.1326114798
+970,Gc_negative.gml,negative,students,1,0.000877963125549,0.0,0.263779527559
+971,Gc_negative.gml,negative,studies,6,0.00526777875329,0.00201305478368,0.246004319654
+972,Gc_negative.gml,negative,sucrose,1,0.000877963125549,0.0,0.189612119194
+973,Gc_negative.gml,negative,sudden infant death syndrome,2,0.0017559262511,0.0,0.197983660699
+974,Gc_negative.gml,negative,support,2,0.0017559262511,2.82882084975e-06,0.157931225735
+975,Gc_negative.gml,negative,surveys,1,0.000877963125549,0.0,0.208837550422
+976,Gc_negative.gml,negative,swelling of the brain,1,0.000877963125549,0.0,0.20284951024
+977,Gc_negative.gml,negative,swine flu panic campaign,3,0.00263388937665,0.00526160678053,0.242598509052
+978,Gc_negative.gml,negative,symptoms of autism,1,0.000877963125549,0.0,0.217200610221
+979,Gc_negative.gml,negative,syncope,1,0.000877963125549,0.0,0.20284951024
+980,Gc_negative.gml,negative,synthetic growth hormones,1,0.000877963125549,0.0,0.161973833902
+981,Gc_negative.gml,negative,systemic reactions,4,0.00351185250219,0.00701290405205,0.1840956845
+982,Gc_negative.gml,negative,target,1,0.000877963125549,0.0,0.189928297482
+983,Gc_negative.gml,negative,taxes,1,0.000877963125549,0.0,0.182737044762
+984,Gc_negative.gml,negative,teratogen,1,0.000877963125549,0.0,0.243012588009
+985,Gc_negative.gml,negative,tetanus vaccine,2,0.0017559262511,0.0,0.216416492495
+986,Gc_negative.gml,negative,the cause,1,0.000877963125549,0.0,0.181832694764
+987,Gc_negative.gml,negative,the herd,1,0.000877963125549,0.0,0.219122739515
+988,Gc_negative.gml,negative,the vaccinated herd,1,0.000877963125549,0.0,0.219122739515
+989,Gc_negative.gml,negative,therapies,2,0.0017559262511,0.000877191628953,0.224080267559
+990,Gc_negative.gml,negative,thimerosal,72,0.0632133450395,0.0868622499527,0.320935474782
+991,Gc_negative.gml,negative,thimerosal phase out,5,0.00438981562774,0.00395374100266,0.276188166828
+992,Gc_negative.gml,negative,thimerosal removal,1,0.000877963125549,0.0,0.214581763376
+993,Gc_negative.gml,negative,thimerosal-autism link,2,0.0017559262511,0.0,0.197468793343
+994,Gc_negative.gml,negative,thimerosal-free,5,0.00438981562774,0.000688655089113,0.251434878587
+995,Gc_negative.gml,negative,thimerosal-induced cellular damage,5,0.00438981562774,0.00701444704525,0.243428082924
+996,Gc_negative.gml,negative,think globally act locally,1,0.000877963125549,0.0,0.205892986262
+997,Gc_negative.gml,negative,thousands of children,1,0.000877963125549,0.0,0.198397491726
+998,Gc_negative.gml,negative,threat,1,0.000877963125549,0.0,0.225143308954
+999,Gc_negative.gml,negative,time-consuming,1,0.000877963125549,0.0,0.215924170616
+1000,Gc_negative.gml,negative,to vaccinate children,1,0.000877963125549,0.0,0.144543147208
+1001,Gc_negative.gml,negative,top health officials,1,0.000877963125549,0.0,0.243012588009
+1002,Gc_negative.gml,negative,top students,1,0.000877963125549,0.0,0.189928297482
+1003,Gc_negative.gml,negative,toxic,2,0.0017559262511,0.00525852079415,0.137411026662
+1004,Gc_negative.gml,negative,toxic adjuvants,2,0.0017559262511,0.0,0.28144304423
+1005,Gc_negative.gml,negative,toxic and ineffective flu shots,5,0.00438981562774,0.00701444704525,0.219545104086
+1006,Gc_negative.gml,negative,toxic chemical ingredients,12,0.0105355575066,0.0165450166636,0.295844155844
+1007,Gc_negative.gml,negative,toxic heavy metal,1,0.000877963125549,0.0,0.243012588009
+1008,Gc_negative.gml,negative,toxic load,1,0.000877963125549,0.0,0.181542875359
+1009,Gc_negative.gml,negative,toxic substances,2,0.0017559262511,0.000572434109109,0.268505421971
+1010,Gc_negative.gml,negative,toxic vaccines,2,0.0017559262511,0.000419071480131,0.262745098039
+1011,Gc_negative.gml,negative,toxicity,1,0.000877963125549,0.0,0.230194017785
+1012,Gc_negative.gml,negative,toxins,11,0.00965759438104,0.0220882513527,0.221767912773
+1013,Gc_negative.gml,negative,trace amounts of thimerosal,6,0.00526777875329,0.00431446338707,0.277263875365
+1014,Gc_negative.gml,negative,trace levels of mercury,2,0.0017559262511,0.0017559262511,0.252493903791
+1015,Gc_negative.gml,negative,traditional medicine,1,0.000877963125549,0.0,0.252382007534
+1016,Gc_negative.gml,negative,traffic,1,0.000877963125549,0.0,0.145225041438
+1017,Gc_negative.gml,negative,travel,1,0.000877963125549,0.0,0.134776949473
+1018,Gc_negative.gml,negative,tremors,1,0.000877963125549,0.0,0.20284951024
+1019,Gc_negative.gml,negative,trigger,1,0.000877963125549,0.0,0.243012588009
+1020,Gc_negative.gml,negative,troubling,1,0.000877963125549,0.0,0.202921788705
+1021,Gc_negative.gml,negative,troubling data,1,0.000877963125549,0.0,0.196922544952
+1022,Gc_negative.gml,negative,trust,1,0.000877963125549,0.0,0.208150584795
+1023,Gc_negative.gml,negative,trust of patients,1,0.000877963125549,0.0,0.221552227193
+1024,Gc_negative.gml,negative,trustworthy,1,0.000877963125549,0.0,0.263779527559
+1025,Gc_negative.gml,negative,truth,4,0.00351185250219,0.00185576199539,0.221595330739
+1026,Gc_negative.gml,negative,truth seekers,1,0.000877963125549,0.0,0.134522262903
+1027,Gc_negative.gml,negative,truthful,1,0.000877963125549,0.0,0.168316831683
+1028,Gc_negative.gml,negative,tumors,1,0.000877963125549,0.0,0.218073903887
+1029,Gc_negative.gml,negative,ultimate price,1,0.000877963125549,0.0,0.223992133727
+1030,Gc_negative.gml,negative,unable to do their jobs,1,0.000877963125549,0.0,0.153256189451
+1031,Gc_negative.gml,negative,unable to sleep,1,0.000877963125549,0.0,0.206790123457
+1032,Gc_negative.gml,negative,unaware they're running over a cliff,1,0.000877963125549,0.0,0.176425030979
+1033,Gc_negative.gml,negative,unconcscionable,1,0.000877963125549,0.0,0.227936762057
+1034,Gc_negative.gml,negative,unconscious,2,0.0017559262511,3.06284148368e-05,0.20701563068
+1035,Gc_negative.gml,negative,underdeveloped country,1,0.000877963125549,0.0,0.218241042345
+1036,Gc_negative.gml,negative,unethical,3,0.00263388937665,0.000487866141102,0.18863862206
+1037,Gc_negative.gml,negative,unethical advice,1,0.000877963125549,0.0,0.184902597403
+1038,Gc_negative.gml,negative,unexposed,2,0.0017559262511,0.0,0.202560910546
+1039,Gc_negative.gml,negative,unprecedented drive,1,0.000877963125549,0.0,0.172340747466
+1040,Gc_negative.gml,negative,unsafe,2,0.0017559262511,0.0,0.263779527559
+1041,Gc_negative.gml,negative,unvaccinated,1,0.000877963125549,0.0,0.18397674043
+1042,Gc_negative.gml,negative,unvaccinated children,8,0.00702370500439,0.00254096475727,0.221293957645
+1043,Gc_negative.gml,negative,us not comprehending,1,0.000877963125549,0.0,0.172890103218
+1044,Gc_negative.gml,negative,vaccinated,1,0.000877963125549,0.0,0.214662646061
+1045,Gc_negative.gml,negative,vaccinated children,12,0.0105355575066,0.0108082487568,0.229590808305
+1046,Gc_negative.gml,negative,vaccinated children versus unvaccinated children,1,0.000877963125549,0.0,0.198018080668
+1047,Gc_negative.gml,negative,vaccinating children,1,0.000877963125549,0.0,0.202273130883
+1048,Gc_negative.gml,negative,vaccination,27,0.0237050043898,0.0438448581139,0.285249186076
+1049,Gc_negative.gml,negative,vaccination ,1,0.000877963125549,0.0,0.184932618932
+1050,Gc_negative.gml,negative,vaccination coverage,3,0.00263388937665,0.003510309509,0.197195290859
+1051,Gc_negative.gml,negative,vaccination decisions,1,0.000877963125549,0.0,0.221552227193
+1052,Gc_negative.gml,negative,vaccination exemptions,10,0.00877963125549,0.0116336586743,0.259453302961
+1053,Gc_negative.gml,negative,vaccination issue,4,0.00351185250219,0.000986277843144,0.260879523591
+1054,Gc_negative.gml,negative,vaccination rate,1,0.000877963125549,0.0,0.216416492495
+1055,Gc_negative.gml,negative,vaccination schedule,5,0.00438981562774,0.00526314977372,0.209837877671
+1056,Gc_negative.gml,negative,vaccinations save lives,1,0.000877963125549,0.0,0.206752586676
+1057,Gc_negative.gml,negative,vaccine additives,11,0.00965759438104,0.00199758276047,0.268695447039
+1058,Gc_negative.gml,negative,vaccine adverse reactions,1,0.000877963125549,0.0,0.242288874708
+1059,Gc_negative.gml,negative,vaccine agenda,3,0.00263388937665,0.00265206510019,0.245845024822
+1060,Gc_negative.gml,negative,vaccine apologists,4,0.00351185250219,0.00386892857139,0.253787878788
+1061,Gc_negative.gml,negative,vaccine bullying curriculum,4,0.00351185250219,0.00197720344785,0.17791315214
+1062,Gc_negative.gml,negative,vaccine choices,11,0.00965759438104,0.00767489133177,0.238284518828
+1063,Gc_negative.gml,negative,vaccine consent forms,1,0.000877963125549,0.0,0.232496427842
+1064,Gc_negative.gml,negative,vaccine corruption,2,0.0017559262511,8.03521296861e-05,0.244840928633
+1065,Gc_negative.gml,negative,vaccine court,12,0.0105355575066,0.0228671262898,0.213096351731
+1066,Gc_negative.gml,negative,vaccine damage,14,0.0122914837577,0.0206235738097,0.287917087968
+1067,Gc_negative.gml,negative,vaccine dangers,4,0.00351185250219,0.00442180382204,0.26488372093
+1068,Gc_negative.gml,negative,vaccine decisions,3,0.00263388937665,0.000927377444293,0.1989172197
+1069,Gc_negative.gml,negative,vaccine delusions,2,0.0017559262511,0.0017559262511,0.225232351196
+1070,Gc_negative.gml,negative,vaccine doctrine,2,0.0017559262511,0.0,0.187027914614
+1071,Gc_negative.gml,negative,vaccine effects,1,0.000877963125549,0.0,0.157668881506
+1072,Gc_negative.gml,negative,vaccine efficacy,10,0.00877963125549,0.0105245543304,0.284252558023
+1073,Gc_negative.gml,negative,vaccine industry,65,0.0570676031607,0.121255370385,0.32748706153
+1074,Gc_negative.gml,negative,vaccine ingredients,21,0.0184372256365,0.0453275213243,0.298950131234
+1075,Gc_negative.gml,negative,vaccine injuries,11,0.00965759438104,0.0118001194562,0.247447316967
+1076,Gc_negative.gml,negative,vaccine injury denialism,3,0.00263388937665,0.001978310138,0.23709408826
+1077,Gc_negative.gml,negative,vaccine injury lawsuits,2,0.0017559262511,0.0017559262511,0.198155880306
+1078,Gc_negative.gml,negative,vaccine injury reporting system,3,0.00263388937665,0.00109419457768,0.236749116608
+1079,Gc_negative.gml,negative,vaccine injury settlement,1,0.000877963125549,0.0,0.202632983455
+1080,Gc_negative.gml,negative,vaccine insert sheets,6,0.00526777875329,0.00313228000479,0.244525547445
+1081,Gc_negative.gml,negative,vaccine laws,1,0.000877963125549,0.0,0.199649430324
+1082,Gc_negative.gml,negative,vaccine manufacturer profits,1,0.000877963125549,0.0,0.223992133727
+1083,Gc_negative.gml,negative,vaccine messages,1,0.000877963125549,0.0,0.187613243288
+1084,Gc_negative.gml,negative,vaccine preservative,2,0.0017559262511,0.0017559262511,0.216581099068
+1085,Gc_negative.gml,negative,vaccine products,1,0.000877963125549,0.0,0.210574967647
+1086,Gc_negative.gml,negative,vaccine program,1,0.000877963125549,0.0,0.196922544952
+1087,Gc_negative.gml,negative,vaccine proponents,2,0.0017559262511,1.54299319077e-05,0.220054095827
+1088,Gc_negative.gml,negative,vaccine pushers,1,0.000877963125549,0.0,0.196922544952
+1089,Gc_negative.gml,negative,vaccine reaction,1,0.000877963125549,0.0,0.198397491726
+1090,Gc_negative.gml,negative,vaccine reactions,10,0.00877963125549,0.00551162616592,0.267496477219
+1091,Gc_negative.gml,negative,vaccine refusal,2,0.0017559262511,0.0017559262511,0.155177111717
+1092,Gc_negative.gml,negative,vaccine results,1,0.000877963125549,0.0,0.208760997067
+1093,Gc_negative.gml,negative,vaccine risks,1,0.000877963125549,0.0,0.206752586676
+1094,Gc_negative.gml,negative,vaccine safety,17,0.0149253731343,0.0399412226378,0.293329899562
+1095,Gc_negative.gml,negative,vaccine science,2,0.0017559262511,0.0017559262511,0.232591382479
+1096,Gc_negative.gml,negative,vaccine scientists meeting,3,0.00263388937665,0.0,0.243532178747
+1097,Gc_negative.gml,negative,vaccine story,8,0.00702370500439,0.00797603248694,0.25032967033
+1098,Gc_negative.gml,negative,vaccine supply,1,0.000877963125549,0.0,0.198709002094
+1099,Gc_negative.gml,negative,vaccine toxins,1,0.000877963125549,0.0,0.208914159941
+1100,Gc_negative.gml,negative,vaccine violence,4,0.00351185250219,3.73583588749e-05,0.258101065035
+1101,Gc_negative.gml,negative,vaccine-autism link,19,0.0166812993854,0.0273009449847,0.295154185022
+1102,Gc_negative.gml,negative,vaccine-damaged children,6,0.00526777875329,0.00939245734159,0.219841729396
+1103,Gc_negative.gml,negative,vaccine-injured children,16,0.0140474100088,0.0262965167629,0.288573600203
+1104,Gc_negative.gml,negative,vaccine-injured families,2,0.0017559262511,0.000342827959554,0.20682767387
+1105,Gc_negative.gml,negative,vaccine-related adverse outcomes,5,0.00438981562774,0.00446621260904,0.22285267071
+1106,Gc_negative.gml,negative,vaccines,134,0.117647058824,0.328040065826,0.358176100629
+1107,Gc_negative.gml,negative,vaccines are effective,2,0.0017559262511,0.000197872699964,0.235039207594
+1108,Gc_negative.gml,negative,vaccines are not safe,3,0.00263388937665,0.00186770546478,0.248689956332
+1109,Gc_negative.gml,negative,vaccines are safe,9,0.00790166812994,0.0188943152955,0.289453621347
+1110,Gc_negative.gml,negative,vaccines spread disease,1,0.000877963125549,0.0,0.219122739515
+1111,Gc_negative.gml,negative,vaccinia virus-naive subjects,2,0.0017559262511,0.0017559262511,0.155537348081
+1112,Gc_negative.gml,negative,value,1,0.000877963125549,0.0,0.171407072987
+1113,Gc_negative.gml,negative,variant genotypes,1,0.000877963125549,0.0,0.20284951024
+1114,Gc_negative.gml,negative,victims,4,0.00351185250219,0.00263392327676,0.257110609481
+1115,Gc_negative.gml,negative,violation of Hippocratic Oath,1,0.000877963125549,0.0,0.22899075191
+1116,Gc_negative.gml,negative,violation of basic human rights,2,0.0017559262511,0.00615239756772,0.231739572737
+1117,Gc_negative.gml,negative,violation of law,1,0.000877963125549,0.0,0.175690266852
+1118,Gc_negative.gml,negative,vitamin A supplements,2,0.0017559262511,0.0017559262511,0.189549009819
+1119,Gc_negative.gml,negative,vitamin D,1,0.000877963125549,0.0,0.213415776654
+1120,Gc_negative.gml,negative,vitamin supplements,1,0.000877963125549,0.0,0.137311633514
+1121,Gc_negative.gml,negative,vulnerable,1,0.000877963125549,0.0,0.246750433276
+1122,Gc_negative.gml,negative,wander,1,0.000877963125549,0.0,0.145225041438
+1123,Gc_negative.gml,negative,wander off,1,0.000877963125549,0.0,0.145225041438
+1124,Gc_negative.gml,negative,water,1,0.000877963125549,0.0,0.164642960393
+1125,Gc_negative.gml,negative,whistle,1,0.000877963125549,0.0,0.208760997067
+1126,Gc_negative.gml,negative,whistleblower,3,0.00263388937665,0.000713235360563,0.206752586676
+1127,Gc_negative.gml,negative,whistleblowers,1,0.000877963125549,0.0,0.208760997067
+1128,Gc_negative.gml,negative,whooping cough,1,0.000877963125549,0.0,0.234942244224
+1129,Gc_negative.gml,negative,whooping cough outbreaks,1,0.000877963125549,0.0,0.186751926545
+1130,Gc_negative.gml,negative,widespread fear,2,0.0017559262511,0.00395492007542,0.264269141531
+1131,Gc_negative.gml,negative,widespread health problems,2,0.0017559262511,0.0,0.28144304423
+1132,Gc_negative.gml,negative,words,2,0.0017559262511,0.0,0.275386847195
+1133,Gc_negative.gml,negative,world,1,0.000877963125549,0.0,0.18385794996
+1134,Gc_negative.gml,negative,world's healthiest children,1,0.000877963125549,0.0,0.216416492495
+1135,Gc_negative.gml,negative,wrong doing,3,0.00263388937665,0.00205793029521,0.234121274409
+1136,Gc_negative.gml,negative,years,1,0.000877963125549,0.0,0.201236749117
+1137,Gc_negative.gml,negative,you,10,0.00877963125549,0.00693756594869,0.259217114247
+1138,Gc_negative.gml,negative,young adults,1,0.000877963125549,0.0,0.201700017709
+1139,Gc_negative.gml,negative,young doctors,7,0.00614574187884,0.0062074976194,0.209721966489
