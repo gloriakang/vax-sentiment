@@ -37,9 +37,11 @@ Betweenness centrality measure for each node shows how often it appears on the s
 - Closeness centrality
 Closeness refers to the degree an individual is near all other individuals in a network (directly or indirectly). It reflects the ability to access information through the "grapevine" of network members. Thus, closeness is the inverse of the sum of the shortest distances between each individual and every other person in the network. (See also: Proxemics) The shortest path may also be known as the "geodesic distance". Closeness is preferred in network analysis to mean shortest-path length, as it gives higher values to more central vertices, and so is usually positively associated with other measures such as degree. In network theory, defined as the mean geodesic distance (i.e., the shortest path) between a vertex v and all other vertices reachable from it.
 
-``nx: if the graph is not completely connected, this algorithm computes the closeness centrality for each connected part separately.``
+```
+nx: if the graph is not completely connected, this algorithm computes the closeness centrality for each connected part separately.
 
-``nx: if the ‘distance’ keyword is set to an edge attribute key then the shortest-path length will be computed using Dijkstra’s algorithm with that edge attribute as the edge weight.``
+nx: if the ‘distance’ keyword is set to an edge attribute key then the shortest-path length will be computed using Dijkstra’s algorithm with that edge attribute as the edge weight.
+```
 
   - Current flow closeness: Current-flow closeness centrality is variant of closeness centrality based on effective resistance between nodes in a network. This metric is also known as information centrality.
 
@@ -47,7 +49,6 @@ Closeness refers to the degree an individual is near all other individuals in a 
 
 
 - Eigenvector centrality (?)
-
 Eigenvector centrality computes the centrality for a node based on the centrality of its neighbors; a measure of importance of a node in a network. It assigns relative scores to all nodes in the network based on the principle that connections to high-scoring nodes contribute more to the score of the node in question than equal connections to low-scoring nodes. Google's PageRank is a variant of the Eigenvector centrality measure.
 
 ---
@@ -55,15 +56,21 @@ Eigenvector centrality computes the centrality for a node based on the centralit
 
 Assortativity measures the similarity of connections in the graph with respect to the node degree.
 
-``nx: computes where e is the joint probability distribution (mixing matrix) of the degrees. If G is directed than the matrix e is the joint probability of the user-specified degree type for the source and target. returns assortativity of graph by degree.``
+```
+nx: computes where e is the joint probability distribution (mixing matrix) of the degrees. If G is directed than the matrix e is the joint probability of the user-specified degree type for the source and target. returns assortativity of graph by degree.
+```
 
-- Average neighbor degree (x)
+- Average neighbor degree (?)
 
-``nx: returns the average degree of the neighborhood of each node``
+```
+nx: returns the average degree of the neighborhood of each node
+```
 
-- Average degree connectivity / k nearest neighbors (x)
+- Average degree connectivity / k nearest neighbors (?)
 
-``nx: the average nearest neighbor degree of nodes with degree k. returns a dictionary keyed by degree k with the value of average connectivity``
+```
+nx: the average nearest neighbor degree of nodes with degree k. returns a dictionary keyed by degree k with the value of average connectivity
+```
 
 ---
 
@@ -76,17 +83,17 @@ The average connectivity K of graph G is the average of local node connectivity 
 A digraph G is called weakly connected (or just connected) if the undirected underlying graph obtained by replacing all directed edges of G with undirected edges is a connected graph. A digraph is strongly connected or strong if it contains a directed path from u to v and a directed path from v to u for every pair of vertices u,v. The strong components are the maximal strongly connected subgraphs.
 
 ```
-#strong connectivity
-`nx.number_strongly_connected_components(G)
-`nx.strongly_connected_component_subgraphs(G, copy=True)
+# strong connectivity
+nx.number_strongly_connected_components(G)
+nx.strongly_connected_component_subgraphs(G, copy=True)
 
-sorted list starting with largest
-`[len(Gc) for Gc in sorted(nx.strongly_connected_component_subgraphs(G), key=len, reverse=True)]`
+# sorted list starting with largest
+[len(Gc) for Gc in sorted(nx.strongly_connected_component_subgraphs(G), key=len, reverse=True)]
 
-#or, just for the largest component
-`Gc = max(nx.strongly_connected_component_subgraphs(G), key=len)`
-#weak connectivity
-`weakly_connected_component_subgraphs(G, copy=True)`
+# or, just for the largest component
+Gc = max(nx.strongly_connected_component_subgraphs(G), key=len)
+# weak connectivity
+weakly_connected_component_subgraphs(G, copy=True)
 ```
 
 ## Connected components
@@ -119,31 +126,34 @@ To return the nodes in a component of a graph containing node n (set)
 - Must be undirected
 - First extract the main connected component, then compute node centrality measures for the largest component
 
-#for main component
-`graph_components = nx.connected_component_subgraphs(ugraph)`
-`graph_mc = graph_components[0]`
+```
+# for main component
+graph_components = nx.connected_component_subgraphs(ugraph)
+graph_mc = graph_components[0]
 
-#run betweenness, closeness, and eigenvector centrality
-`bet_cen = nx.betweenness_centrality(graph_mc)`
-`clo_cen = `
-`eig_cen = nx.eigenvector_centrality_numpy`
-
+# run betweenness, closeness, and eigenvector centrality
+bet_cen = nx.betweenness_centrality(graph_mc)
+clo_cen =
+eig_cen = nx.eigenvector_centrality_numpy
+```
 
 ### clustering coefficient
 A measure of degree to which nodes in a graph tend to cluster together; a measure of the likelihood that two associates of a node are associates themselves. A higher clustering coefficient indicates a greater 'cliquishness'.
 
-`average_clustering(G)`
-`# NOT DEFINED FOR MULTIGRAPHS... I think; must be undirected though`
-`# first convert to undirected graph`
-`hardford_ud = hartford.to_undirected()`
+```
+average_clustering(G)
 
-`# clustering coefficient of all nodes (in a dictionary)`
-`clust_coefficients = nx.clustering(hartford_ud)`
+# NOT DEFINED FOR MULTIGRAPHS... I think; must be undirected though
+# first convert to undirected graph
+hardford_ud = hartford.to_undirected()
 
-`# average clustering coefficient`
-`ccs = nx.clustering(hartford_ud)`
-`avg_clust = sum(ccs.values()) / len(ccs)`
+# clustering coefficient of all nodes (in a dictionary)
+clust_coefficients = nx.clustering(hartford_ud)
 
+# average clustering coefficient
+ccs = nx.clustering(hartford_ud)
+avg_clust = sum(ccs.values()) / len(ccs)
+```
 
 ### modularity
 Modularity algorithm (Blondel 2008) scans through all the relations between the nodes, grouping them into communities on the basis of how densely they are connected together. If nodes are more tightly-knit together than to the rest of the network, they are considered to be part of a distinct community.
