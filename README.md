@@ -8,47 +8,6 @@
 - src: converting data
 - to_do
 
----
-
-
-to-do (4/7)
-- draft methods and results
-- tables for greatest component
-- figures of k-cores in Gephi
-
-to-do (3/17)
-- clean the 3 combined datatables (i.e. article_neg.csv)
-- keep track of knowledge representation issues
-- unraveling k-cores in Gephi: minimum set of edges that causes the k-core to unravel (how to beliefs change?)
-- assigning edges to categorical relationships (i.e. causative...)
-
-to-do (3/3)
-- spectrum of sentiment (highly positive to less positive, etc.)
-- try manually separating by argument topic: what are people talking about
-- check out CINET for targeted node removal (Maleq)
-- K cores
-- start working on union of network graphs (grouped by sentiment)
-
-to-do (2/25)
-- make box plots per sentiment
-- some other nice figs explaining what the data means
-- fix high centrality node data
-- check out k-cores
-- try manually separating by argument topic
-- start working on union of network graphs (grouped by sentiment)
-
-to-do (2/18)
-- finish jupyter notebooks for pd export
-- look at distribution of aggregate measures
-- look at clusters of networks for terms with highest centrality
-- cluster articles by overlapping terms
-
-to-do (2/11)
-- finish all data
-- list all network metrics to run + interpretation
-- create jupyter notebook for analysis
-- export networkx output into pandas dataframe
-
 
 ---
 ## Network analysis notes
@@ -61,6 +20,7 @@ The density is 0 for a graph without edges and 1 for a complete graph. The densi
 
  - Diameter (?)
 Diameter is the longest path in the network; higher values of average path and diameter indicate long, winding text and greater diversity of topics. Low diameter and average path values may indicate an overall centralized agenda.
+
 
 ---
 ## Centrality
@@ -105,7 +65,7 @@ Assortativity measures the similarity of connections in the graph with respect t
 
 ``nx: the average nearest neighbor degree of nodes with degree k. returns a dictionary keyed by degree k with the value of average connectivity``
 
-- - -
+---
 
 ## Components & connectivity
 
@@ -115,18 +75,19 @@ The average connectivity K of graph G is the average of local node connectivity 
 - Digraph connectivity
 A digraph G is called weakly connected (or just connected) if the undirected underlying graph obtained by replacing all directed edges of G with undirected edges is a connected graph. A digraph is strongly connected or strong if it contains a directed path from u to v and a directed path from v to u for every pair of vertices u,v. The strong components are the maximal strongly connected subgraphs.
 
+```
 #strong connectivity
-`nx.number_strongly_connected_components(G)`
-`nx.strongly_connected_component_subgraphs(G, copy=True)`
+`nx.number_strongly_connected_components(G)
+`nx.strongly_connected_component_subgraphs(G, copy=True)
 
-#sorted list starting with largest
+sorted list starting with largest
 `[len(Gc) for Gc in sorted(nx.strongly_connected_component_subgraphs(G), key=len, reverse=True)]`
 
 #or, just for the largest component
 `Gc = max(nx.strongly_connected_component_subgraphs(G), key=len)`
 #weak connectivity
 `weakly_connected_component_subgraphs(G, copy=True)`
-
+```
 
 ## Connected components
 
