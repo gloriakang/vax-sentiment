@@ -44,11 +44,7 @@ where output files are saved; save to '../output/df'
 Calculates network averages for sentiment-level graph.
 (n nodes, n edges, avg degree, density, avg deg cent, avg bet cent, avg clo cent, highest degc, highest betc, highest cloc, avg node connect, deg assort coeff, avg in-deg, avg out-deg, n strong comp, n weak comp, n conn comp, Gc size)
 
-- Saves network_data to 'network_union_df.csv' (temp)?
-- Final output is renamed in output/df as:
-  - 'network_df_negative.csv'
-  - 'network_df_neutral.csv'
-  - 'network_df_positive.csv'
+- Saves network_data to 'network_union_df.csv' (temp)
 
 ---
 ## 5_node_union_df
@@ -64,6 +60,14 @@ Calculates network averages for sentiment-level graph.
 
 0_Gc
 6_sentiment_graph_calculation
+
+
+- Final output is renamed in output/df as:
+  - 'network_df_negative.csv'
+  - 'network_df_neutral.csv'
+  - 'network_df_positive.csv'
+
+
 7_negative_graph_calculation
 7_positive_graph_calculation
 8_single_calc_neg
