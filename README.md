@@ -1,24 +1,35 @@
-Network analysis of vaccination knowledge and sentiment
+## A semantic network-based approach in analyzing vaccine sentiment on the web. (or something like it)
 
-### to-do (4/7)
+- articles: all original data sources (html); list of all web articles used in analysis (xls)
+- data: "raw" network data per article (csv)
+- data_join: "cleaned and joined" network data per sentiment (csv)
+- jupyter_nbs: python notebooks
+- output: results (dataframes, gephi figures, network graph files)
+- src: converting data
+- to_do
+
+---
+
+
+to-do (4/7)
 - draft methods and results
 - tables for greatest component
 - figures of k-cores in Gephi
 
-### to-do (3/17)
+to-do (3/17)
 - clean the 3 combined datatables (i.e. article_neg.csv)
 - keep track of knowledge representation issues
 - unraveling k-cores in Gephi: minimum set of edges that causes the k-core to unravel (how to beliefs change?)
 - assigning edges to categorical relationships (i.e. causative...)
 
-### to-do (3/3)
+to-do (3/3)
 - spectrum of sentiment (highly positive to less positive, etc.)
 - try manually separating by argument topic: what are people talking about
 - check out CINET for targeted node removal (Maleq)
 - K cores
 - start working on union of network graphs (grouped by sentiment)
 
-### to-do (2/25)
+to-do (2/25)
 - make box plots per sentiment
 - some other nice figs explaining what the data means
 - fix high centrality node data
@@ -26,102 +37,82 @@ Network analysis of vaccination knowledge and sentiment
 - try manually separating by argument topic
 - start working on union of network graphs (grouped by sentiment)
 
-### to-do (2/18)
+to-do (2/18)
 - finish jupyter notebooks for pd export
 - look at distribution of aggregate measures
 - look at clusters of networks for terms with highest centrality
 - cluster articles by overlapping terms
 
-### to-do (2/11)
+to-do (2/11)
 - finish all data
 - list all network metrics to run + interpretation
 - create jupyter notebook for analysis
 - export networkx output into pandas dataframe
 
 
-- - -
-
-# Network analysis notes
-
+---
+## Network analysis notes
 
 - Average degree
-
 Average degree shows the number of edges each node has in the graph. The higher it is, the more densely connected is the text. Demonstrates diversity of distinct topics well-connected to each other in the text.
 
-- Average path (x)
-
-Average path shows the average number of nodes traveled to get from one randomly chosen node to another.
-
 - Density
+The density is 0 for a graph without edges and 1 for a complete graph. The density of multi-graphs can be higher than 1. Self loops are counted in the total number of edges so graphs with self loops can have density higher than 1.
 
-The density is 0 for a graph without edges and 1 for a complete graph. The density of multigraphs can be higher than 1. Self loops are counted in the total number of edges so graphs with self loops can have density higher than 1.
-
- - Diameter (x)
-
+ - Diameter (?)
 Diameter is the longest path in the network; higher values of average path and diameter indicate long, winding text and greater diversity of topics. Low diameter and average path values may indicate an overall centralized agenda.
 
-- - -
+---
+## Centrality
 
-# Centrality
-
-
-1. Degree centrality
-
+- Degree centrality
 Degree centrality refers to the number of connections (edges) that a node has; often interpreted in terms of immediate risk of that node catching whatever is spreading through the network.
 
-- In-degree: number of (incoming) edges directed to a node
-- Out-degree: number of (outgoing) edges the node directs to others
+  - In-degree: number of (incoming) edges directed to a node
+  - Out-degree: number of (outgoing) edges the node directs to others
 
-
-2. Betweenness centrality
-
+- Betweenness centrality
 Betweenness centrality measure for each node shows how often it appears on the shortest path between any two random nodes in the network. This measure takes into account the connectivity of the node's neighbors, giving a higher value for nodes which bridge clusters. The measure reflects the number of people who a person is connecting indirectly through their direct links. Nodes that occur on many shortest paths between other nodes have higher betweenness than those that do not. It indicates the importance of a node to the overall connectivity of the network; nodes that connect distinct separated communities together will have a higher measure of betweenness centrality. Additionally, nodes with the highest betweenness centrality represent polysingularity, as they appear more often bridging separate communities together.
 
-3. Closeness centrality
-
+- Closeness centrality
 Closeness refers to the degree an individual is near all other individuals in a network (directly or indirectly). It reflects the ability to access information through the "grapevine" of network members. Thus, closeness is the inverse of the sum of the shortest distances between each individual and every other person in the network. (See also: Proxemics) The shortest path may also be known as the "geodesic distance". Closeness is preferred in network analysis to mean shortest-path length, as it gives higher values to more central vertices, and so is usually positively associated with other measures such as degree. In network theory, defined as the mean geodesic distance (i.e., the shortest path) between a vertex v and all other vertices reachable from it.
 
 ``nx: if the graph is not completely connected, this algorithm computes the closeness centrality for each connected part separately.``
 
 ``nx: if the ‘distance’ keyword is set to an edge attribute key then the shortest-path length will be computed using Dijkstra’s algorithm with that edge attribute as the edge weight.``
 
-- Current flow closeness: Current-flow closeness centrality is variant of closeness centrality based on effective resistance between nodes in a network. This metric is also known as information centrality.
+  - Current flow closeness: Current-flow closeness centrality is variant of closeness centrality based on effective resistance between nodes in a network. This metric is also known as information centrality.
 
-- Current-flow betweenness: Current-flow betweenness centrality uses an electrical current model for information spreading in contrast to betweenness centrality which uses shortest paths. Current-flow betweenness centrality is also known as random-walk betweenness centrality
+  - Current-flow betweenness: Current-flow betweenness centrality uses an electrical current model for information spreading in contrast to betweenness centrality which uses shortest paths. Current-flow betweenness centrality is also known as random-walk betweenness centrality
 
 
-4. Eigenvector centrality (x)
+- Eigenvector centrality (?)
 
 Eigenvector centrality computes the centrality for a node based on the centrality of its neighbors; a measure of importance of a node in a network. It assigns relative scores to all nodes in the network based on the principle that connections to high-scoring nodes contribute more to the score of the node in question than equal connections to low-scoring nodes. Google's PageRank is a variant of the Eigenvector centrality measure.
 
-- - -
-
-# Assortativity
-
-### Degree assortativity coefficient
+---
+- Degree assortativity coefficient
 
 Assortativity measures the similarity of connections in the graph with respect to the node degree.
 
 ``nx: computes where e is the joint probability distribution (mixing matrix) of the degrees. If G is directed than the matrix e is the joint probability of the user-specified degree type for the source and target. returns assortativity of graph by degree.``
 
-### Average neighbor degree (x)
+- Average neighbor degree (x)
 
 ``nx: returns the average degree of the neighborhood of each node``
 
-### Average degree connectivity / k nearest neighbors (x)
+- Average degree connectivity / k nearest neighbors (x)
 
 ``nx: the average nearest neighbor degree of nodes with degree k. returns a dictionary keyed by degree k with the value of average connectivity``
 
 - - -
 
-# Components & connectivity
+## Components & connectivity
 
-### Average node connectivity
-
+- Average node connectivity
 The average connectivity K of graph G is the average of local node connectivity over all pairs of nodes of G
 
-### Digraph connectivity
-
+- Digraph connectivity
 A digraph G is called weakly connected (or just connected) if the undirected underlying graph obtained by replacing all directed edges of G with undirected edges is a connected graph. A digraph is strongly connected or strong if it contains a directed path from u to v and a directed path from v to u for every pair of vertices u,v. The strong components are the maximal strongly connected subgraphs.
 
 #strong connectivity
@@ -137,7 +128,7 @@ A digraph G is called weakly connected (or just connected) if the undirected und
 `weakly_connected_component_subgraphs(G, copy=True)`
 
 
-### Connected components
+## Connected components
 
 `nx.number_connected_components`: generator sets; must be undirected graph
 
@@ -154,18 +145,16 @@ If you only want the largest cc, more efficient to use max than sort:
 To return the nodes in a component of a graph containing node n (set)
 `nx.node_connected_component(G,n)`
 
-- - -
 
-# to-do
-
-### k-core
+---
+## to-do
+### k-cores
 
 - k-core decomposition: analysis of complex networks, particularly their hierarchy; hierarchy is related to the role of vertices, i.e. centrality and connectivity patterns. connectivity is mainly related to:
   - robustness: faults, attacks
   - routing: to find a path between two vertices; QoS, efficiency of some parameter
 
 ### subgraph centralities
-
 - Must be undirected
 - First extract the main connected component, then compute node centrality measures for the largest component
 
@@ -180,7 +169,6 @@ To return the nodes in a component of a graph containing node n (set)
 
 
 ### clustering coefficient
-
 A measure of degree to which nodes in a graph tend to cluster together; a measure of the likelihood that two associates of a node are associates themselves. A higher clustering coefficient indicates a greater 'cliquishness'.
 
 `average_clustering(G)`
@@ -197,19 +185,13 @@ A measure of degree to which nodes in a graph tend to cluster together; a measur
 
 
 ### modularity
-
 Modularity algorithm (Blondel 2008) scans through all the relations between the nodes, grouping them into communities on the basis of how densely they are connected together. If nodes are more tightly-knit together than to the rest of the network, they are considered to be part of a distinct community.
 
 Modularity measure greater than 0.4 shows the presence of prominent communities within the text (Freeman 2010, Blondel et al 2008); for example, modularity measure of 0.496 may indiciate the presence of communities that are significantly more connected within, than to the rest of the network (Paranyushkin 2012).
 
 
-### cliques?
-
-
-
-- - -
-
-## Glossary - Social network analysis
+---
+### Glossary - Social network analysis
 
 - Betweenness: the extent to which a node lies between other nodes in the network. This measure takes into account the connectivity of the node's neighbors, giving a higher value for nodes which bridge clusters. The measure reflects the number of people who a person is connecting indirectly through their direct links.
 

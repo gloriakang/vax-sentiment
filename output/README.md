@@ -1,6 +1,3 @@
-output contents:
-
-- network: csv-to-multi output (gml, net)
-- dataframes: networkx output (csv)
-- R: scripts to plot dataframes (R)
-- figures: coming soon
+- df: table outputs from networkx in jupyter (csv files)
+- gephi: figure visualizations
+- network: csv-to-multi.py output (gml and net files)
