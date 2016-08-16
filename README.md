@@ -18,7 +18,7 @@ Average degree shows the number of edges each node has in the graph. The higher 
 - Density
 The density is 0 for a graph without edges and 1 for a complete graph. The density of multi-graphs can be higher than 1. Self loops are counted in the total number of edges so graphs with self loops can have density higher than 1.
 
- - Diameter (?)
+- Diameter (?)
 Diameter is the longest path in the network; higher values of average path and diameter indicate long, winding text and greater diversity of topics. Low diameter and average path values may indicate an overall centralized agenda.
 
 
@@ -37,11 +37,9 @@ Betweenness centrality measure for each node shows how often it appears on the s
 - Closeness centrality
 Closeness refers to the degree an individual is near all other individuals in a network (directly or indirectly). It reflects the ability to access information through the "grapevine" of network members. Thus, closeness is the inverse of the sum of the shortest distances between each individual and every other person in the network. (See also: Proxemics) The shortest path may also be known as the "geodesic distance". Closeness is preferred in network analysis to mean shortest-path length, as it gives higher values to more central vertices, and so is usually positively associated with other measures such as degree. In network theory, defined as the mean geodesic distance (i.e., the shortest path) between a vertex v and all other vertices reachable from it.
 
-```
-nx: if the graph is not completely connected, this algorithm computes the closeness centrality for each connected part separately.
+> nx: if the graph is not completely connected, this algorithm computes the closeness centrality for each connected part separately.
 
-nx: if the ‘distance’ keyword is set to an edge attribute key then the shortest-path length will be computed using Dijkstra’s algorithm with that edge attribute as the edge weight.
-```
+> nx: if the ‘distance’ keyword is set to an edge attribute key then the shortest-path length will be computed using Dijkstra’s algorithm with that edge attribute as the edge weight.
 
   - Current flow closeness: Current-flow closeness centrality is variant of closeness centrality based on effective resistance between nodes in a network. This metric is also known as information centrality.
 
@@ -56,21 +54,17 @@ Eigenvector centrality computes the centrality for a node based on the centralit
 
 Assortativity measures the similarity of connections in the graph with respect to the node degree.
 
-```
-nx: computes where e is the joint probability distribution (mixing matrix) of the degrees. If G is directed than the matrix e is the joint probability of the user-specified degree type for the source and target. returns assortativity of graph by degree.
-```
+> nx: computes where e is the joint probability distribution (mixing matrix) of the degrees. If G is directed than the matrix e is the joint probability of the user-specified degree type for the source and target. returns assortativity of graph by degree.
+
 
 - Average neighbor degree (?)
 
-```
-nx: returns the average degree of the neighborhood of each node
-```
+> nx: returns the average degree of the neighborhood of each node
 
 - Average degree connectivity / k nearest neighbors (?)
 
-```
-nx: the average nearest neighbor degree of nodes with degree k. returns a dictionary keyed by degree k with the value of average connectivity
-```
+
+> nx: the average nearest neighbor degree of nodes with degree k. returns a dictionary keyed by degree k with the value of average connectivity
 
 ---
 
