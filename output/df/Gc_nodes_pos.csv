@@ -1,0 +1,586 @@
+,name,sentiment,node,degree,deg cent,bet cent,clo cent
+0,d_Gc_positive.gml,pos,neighbors,1,0.00171232876712,0.0,0.0
+1,d_Gc_positive.gml,pos,colleges,1,0.00171232876712,0.0,0.0
+2,d_Gc_positive.gml,pos,influenza,2,0.00342465753425,0.0,0.0
+3,d_Gc_positive.gml,pos,parents of autistic children,6,0.0102739726027,0.0,0.16031706583
+4,d_Gc_positive.gml,pos,religious exemption,9,0.0154109589041,0.00291627367641,0.132328010293
+5,d_Gc_positive.gml,pos,vaccine campaign,2,0.00342465753425,0.0,0.118560429777
+6,d_Gc_positive.gml,pos,mild,1,0.00171232876712,0.0,0.0
+7,d_Gc_positive.gml,pos,repetitive behaviors,1,0.00171232876712,0.0,0.0
+8,d_Gc_positive.gml,pos,children,31,0.0530821917808,0.0441123232256,0.183394868783
+9,d_Gc_positive.gml,pos,vaccination schedule,4,0.00684931506849,0.000758139549215,0.142822718324
+10,d_Gc_positive.gml,pos,best-sellers,1,0.00171232876712,0.0,0.0
+11,d_Gc_positive.gml,pos,American Medical Association,5,0.00856164383562,0.0,0.12877072819
+12,d_Gc_positive.gml,pos,Orthodox Jewish communities,1,0.00171232876712,0.0,0.0
+13,d_Gc_positive.gml,pos,fence-sitters,4,0.00684931506849,0.0,0.151727914802
+14,d_Gc_positive.gml,pos,Journal of the American Medical Association,1,0.00171232876712,0.0,0.0
+15,d_Gc_positive.gml,pos,sexually transmitted virus,4,0.00684931506849,0.00010965169921,0.00356735159817
+16,d_Gc_positive.gml,pos,fear of autism,5,0.00856164383562,0.000502978218473,0.0876697286347
+17,d_Gc_positive.gml,pos,genetic risk factors for ASD,1,0.00171232876712,0.0,0.0
+18,d_Gc_positive.gml,pos,siblings,1,0.00171232876712,0.0,0.0
+19,d_Gc_positive.gml,pos,resources,2,0.00342465753425,0.0,0.0889688667497
+20,d_Gc_positive.gml,pos,risk,1,0.00171232876712,0.0,0.131081237276
+21,d_Gc_positive.gml,pos,results,1,0.00171232876712,0.0,0.0
+22,d_Gc_positive.gml,pos,stiff neck,1,0.00171232876712,0.0,0.0
+23,d_Gc_positive.gml,pos,nausea,2,0.00342465753425,0.0,0.0
+24,d_Gc_positive.gml,pos,ill effects,1,0.00171232876712,0.0,0.0
+25,d_Gc_positive.gml,pos,cultured cells,3,0.00513698630137,0.0,0.0
+26,d_Gc_positive.gml,pos,spread of infectious diseases,4,0.00684931506849,0.0,0.0
+27,d_Gc_positive.gml,pos,decrease in exemption rates,6,0.0102739726027,0.00110728635541,0.118024304661
+28,d_Gc_positive.gml,pos,debunked,1,0.00171232876712,0.0,0.0
+29,d_Gc_positive.gml,pos,no brainer,1,0.00171232876712,0.0,0.0
+30,d_Gc_positive.gml,pos,booster dose,1,0.00171232876712,0.0,0.0
+31,d_Gc_positive.gml,pos,large,1,0.00171232876712,0.0,0.0
+32,d_Gc_positive.gml,pos,tenderness,1,0.00171232876712,0.0,0.0
+33,d_Gc_positive.gml,pos,financial forces,4,0.00684931506849,0.000636506578772,0.13977031858
+34,d_Gc_positive.gml,pos,efficacious,1,0.00171232876712,0.0,0.0
+35,d_Gc_positive.gml,pos,vaccinated high-risk children,3,0.00513698630137,5.20984448996e-05,0.130361977265
+36,d_Gc_positive.gml,pos,findings,3,0.00513698630137,0.000467267988753,0.123818007875
+37,d_Gc_positive.gml,pos,lower rate of autism in vaccinated children,2,0.00342465753425,0.0,0.0
+38,d_Gc_positive.gml,pos,Neisseria meningitidis bacteria,3,0.00513698630137,2.93709908597e-06,0.00171232876712
+39,d_Gc_positive.gml,pos,long-term benefits,1,0.00171232876712,0.0,0.0
+40,d_Gc_positive.gml,pos,medical issue,2,0.00342465753425,0.00254583203262,0.130738918466
+41,d_Gc_positive.gml,pos,universities,1,0.00171232876712,0.0,0.0
+42,d_Gc_positive.gml,pos,vaccine alternatives,3,0.00513698630137,0.00206184355835,0.00385273972603
+43,d_Gc_positive.gml,pos,prisons,1,0.00171232876712,0.0,0.0
+44,d_Gc_positive.gml,pos,vaccines are effective,1,0.00171232876712,0.0,0.0
+45,d_Gc_positive.gml,pos,scientists,4,0.00684931506849,0.00200326474881,0.107309004763
+46,d_Gc_positive.gml,pos,flu shots,3,0.00513698630137,0.00110141215724,0.121063968264
+47,d_Gc_positive.gml,pos,children with immunosuppressive diseases,3,0.00513698630137,0.000282683427574,0.136087328767
+48,d_Gc_positive.gml,pos,body,1,0.00171232876712,0.0,0.123358725859
+49,d_Gc_positive.gml,pos,Libya,2,0.00342465753425,0.0,0.107830169416
+50,d_Gc_positive.gml,pos,partners,1,0.00171232876712,0.0,0.00171232876712
+51,d_Gc_positive.gml,pos,genes,1,0.00171232876712,0.0,0.12973934961
+52,d_Gc_positive.gml,pos,answers,1,0.00171232876712,0.0,0.0
+53,d_Gc_positive.gml,pos,vomiting,1,0.00171232876712,0.0,0.0
+54,d_Gc_positive.gml,pos,fluke,1,0.00171232876712,0.0,0.0
+55,d_Gc_positive.gml,pos,protection,7,0.0119863013699,0.0163865008704,0.165983159134
+56,d_Gc_positive.gml,pos,miscarriage,2,0.00342465753425,0.0,0.115040201071
+57,d_Gc_positive.gml,pos,Ohio,2,0.00342465753425,9.79033028658e-07,0.00171232876712
+58,d_Gc_positive.gml,pos,met the bar,1,0.00171232876712,0.0,0.0
+59,d_Gc_positive.gml,pos,Jews,5,0.00856164383562,0.000139647406383,0.15757480173
+60,d_Gc_positive.gml,pos,Victorian government,1,0.00171232876712,0.0,0.124372648423
+61,d_Gc_positive.gml,pos,vast amounts of money,1,0.00171232876712,0.0,0.0878818368163
+62,d_Gc_positive.gml,pos,employees,1,0.00171232876712,0.0,0.102360334791
+63,d_Gc_positive.gml,pos,infant disability,1,0.00171232876712,0.0,0.0
+64,d_Gc_positive.gml,pos,health care providers,2,0.00342465753425,0.0,0.00441600576784
+65,d_Gc_positive.gml,pos,controversy,1,0.00171232876712,0.0,0.0
+66,d_Gc_positive.gml,pos,low vaccination rates,9,0.0154109589041,0.00424420724805,0.145689597707
+67,d_Gc_positive.gml,pos,studies,13,0.0222602739726,0.000170351746987,0.118997265385
+68,d_Gc_positive.gml,pos,danger,2,0.00342465753425,0.0,0.0
+69,d_Gc_positive.gml,pos,Age of Autism,2,0.00342465753425,0.0,0.149254802173
+70,d_Gc_positive.gml,pos,brain damage,2,0.00342465753425,0.0,0.0
+71,d_Gc_positive.gml,pos,National Infant Immunization Week,2,0.00342465753425,0.0,0.132670100759
+72,d_Gc_positive.gml,pos,alternative explanation,1,0.00171232876712,0.0,0.112311675782
+73,d_Gc_positive.gml,pos,vaccines do not cause autism,3,0.00513698630137,0.0,0.0
+74,d_Gc_positive.gml,pos,children without autistic sibling,1,0.00171232876712,0.0,0.102379350713
+75,d_Gc_positive.gml,pos,misguided claims,5,0.00856164383562,0.0,0.13914898533
+76,d_Gc_positive.gml,pos,Nigeria,1,0.00171232876712,0.0,0.0
+77,d_Gc_positive.gml,pos,close contacts,5,0.00856164383562,0.00116519382803,0.147211861481
+78,d_Gc_positive.gml,pos,vaccine information sources,1,0.00171232876712,0.0,0.0
+79,d_Gc_positive.gml,pos,tetanus/diphtheria/pertussis,1,0.00171232876712,0.0,0.0
+80,d_Gc_positive.gml,pos,social media,1,0.00171232876712,0.0,0.0
+81,d_Gc_positive.gml,pos,withholding vaccines,4,0.00684931506849,0.0020774482869,0.143335546757
+82,d_Gc_positive.gml,pos,children with autistic sibling,6,0.0102739726027,0.000703664625735,0.129606979778
+83,d_Gc_positive.gml,pos,Institute of Medicine,2,0.00342465753425,0.0,0.00342465753425
+84,d_Gc_positive.gml,pos,opposed,5,0.00856164383562,0.000687281186118,0.00171232876712
+85,d_Gc_positive.gml,pos,unvaccinated-friendly day care centres,4,0.00684931506849,0.00137162527315,0.00385273972603
+86,d_Gc_positive.gml,pos,conscientious objectors,1,0.00171232876712,0.0,0.0
+87,d_Gc_positive.gml,pos,formal advice,1,0.00171232876712,0.0,0.0
+88,d_Gc_positive.gml,pos,meningococcal disease,32,0.0547945205479,0.0277089611275,0.136475041954
+89,d_Gc_positive.gml,pos,supporters,1,0.00171232876712,0.0,0.0
+90,d_Gc_positive.gml,pos,populations,2,0.00342465753425,0.0,0.0
+91,d_Gc_positive.gml,pos,mothers with pregnancy-related diabetes,1,0.00171232876712,0.0,0.0
+92,d_Gc_positive.gml,pos,infection,11,0.0188356164384,0.00122124113789,0.121642305043
+93,d_Gc_positive.gml,pos,antibiotics,4,0.00684931506849,0.000774504870363,0.112553429807
+94,d_Gc_positive.gml,pos,transient,1,0.00171232876712,0.0,0.0
+95,d_Gc_positive.gml,pos,cases,1,0.00171232876712,0.0,0.0
+96,d_Gc_positive.gml,pos,vaccination coverage,6,0.0102739726027,0.0,0.0
+97,d_Gc_positive.gml,pos,other meningococcal disease cases,1,0.00171232876712,0.0,0.0
+98,d_Gc_positive.gml,pos,women,4,0.00684931506849,0.0014381995191,0.00513698630137
+99,d_Gc_positive.gml,pos,states,15,0.0256849315068,0.00508807490169,0.138848520945
+100,d_Gc_positive.gml,pos,shame,1,0.00171232876712,0.0,0.0
+101,d_Gc_positive.gml,pos,science,2,0.00342465753425,0.0,0.15030975835
+102,d_Gc_positive.gml,pos,challenge,1,0.00171232876712,0.0,0.0
+103,d_Gc_positive.gml,pos,vaccinated students,2,0.00342465753425,0.0,0.0
+104,d_Gc_positive.gml,pos,California Senate,1,0.00171232876712,0.0,0.0
+105,d_Gc_positive.gml,pos,Arizona Department of Health Services,2,0.00342465753425,0.0,0.0998630136986
+106,d_Gc_positive.gml,pos,measles outbreak,9,0.0154109589041,0.00403378205448,0.127333173115
+107,d_Gc_positive.gml,pos,immune system disorder,1,0.00171232876712,0.0,0.0
+108,d_Gc_positive.gml,pos,vaccination exemption,17,0.0291095890411,0.0122862601776,0.130525176365
+109,d_Gc_positive.gml,pos,severity,1,0.00171232876712,0.0,0.0
+110,d_Gc_positive.gml,pos,household,1,0.00171232876712,0.0,0.0
+111,d_Gc_positive.gml,pos,Nepal,1,0.00171232876712,0.0,0.120038002431
+112,d_Gc_positive.gml,pos,one dose of vaccine,1,0.00171232876712,0.0,0.0
+113,d_Gc_positive.gml,pos,anti-vaxxer,5,0.00856164383562,0.0,0.139433456031
+114,d_Gc_positive.gml,pos,vaccine delivery,2,0.00342465753425,4.40564862896e-06,0.00171232876712
+115,d_Gc_positive.gml,pos,Wakefield study,10,0.0171232876712,0.00599461923447,0.101274291176
+116,d_Gc_positive.gml,pos,teen girls,3,0.00513698630137,0.0,0.136274042375
+117,d_Gc_positive.gml,pos,girls who received Gardasil,1,0.00171232876712,0.0,0.0837552114354
+118,d_Gc_positive.gml,pos,philosophical exemption,2,0.00342465753425,0.0,0.109517008976
+119,d_Gc_positive.gml,pos,population health,1,0.00171232876712,0.0,0.0
+120,d_Gc_positive.gml,pos,infection at multiple sites,1,0.00171232876712,0.0,0.0
+121,d_Gc_positive.gml,pos,polio,6,0.0102739726027,0.00331973104683,0.157886419664
+122,d_Gc_positive.gml,pos,risk of infection,1,0.00171232876712,0.0,0.0
+123,d_Gc_positive.gml,pos,potential risks,1,0.00171232876712,0.0,0.0
+124,d_Gc_positive.gml,pos,Muslims,2,0.00342465753425,0.0,0.130667593361
+125,d_Gc_positive.gml,pos,MMR vaccine does not cause autism,3,0.00513698630137,0.0,0.0
+126,d_Gc_positive.gml,pos,Tanzania,2,0.00342465753425,0.0,0.107830169416
+127,d_Gc_positive.gml,pos,neurological problems,1,0.00171232876712,0.0,0.0
+128,d_Gc_positive.gml,pos,good news,1,0.00171232876712,0.0,0.0
+129,d_Gc_positive.gml,pos,measles resurgence,6,0.0102739726027,0.0041095739441,0.138207558356
+130,d_Gc_positive.gml,pos,gelatin,2,0.00342465753425,0.0,0.0
+131,d_Gc_positive.gml,pos,medical advancement,1,0.00171232876712,0.0,0.0
+132,d_Gc_positive.gml,pos,law,1,0.00171232876712,0.0,0.0
+133,d_Gc_positive.gml,pos,data,1,0.00171232876712,0.0,0.0
+134,d_Gc_positive.gml,pos,Jain study,16,0.027397260274,0.00106753983952,0.157287022777
+135,d_Gc_positive.gml,pos,health professionals,1,0.00171232876712,0.0,0.116834659329
+136,d_Gc_positive.gml,pos,Hilary Clinton,1,0.00171232876712,0.0,0.131081237276
+137,d_Gc_positive.gml,pos,thimerosal is safe,1,0.00171232876712,0.0,0.0
+138,d_Gc_positive.gml,pos,genetic component,1,0.00171232876712,0.0,0.0
+139,d_Gc_positive.gml,pos,early treatment,1,0.00171232876712,0.0,0.11304987459
+140,d_Gc_positive.gml,pos,hypotheses,4,0.00684931506849,0.00220048162831,0.101060632333
+141,d_Gc_positive.gml,pos,vaccine benefits,1,0.00171232876712,0.0,0.0
+142,d_Gc_positive.gml,pos,responsibility,2,0.00342465753425,0.0,0.0
+143,d_Gc_positive.gml,pos,family tax benefit,1,0.00171232876712,0.0,0.0
+144,d_Gc_positive.gml,pos,vaccine-free day care centres,7,0.0119863013699,0.00375434690665,0.141056359617
+145,d_Gc_positive.gml,pos,senators,1,0.00171232876712,0.0,0.0
+146,d_Gc_positive.gml,pos,Mississippi,3,0.00513698630137,0.0,0.126734859409
+147,d_Gc_positive.gml,pos,epidemiologist,1,0.00171232876712,0.0,0.0
+148,d_Gc_positive.gml,pos,tax benefits,1,0.00171232876712,0.0,0.0
+149,d_Gc_positive.gml,pos,vaccinated,8,0.013698630137,0.00156029587569,0.00513698630137
+150,d_Gc_positive.gml,pos,political issues,1,0.00171232876712,0.0,0.0
+151,d_Gc_positive.gml,pos,vaccinations should be voluntary,1,0.00171232876712,0.0,0.0
+152,d_Gc_positive.gml,pos,observational,1,0.00171232876712,0.0,0.0
+153,d_Gc_positive.gml,pos,Catholics,2,0.00342465753425,0.0,0.130667593361
+154,d_Gc_positive.gml,pos,non-judgmental environment,1,0.00171232876712,0.0,0.0
+155,d_Gc_positive.gml,pos,kindergarten,2,0.00342465753425,0.0,0.0
+156,d_Gc_positive.gml,pos,West Virginia,3,0.00513698630137,0.0,0.126734859409
+157,d_Gc_positive.gml,pos,variety of medical conditions,1,0.00171232876712,0.0,0.0
+158,d_Gc_positive.gml,pos,rubella outbreak,1,0.00171232876712,0.0,0.0978846475109
+159,d_Gc_positive.gml,pos,physicians,4,0.00684931506849,0.000798392200402,0.125349418468
+160,d_Gc_positive.gml,pos,California Coalition for Health Choice,3,0.00513698630137,0.000684344087032,0.132036217547
+161,d_Gc_positive.gml,pos,childcare services,1,0.00171232876712,0.0,0.114664872798
+162,d_Gc_positive.gml,pos,increased sensitivity to light,1,0.00171232876712,0.0,0.0
+163,d_Gc_positive.gml,pos,HPV vaccine recommendations,3,0.00513698630137,0.000687281186118,0.00342465753425
+164,d_Gc_positive.gml,pos,safety concern,1,0.00171232876712,0.0,0.0
+165,d_Gc_positive.gml,pos,safe,2,0.00342465753425,0.0,0.0
+166,d_Gc_positive.gml,pos,vaccine fear,1,0.00171232876712,0.0,0.112469048518
+167,d_Gc_positive.gml,pos,brain development,1,0.00171232876712,0.0,0.0
+168,d_Gc_positive.gml,pos,Vaccine Free Family Day Care,1,0.00171232876712,0.0,0.136816041407
+169,d_Gc_positive.gml,pos,infectious disease mortality,5,0.00856164383562,0.0,0.0
+170,d_Gc_positive.gml,pos,Merck,1,0.00171232876712,0.0,0.0957821133161
+171,d_Gc_positive.gml,pos,schools,10,0.0171232876712,0.00254190010683,0.122263245855
+172,d_Gc_positive.gml,pos,mystery,4,0.00684931506849,0.0,0.0
+173,d_Gc_positive.gml,pos,prophylaxis,1,0.00171232876712,0.0,0.0
+174,d_Gc_positive.gml,pos,India,1,0.00171232876712,0.0,0.120038002431
+175,d_Gc_positive.gml,pos,Disneyland measles outbreak,8,0.013698630137,0.00244070678621,0.15392911223
+176,d_Gc_positive.gml,pos,religious doctrine,3,0.00513698630137,0.000687281186118,0.00171232876712
+177,d_Gc_positive.gml,pos,measles experience,1,0.00171232876712,0.0,0.0
+178,d_Gc_positive.gml,pos,minority views,2,0.00342465753425,0.0,0.0
+179,d_Gc_positive.gml,pos,vaccine message,5,0.00856164383562,4.11193872036e-05,0.118775781036
+180,d_Gc_positive.gml,pos,Muslim leaders,1,0.00171232876712,0.0,0.00171232876712
+181,d_Gc_positive.gml,pos,developing countries,4,0.00684931506849,0.0,0.0
+182,d_Gc_positive.gml,pos,distrust of medical establishment,2,0.00342465753425,0.0,0.00171232876712
+183,d_Gc_positive.gml,pos,children with family history of autism,1,0.00171232876712,0.0,0.101387887527
+184,d_Gc_positive.gml,pos,immune memory cells,1,0.00171232876712,0.0,0.0
+185,d_Gc_positive.gml,pos,democrat,1,0.00171232876712,0.0,0.11374408733
+186,d_Gc_positive.gml,pos,three-dose course,1,0.00171232876712,0.0,0.0
+187,d_Gc_positive.gml,pos,flu vaccine recall,2,0.00342465753425,1.46854954299e-06,0.00356735159817
+188,d_Gc_positive.gml,pos,childcare benefits,1,0.00171232876712,0.0,0.0
+189,d_Gc_positive.gml,pos,worried,1,0.00171232876712,0.0,0.0
+190,d_Gc_positive.gml,pos,parental rights,2,0.00342465753425,0.0,0.0
+191,d_Gc_positive.gml,pos,health officials,5,0.00856164383562,0.0,0.176925960967
+192,d_Gc_positive.gml,pos,state-level policy,1,0.00171232876712,0.0,0.0
+193,d_Gc_positive.gml,pos,activism,2,0.00342465753425,0.0,0.136816041407
+194,d_Gc_positive.gml,pos,research,6,0.0102739726027,0.00154224625422,0.15149073328
+195,d_Gc_positive.gml,pos,private schools,2,0.00342465753425,0.000687281186118,0.00171232876712
+196,d_Gc_positive.gml,pos,religious groups,24,0.041095890411,0.0364374890116,0.17181757434
+197,d_Gc_positive.gml,pos,women without previous HPV,1,0.00171232876712,0.0,0.0
+198,d_Gc_positive.gml,pos,Andrew Wakefield,3,0.00513698630137,0.0,0.00513698630137
+199,d_Gc_positive.gml,pos,issue,2,0.00342465753425,0.0,0.0
+200,d_Gc_positive.gml,pos,parental responsibility,2,0.00342465753425,0.0,0.150122339699
+201,d_Gc_positive.gml,pos,theory,1,0.00171232876712,0.0,0.0933959073228
+202,d_Gc_positive.gml,pos,parents who choose to delay vaccination,2,0.00342465753425,0.0,0.0
+203,d_Gc_positive.gml,pos,caregivers,2,0.00342465753425,0.0,0.139658133312
+204,d_Gc_positive.gml,pos,United States,10,0.0171232876712,0.0178271229586,0.156955241566
+205,d_Gc_positive.gml,pos,members,1,0.00171232876712,0.0,0.0
+206,d_Gc_positive.gml,pos,Gardasil,14,0.0239726027397,0.00974393694169,0.112026987198
+207,d_Gc_positive.gml,pos,immune response,5,0.00856164383562,0.00103623366094,0.15363290483
+208,d_Gc_positive.gml,pos,unvaccinated clusters,2,0.00342465753425,0.0,0.123548605889
+209,d_Gc_positive.gml,pos,benefits,1,0.00171232876712,0.0,0.0
+210,d_Gc_positive.gml,pos,wealthy regions,2,0.00342465753425,0.0,0.0
+211,d_Gc_positive.gml,pos,anti-vaccination,28,0.0479452054795,0.0376659366826,0.172934078433
+212,d_Gc_positive.gml,pos,threat,2,0.00342465753425,0.0,0.0
+213,d_Gc_positive.gml,pos,state legislatures,2,0.00342465753425,0.0,0.109902433992
+214,d_Gc_positive.gml,pos,Prabhupada Village,1,0.00171232876712,0.0,0.0
+215,d_Gc_positive.gml,pos,Washington State public-private pilot program,2,0.00342465753425,0.0,0.175686154599
+216,d_Gc_positive.gml,pos,women previously exposed to HPV,5,0.00856164383562,0.0,0.0
+217,d_Gc_positive.gml,pos,strong-arm tactics,1,0.00171232876712,0.0,0.0
+218,d_Gc_positive.gml,pos,Dr. Adams,4,0.00684931506849,0.0,0.175973662576
+219,d_Gc_positive.gml,pos,genital warts,10,0.0171232876712,0.0239041081917,0.134256557528
+220,d_Gc_positive.gml,pos,daily activities,1,0.00171232876712,0.0,0.0
+221,d_Gc_positive.gml,pos,vast amounts of time,1,0.00171232876712,0.0,0.0878818368163
+222,d_Gc_positive.gml,pos,at-risk unvaccinated children,1,0.00171232876712,0.0,0.102379350713
+223,d_Gc_positive.gml,pos,seizures,1,0.00171232876712,0.0,0.0
+224,d_Gc_positive.gml,pos,legitimate reasons,2,0.00342465753425,0.0,0.0
+225,d_Gc_positive.gml,pos,prohibits vaccinating members,1,0.00171232876712,0.0,0.0
+226,d_Gc_positive.gml,pos,adult vaccination program,2,0.00342465753425,0.00110141215724,0.123295562149
+227,d_Gc_positive.gml,pos,small nudges,1,0.00171232876712,0.0,0.0
+228,d_Gc_positive.gml,pos,pneumonia deaths,1,0.00171232876712,0.0,0.0957821133161
+229,d_Gc_positive.gml,pos,girls,7,0.0119863013699,0.00182316673527,0.0959590138743
+230,d_Gc_positive.gml,pos,vaccination of pregnant women,1,0.00171232876712,0.0,0.10575152959
+231,d_Gc_positive.gml,pos,anyone,1,0.00171232876712,0.0,0.11304987459
+232,d_Gc_positive.gml,pos,compromise,2,0.00342465753425,0.0,0.173359418918
+233,d_Gc_positive.gml,pos,Disneyland,2,0.00342465753425,0.0,0.0
+234,d_Gc_positive.gml,pos,2014-2015 FLULAVAL QUADRIVALENT flu vaccine,7,0.0119863013699,3.96508376607e-05,0.00684931506849
+235,d_Gc_positive.gml,pos,vaccine hesitancy,4,0.00684931506849,0.0,0.0
+236,d_Gc_positive.gml,pos,headache,2,0.00342465753425,0.0,0.0
+237,d_Gc_positive.gml,pos,anus,1,0.00171232876712,0.0,0.0
+238,d_Gc_positive.gml,pos,uninformed,2,0.00342465753425,0.0,0.0
+239,d_Gc_positive.gml,pos,doctors,3,0.00513698630137,0.000244641705614,0.00228310502283
+240,d_Gc_positive.gml,pos,true-believer cohort,1,0.00171232876712,0.0,0.0
+241,d_Gc_positive.gml,pos,risk of cervical dysplasia,1,0.00171232876712,0.0,0.146826971266
+242,d_Gc_positive.gml,pos,Colorado,2,0.00342465753425,9.79033028658e-07,0.00171232876712
+243,d_Gc_positive.gml,pos,right to personal exemptions,3,0.00513698630137,0.00207065485561,0.00391389432485
+244,d_Gc_positive.gml,pos,pneumonia,1,0.00171232876712,0.0,0.0
+245,d_Gc_positive.gml,pos,written down,1,0.00171232876712,0.0,0.0
+246,d_Gc_positive.gml,pos,risk of mumps,1,0.00171232876712,0.0,0.0
+247,d_Gc_positive.gml,pos,behavioral interventions,1,0.00171232876712,0.0,0.0
+248,d_Gc_positive.gml,pos,elite list,1,0.00171232876712,0.0,0.0
+249,d_Gc_positive.gml,pos,resurgence in potentially fatal childhood infectious diseases,1,0.00171232876712,0.0,0.0
+250,d_Gc_positive.gml,pos,early childcare advocacy group,1,0.00171232876712,0.0,0.0
+251,d_Gc_positive.gml,pos,early diagnosis,1,0.00171232876712,0.0,0.11304987459
+252,d_Gc_positive.gml,pos,conspiracy,5,0.00856164383562,0.00324747696333,0.120117200918
+253,d_Gc_positive.gml,pos,childcare,3,0.00513698630137,0.0,0.0
+254,d_Gc_positive.gml,pos,unlikely,1,0.00171232876712,0.0,0.0
+255,d_Gc_positive.gml,pos,smallpox,1,0.00171232876712,0.0,0.00228310502283
+256,d_Gc_positive.gml,pos,protective effect of vaccines,9,0.0154109589041,0.00750981486745,0.135394968135
+257,d_Gc_positive.gml,pos,non-medical reasons for exemption,2,0.00342465753425,0.000356563829037,0.123612029197
+258,d_Gc_positive.gml,pos,retracted,1,0.00171232876712,0.0,0.0
+259,d_Gc_positive.gml,pos,MMR vaccine,26,0.0445205479452,0.0124140516298,0.148397582794
+260,d_Gc_positive.gml,pos,allergies,1,0.00171232876712,0.0,0.0
+261,d_Gc_positive.gml,pos,policy makers,7,0.0119863013699,0.00775257731104,0.146581210912
+262,d_Gc_positive.gml,pos,ideas,3,0.00513698630137,0.000690218285204,0.00171232876712
+263,d_Gc_positive.gml,pos,bacteria,1,0.00171232876712,0.0,0.00228310502283
+264,d_Gc_positive.gml,pos,cervical dysplasia,11,0.0188356164384,0.00512066921056,0.0958054794521
+265,d_Gc_positive.gml,pos,birth defects,4,0.00684931506849,0.00751564342894,0.114874675602
+266,d_Gc_positive.gml,pos,preschoolers,1,0.00171232876712,0.0,0.0
+267,d_Gc_positive.gml,pos,Waldorf School of Princeton,2,0.00342465753425,0.0,0.119842669198
+268,d_Gc_positive.gml,pos,social issues,2,0.00342465753425,0.0,0.0
+269,d_Gc_positive.gml,pos,government rebates,1,0.00171232876712,0.0,0.0
+270,d_Gc_positive.gml,pos,pain,1,0.00171232876712,0.0,0.0
+271,d_Gc_positive.gml,pos,normal,1,0.00171232876712,0.0,0.0
+272,d_Gc_positive.gml,pos,HPV vaccine benefits,3,0.00513698630137,0.0,0.106785263247
+273,d_Gc_positive.gml,pos,medical exemption,8,0.013698630137,0.00243803700489,0.13189080321
+274,d_Gc_positive.gml,pos,Los Angeles County,1,0.00171232876712,0.0,0.108957571437
+275,d_Gc_positive.gml,pos,ear infections,1,0.00171232876712,0.0,0.0
+276,d_Gc_positive.gml,pos,autism rate,2,0.00342465753425,0.00020701653391,0.108181435696
+277,d_Gc_positive.gml,pos,virus,1,0.00171232876712,0.0,0.0
+278,d_Gc_positive.gml,pos,unvaccinated workers,2,0.00342465753425,0.0,0.128424657534
+279,d_Gc_positive.gml,pos,childhood disease,6,0.0102739726027,0.00229397610386,0.144546589397
+280,d_Gc_positive.gml,pos,risk to pregnant women,1,0.00171232876712,0.0,0.0
+281,d_Gc_positive.gml,pos,environmental factors,5,0.00856164383562,0.00110728635541,0.130985777902
+282,d_Gc_positive.gml,pos,peers,1,0.00171232876712,0.0,0.173110160228
+283,d_Gc_positive.gml,pos,reduction in child mortality,2,0.00342465753425,0.0,0.0958202279653
+284,d_Gc_positive.gml,pos,consequences,1,0.00171232876712,0.0,0.0
+285,d_Gc_positive.gml,pos,young adults,4,0.00684931506849,0.00187455453997,0.11304987459
+286,d_Gc_positive.gml,pos,personal belief exemption,16,0.027397260274,0.00623200884992,0.13189080321
+287,d_Gc_positive.gml,pos,part of the story,1,0.00171232876712,0.0,0.0
+288,d_Gc_positive.gml,pos,disease,19,0.0325342465753,0.0119236266209,0.142993252914
+289,d_Gc_positive.gml,pos,mental disorders,2,0.00342465753425,0.0,0.0
+290,d_Gc_positive.gml,pos,"Sydney, Australia",1,0.00171232876712,0.0,0.0
+291,d_Gc_positive.gml,pos,swelling,1,0.00171232876712,0.0,0.0
+292,d_Gc_positive.gml,pos,celebrities,2,0.00342465753425,0.000690218285204,0.00171232876712
+293,d_Gc_positive.gml,pos,social network,2,0.00342465753425,0.0,0.0
+294,d_Gc_positive.gml,pos,Jewish dietary laws,1,0.00171232876712,0.0,0.0
+295,d_Gc_positive.gml,pos,vaccine potency,3,0.00513698630137,1.17483963439e-05,0.00391389432485
+296,d_Gc_positive.gml,pos,presidential candidates,2,0.00342465753425,0.000701966681548,0.00228310502283
+297,d_Gc_positive.gml,pos,fear,1,0.00171232876712,0.0,0.101387887527
+298,d_Gc_positive.gml,pos,reduction in mortality,2,0.00342465753425,0.0,0.0958202279653
+299,d_Gc_positive.gml,pos,World Health Organization,2,0.00342465753425,0.0,0.149618165501
+300,d_Gc_positive.gml,pos,delaying Gardasil,2,0.00342465753425,0.0,0.00171232876712
+301,d_Gc_positive.gml,pos,autism risk,20,0.0342465753425,0.00677113927492,0.12115007518
+302,d_Gc_positive.gml,pos,severe symptoms,1,0.00171232876712,0.0,0.0
+303,d_Gc_positive.gml,pos,rash,1,0.00171232876712,0.0,0.0
+304,d_Gc_positive.gml,pos,what we already knew,3,0.00513698630137,5.87419817195e-06,0.00342465753425
+305,d_Gc_positive.gml,pos,immune amnesia,3,0.00513698630137,0.000861118989996,0.0875735643986
+306,d_Gc_positive.gml,pos,herd immunity,19,0.0325342465753,0.0140699981115,0.149696061644
+307,d_Gc_positive.gml,pos,respiratory secretions,2,0.00342465753425,0.0,0.0
+308,d_Gc_positive.gml,pos,vaccine efficacy,2,0.00342465753425,0.0,0.00171232876712
+309,d_Gc_positive.gml,pos,public health,8,0.013698630137,0.00217268079875,0.126259198013
+310,d_Gc_positive.gml,pos,medical conditions,1,0.00171232876712,0.0,0.00356735159817
+311,d_Gc_positive.gml,pos,opponent of sanity-oriented legislation,2,0.00342465753425,0.0,0.00171232876712
+312,d_Gc_positive.gml,pos,children with neurodevelopmental issues,2,0.00342465753425,0.00127741781997,0.123358725859
+313,d_Gc_positive.gml,pos,recommended vaccines,2,0.00342465753425,0.0,0.0
+314,d_Gc_positive.gml,pos,genetic predisposition,4,0.00684931506849,0.003518644705,0.129888122901
+315,d_Gc_positive.gml,pos,unethical,1,0.00171232876712,0.0,0.0
+316,d_Gc_positive.gml,pos,public schools,1,0.00171232876712,0.0,0.0
+317,d_Gc_positive.gml,pos,random cases,1,0.00171232876712,0.0,0.0
+318,d_Gc_positive.gml,pos,imitation infection,2,0.00342465753425,0.0,0.129390775323
+319,d_Gc_positive.gml,pos,NIH,4,0.00684931506849,0.0,0.111015344424
+320,d_Gc_positive.gml,pos,meningococcal outbreak,6,0.0102739726027,0.00322062705107,0.118278369694
+321,d_Gc_positive.gml,pos,orthodox Hasidic Jews,4,0.00684931506849,0.0,0.109510514888
+322,d_Gc_positive.gml,pos,Federal Circuit,1,0.00171232876712,0.0,0.00171232876712
+323,d_Gc_positive.gml,pos,opportunistic infections,1,0.00171232876712,0.0,0.0
+324,d_Gc_positive.gml,pos,unvaccinated high-risk children,1,0.00171232876712,0.0,0.0
+325,d_Gc_positive.gml,pos,false concerns,1,0.00171232876712,0.0,0.0
+326,d_Gc_positive.gml,pos,at risk,3,0.00513698630137,0.0,0.0
+327,d_Gc_positive.gml,pos,gift from God,1,0.00171232876712,0.0,0.0
+328,d_Gc_positive.gml,pos,Afghanistan,1,0.00171232876712,0.0,0.0
+329,d_Gc_positive.gml,pos,medical law,1,0.00171232876712,0.0,0.0
+330,d_Gc_positive.gml,pos,Caribbean,1,0.00171232876712,0.0,0.103942546922
+331,d_Gc_positive.gml,pos,free vaccine,1,0.00171232876712,0.0,0.0
+332,d_Gc_positive.gml,pos,testing,1,0.00171232876712,0.0,0.0
+333,d_Gc_positive.gml,pos,vaccine refusal,13,0.0222602739726,0.00309482727303,0.156955241566
+334,d_Gc_positive.gml,pos,sex,1,0.00171232876712,0.0,0.0
+335,d_Gc_positive.gml,pos,backfire,1,0.00171232876712,0.0,0.0
+336,d_Gc_positive.gml,pos,Jehovah's Witnesses,4,0.00684931506849,0.00430789917414,0.157161219574
+337,d_Gc_positive.gml,pos,arm,1,0.00171232876712,0.0,0.0
+338,d_Gc_positive.gml,pos,Senator Rand Paul,2,0.00342465753425,0.0,0.00342465753425
+339,d_Gc_positive.gml,pos,voluntary,1,0.00171232876712,0.0,0.0
+340,d_Gc_positive.gml,pos,William Moss,5,0.00856164383562,2.00701770875e-05,0.143173291241
+341,d_Gc_positive.gml,pos,vaccinated children and unvaccinated children,4,0.00684931506849,0.0,0.0
+342,d_Gc_positive.gml,pos,diarrhea deaths,1,0.00171232876712,0.0,0.0957821133161
+343,d_Gc_positive.gml,pos,vaccines,68,0.116438356164,0.0795089514173,0.189338892198
+344,d_Gc_positive.gml,pos,Los Angeles,2,0.00342465753425,0.0,0.109006895825
+345,d_Gc_positive.gml,pos,behavioral research,2,0.00342465753425,0.0,0.173234699911
+346,d_Gc_positive.gml,pos,teens,6,0.0102739726027,0.000684344087032,0.116156012915
+347,d_Gc_positive.gml,pos,unconscionable,1,0.00171232876712,0.0,0.0
+348,d_Gc_positive.gml,pos,Department of Public Health Immunization Program,1,0.00171232876712,0.0,0.00228310502283
+349,d_Gc_positive.gml,pos,cervical cancer,7,0.0119863013699,0.00212548070522,0.00391389432485
+350,d_Gc_positive.gml,pos,MMR vaccine doesn't trigger autism,1,0.00171232876712,0.0,0.0
+351,d_Gc_positive.gml,pos,we,3,0.00513698630137,0.0,0.137703180763
+352,d_Gc_positive.gml,pos,government policy,3,0.00513698630137,0.00109553795907,0.0785806097868
+353,d_Gc_positive.gml,pos,free vaccine eligible,3,0.00513698630137,0.0,0.112574208919
+354,d_Gc_positive.gml,pos,confusion,1,0.00171232876712,0.0,0.0
+355,d_Gc_positive.gml,pos,absolute objection,2,0.00342465753425,0.0,0.00171232876712
+356,d_Gc_positive.gml,pos,models of disease,1,0.00171232876712,0.0,0.0
+357,d_Gc_positive.gml,pos,ages 14 to 17,1,0.00171232876712,0.0,0.00228310502283
+358,d_Gc_positive.gml,pos,infants,8,0.013698630137,0.00296464604506,0.125927286346
+359,d_Gc_positive.gml,pos,approval,1,0.00171232876712,0.0,0.0
+360,d_Gc_positive.gml,pos,mortality rate decrease,1,0.00171232876712,0.0,0.00171232876712
+361,d_Gc_positive.gml,pos,vaccine-autism link,33,0.0565068493151,0.0223956066406,0.119756849315
+362,d_Gc_positive.gml,pos,scientific paper,1,0.00171232876712,0.0,0.101387887527
+363,d_Gc_positive.gml,pos,Catholic parents,3,0.00513698630137,0.0,0.00611545988258
+364,d_Gc_positive.gml,pos,vaccines cause autism,2,0.00342465753425,0.0,0.0
+365,d_Gc_positive.gml,pos,recommended vaccine schedule,2,0.00342465753425,0.0,0.0
+366,d_Gc_positive.gml,pos,new version of Gardasil,3,0.00513698630137,0.0,0.137597847358
+367,d_Gc_positive.gml,pos,sterilize Muslims,2,0.00342465753425,0.0,0.0
+368,d_Gc_positive.gml,pos,reasons,1,0.00171232876712,0.0,0.0
+369,d_Gc_positive.gml,pos,saved lives,1,0.00171232876712,0.0,0.0
+370,d_Gc_positive.gml,pos,community,17,0.0291095890411,0.016300585236,0.142060319472
+371,d_Gc_positive.gml,pos,measles vaccination,6,0.0102739726027,0.00221457271082,0.12850020145
+372,d_Gc_positive.gml,pos,church,5,0.00856164383562,0.00229249688537,0.146850826873
+373,d_Gc_positive.gml,pos,high vaccination rates,3,0.00513698630137,0.0,0.0
+374,d_Gc_positive.gml,pos,symptoms,2,0.00342465753425,0.0,0.0
+375,d_Gc_positive.gml,pos,ages 11 or 12,3,0.00513698630137,0.0,0.0
+376,d_Gc_positive.gml,pos,interventions,3,0.00513698630137,8.67814485381e-05,0.121457250827
+377,d_Gc_positive.gml,pos,computer models,1,0.00171232876712,0.0,0.0
+378,d_Gc_positive.gml,pos,California,5,0.00856164383562,0.0048908490356,0.148489583776
+379,d_Gc_positive.gml,pos,risk of rubella,1,0.00171232876712,0.0,0.0
+380,d_Gc_positive.gml,pos,controversial bill,3,0.00513698630137,0.00137456237224,0.00342465753425
+381,d_Gc_positive.gml,pos,healthy people,1,0.00171232876712,0.0,0.0
+382,d_Gc_positive.gml,pos,Islamic principles,2,0.00342465753425,0.0,0.0
+383,d_Gc_positive.gml,pos,polio vaccine opposition,9,0.0154109589041,0.00444529946662,0.103595890411
+384,d_Gc_positive.gml,pos,preteens,3,0.00513698630137,0.0,0.0986058866324
+385,d_Gc_positive.gml,pos,rubella elimination,4,0.00684931506849,0.00322943774394,0.144633875984
+386,d_Gc_positive.gml,pos,social norms,1,0.00171232876712,0.0,0.131081237276
+387,d_Gc_positive.gml,pos,meningitis,2,0.00342465753425,0.000218207407755,0.00171232876712
+388,d_Gc_positive.gml,pos,measles,65,0.111301369863,0.0641980547693,0.186247044036
+389,d_Gc_positive.gml,pos,republicans,2,0.00342465753425,0.0,0.132793303226
+390,d_Gc_positive.gml,pos,argument,2,0.00342465753425,0.0,0.0
+391,d_Gc_positive.gml,pos,pediatricians,2,0.00342465753425,0.0,0.00342465753425
+392,d_Gc_positive.gml,pos,pig,2,0.00342465753425,0.0,0.0
+393,d_Gc_positive.gml,pos,hardness of the skin,1,0.00171232876712,0.0,0.0
+394,d_Gc_positive.gml,pos,CDC,4,0.00684931506849,0.0,0.0985189679605
+395,d_Gc_positive.gml,pos,pharmacological interventions,1,0.00171232876712,0.0,0.0
+396,d_Gc_positive.gml,pos,hesitant parents,2,0.00342465753425,0.0,0.0
+397,d_Gc_positive.gml,pos,vaccine-preventable diseases,9,0.0154109589041,0.0192620287922,0.151879326969
+398,d_Gc_positive.gml,pos,three doses Gardasil,1,0.00171232876712,0.0,0.0
+399,d_Gc_positive.gml,pos,11-18 year olds,1,0.00171232876712,0.0,0.0
+400,d_Gc_positive.gml,pos,vaccine mandates,7,0.0119863013699,0.00529191871253,0.137493512417
+401,d_Gc_positive.gml,pos,rubella vaccine,3,0.00513698630137,1.95806605732e-06,0.00342465753425
+402,d_Gc_positive.gml,pos,important message,1,0.00171232876712,0.0,0.0
+403,d_Gc_positive.gml,pos,decline in vaccination rates,2,0.00342465753425,0.0,0.114785297193
+404,d_Gc_positive.gml,pos,children with autism,3,0.00513698630137,0.0,0.00513698630137
+405,d_Gc_positive.gml,pos,cluster,5,0.00856164383562,0.000128917670595,0.00171232876712
+406,d_Gc_positive.gml,pos,abnormal cells,1,0.00171232876712,0.0,0.0
+407,d_Gc_positive.gml,pos,immune system,9,0.0154109589041,0.00826778082066,0.145512575109
+408,d_Gc_positive.gml,pos,theological issues,1,0.00171232876712,0.0,0.0
+409,d_Gc_positive.gml,pos,triple hit,3,0.00513698630137,0.00110141215724,0.108662559962
+410,d_Gc_positive.gml,pos,pregnant women,6,0.0102739726027,0.0116627259218,0.139658133312
+411,d_Gc_positive.gml,pos,Mina study,7,0.0119863013699,0.00103840438875,0.179956531276
+412,d_Gc_positive.gml,pos,immunosuppression,4,0.00684931506849,6.0340221352e-05,0.11723626952
+413,d_Gc_positive.gml,pos,new transmission,1,0.00171232876712,0.0,0.0
+414,d_Gc_positive.gml,pos,vaccines are safe,1,0.00171232876712,0.0,0.0
+415,d_Gc_positive.gml,pos,one dose Gardasil,1,0.00171232876712,0.0,0.0
+416,d_Gc_positive.gml,pos,infant mortality,1,0.00171232876712,0.0,0.0
+417,d_Gc_positive.gml,pos,new strategies,2,0.00342465753425,8.67814485381e-05,0.121518872973
+418,d_Gc_positive.gml,pos,GlaxoSmithKline,2,0.00342465753425,0.0,0.00616438356164
+419,d_Gc_positive.gml,pos,state-level policies,3,0.00513698630137,0.0,0.146202934351
+420,d_Gc_positive.gml,pos,daughters,3,0.00513698630137,0.0,0.0
+421,d_Gc_positive.gml,pos,home-school,2,0.00342465753425,7.08120603442e-05,0.0935600385274
+422,d_Gc_positive.gml,pos,protect the kid next to you,1,0.00171232876712,0.0,0.0
+423,d_Gc_positive.gml,pos,HPV,7,0.0119863013699,0.0,0.0
+424,d_Gc_positive.gml,pos,multi-site protection,7,0.0119863013699,0.00206184355835,0.00684931506849
+425,d_Gc_positive.gml,pos,reduction in HPV,1,0.00171232876712,0.0,0.0
+426,d_Gc_positive.gml,pos,risk of fainting,2,0.00342465753425,0.0,0.150686003052
+427,d_Gc_positive.gml,pos,bad news,1,0.00171232876712,0.0,0.0
+428,d_Gc_positive.gml,pos,Hinduism,2,0.00342465753425,0.0,0.146826971266
+429,d_Gc_positive.gml,pos,party lines,1,0.00171232876712,0.0,0.0
+430,d_Gc_positive.gml,pos,programs,1,0.00171232876712,0.0,0.00171232876712
+431,d_Gc_positive.gml,pos,revaccinated,1,0.00171232876712,0.0,0.0
+432,d_Gc_positive.gml,pos,German measles,1,0.00171232876712,0.0,0.0
+433,d_Gc_positive.gml,pos,harmful association,3,0.00513698630137,4.47556971847e-05,0.130089807065
+434,d_Gc_positive.gml,pos,fever,2,0.00342465753425,0.0,0.0
+435,d_Gc_positive.gml,pos,partial protection,2,0.00342465753425,0.0,0.00171232876712
+436,d_Gc_positive.gml,pos,prevention,2,0.00342465753425,0.0,0.0
+437,d_Gc_positive.gml,pos,mumps vaccine,1,0.00171232876712,0.0,0.0
+438,d_Gc_positive.gml,pos,unvaccinated children,11,0.0188356164384,0.00313431642669,0.122701689872
+439,d_Gc_positive.gml,pos,reduced effectiveness,1,0.00171232876712,0.0,0.0
+440,d_Gc_positive.gml,pos,vaccines cause neurological problems,1,0.00171232876712,0.0,0.0
+441,d_Gc_positive.gml,pos,promising news,3,0.00513698630137,0.0012544559989,0.123295562149
+442,d_Gc_positive.gml,pos,eliminated virus,5,0.00856164383562,0.000690218285204,0.00171232876712
+443,d_Gc_positive.gml,pos,unable to speak,1,0.00171232876712,0.0,0.0
+444,d_Gc_positive.gml,pos,Dutch Bible belt,1,0.00171232876712,0.0,0.0
+445,d_Gc_positive.gml,pos,high-risk types of HPV,5,0.00856164383562,0.0,0.0
+446,d_Gc_positive.gml,pos,cervix,1,0.00171232876712,0.0,0.0
+447,d_Gc_positive.gml,pos,cancer,7,0.0119863013699,0.0,0.0
+448,d_Gc_positive.gml,pos,vaccine safety,4,0.00684931506849,0.0,0.0
+449,d_Gc_positive.gml,pos,whooping cough,6,0.0102739726027,0.00206471761365,0.135701812255
+450,d_Gc_positive.gml,pos,parents,58,0.0993150684932,0.0346118828521,0.23574182936
+451,d_Gc_positive.gml,pos,choice,1,0.00171232876712,0.0,0.0
+452,d_Gc_positive.gml,pos,at-risk vaccinated children,1,0.00171232876712,0.0,0.102379350713
+453,d_Gc_positive.gml,pos,anti-vaccine eugenics community,2,0.00342465753425,0.0,0.00171232876712
+454,d_Gc_positive.gml,pos,personal belief reasons,3,0.00513698630137,0.0,0.0
+455,d_Gc_positive.gml,pos,hospitalizations,2,0.00342465753425,0.0,0.0
+456,d_Gc_positive.gml,pos,careers,1,0.00171232876712,0.0,0.0
+457,d_Gc_positive.gml,pos,insurance claims,1,0.00171232876712,0.0,0.0
+458,d_Gc_positive.gml,pos,victims,1,0.00171232876712,0.0,0.0
+459,d_Gc_positive.gml,pos,myth,4,0.00684931506849,0.000690218285204,0.00171232876712
+460,d_Gc_positive.gml,pos,Gardasil 4,1,0.00171232876712,0.0,0.00171232876712
+461,d_Gc_positive.gml,pos,Gardasil 9,1,0.00171232876712,0.0,0.00171232876712
+462,d_Gc_positive.gml,pos,minor symptoms,5,0.00856164383562,0.00206184355835,0.00684931506849
+463,d_Gc_positive.gml,pos,vaccinated girls,3,0.00513698630137,0.00213233393642,0.111609365624
+464,d_Gc_positive.gml,pos,JAMA study,6,0.0102739726027,0.0,0.146521117003
+465,d_Gc_positive.gml,pos,projects,1,0.00171232876712,0.0,0.0
+466,d_Gc_positive.gml,pos,Pakistan,1,0.00171232876712,0.0,0.0
+467,d_Gc_positive.gml,pos,Western Hemisphere,1,0.00171232876712,0.0,0.0
+468,d_Gc_positive.gml,pos,side effects,16,0.027397260274,0.0120689772016,0.101964111805
+469,d_Gc_positive.gml,pos,aborted fetuses,3,0.00513698630137,0.0,0.0
+470,d_Gc_positive.gml,pos,children at higher risk for autism,12,0.0205479452055,0.0125275130532,0.129747399041
+471,d_Gc_positive.gml,pos,people,4,0.00684931506849,0.00425777316539,0.109567108248
+472,d_Gc_positive.gml,pos,Dutch reformed churches,5,0.00856164383562,0.00183908311292,0.131528664816
+473,d_Gc_positive.gml,pos,vaccine delay,11,0.0188356164384,0.00784757924403,0.154924772723
+474,d_Gc_positive.gml,pos,hepatitis A vaccine,4,0.00684931506849,7.83226422927e-06,0.00342465753425
+475,d_Gc_positive.gml,pos,vaccination rate,10,0.0171232876712,0.0087072708534,0.146850826873
+476,d_Gc_positive.gml,pos,run down feeling,1,0.00171232876712,0.0,0.0
+477,d_Gc_positive.gml,pos,driving factors,3,0.00513698630137,0.0,0.178499801984
+478,d_Gc_positive.gml,pos,make plans ahead of time,1,0.00171232876712,0.0,0.0
+479,d_Gc_positive.gml,pos,nervous system problems,1,0.00171232876712,0.0,0.0
+480,d_Gc_positive.gml,pos,long-term disabilities,5,0.00856164383562,0.00214573503376,0.00684931506849
+481,d_Gc_positive.gml,pos,magnitude of benefits,1,0.00171232876712,0.0,0.0966010342302
+482,d_Gc_positive.gml,pos,vaccinated children,9,0.0154109589041,0.00116015413896,0.151540610261
+483,d_Gc_positive.gml,pos,HPV strains,3,0.00513698630137,0.0,0.0
+484,d_Gc_positive.gml,pos,religion,7,0.0119863013699,0.00431056345809,0.152265542677
+485,d_Gc_positive.gml,pos,measles vaccine,23,0.0393835616438,0.0147414989447,0.111974613665
+486,d_Gc_positive.gml,pos,developmental disability,4,0.00684931506849,0.000762180673879,0.142822718324
+487,d_Gc_positive.gml,pos,infectious disease,6,0.0102739726027,0.00395003812634,0.13081032148
+488,d_Gc_positive.gml,pos,University of Minnesota,1,0.00171232876712,0.0,0.0
+489,d_Gc_positive.gml,pos,Muslim fundamentalists,4,0.00684931506849,0.00706881427352,0.104091133694
+490,d_Gc_positive.gml,pos,serogroup C,1,0.00171232876712,0.0,0.0
+491,d_Gc_positive.gml,pos,serogroup B,1,0.00171232876712,0.0,0.0
+492,d_Gc_positive.gml,pos,preventable disease,3,0.00513698630137,0.0,0.0
+493,d_Gc_positive.gml,pos,children with cancer,3,0.00513698630137,0.000282683427574,0.136087328767
+494,d_Gc_positive.gml,pos,tuition,1,0.00171232876712,0.0,0.0
+495,d_Gc_positive.gml,pos,state vaccination rates,3,0.00513698630137,0.0,0.0712029184735
+496,d_Gc_positive.gml,pos,serogroup Y,1,0.00171232876712,0.0,0.0
+497,d_Gc_positive.gml,pos,whooping cough vaccine,1,0.00171232876712,0.0,0.0
+498,d_Gc_positive.gml,pos,vaccine,2,0.00342465753425,0.0,0.0
+499,d_Gc_positive.gml,pos,Cervarix,3,0.00513698630137,0.0,0.095896548338
+500,d_Gc_positive.gml,pos,Jill Hennessy,2,0.00342465753425,0.000687281186118,0.00171232876712
+501,d_Gc_positive.gml,pos,world,2,0.00342465753425,0.0,0.0
+502,d_Gc_positive.gml,pos,Johns Hopkins University,1,0.00171232876712,0.0,0.0
+503,d_Gc_positive.gml,pos,Dr. Mark Schleiss,3,0.00513698630137,0.0,0.125426117511
+504,d_Gc_positive.gml,pos,carrier,4,0.00684931506849,0.000690218285204,0.00171232876712
+505,d_Gc_positive.gml,pos,Americans,1,0.00171232876712,0.0,0.11374408733
+506,d_Gc_positive.gml,pos,mouth,1,0.00171232876712,0.0,0.0
+507,d_Gc_positive.gml,pos,deafness,1,0.00171232876712,0.0,0.0
+508,d_Gc_positive.gml,pos,true cause of autism,1,0.00171232876712,0.0,0.0
+509,d_Gc_positive.gml,pos,meningococcal vaccine,18,0.0308219178082,0.00735356252233,0.116494989606
+510,d_Gc_positive.gml,pos,commitment,1,0.00171232876712,0.0,0.0
+511,d_Gc_positive.gml,pos,childhood mortality,9,0.0154109589041,0.00574577515137,0.115483943409
+512,d_Gc_positive.gml,pos,Eagle Mountain International Church,3,0.00513698630137,0.00852086605041,0.143765725468
+513,d_Gc_positive.gml,pos,one child,1,0.00171232876712,0.0,0.112521604148
+514,d_Gc_positive.gml,pos,health benefits,9,0.0154109589041,0.0114268138122,0.122014110357
+515,d_Gc_positive.gml,pos,MMR vaccine safety,3,0.00513698630137,0.0,0.0
+516,d_Gc_positive.gml,pos,vaccination,51,0.0873287671233,0.0350683439096,0.163826059255
+517,d_Gc_positive.gml,pos,outbreaks,7,0.0119863013699,0.00923926657873,0.135624970912
+518,d_Gc_positive.gml,pos,religious beliefs,3,0.00513698630137,0.0,0.0
+519,d_Gc_positive.gml,pos,fast,1,0.00171232876712,0.0,0.0
+520,d_Gc_positive.gml,pos,early education,1,0.00171232876712,0.0,0.0
+521,d_Gc_positive.gml,pos,Dr. Bill Adams,2,0.00342465753425,2.93709908597e-06,0.00171232876712
+522,d_Gc_positive.gml,pos,HPV vaccine,34,0.0582191780822,0.0400913879075,0.169148092253
+523,d_Gc_positive.gml,pos,Senator Jeff Stone,1,0.00171232876712,0.0,0.00228310502283
+524,d_Gc_positive.gml,pos,funds,1,0.00171232876712,0.0,0.0
+525,d_Gc_positive.gml,pos,pro-vaccination,4,0.00684931506849,0.00115879048581,0.119000186557
+526,d_Gc_positive.gml,pos,boys,4,0.00684931506849,0.00013795718304,0.0956524355552
+527,d_Gc_positive.gml,pos,link,1,0.00171232876712,0.0,0.0
+528,d_Gc_positive.gml,pos,reassurance,3,0.00513698630137,0.000205376653587,0.10449616803
+529,d_Gc_positive.gml,pos,Victoria's health minister,1,0.00171232876712,0.0,0.0
+530,d_Gc_positive.gml,pos,fraud,2,0.00342465753425,0.0,0.0
+531,d_Gc_positive.gml,pos,vaccine success,1,0.00171232876712,0.0,0.0
+532,d_Gc_positive.gml,pos,complications,1,0.00171232876712,0.0,0.0
+533,d_Gc_positive.gml,pos,childcare rebate,1,0.00171232876712,0.0,0.0
+534,d_Gc_positive.gml,pos,Pan American Health Organization,1,0.00171232876712,0.0,0.103942546922
+535,d_Gc_positive.gml,pos,money,5,0.00856164383562,0.00206184355835,0.00513698630137
+536,d_Gc_positive.gml,pos,adults,2,0.00342465753425,0.00330700573657,0.10118871932
+537,d_Gc_positive.gml,pos,deaths,4,0.00684931506849,0.00390764938679,0.112712328767
+538,d_Gc_positive.gml,pos,vaccine debate,3,0.00513698630137,2.05596936018e-05,0.00171232876712
+539,d_Gc_positive.gml,pos,sales,1,0.00171232876712,0.0,0.0
+540,d_Gc_positive.gml,pos,vaccinated individuals,1,0.00171232876712,0.0,0.0
+541,d_Gc_positive.gml,pos,evidence,7,0.0119863013699,0.00865437224962,0.131818216087
+542,d_Gc_positive.gml,pos,sibling,1,0.00171232876712,0.0,0.0
+543,d_Gc_positive.gml,pos,health care,4,0.00684931506849,0.00255845106905,0.146491558795
+544,d_Gc_positive.gml,pos,exist,1,0.00171232876712,0.0,0.0
+545,d_Gc_positive.gml,pos,vaccination policy,1,0.00171232876712,0.0,0.0
+546,d_Gc_positive.gml,pos,families,9,0.0154109589041,0.0161839037079,0.140642218808
+547,d_Gc_positive.gml,pos,education,1,0.00171232876712,0.0,0.0
+548,d_Gc_positive.gml,pos,autism,39,0.0667808219178,0.0397464097104,0.161724306975
+549,d_Gc_positive.gml,pos,sibling with autism,1,0.00171232876712,0.0,0.0
+550,d_Gc_positive.gml,pos,preventing cancer,1,0.00171232876712,0.0,0.0
+551,d_Gc_positive.gml,pos,National Institutes of Health,1,0.00171232876712,0.0,0.0
+552,d_Gc_positive.gml,pos,SB 277,22,0.0376712328767,0.0209444625134,0.165524325245
+553,d_Gc_positive.gml,pos,California governor,2,0.00342465753425,0.0,0.106358760105
+554,d_Gc_positive.gml,pos,field,1,0.00171232876712,0.0,0.0
+555,d_Gc_positive.gml,pos,vaccine requirements,7,0.0119863013699,0.00316902851392,0.10926719828
+556,d_Gc_positive.gml,pos,role,1,0.00171232876712,0.0,0.0
+557,d_Gc_positive.gml,pos,The Lancet,1,0.00171232876712,0.0,0.00171232876712
+558,d_Gc_positive.gml,pos,sexually active,7,0.0119863013699,0.00018502325623,0.00171232876712
+559,d_Gc_positive.gml,pos,immunity,6,0.0102739726027,0.0,0.0
+560,d_Gc_positive.gml,pos,expected,1,0.00171232876712,0.0,0.0
+561,d_Gc_positive.gml,pos,sense of urgency,1,0.00171232876712,0.0,0.0
+562,d_Gc_positive.gml,pos,rubella,13,0.0222602739726,0.010135103744,0.15178307898
+563,d_Gc_positive.gml,pos,former gastroenterologist,1,0.00171232876712,0.0,0.0
+564,d_Gc_positive.gml,pos,varicella vaccine,3,0.00513698630137,1.95806605732e-06,0.00342465753425
+565,d_Gc_positive.gml,pos,Governor Jerry Brown,2,0.00342465753425,0.0,0.132597044536
+566,d_Gc_positive.gml,pos,time,1,0.00171232876712,0.0,0.0
+567,d_Gc_positive.gml,pos,HPV infection,3,0.00513698630137,0.0,0.0
+568,d_Gc_positive.gml,pos,variation,2,0.00342465753425,2.93709908597e-06,0.00171232876712
+569,d_Gc_positive.gml,pos,loss of limb,1,0.00171232876712,0.0,0.0
+570,d_Gc_positive.gml,pos,Early Childhood Australia,3,0.00513698630137,0.000690218285204,0.00171232876712
+571,d_Gc_positive.gml,pos,parents who refuse to vaccinate their children,11,0.0188356164384,0.00776194867853,0.0895378312636
+572,d_Gc_positive.gml,pos,age 26,1,0.00171232876712,0.0,0.0
+573,d_Gc_positive.gml,pos,Robert F. Kennedy Jr.,2,0.00342465753425,0.00331649879185,0.146670972829
+574,d_Gc_positive.gml,pos,friends,1,0.00171232876712,0.0,0.173110160228
+575,d_Gc_positive.gml,pos,Catholic Church,1,0.00171232876712,0.0,0.101010520098
+576,d_Gc_positive.gml,pos,Amish,3,0.00513698630137,0.00035981328628,0.127604527773
+577,d_Gc_positive.gml,pos,scheduled appointment,1,0.00171232876712,0.0,0.0
+578,d_Gc_positive.gml,pos,meningococcal disease symptoms,4,0.00684931506849,0.0,0.00684931506849
+579,d_Gc_positive.gml,pos,Netherlands Reformed Congregation,2,0.00342465753425,0.0,0.0
+580,d_Gc_positive.gml,pos,immune protection,3,0.00513698630137,0.0,0.0
+581,d_Gc_positive.gml,pos,environmental trigger,2,0.00342465753425,0.0,0.0
+582,d_Gc_positive.gml,pos,serogroups,1,0.00171232876712,0.0,0.0
+583,d_Gc_positive.gml,pos,overseas,3,0.00513698630137,0.00516228030224,0.122890558558
+584,d_Gc_positive.gml,pos,Tdap vaccine,12,0.0205479452055,0.0310033143695,0.178475185268

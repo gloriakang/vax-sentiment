@@ -1,7 +1,7 @@
 graph [
   directed 1
   multigraph 1
-  name "article_neu1.gml"
+  name "directed Gc"
   node [
     id 0
     label "influenza"

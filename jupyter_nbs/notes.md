@@ -1,3 +1,94 @@
+# Final results.
+
+## 00_Gc_negative; 00_Gc_neutral; 00_Gc_positive
+1. Loads sentiment network graph file: *"article_neg1.gml"*
+- Table of all nodes labels, degrees, and centralities: *"nodes_df_negative.csv"*
+- Draws component subgraphs from directed and undirected representations of the network
+- Prints sizes for all connected components
+- Note: the difference in average degree (undirected) and average in/out degree (directed)
+- Prints greatest component (Gc) info
+- Saves Gc as graph files: *"d_Gc_negative.gml"* and *"u_Gc_negative.gml"*
+
+1. Loads greatest component network graph file: *"d_Gc_negative.gml"*
+- Calculates network-wide statistics for Gc: saves as *"Gc_df_neg.csv"*
+- Calculates minimum node and edge cuts with given source and target node; prints edge labels
+- Prints table of betweenness, closeness, and degree centrality
+
+
+
+
+
+------------------------------------------------
+# Second half.
+## 6_sentiment_graph_calculation
+
+- Takes all article networks and composes new graph by identifying nodes common to both.
+- nx.compose_all() creates:
+  - positive_all.gml (positive_uall.gml)
+  - negative_all.gml (negative_uall.gml)
+  - neutral_all.gml (neutral_uall.gml)
+- But did I even use these composed graphs??
+
+- Manually combine article csv files into sentiment-level csv file
+  - article_neg1.csv; article_neu1.csv; article_pos1.csv
+- Run python script to convert into gmls:
+  - article_neg1.gml; article_neu1.gml; article_pos1.gml
+
+
+---
+## 7_negative_graph_calculation; 7_positive_graph_calculation
+- Template from 6_sentiment_graph
+
+
+
+---
+
+- Final in output/df as:
+  - 'network_df_negative.csv'
+  - 'network_df_neutral.csv'
+  - 'network_df_positive.csv'
+
+
+---
+## 8_single_calc_neg; 8_single_calc_pos
+
+
+
+---
+## 9_draw
+
+
+
+---
+## 0_draw_cc
+
+
+
+---
+## 0_Gc
+This is a template for all analysis on greatest component graphs.
+
+
+
+---
+## 0_Gc_nodes
+
+
+
+
+---
+## 0_graph_negative; 0_graph_neutral; 0_graph_positive
+
+
+
+
+
+
+
+
+
+-----------------------------------------------------
+# First half.
 ## 1_network_df
 
 - Takes the outputted gml files generated from the python script (first run)
@@ -49,32 +140,8 @@ Calculates network averages for sentiment-level graph.
 ---
 ## 5_node_union_df
 
-- FINAL OUTPUT is renamed in '../output/df' as:
+- FINAL OUTPUT is renamed? in '../output/df' as:
   - nodes_df_negative.csv
   - nodes_df_neutral.csv
   - nodes_df_positive.csv
 - The final csv files contain all nodes, degrees, and centralities.
-
----
-## start here:
-
-0_Gc
-6_sentiment_graph_calculation
-
-
-- Final output is renamed in output/df as:
-  - 'network_df_negative.csv'
-  - 'network_df_neutral.csv'
-  - 'network_df_positive.csv'
-
-
-7_negative_graph_calculation
-7_positive_graph_calculation
-8_single_calc_neg
-8_single_calc_pos
-9_draw
-0_draw_cc
-0_Gc_nodes
-0_graph_negative
-0_graph_neutral
-0_graph_positive

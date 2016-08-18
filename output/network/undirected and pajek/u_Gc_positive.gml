@@ -1,6 +1,6 @@
 graph [
   multigraph 1
-  name "article_pos1.gml"
+  name "undirected Gc"
   node [
     id 0
     label "neighbors"
