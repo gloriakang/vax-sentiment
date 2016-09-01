@@ -1,17 +1,24 @@
-/output/gephi
+# Gephi files
 
-1. Gephi project files
+1. Gephi project
   - vax-project1.gephi
 
-2. Full combined sentiment-level network graph visualizations
+2. Sentiment network graphs
   - negative.pdf
   - (negative2.pdf? check)
   - neutral.pdf
   - positive.pdf
 
-3. K-core visualization files (gml and pdf)
-  - kcore_negative.gml (pdf)
+3. Greatest component graphs
+  - neg_Gc.pdf
+  - neu_Gc.pdf
+  - pos_Gc.pdf
+
+4. K-core graphs
+  - kcore_negative.gml/pdf
+  - kcore4_negative.gml/pdf
   - kcore_neutral.gml
-  - kcore_positve.gml
-  - kcore4_negative.gml (pdf)
+  - kcore2_neutral.pdf
+  - kcore_positive.gml
+  - kcore5_positve.pdf
   - kcore4_positive.gml

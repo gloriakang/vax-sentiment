@@ -1,9 +1,7 @@
 *ipynb_checkpoints/
-
 *.png
+*.gephi_temp*
 
 article_saved_html/
 
 .DS_Store
-
-
