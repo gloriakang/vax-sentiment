@@ -8938,18 +8938,18 @@ graph [
   ]
   edge [
     source 385
+    target 488
+    key 0
+    edge "have"
+    label "Muslim fundamentalists - have - polio vaccine opposition"
+  ]
+  edge [
+    source 385
     target 446
     key 0
     edge "because of conspiracy belief to"
     comments "by Muslim fundamentalists"
     label "polio vaccine opposition - because of conspiracy belief to - sterilize Muslims"
-  ]
-  edge [
-    source 385
-    target 488
-    key 0
-    edge "have"
-    label "Muslim fundamentalists - have - polio vaccine opposition"
   ]
   edge [
     source 385
