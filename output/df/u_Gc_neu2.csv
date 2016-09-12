@@ -1,0 +1,2 @@
+,name,sentiment,# nodes,# edges,density,deg assort coef,avg deg cent,avg bet cent,avg clo cent,high deg cent,high bet cent,high clo cent,avg node conn
+0,u_Gc_neutral2.gml,neu,171.0,216.0,0.0149,-0.3055,0.0149,0.0342,0.1533,"(u'SB 277', 0.18235294117647058)","(u'vaccines', 0.5748810766910318)","(u'vaccines', 0.23351648351648352)",1.035
