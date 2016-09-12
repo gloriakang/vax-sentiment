@@ -1,0 +1,4 @@
+,name,# nodes,# edges,density,deg assort coef,avg deg cent,avg bet cent,avg clo cent,high deg cent,high bet cent,high clo cent,avg node conn,# conn comp,gc size
+0,article_u_neg.gml,1257.0,1854.0,0.0023,-0.034,0.0023,0.0025,0.1778,"(u'vaccines', 0.09554140127388536)","(u'vaccines', 0.26974879374416527)","(u'vaccines', 0.3248109702359492)",0.9735,,
+1,article_u_neu.gml,201.0,236.0,0.0117,-0.2586,0.0117,0.0210,0.1120,"(u'SB 277', 0.155)","(u'vaccines', 0.4149832495812399)","(u'vaccines', 0.19848901098901098)",0.75,,
+2,article_u_pos.gml,652.0,1094.0,0.0052,-0.0961,0.0052,0.0043,0.1850,"(u'vaccines', 0.0967741935483871)","(u'parents', 0.21872504851278168)","(u'parents', 0.33074213719375006)",1.0567,,
