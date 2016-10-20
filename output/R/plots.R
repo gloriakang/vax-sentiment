@@ -1,0 +1,95 @@
+# plots for betweenness, closeness, and degree centrality
+
+#rm(list = ls(all.names = TRUE))
+setwd("~/git/vax-sentiment")
+
+library(ggplot2)
+
+u_Gc_nodes_neg2 = read.csv("output/df/final_undirected/u_Gc_nodes_neg2.csv")
+u_Gc_nodes_neu2 = read.csv("output/df/final_undirected/u_Gc_nodes_neu2.csv")
+u_Gc_nodes_pos2 = read.csv("output/df/final_undirected/u_Gc_nodes_pos2.csv")
+
+
+multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
+  library(grid)
+
+  # Make a list from the ... arguments and plotlist
+  plots <- c(list(...), plotlist)
+  numPlots = length(plots)
+
+  # If layout is NULL, then use 'cols' to determine layout
+  if (is.null(layout)) {
+    # Make the panel
+    # ncol: Number of columns of plots
+    # nrow: Number of rows needed, calculated from # of cols
+    layout <- matrix(seq(1, cols * ceiling(numPlots/cols)),
+                     ncol = cols, nrow = ceiling(numPlots/cols))
+  }
+
+  if (numPlots==1) {
+    print(plots[[1]])
+
+  } else {
+    # Set up the page
+    grid.newpage()
+    pushViewport(viewport(layout = grid.layout(nrow(layout), ncol(layout))))
+
+    # Make each plot, in the correct location
+    for (i in 1:numPlots) {
+      # Get the i,j matrix positions of the regions that contain this subplot
+      matchidx <- as.data.frame(which(layout == i, arr.ind = TRUE))
+
+      print(plots[[i]], vp = viewport(layout.pos.row = matchidx$row,
+                                      layout.pos.col = matchidx$col))
+    }
+  }
+}
+
+
+
+# scatter plots = a is preferred
+
+# positive
+a <- ggplot(data = u_Gc_nodes_pos2, mapping = aes(x = bet.cent, y = clo.cent, size = deg.cent, color = deg.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
+#b = ggplot(data = u_Gc_nodes_pos2, mapping = aes(x = bet.cent, y = deg.cent, size = clo.cent, color = clo.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
+#c = ggplot(data = u_Gc_nodes_pos2, mapping = aes(x = clo.cent, y = deg.cent, size = bet.cent, color = bet.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
+#multiplot(a,b,c)
+
+
+# negative
+d <- ggplot(data = u_Gc_nodes_neg2, mapping = aes(x = bet.cent, y = clo.cent, size = deg.cent, color = deg.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
+# e = ggplot(data = Gc_nodes_negative, mapping = aes(x = bet.cent, y = deg.cent, size = clo.cent, color = clo.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
+# f = ggplot(data = Gc_nodes_negative, mapping = aes(x = clo.cent, y = deg.cent, size = bet.cent, color = bet.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
+# multiplot(d,e,f)
+
+
+# neutral
+g <- ggplot(data = u_Gc_nodes_neu2, mapping = aes(x = bet.cent, y = clo.cent, size = deg.cent, color = deg.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
+# h = ggplot(data = Gc_nodes_neutral, mapping = aes(x = bet.cent, y = deg.cent, size = clo.cent, color = clo.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
+# i = ggplot(data = Gc_nodes_neutral, mapping = aes(x = clo.cent, y = deg.cent, size = bet.cent, color = bet.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
+# multiplot(g,h,i)
+
+multiplot(a,d,g)
+
+
+#
+# a = ggplot(data = Gc_nodes_positive, mapping = aes(y = bet.cent, x = deg.cent)) + geom_text(aes(label = node)) + geom_jitter()
+# b = ggplot(data = Gc_nodes_positive, mapping = aes(y = clo.cent, x = deg.cent)) + geom_text(aes(label = node)) + geom_jitter()
+# c = ggplot(data = Gc_nodes_positive, mapping = aes(y = clo.cent, x = bet.cent)) + geom_text(aes(label = node)) + geom_jitter()
+# multiplot(a,b,c)
+
+
+# violin multiplot
+# a = ggplot(data = Gc_nodes_positive, mapping = aes(y = clo.cent, x = bet.cent, fill = degree)) + geom_violin()
+# b = ggplot(data = Gc_nodes_positive, mapping = aes(y = bet.cent, x = clo.cent, fill = deg.cent)) + geom_violin()
+# multiplot(a,b)
+
+
+# box plots
+# a = ggplot(data = Gc_nodes_positive, mapping = aes(y = bet.cent, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
+# b = ggplot(data = Gc_nodes_positive, mapping = aes(y = deg.cent, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
+# c = ggplot(data = Gc_nodes_positive, mapping = aes(y = degree, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
+# d = ggplot(data = Gc_nodes_positive, mapping = aes(y = density, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
+# multiplot(a,b,c,d)
+
+
