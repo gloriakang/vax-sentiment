@@ -1,13 +1,24 @@
+---
+title: "R Notebook"
+output: 
+  html_notebook: 
+    fig_height: 6
+---
+
 # plots for betweenness, closeness, and degree centrality
 
+```{r}
 rm(list = ls(all.names = TRUE))
+getwd()
+
 library(ggplot2)
 
-u_Gc_nodes_neg2 = read.csv("output/df/final_undirected/u_Gc_nodes_neg2.csv")
-u_Gc_nodes_neu2 = read.csv("output/df/final_undirected/u_Gc_nodes_neu2.csv")
-u_Gc_nodes_pos2 = read.csv("output/df/final_undirected/u_Gc_nodes_pos2.csv")
+u_Gc_nodes_neg2 = read.csv("../df/final_undirected/u_Gc_nodes_neg2.csv")
+u_Gc_nodes_neu2 = read.csv("../df/final_undirected/u_Gc_nodes_neu2.csv")
+u_Gc_nodes_pos2 = read.csv("../df/final_undirected/u_Gc_nodes_pos2.csv")
+```
 
-
+```{r}
 multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
   library(grid)
 
@@ -42,9 +53,9 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
     }
   }
 }
+```
 
-
-
+```{r}
 # scatter plots: a is preferred
 
 # positive
@@ -71,7 +82,10 @@ g <- ggplot(data = u_Gc_nodes_neu2, mapping = aes(x = bet.cent, y = clo.cent, si
 
 multiplot(a,d,g)
 
+```
 
+
+```{r}
 #
 # a = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = bet.cent, x = deg.cent)) + geom_text(aes(label = node)) + geom_jitter()
 # b = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = clo.cent, x = deg.cent)) + geom_text(aes(label = node)) + geom_jitter()
@@ -91,5 +105,5 @@ multiplot(a,d,g)
 # c = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = degree, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
 # d = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = density, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
 # multiplot(a,b,c,d)
-
+```
 

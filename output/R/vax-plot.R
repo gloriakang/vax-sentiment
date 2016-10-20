@@ -1,9 +1,8 @@
 # scratch file
-
 # plots for betweenness, closeness, and degree centrality
 
 library(ggplot2)
-#View(Gc_nodes_positive)
+View(u_Gc_nodes_pos2)
 
 multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
   library(grid)
@@ -42,20 +41,17 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
 }
 
 
-a =
-ggplot(data = Gc_nodes_positive, mapping = aes(y = bet.cent, x = deg.cent)) + geom_text(aes(label = node)) + geom_jitter()
+a <- ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = bet.cent, x = deg.cent)) + geom_text(aes(label = node)) + geom_jitter()
 
-b =
-ggplot(data = Gc_nodes_positive, mapping = aes(y = clo.cent, x = deg.cent)) + geom_text(aes(label = node)) + geom_jitter()
+b <- ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = clo.cent, x = deg.cent)) + geom_text(aes(label = node)) + geom_jitter()
 
-c =
-ggplot(data = Gc_nodes_positive, mapping = aes(y = clo.cent, x = bet.cent)) + geom_text(aes(label = node)) + geom_jitter()
+c <- ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = clo.cent, x = bet.cent)) + geom_text(aes(label = node)) + geom_jitter()
 
 multiplot(a,b,c)
 
 
-#ggplot(data = Gc_nodes_positive, mapping = aes(y = deg.cent, x = sentiment)) + geom_boxplot()
+#ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = deg.cent, x = sentiment)) + geom_boxplot()
 
-#ggplot(data = Gc_nodes_positive, mapping = aes(y = bet.cent, x = deg.cent, color = sentiment)) + geom_point(alpha=0.5)
+#ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = bet.cent, x = deg.cent, color = sentiment)) + geom_point(alpha=0.5)
 
-# ggplot(data = Gc_nodes_positive, mapping = aes(x = sentiment, y = ))
+# ggplot(data = u_Gc_nodes_pos2, mapping = aes(x = sentiment, y = ))
