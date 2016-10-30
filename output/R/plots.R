@@ -43,47 +43,40 @@ multiplot <- function(..., plotlist=NULL, file, cols=1, layout=NULL) {
   }
 }
 
-
-
-# scatter plots: a is preferred
-
 # positive
-a <- ggplot(data = u_Gc_nodes_pos2, mapping = aes(x = bet.cent, y = clo.cent, size = deg.cent, color = deg.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
-#b = ggplot(data = u_Gc_nodes_pos2, mapping = aes(x = bet.cent, y = deg.cent, size = clo.cent, color = clo.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
-#c = ggplot(data = u_Gc_nodes_pos2, mapping = aes(x = clo.cent, y = deg.cent, size = bet.cent, color = bet.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
-#multiplot(a,b,c)
-
+a <- ggplot(u_Gc_nodes_pos2, mapping = aes(bet.cent, clo.cent, color = deg.cent, size = deg.cent)) +
+  geom_point(alpha=0.5) + geom_text(aes(label = node), alpha=0.9, hjust="inward") + ggtitle("Positive Sentiment")
+a <- a + scale_size(range = c(0,10))
+a
 
 # negative
-d <- ggplot(data = u_Gc_nodes_neg2, mapping = aes(x = bet.cent, y = clo.cent, size = deg.cent, color = deg.cent)) +
-  geom_point(alpha=0.7) + geom_text(aes(label = node))
-# e = ggplot(data = u_Gc_nodes_neg2, mapping = aes(x = bet.cent, y = deg.cent, size = clo.cent, color = clo.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
-# f = ggplot(data = u_Gc_nodes_neg2, mapping = aes(x = clo.cent, y = deg.cent, size = bet.cent, color = bet.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
-# multiplot(d,e,f)
+b <- ggplot(u_Gc_nodes_neg2, mapping = aes(bet.cent, clo.cent, size = deg.cent, color = deg.cent)) +
+  geom_point(alpha=0.5) + geom_text(aes(label = node), alpha = 0.9, hjust = "inward") + ggtitle("Negative Sentiment")
+b <- b + scale_size(range = c(0,10))
+
+b
+b + scale_x_log10() + scale_y_log10()
 
 
 # neutral
-g <- ggplot(data = u_Gc_nodes_neu2, mapping = aes(x = bet.cent, y = clo.cent, size = deg.cent, color = deg.cent)) +
-  geom_point(alpha=0.7) + geom_text(aes(label = node))
-# h = ggplot(data = u_Gc_nodes_neu2, mapping = aes(x = bet.cent, y = deg.cent, size = clo.cent, color = clo.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
-# i = ggplot(data = u_Gc_nodes_neu2, mapping = aes(x = clo.cent, y = deg.cent, size = bet.cent, color = bet.cent)) + geom_point(alpha=0.7) + geom_text(aes(label = node))
-# multiplot(g,h,i)
+c <- ggplot(u_Gc_nodes_neu2, mapping = aes(bet.cent, clo.cent, size = deg.cent, color = deg.cent)) +
+  geom_point(alpha=0.5) + geom_text(aes(label = node), alpha = 0.9, hjust="inward") + ggtitle("Neutral Sentiment")
+c <- c + scale_size(range = c(0,10))
+c
 
-multiplot(a,d,g)
+multiplot(a,b,c)
 
 
-#
+
 # a = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = bet.cent, x = deg.cent)) + geom_text(aes(label = node)) + geom_jitter()
 # b = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = clo.cent, x = deg.cent)) + geom_text(aes(label = node)) + geom_jitter()
 # c = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = clo.cent, x = bet.cent)) + geom_text(aes(label = node)) + geom_jitter()
 # multiplot(a,b,c)
 
-
 # violin multiplot
 # a = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = clo.cent, x = bet.cent, fill = degree)) + geom_violin()
 # b = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = bet.cent, x = clo.cent, fill = deg.cent)) + geom_violin()
 # multiplot(a,b)
-
 
 # box plots
 # a = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = bet.cent, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
@@ -91,5 +84,3 @@ multiplot(a,d,g)
 # c = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = degree, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
 # d = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = density, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
 # multiplot(a,b,c,d)
-
-
