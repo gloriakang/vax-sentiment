@@ -77,11 +77,11 @@ df = read.csv("output/R/all-nodes.csv")
 
 # Greatest node centrality values with labels for positive and negative networks
 d <- ggplot(df, aes(bet.cent, clo.cent, color = sentiment, size = deg.cent)) +
-  xlim(0.05, 0.35) + ylim(0.3, NA) +
+  xlim(0.05, 0.33) + ylim(0.305, NA) +
   geom_point(position = "jitter", alpha = 0.4) +
-  geom_text(aes(label = node), size = 4.5, position = "jitter", alpha = 1, hjust = "inward") +
+  geom_text(aes(label = node), size = 5, position = "jitter", alpha = 0.8, hjust = "inward") +
   ggtitle("Top node centrality values \nfor positive and negative sentiment networks") + 
-  xlab("betweenness") + ylab("closeness") + labs(size = "degree centrality") +
+  xlab("betweenness centrality") + ylab("closeness centrality") + labs(size = "degree centrality") +
   scale_size_continuous(range = c(0,15))
 d
 
@@ -91,7 +91,7 @@ f <- ggplot(df, aes(clo.cent, bet.cent, color = sentiment, size = deg.cent)) +
   geom_point(position = "jitter", alpha = 0.3) +
   geom_text(aes(label = node), position = "jitter", alpha = 0.7, hjust = "inward") +
   ggtitle("Node centrality measures for \nnegative, neutral, and positive sentiment networks") +
-  xlab("betweenness") + ylab("closeness") + labs(size = "degree centrality") +
+  xlab("betweenness centrality") + ylab("closeness centrality") + labs(size = "degree centrality") +
   scale_size_continuous(range = c(0,10)) +
   facet_wrap(~sentiment, scales = "free")
 f
