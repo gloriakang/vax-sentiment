@@ -98,8 +98,6 @@ multiplot(a,b,c)
 
 
 
-
-
 # a = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = bet.cent, x = deg.cent)) + geom_text(aes(label = node)) + geom_jitter()
 # violin multiplot
 # a = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = clo.cent, x = bet.cent, fill = degree)) + geom_violin()
