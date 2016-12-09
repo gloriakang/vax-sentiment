@@ -42,6 +42,11 @@ plot1 <- ggplot(central_df[central_df$central == "Y", ], aes(bet.cent, clo.cent,
 plot1
 
 
-
+# plot eigenvector centrality
+ggplot(central_df, aes(sentiment, eigen.cent, color = sentiment, size = eigen.cent)) +
+  geom_point(position = "jitter", alpha = 0.3) +
+  geom_text(aes(label = node), position = "jitter", alpha = 0.8) +
+  ggtitle("central nodes for positive, negative, neutral sentiment") +
+  xlab("x") + ylab("eigenvector")
 
 
