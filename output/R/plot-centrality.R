@@ -60,13 +60,17 @@ p1 <- ggplot(central_df[central_df$plot1 == "Y", ], aes(bet.cent, clo.cent, colo
 
 
 # -------------------------------------------- #
+central_df$sentiment_f <- factor(central_df$sentiment, levels=c('positive', 'negative', 'neutral'))
 ### plot1 with facet
-p2 <- ggplot(central_df[central_df$plot1 == "Y", ], aes(bet.cent, clo.cent, color = sentiment, size = deg.cent)) +
+p2 <- ggplot(central_df[central_df$plot1 == "Y", ], aes(bet.cent, clo.cent, color = sentiment_f, size = deg.cent)) +
+  theme_minimal()+
   geom_point(position = "jitter", alpha = 0.3) +
   ggtitle("Nodes by degree, betweenness, and closeness centrality") + 
   xlab("Betweenness centrality") + ylab("Closeness centrality") + labs(size = "Degree centrality") +
   scale_size_continuous(range = c(0,15)) +
-  facet_wrap(~sentiment)
+  scale_color_manual(values = c('#1b9e77', '#d95f02', '#7570b3')) +
+  guides(color=FALSE) +
+  facet_wrap(~sentiment_f, scales="free")
 # no labels
 p2
 
