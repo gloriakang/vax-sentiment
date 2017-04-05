@@ -104,16 +104,19 @@ membership(ceb_pos)
 pos_df <- data.frame('id' = as.character(V(pos)), 'label'=as.character(V(pos)$label))
 pos_community <- communities(ceb_pos)
 pos_df <- add_communities_to_df(pos_df, pos_community)
+#write.csv(pos_df, "pos_comm.csv")
 
 #neg_df <- as_data_frame(neg, what = "vertices")
 neg_df <- data.frame('id' = as.character(V(neg)), 'label'=as.character(V(neg)$label))
 neg_community <- communities(ceb_neg)
 neg_df <- add_communities_to_df(neg_df, neg_community)
+#write.csv(neg_df, "neg_comm.csv")
 
 #neu_df <- as_data_frame(neu, what = "vertices")
 neu_df <- data.frame('id' = as.character(V(neu)), 'label'=as.character(V(neu)$label))
 neu_community <- communities(ceb_neu)
 neu_df <- add_communities_to_df(neu_df, neu_community)
+#write.csv(neu_df, "neu_comm.csv")
 
 
 
