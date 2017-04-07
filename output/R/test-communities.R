@@ -21,21 +21,19 @@ add_communities_to_df <- function(id_label_df, communities){
 #negf <- read_graph("output/network/article_u_neg.gml", "gml")
 #neuf <- read_graph("output/network/article_u_neu.gml", "gml")
 
-
 # load greatest components
-pos <- read_graph("output/network/u_Gc_positive2.gml", "gml")
-neg <- read_graph("output/network/u_Gc_negative2.gml", "gml")
-neu <- read_graph("output/network/u_Gc_neutral2.gml", "gml")
+pos <- read_graph("output/network/u_Gc_positive2.gml", format = "gml")
+neg <- read_graph("output/network/u_Gc_negative2.gml", format = "gml")
+neu <- read_graph("output/network/u_Gc_neutral2.gml", format = "gml")
 
-# read labels
+# to read labels:
 V(pos)
 V(pos)$label
 as_data_frame(pos, what = "vertices")
 
-
-# examine igraph object
+## to examine igraph object:
 #class(net)
-#V(net) # nodes
+#V(net)  # nodes
 #E(net)  # edges
 #net[]  # network matrix
 #plot(net)  # plot network
@@ -43,42 +41,43 @@ as_data_frame(pos, what = "vertices")
 #nodes <- as_data_frame(net, what = "vertices")  # save node labels
 #edges <- as_data_frame(net, what = "edges")  # save edge labels
 
-# modify network data
+## modify network data
 #E(net)$label <- NA  # remove edge labels
 #V(net)$label  # print node labels
 
 #head(V(net)$label)  # check head of node labels
 #head(nodes)  # double-check head of node labels
 
-# set network graph layout for plot
+## set network graph layout for plot
 #layout1 <- layout_on_sphere(net)
 #layout2 <- layout_with_fr(net)
 
-# plot
 #plot(net, layout = layout2, vertex.label.color = "black", vertex.size = 5, vertex.label.cex = .7, vertex.label.font = 1)
 
 
-##########
-# community detection algorithms aim to detect groups that consist of densely connected nodes with fewer connections across groups
-
-# examine communities
-#class(ceb)
-#length(ceb)  # number of communities
-#sizes(ceb)  # number of members per communitity
-#membership(ceb)  # community membership for each node
-#communities(ceb) # list of communities, each identified by their vertices
-#modularity(ceb)  # how modular the graph partitioning is (modularity score)
-
-# view labels
-#V(pos)
-#V(pos)$label
-#View(as_data_frame(pos, what = "vertices"))
-
+####################
+## community detection algorithms aim to detect groups that consist of densely connected nodes with fewer connections across groups
+####################
 
 ## community detection based on edge betweenness (Newman-Girvan)
 ceb_pos <- cluster_edge_betweenness(pos)
 ceb_neg <- cluster_edge_betweenness(neg)
 ceb_neu <- cluster_edge_betweenness(neu)
+
+## to examine communities:
+# class(ceb)
+# length(ceb)  # number of communities
+# sizes(ceb)  # number of members per communitity
+# membership(ceb)  # community membership for each node
+# communities(ceb) # list of communities, each identified by their vertices
+# modularity(ceb)  # how modular the graph partitioning is (modularity score)
+
+## to view labels:
+#V(pos)
+#V(pos)$label
+#View(as_data_frame(pos, what = "vertices"))
+
+
 
 ## number of communities
 length(ceb_pos)
@@ -96,7 +95,6 @@ communities(ceb_pos)
 
 ## membership
 membership(ceb_pos)
-
 
 
 ## communities
@@ -119,13 +117,8 @@ neu_df <- add_communities_to_df(neu_df, neu_community)
 #write.csv(neu_df, "neu_comm.csv")
 
 
-
-
-
-
-# plotting
+## plotting
 #dendPlot(ceb, mode = "hclust")
-
 # plot(ceb, net)
 #plot(ceb, net, layout = layout2, vertex.label.color = "black", vertex.size = 5, vertex.label.cex = .7, vertex.label.font = 1)
 

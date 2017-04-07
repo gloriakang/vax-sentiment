@@ -1,0 +1,80 @@
+---
+title: "Communities"
+output: 
+  html_notebook: 
+    fig_caption: yes
+  pdf_document: 
+    fig_caption: yes
+  html_document: 
+    fig_caption: yes
+    keep_md: yes
+---
+
+```{r}
+rm(list = ls(all.names = TRUE))
+
+library(igraph)
+
+# function
+add_communities_to_df <- function(id_label_df, communities){
+  id_label_df$community <- NA
+  
+  for(i in 1:length(communities)){
+    # print(i)
+    com <-communities[[i]]
+    # print(com)
+    id_label_df[id_label_df$id %in% com, 'community'] <- i
+  }
+  return(id_label_df)
+}
+
+## load greatest components
+pos <- read_graph("~/git/vax-sentiment/output/network/u_Gc_positive2.gml", format = "gml")
+neg <- read_graph("~/git/vax-sentiment/output/network/u_Gc_negative2.gml", format = "gml")
+neu <- read_graph("~/git/vax-sentiment/output/network/u_Gc_neutral2.gml", format = "gml")
+```
+
+```{r}
+## Detecting communitities by iteratively calculating edge betweeness (Girvan & Newman 2001)
+ceb_pos <- cluster_edge_betweenness(pos)
+ceb_neg <- cluster_edge_betweenness(neg)
+ceb_neu <- cluster_edge_betweenness(neu)
+```
+
+Community detection algorithms aim to detect groups that consist of densely connected nodes with fewer connections across groups.
+
+```{r}
+## to examine communities:
+
+# class(ceb)
+# length(ceb)  # number of communities
+# sizes(ceb)  # number of members per communitity
+# membership(ceb)  # community membership for each node
+# communities(ceb) # list of communities, each identified by their vertices
+# modularity(ceb)  # how modular the graph partitioning is (modularity score)
+```
+
+```{r}
+
+```
+
+```{r}
+## save communities by nodes
+pos_df <- data.frame('id' = as.character(V(pos)), 'label'=as.character(V(pos)$label))
+pos_community <- communities(ceb_pos)
+pos_df <- add_communities_to_df(pos_df, pos_community)
+#write.csv(pos_df, "pos_comm.csv")
+
+neg_df <- data.frame('id' = as.character(V(neg)), 'label'=as.character(V(neg)$label))
+neg_community <- communities(ceb_neg)
+neg_df <- add_communities_to_df(neg_df, neg_community)
+#write.csv(neg_df, "neg_comm.csv")
+
+neu_df <- data.frame('id' = as.character(V(neu)), 'label'=as.character(V(neu)$label))
+neu_community <- communities(ceb_neu)
+neu_df <- add_communities_to_df(neu_df, neu_community)
+#write.csv(neu_df, "neu_comm.csv")
+
+```
+
+
