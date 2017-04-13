@@ -106,4 +106,3 @@ multiplot(a,d,g)
 # d = ggplot(data = u_Gc_nodes_pos2, mapping = aes(y = density, x = sentiment, fill = sentiment)) + geom_boxplot() + coord_flip()
 # multiplot(a,b,c,d)
 ```
-

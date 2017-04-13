@@ -5,7 +5,7 @@ library(ggplot2)
 library(ggrepel)
 library(gridExtra)
 
-df = read.csv("output/R/all-nodes.csv")
+df = read.csv("~/git/vax-sentiment/output/R/all-nodes.csv")
 
 # subset by degree > 25
 a1 <- ggplot(df[df$degree > 25, ], aes(bet.cent, clo.cent, color = sentiment, size = deg.cent)) +
@@ -25,7 +25,7 @@ a2 <- ggplot(df, aes(clo.cent, bet.cent, color = sentiment, size = deg.cent)) +
   facet_wrap(~sentiment, scales = "free")
 
 ## subset node data
-central_df = read.csv("output/R/central-nodes.csv")
+central_df = read.csv("~/git/vax-sentiment/output/R/central-nodes.csv")
 
 # top 10 eigenvector: 3 centrality measures; without facet
 a3 <- ggplot(central_df[central_df$central == "Y", ], aes(bet.cent, clo.cent, color = sentiment, size = deg.cent)) +
@@ -87,7 +87,7 @@ p2 + facet_wrap(~sentiment, scales = "free") +
 # text repel
 p2 + facet_wrap(~sentiment, scales = "free") + 
   geom_text_repel(aes(label = node), point.padding = NA, size = 3.5, alpha = 0.9)
-# -------------------------------------------- #
+# ------------
 
 
 

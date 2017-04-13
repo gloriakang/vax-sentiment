@@ -55,10 +55,6 @@ Community detection algorithms aim to detect groups that consist of densely conn
 ```
 
 ```{r}
-
-```
-
-```{r}
 ## save communities by nodes
 pos_df <- data.frame('id' = as.character(V(pos)), 'label'=as.character(V(pos)$label))
 pos_community <- communities(ceb_pos)
@@ -74,7 +70,18 @@ neu_df <- data.frame('id' = as.character(V(neu)), 'label'=as.character(V(neu)$la
 neu_community <- communities(ceb_neu)
 neu_df <- add_communities_to_df(neu_df, neu_community)
 #write.csv(neu_df, "neu_comm.csv")
+```
+
+```{r}
+dendPlot(ceb_neu, mode = "hclust")
+
+plot_dendrogram(ceb_neu, mode = "hclust", label = V(neu)$label, cex = 0.75)
+plot_dendrogram(ceb_pos, mode = "hclust", label = V(pos)$label, cex = 0.75)
+plot_dendrogram(ceb_neg, mode = "hclust", label = V(neg)$label, cex = 0.7)
+
 
 ```
+
+
 
 
