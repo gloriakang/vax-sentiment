@@ -1,0 +1,940 @@
+,u,v,adamic_adar
+101,decreasing effectiveness,preteens,1.44269504089
+108,decreasing effectiveness,CDC,1.44269504089
+172,influenza,major flu impacts,0.480898346963
+211,influenza,elderly,0.480898346963
+234,influenza,immune response,0.480898346963
+247,influenza,age 85 and older,0.480898346963
+253,influenza,age 65 and older,0.480898346963
+254,influenza,standard vaccine,0.480898346963
+277,influenza,mixed findings,0.480898346963
+405,Generation Rescue,vaccine-autism link,0.62133493456
+407,Generation Rescue,anti-vaccination,1.53157416119
+416,Generation Rescue,Barry Segal,0.721347520444
+457,Generation Rescue,polarized area,0.910239226627
+458,Generation Rescue,autism,0.721347520444
+471,Generation Rescue,chronic illness,0.721347520444
+482,Generation Rescue,discredited,0.62133493456
+488,Generation Rescue,medical license,0.62133493456
+573,Immunization Action Coalition,vaccination,0.721347520444
+624,Immunization Action Coalition,Dr. Anna Acosta,0.721347520444
+639,Immunization Action Coalition,pertussis vaccine,0.721347520444
+669,Ben Allen,protest,0.314657980444
+672,Ben Allen,children,0.314657980444
+679,Ben Allen,parents,1.03600550089
+696,Ben Allen,Disneyland measles outbreak,0.721347520444
+703,Ben Allen,everyone,0.314657980444
+714,Ben Allen,vaccinated children,0.314657980444
+736,Ben Allen,fair balance,0.314657980444
+746,Ben Allen,committee hearing room,0.314657980444
+754,Ben Allen,infectious disease,0.314657980444
+759,Ben Allen,Connie Leyva,0.314657980444
+760,Ben Allen,California,0.314657980444
+761,Ben Allen,Chairwoman Carol Liu,0.314657980444
+762,Ben Allen,Senate committee,0.314657980444
+769,Ben Allen,Saron Runner,0.314657980444
+773,Ben Allen,Tina Kimmel,0.314657980444
+775,Ben Allen,Richard Pan,1.44269504089
+777,Ben Allen,Senate Education Committee,0.314657980444
+780,Ben Allen,vaccination exemption,0.314657980444
+786,Ben Allen,education,0.314657980444
+790,Ben Allen,public education,0.314657980444
+816,Ben Allen,changes,0.314657980444
+821,Ben Allen,personal belief exemption,0.314657980444
+827,Ben Allen,low-income family,0.314657980444
+849,celebrities,anti-vaxx movement,0.352956123865
+856,celebrities,negative perception,0.352956123865
+864,celebrities,government mandate,0.352956123865
+866,celebrities,nonprofit organizations,0.721347520444
+888,celebrities,vaccine risk,0.352956123865
+896,celebrities,the sake of being anti-vaccine,0.352956123865
+898,celebrities,vaccine-autism link,0.352956123865
+913,celebrities,wealthy family foundations,0.721347520444
+914,celebrities,Andrew Wakefield,0.352956123865
+941,celebrities,measles outbreak,0.352956123865
+945,celebrities,Wakefield study,0.352956123865
+949,celebrities,polarized area,0.721347520444
+954,celebrities,misrepresentation,0.352956123865
+957,celebrities,medical belief,0.352956123865
+960,celebrities,politicians,0.352956123865
+969,celebrities,vaccine-injured children,0.352956123865
+983,celebrities,Jenny McCarthy,0.352956123865
+986,celebrities,anti-vaxxers,0.352956123865
+991,celebrities,open conversations,0.352956123865
+1031,major flu impacts,elderly,0.480898346963
+1054,major flu impacts,immune response,0.480898346963
+1067,major flu impacts,age 85 and older,0.480898346963
+1073,major flu impacts,age 65 and older,0.480898346963
+1074,major flu impacts,standard vaccine,0.480898346963
+1097,major flu impacts,mixed findings,0.480898346963
+1158,protest,children,0.314657980444
+1165,protest,parents,0.314657980444
+1189,protest,everyone,0.314657980444
+1200,protest,vaccinated children,0.314657980444
+1221,protest,proposed restrictions,0.314657980444
+1223,protest,fair balance,0.314657980444
+1234,protest,committee hearing room,0.314657980444
+1242,protest,infectious disease,0.314657980444
+1247,protest,Connie Leyva,0.314657980444
+1248,protest,California,0.314657980444
+1249,protest,Chairwoman Carol Liu,0.314657980444
+1250,protest,Senate committee,0.314657980444
+1257,protest,Saron Runner,0.314657980444
+1261,protest,Tina Kimmel,0.314657980444
+1265,protest,Senate Education Committee,0.314657980444
+1268,protest,vaccination exemption,0.314657980444
+1274,protest,education,0.314657980444
+1278,protest,public education,0.314657980444
+1292,protest,home-school,0.314657980444
+1304,protest,changes,0.314657980444
+1309,protest,personal belief exemption,0.314657980444
+1315,protest,low-income family,0.314657980444
+1442,scientist,SB 277,1.44269504089
+1479,sleep,increase in cases,0.389871245251
+1490,sleep,breathing,0.389871245251
+1503,sleep,7-11 year olds,0.389871245251
+1527,sleep,teens,0.389871245251
+1535,sleep,vomiting,0.389871245251
+1536,sleep,United States,0.389871245251
+1561,sleep,Australia,0.389871245251
+1563,sleep,vaccination,0.389871245251
+1575,sleep,severe coughing,0.389871245251
+1582,sleep,infants,0.389871245251
+1587,sleep,adults,0.389871245251
+1635,sleep,whooping cough,0.389871245251
+1641,children,Dr. Paul Offit,0.389871245251
+1646,children,parents,2.66759224796
+1651,children,vaccine efficacy,0.721347520444
+1667,children,side effects,0.389871245251
+1669,children,everyone,0.314657980444
+1675,children,vaccine duration,0.389871245251
+1677,children,acellular pertussis vaccine,0.721347520444
+1679,children,vaccinated children,0.314657980444
+1680,children,waning immunity,0.389871245251
+1685,children,infectious disease,0.314657980444
+1700,children,proposed restrictions,0.314657980444
+1702,children,fair balance,0.314657980444
+1706,children,pertussis increase,0.389871245251
+1709,children,adolescents,0.389871245251
+1713,children,committee hearing room,0.314657980444
+1725,children,Connie Leyva,0.314657980444
+1726,children,California,0.314657980444
+1727,children,Chairwoman Carol Liu,0.314657980444
+1728,children,Senate committee,0.314657980444
+1734,children,cases,0.389871245251
+1735,children,Saron Runner,0.314657980444
+1736,children,CDC,0.389871245251
+1739,children,Tina Kimmel,0.314657980444
+1742,children,medical science,0.389871245251
+1743,children,Senate Education Committee,0.314657980444
+1746,children,vaccination exemption,0.314657980444
+1754,children,pregnant women,0.389871245251
+1755,children,public education,0.314657980444
+1765,children,effectiveness,0.389871245251
+1768,children,home-school,0.314657980444
+1780,children,changes,0.704529225695
+1783,children,effective,0.721347520444
+1785,children,personal belief exemption,0.314657980444
+1790,children,low-income family,0.314657980444
+1820,Dr. Paul Offit,side effects,0.389871245251
+1828,Dr. Paul Offit,vaccine duration,0.389871245251
+1833,Dr. Paul Offit,waning immunity,0.389871245251
+1859,Dr. Paul Offit,pertussis increase,1.83256628614
+1862,Dr. Paul Offit,adolescents,0.389871245251
+1887,Dr. Paul Offit,cases,0.389871245251
+1889,Dr. Paul Offit,CDC,0.389871245251
+1895,Dr. Paul Offit,medical science,0.389871245251
+1908,Dr. Paul Offit,pregnant women,0.389871245251
+1920,Dr. Paul Offit,effectiveness,0.389871245251
+1935,Dr. Paul Offit,changes,0.389871245251
+2063,asthma,autism,0.910239226627
+2068,asthma,alzheimer's,0.910239226627
+2129,vaccine safety,immunization,0.558110626551
+2138,vaccine safety,state-required vaccinations,0.558110626551
+2190,vaccine safety,Connie Leyva,0.558110626551
+2217,vaccine safety,education,1.1162212531
+2225,vaccine safety,SB 277,1.1162212531
+2234,vaccine safety,pertussis vaccine,0.558110626551
+2236,vaccine safety,home-school,0.558110626551
+2246,vaccine safety,whole-cell vaccine,0.558110626551
+2309,Chris Christie,Rand Paul,2.88539008178
+2424,inflammatory disorders,vaccines cause childhood illnesses,0.480898346963
+2425,inflammatory disorders,University of British Columbia,0.480898346963
+2427,inflammatory disorders,necessary,0.345976256261
+2428,inflammatory disorders,man-made,0.345976256261
+2432,inflammatory disorders,magic,0.345976256261
+2439,inflammatory disorders,side effects,0.345976256261
+2451,inflammatory disorders,voluntary,0.345976256261
+2458,inflammatory disorders,Pez dispensers,0.345976256261
+2460,inflammatory disorders,Rand Paul,0.345976256261
+2462,inflammatory disorders,childhood illnesses,0.345976256261
+2466,inflammatory disorders,protection,0.345976256261
+2473,inflammatory disorders,vaccine-autism link,0.480898346963
+2483,inflammatory disorders,miracles,0.345976256261
+2493,inflammatory disorders,cognitive disorders,0.826874603224
+2494,inflammatory disorders,Alfred and Lisa Claire Dwoskin,0.480898346963
+2495,inflammatory disorders,pharmaceuticals,0.345976256261
+2502,inflammatory disorders,imperfect,0.345976256261
+2510,inflammatory disorders,for-profit,0.345976256261
+2512,inflammatory disorders,infants,0.345976256261
+2520,inflammatory disorders,immune disorders,0.826874603224
+2550,inflammatory disorders,National Vaccine Information Center,0.480898346963
+2558,inflammatory disorders,effective,0.345976256261
+2605,Dwoskin Family Foundation,vaccines,4.32808512267
+2626,Dwoskin Family Foundation,anti-vaccination,0.721347520444
+2640,Dwoskin Family Foundation,Andrew Wakefield,0.721347520444
+2642,Dwoskin Family Foundation,vaccine concerns,1.44269504089
+2739,parents,everyone,0.314657980444
+2750,parents,vaccinated children,0.314657980444
+2756,parents,infectious disease,0.314657980444
+2771,parents,proposed restrictions,0.314657980444
+2773,parents,fair balance,0.314657980444
+2783,parents,committee hearing room,0.314657980444
+2794,parents,California,0.314657980444
+2796,parents,Chairwoman Carol Liu,0.314657980444
+2797,parents,Senate committee,0.314657980444
+2804,parents,Saron Runner,0.314657980444
+2808,parents,Tina Kimmel,0.314657980444
+2810,parents,Richard Pan,0.721347520444
+2812,parents,Senate Education Committee,0.314657980444
+2815,parents,vaccination exemption,0.314657980444
+2824,parents,public education,0.314657980444
+2850,parents,changes,0.314657980444
+2855,parents,personal belief exemption,0.314657980444
+2860,parents,low-income family,1.22489720707
+2935,vaccinated,artificial vaccine,0.910239226627
+2951,vaccinated,vaccine refusal,0.910239226627
+3131,friends and family,crazy people,0.721347520444
+3141,friends and family,vaccine-injured children,0.721347520444
+3158,friends and family,anti-vaxxers,0.721347520444
+3163,breathing,increase in cases,0.389871245251
+3165,breathing,whooping cough,0.389871245251
+3179,breathing,7-11 year olds,0.389871245251
+3202,breathing,teens,0.389871245251
+3210,breathing,vomiting,0.389871245251
+3211,breathing,United States,0.389871245251
+3222,breathing,vaccination,0.389871245251
+3236,breathing,Australia,0.389871245251
+3250,breathing,severe coughing,0.389871245251
+3257,breathing,infants,0.389871245251
+3262,breathing,adults,0.389871245251
+3323,increased,Focus for Health,0.62133493456
+3364,increased,diagnoses,0.62133493456
+3449,increased,MMR vaccine,0.62133493456
+3456,increased,diagnosis,0.62133493456
+3488,vaccine efficacy,bacteria,0.51389834237
+3505,vaccine efficacy,protection,0.51389834237
+3527,vaccine efficacy,artificial vaccine,0.51389834237
+3584,vaccine efficacy,PLOS Computational Biology,0.51389834237
+3595,vaccine efficacy,effective,0.721347520444
+3600,vaccine efficacy,Tdap vaccine,0.51389834237
+3609,vaccines cause childhood illnesses,University of British Columbia,0.480898346963
+3658,vaccines cause childhood illnesses,vaccine-autism link,0.480898346963
+3678,vaccines cause childhood illnesses,cognitive disorders,0.480898346963
+3679,vaccines cause childhood illnesses,Alfred and Lisa Claire Dwoskin,0.480898346963
+3704,vaccines cause childhood illnesses,immune disorders,0.480898346963
+3734,vaccines cause childhood illnesses,National Vaccine Information Center,0.480898346963
+3805,University of British Columbia,anti-vaccination,0.721347520444
+3820,University of British Columbia,Andrew Wakefield,0.721347520444
+3823,University of British Columbia,cognitive disorders,0.480898346963
+3824,University of British Columbia,Alfred and Lisa Claire Dwoskin,0.480898346963
+3849,University of British Columbia,immune disorders,0.480898346963
+3879,University of British Columbia,National Vaccine Information Center,0.480898346963
+3908,anti-vaxx movement,negative perception,0.352956123865
+3915,anti-vaxx movement,government mandate,0.352956123865
+3938,anti-vaxx movement,vaccine risk,0.352956123865
+3946,anti-vaxx movement,the sake of being anti-vaccine,0.352956123865
+3948,anti-vaxx movement,vaccine-autism link,0.352956123865
+3964,anti-vaxx movement,Andrew Wakefield,0.352956123865
+3989,anti-vaxx movement,measles outbreak,0.352956123865
+3994,anti-vaxx movement,Wakefield study,0.352956123865
+4003,anti-vaxx movement,misrepresentation,0.352956123865
+4006,anti-vaxx movement,medical belief,0.352956123865
+4009,anti-vaxx movement,politicians,0.352956123865
+4018,anti-vaxx movement,vaccine-injured children,0.352956123865
+4032,anti-vaxx movement,Jenny McCarthy,0.352956123865
+4035,anti-vaxx movement,anti-vaxxers,0.352956123865
+4039,anti-vaxx movement,open conversations,0.352956123865
+4102,chronic illness,Barry Segal,0.721347520444
+4143,chronic illness,autism,0.721347520444
+4187,necessary,for-profit,0.345976256261
+4189,necessary,man-made,0.345976256261
+4193,necessary,magic,0.345976256261
+4200,necessary,side effects,0.345976256261
+4212,necessary,voluntary,0.345976256261
+4219,necessary,Pez dispensers,0.345976256261
+4221,necessary,Rand Paul,0.345976256261
+4222,necessary,childhood illnesses,0.345976256261
+4226,necessary,protection,0.345976256261
+4243,necessary,miracles,0.345976256261
+4253,necessary,cognitive disorders,0.345976256261
+4255,necessary,pharmaceuticals,0.345976256261
+4262,necessary,imperfect,0.345976256261
+4271,necessary,infants,0.345976256261
+4279,necessary,immune disorders,0.345976256261
+4316,necessary,effective,0.345976256261
+4329,man-made,for-profit,0.345976256261
+4334,man-made,magic,0.345976256261
+4341,man-made,side effects,0.345976256261
+4353,man-made,voluntary,0.345976256261
+4360,man-made,Pez dispensers,0.345976256261
+4362,man-made,Rand Paul,0.345976256261
+4363,man-made,childhood illnesses,0.345976256261
+4367,man-made,protection,0.345976256261
+4384,man-made,miracles,0.345976256261
+4394,man-made,cognitive disorders,0.345976256261
+4396,man-made,pharmaceuticals,0.345976256261
+4403,man-made,imperfect,0.345976256261
+4412,man-made,infants,0.345976256261
+4420,man-made,immune disorders,0.345976256261
+4457,man-made,effective,0.345976256261
+4497,Focus for Health,Lisa and J.B. Handley,0.721347520444
+4511,Focus for Health,diagnoses,0.62133493456
+4532,Focus for Health,Andrew Wakefield,0.721347520444
+4596,Focus for Health,MMR vaccine,0.62133493456
+4598,Focus for Health,Jenny McCarthy,0.721347520444
+4603,Focus for Health,diagnosis,0.62133493456
+4710,school,SB 277,1.44269504089
+4849,parental choice,SB 277,1.44269504089
+4886,magic,for-profit,0.345976256261
+4894,magic,side effects,0.345976256261
+4906,magic,voluntary,0.345976256261
+4913,magic,Pez dispensers,0.345976256261
+4915,magic,Rand Paul,0.345976256261
+4916,magic,childhood illnesses,0.345976256261
+4920,magic,protection,0.345976256261
+4936,magic,miracles,0.345976256261
+4946,magic,cognitive disorders,0.345976256261
+4948,magic,pharmaceuticals,0.345976256261
+4955,magic,imperfect,0.345976256261
+4965,magic,infants,0.345976256261
+4973,magic,immune disorders,0.345976256261
+5010,magic,effective,0.345976256261
+5031,negative perception,government mandate,0.352956123865
+5054,negative perception,vaccine risk,1.26319535049
+5062,negative perception,the sake of being anti-vaccine,0.352956123865
+5064,negative perception,vaccine-autism link,0.352956123865
+5079,negative perception,Andrew Wakefield,0.352956123865
+5105,negative perception,measles outbreak,0.352956123865
+5110,negative perception,Wakefield study,0.352956123865
+5119,negative perception,misrepresentation,0.352956123865
+5122,negative perception,medical belief,0.352956123865
+5125,negative perception,politicians,0.352956123865
+5134,negative perception,vaccine-injured children,0.352956123865
+5147,negative perception,Jenny McCarthy,0.352956123865
+5150,negative perception,anti-vaxxers,0.352956123865
+5154,7-11 year olds,increase in cases,0.389871245251
+5156,7-11 year olds,whooping cough,0.389871245251
+5181,7-11 year olds,teens,0.389871245251
+5188,7-11 year olds,vomiting,0.389871245251
+5189,7-11 year olds,United States,0.389871245251
+5200,7-11 year olds,vaccination,0.389871245251
+5214,7-11 year olds,Australia,0.389871245251
+5228,7-11 year olds,severe coughing,0.389871245251
+5234,7-11 year olds,infants,0.389871245251
+5239,7-11 year olds,adults,0.389871245251
+5263,7-11 year olds,pertussis vaccine,1.44269504089
+5363,Disneyland measles outbreak,Richard Pan,0.721347520444
+5388,Disneyland measles outbreak,SB 277,0.721347520444
+5441,acelluar vaccine,acellular pertussis vaccine,0.910239226627
+5543,acelluar vaccine,whole-cell vaccine,0.910239226627
+5620,immunization,Connie Leyva,0.558110626551
+5647,immunization,education,0.558110626551
+5655,immunization,SB 277,0.558110626551
+5666,immunization,home-school,0.558110626551
+5691,increase in cases,whooping cough,0.389871245251
+5714,increase in cases,teens,0.389871245251
+5721,increase in cases,vomiting,0.389871245251
+5722,increase in cases,United States,0.389871245251
+5733,increase in cases,vaccination,0.389871245251
+5747,increase in cases,Australia,0.389871245251
+5761,increase in cases,severe coughing,0.389871245251
+5767,increase in cases,infants,0.389871245251
+5772,increase in cases,adults,0.389871245251
+5829,Children's Hospital of Philadelphia,waning effectiveness,0.910239226627
+5926,Children's Hospital of Philadelphia,pertussis vaccine,0.910239226627
+5954,side effects,for-profit,0.345976256261
+5963,side effects,changes,0.389871245251
+5964,side effects,vaccine duration,0.389871245251
+5967,side effects,voluntary,0.345976256261
+5969,side effects,waning immunity,0.389871245251
+5974,side effects,Pez dispensers,0.345976256261
+5975,side effects,Rand Paul,0.345976256261
+5976,side effects,childhood illnesses,0.345976256261
+5980,side effects,protection,0.345976256261
+5992,side effects,pertussis increase,0.389871245251
+5994,side effects,adolescents,0.389871245251
+5996,side effects,miracles,0.345976256261
+6006,side effects,cognitive disorders,0.345976256261
+6008,side effects,pharmaceuticals,0.345976256261
+6015,side effects,imperfect,0.345976256261
+6019,side effects,cases,0.389871245251
+6022,side effects,CDC,0.389871245251
+6025,side effects,infants,0.345976256261
+6027,side effects,medical science,0.389871245251
+6033,side effects,immune disorders,0.345976256261
+6040,side effects,pregnant women,0.389871245251
+6052,side effects,effectiveness,0.389871245251
+6069,side effects,effective,0.345976256261
+6105,government mandate,vaccine risk,0.352956123865
+6113,government mandate,the sake of being anti-vaccine,0.352956123865
+6115,government mandate,vaccine-autism link,0.352956123865
+6130,government mandate,Andrew Wakefield,0.352956123865
+6156,government mandate,measles outbreak,0.352956123865
+6161,government mandate,Wakefield study,0.352956123865
+6170,government mandate,misrepresentation,0.352956123865
+6173,government mandate,medical belief,0.352956123865
+6176,government mandate,politicians,0.352956123865
+6185,government mandate,vaccine-injured children,0.352956123865
+6198,government mandate,Jenny McCarthy,0.352956123865
+6201,government mandate,anti-vaxxers,0.352956123865
+6204,government mandate,open conversations,0.352956123865
+6205,everyone,low-income family,0.314657980444
+6210,everyone,infectious disease,0.314657980444
+6217,everyone,changes,0.314657980444
+6222,everyone,vaccinated children,0.314657980444
+6242,everyone,proposed restrictions,0.314657980444
+6244,everyone,fair balance,0.314657980444
+6254,everyone,committee hearing room,0.314657980444
+6266,everyone,Connie Leyva,0.314657980444
+6267,everyone,California,0.314657980444
+6268,everyone,Chairwoman Carol Liu,0.314657980444
+6269,everyone,Senate committee,0.314657980444
+6277,everyone,Saron Runner,0.314657980444
+6280,everyone,Tina Kimmel,0.314657980444
+6284,everyone,Senate Education Committee,0.314657980444
+6287,everyone,vaccination exemption,0.314657980444
+6293,everyone,education,0.314657980444
+6296,everyone,public education,0.314657980444
+6310,everyone,home-school,0.314657980444
+6326,everyone,personal belief exemption,0.314657980444
+6384,nonprofit organizations,wealthy family foundations,0.721347520444
+6405,nonprofit organizations,polarized area,0.721347520444
+6499,waning effectiveness,Americans,0.910239226627
+6559,waning effectiveness,pertussis vaccine,1.82047845325
+6695,standard flu vaccine,high-dose flu vaccine,1.44269504089
+6712,elderly,mixed findings,0.480898346963
+6735,elderly,immune response,0.480898346963
+6753,elderly,age 65 and older,0.480898346963
+6754,elderly,standard vaccine,0.480898346963
+6779,elderly,age 85 and older,0.480898346963
+6911,state-required vaccinations,education,0.558110626551
+6918,state-required vaccinations,SB 277,0.558110626551
+6927,state-required vaccinations,pertussis vaccine,0.558110626551
+6939,state-required vaccinations,whole-cell vaccine,0.558110626551
+6960,vaccine duration,changes,0.389871245251
+6962,vaccine duration,acellular pertussis vaccine,1.44269504089
+6965,vaccine duration,waning immunity,0.389871245251
+6990,vaccine duration,pertussis increase,0.389871245251
+6992,vaccine duration,adolescents,0.389871245251
+7016,vaccine duration,cases,0.389871245251
+7019,vaccine duration,CDC,0.389871245251
+7024,vaccine duration,medical science,0.389871245251
+7036,vaccine duration,pregnant women,0.389871245251
+7048,vaccine duration,effectiveness,0.389871245251
+7096,bacteria,protection,0.51389834237
+7117,bacteria,artificial vaccine,0.51389834237
+7173,bacteria,PLOS Computational Biology,0.51389834237
+7180,bacteria,whole-cell vaccine,0.51389834237
+7188,bacteria,Tdap vaccine,0.51389834237
+7198,acellular pertussis vaccine,immune response,0.910239226627
+7204,acellular pertussis vaccine,vaccines,1.44269504089
+7299,acellular pertussis vaccine,effective,0.721347520444
+7302,acellular pertussis vaccine,disease,0.910239226627
+7310,voluntary,for-profit,0.345976256261
+7322,voluntary,Pez dispensers,0.345976256261
+7324,voluntary,Rand Paul,0.345976256261
+7325,voluntary,childhood illnesses,0.345976256261
+7329,voluntary,protection,0.345976256261
+7345,voluntary,miracles,0.345976256261
+7355,voluntary,cognitive disorders,0.345976256261
+7357,voluntary,pharmaceuticals,0.345976256261
+7364,voluntary,imperfect,0.345976256261
+7373,voluntary,infants,0.345976256261
+7381,voluntary,immune disorders,0.345976256261
+7416,voluntary,effective,0.345976256261
+7424,vaccinated children,low-income family,0.314657980444
+7429,vaccinated children,infectious disease,0.314657980444
+7433,vaccinated children,changes,0.314657980444
+7453,vaccinated children,proposed restrictions,0.314657980444
+7455,vaccinated children,fair balance,0.314657980444
+7465,vaccinated children,committee hearing room,0.314657980444
+7477,vaccinated children,Connie Leyva,0.314657980444
+7478,vaccinated children,California,0.314657980444
+7479,vaccinated children,Chairwoman Carol Liu,0.314657980444
+7480,vaccinated children,Senate committee,0.314657980444
+7487,vaccinated children,Saron Runner,0.314657980444
+7490,vaccinated children,Tina Kimmel,0.314657980444
+7494,vaccinated children,Senate Education Committee,0.314657980444
+7497,vaccinated children,vaccination exemption,0.314657980444
+7503,vaccinated children,education,0.314657980444
+7506,vaccinated children,public education,0.314657980444
+7520,vaccinated children,home-school,0.314657980444
+7535,vaccinated children,personal belief exemption,0.314657980444
+7550,waning immunity,changes,0.389871245251
+7575,waning immunity,pertussis increase,0.389871245251
+7577,waning immunity,adolescents,0.389871245251
+7601,waning immunity,cases,0.389871245251
+7604,waning immunity,CDC,0.389871245251
+7609,waning immunity,medical science,0.389871245251
+7621,waning immunity,pregnant women,0.389871245251
+7633,waning immunity,effectiveness,0.389871245251
+7677,debate,United States,0.62133493456
+7682,debate,pertussis,0.62133493456
+7718,debate,CDC,0.62133493456
+7760,debate,data,0.62133493456
+7783,vaccines,Republican,0.910239226627
+7784,vaccines,minimal,0.910239226627
+7791,vaccines,pertussis,0.910239226627
+7846,vaccines,maternal inoculation,0.910239226627
+7853,vaccines,pertussis vaccine,0.910239226627
+7863,vaccines,president,0.910239226627
+7865,vaccines,whole-cell vaccine,1.44269504089
+7917,Lisa and J.B. Handley,Andrew Wakefield,0.721347520444
+7982,Lisa and J.B. Handley,Jenny McCarthy,0.721347520444
+8026,ages 65-84,age 65 and older,1.44269504089
+8103,teens,whooping cough,0.389871245251
+8117,teens,vomiting,0.389871245251
+8118,teens,United States,0.389871245251
+8129,teens,vaccination,0.389871245251
+8143,teens,Australia,0.389871245251
+8156,teens,severe coughing,0.389871245251
+8162,teens,infants,0.389871245251
+8167,teens,adults,0.389871245251
+8283,Republican,vaccine choice,0.910239226627
+8310,Republican,president,1.82047845325
+8330,Pez dispensers,for-profit,0.345976256261
+8333,Pez dispensers,Rand Paul,0.345976256261
+8334,Pez dispensers,childhood illnesses,0.345976256261
+8338,Pez dispensers,protection,0.345976256261
+8354,Pez dispensers,miracles,0.345976256261
+8364,Pez dispensers,cognitive disorders,0.345976256261
+8366,Pez dispensers,pharmaceuticals,0.345976256261
+8373,Pez dispensers,imperfect,0.345976256261
+8382,Pez dispensers,infants,0.345976256261
+8390,Pez dispensers,immune disorders,0.345976256261
+8425,Pez dispensers,effective,0.345976256261
+8519,minimal,pertussis vaccine,0.910239226627
+8549,Rand Paul,for-profit,0.345976256261
+8551,Rand Paul,childhood illnesses,0.345976256261
+8555,Rand Paul,protection,0.345976256261
+8571,Rand Paul,miracles,0.345976256261
+8581,Rand Paul,cognitive disorders,0.345976256261
+8583,Rand Paul,pharmaceuticals,0.345976256261
+8590,Rand Paul,imperfect,0.345976256261
+8599,Rand Paul,infants,0.345976256261
+8607,Rand Paul,immune disorders,0.345976256261
+8641,Rand Paul,effective,0.345976256261
+8656,childhood illnesses,for-profit,0.345976256261
+8661,childhood illnesses,protection,0.345976256261
+8677,childhood illnesses,miracles,0.345976256261
+8687,childhood illnesses,cognitive disorders,0.345976256261
+8689,childhood illnesses,pharmaceuticals,0.345976256261
+8696,childhood illnesses,imperfect,0.345976256261
+8705,childhood illnesses,infants,0.345976256261
+8713,childhood illnesses,immune disorders,0.345976256261
+8748,childhood illnesses,effective,0.345976256261
+8767,vaccine risk,misrepresentation,0.352956123865
+8771,vaccine risk,the sake of being anti-vaccine,0.352956123865
+8773,vaccine risk,vaccine-autism link,0.352956123865
+8788,vaccine risk,Andrew Wakefield,0.352956123865
+8813,vaccine risk,measles outbreak,0.352956123865
+8818,vaccine risk,Wakefield study,0.352956123865
+8829,vaccine risk,medical belief,0.352956123865
+8832,vaccine risk,politicians,0.352956123865
+8841,vaccine risk,vaccine-injured children,0.352956123865
+8853,vaccine risk,Jenny McCarthy,0.352956123865
+8856,vaccine risk,anti-vaxxers,0.352956123865
+8860,vomiting,whooping cough,0.389871245251
+8868,vomiting,United States,0.389871245251
+8879,vomiting,vaccination,0.389871245251
+8893,vomiting,Australia,0.389871245251
+8906,vomiting,severe coughing,0.389871245251
+8912,vomiting,infants,0.389871245251
+8917,vomiting,adults,0.389871245251
+8964,United States,whooping cough,0.389871245251
+8995,United States,Australia,0.389871245251
+9008,United States,severe coughing,0.389871245251
+9011,United States,CDC,0.62133493456
+9014,United States,infants,0.389871245251
+9019,United States,adults,0.389871245251
+9053,United States,data,0.62133493456
+9072,protection,for-profit,0.345976256261
+9089,protection,miracles,0.345976256261
+9094,protection,artificial vaccine,0.51389834237
+9099,protection,cognitive disorders,0.345976256261
+9101,protection,pharmaceuticals,0.345976256261
+9108,protection,imperfect,0.345976256261
+9117,protection,infants,0.345976256261
+9125,protection,immune disorders,0.345976256261
+9150,protection,PLOS Computational Biology,0.51389834237
+9157,protection,whole-cell vaccine,0.51389834237
+9160,protection,effective,0.345976256261
+9165,protection,Tdap vaccine,0.51389834237
+9179,diagnosis,diagnoses,0.62133493456
+9235,diagnosis,MMR vaccine,0.62133493456
+9272,immune response,mixed findings,0.480898346963
+9294,immune response,age 65 and older,0.480898346963
+9295,immune response,standard vaccine,0.480898346963
+9319,immune response,age 85 and older,0.480898346963
+9363,immune response,disease,0.910239226627
+9383,parents with vaccine-injured children,anti-vaccination,2.35293426752
+9529,diagnoses,MMR vaccine,0.62133493456
+9628,Richard Pan,SB 277,1.44269504089
+9667,the sake of being anti-vaccine,misrepresentation,0.352956123865
+9670,the sake of being anti-vaccine,vaccine-autism link,0.352956123865
+9684,the sake of being anti-vaccine,Andrew Wakefield,0.352956123865
+9708,the sake of being anti-vaccine,measles outbreak,0.352956123865
+9713,the sake of being anti-vaccine,Wakefield study,0.352956123865
+9724,the sake of being anti-vaccine,medical belief,0.352956123865
+9727,the sake of being anti-vaccine,politicians,0.352956123865
+9736,the sake of being anti-vaccine,vaccine-injured children,0.352956123865
+9748,the sake of being anti-vaccine,Jenny McCarthy,0.352956123865
+9751,the sake of being anti-vaccine,anti-vaxxers,0.352956123865
+9754,the sake of being anti-vaccine,open conversations,0.352956123865
+9755,proposed restrictions,low-income family,0.314657980444
+9760,proposed restrictions,changes,0.314657980444
+9762,proposed restrictions,infectious disease,0.314657980444
+9766,proposed restrictions,fair balance,0.314657980444
+9775,proposed restrictions,committee hearing room,0.314657980444
+9787,proposed restrictions,Connie Leyva,0.314657980444
+9788,proposed restrictions,California,0.314657980444
+9789,proposed restrictions,Chairwoman Carol Liu,0.314657980444
+9790,proposed restrictions,Senate committee,0.314657980444
+9796,proposed restrictions,Saron Runner,0.314657980444
+9799,proposed restrictions,Tina Kimmel,0.314657980444
+9803,proposed restrictions,Senate Education Committee,0.314657980444
+9806,proposed restrictions,vaccination exemption,0.314657980444
+9812,proposed restrictions,education,0.314657980444
+9815,proposed restrictions,public education,0.314657980444
+9829,proposed restrictions,home-school,2.66759224796
+9844,proposed restrictions,personal belief exemption,0.314657980444
+9858,vaccine-autism link,misrepresentation,0.352956123865
+9875,vaccine-autism link,cognitive disorders,0.480898346963
+9876,vaccine-autism link,Alfred and Lisa Claire Dwoskin,0.480898346963
+9896,vaccine-autism link,measles outbreak,0.352956123865
+9900,vaccine-autism link,immune disorders,0.480898346963
+9901,vaccine-autism link,Wakefield study,0.352956123865
+9912,vaccine-autism link,medical belief,0.352956123865
+9915,vaccine-autism link,politicians,0.352956123865
+9924,vaccine-autism link,vaccine-injured children,0.352956123865
+9928,vaccine-autism link,discredited,0.62133493456
+9929,vaccine-autism link,National Vaccine Information Center,0.480898346963
+9934,vaccine-autism link,medical license,0.62133493456
+9936,vaccine-autism link,Jenny McCarthy,0.352956123865
+9939,vaccine-autism link,anti-vaxxers,0.352956123865
+9942,vaccine-autism link,open conversations,0.352956123865
+9959,for-profit,miracles,0.345976256261
+9969,for-profit,cognitive disorders,0.345976256261
+9971,for-profit,pharmaceuticals,0.345976256261
+9978,for-profit,imperfect,0.345976256261
+9986,for-profit,infants,0.345976256261
+9994,for-profit,immune disorders,0.345976256261
+10029,for-profit,effective,0.345976256261
+10037,fair balance,low-income family,0.314657980444
+10043,fair balance,infectious disease,0.314657980444
+10050,fair balance,changes,0.314657980444
+10053,fair balance,committee hearing room,0.314657980444
+10064,fair balance,California,0.314657980444
+10065,fair balance,Connie Leyva,0.314657980444
+10067,fair balance,Chairwoman Carol Liu,0.314657980444
+10068,fair balance,Senate committee,0.314657980444
+10074,fair balance,Saron Runner,0.314657980444
+10077,fair balance,Tina Kimmel,0.314657980444
+10081,fair balance,Senate Education Committee,0.314657980444
+10084,fair balance,vaccination exemption,0.314657980444
+10090,fair balance,education,0.314657980444
+10093,fair balance,public education,0.314657980444
+10107,fair balance,home-school,0.314657980444
+10122,fair balance,personal belief exemption,0.314657980444
+10136,anti-vaccination,vaccine debate,1.44269504089
+10147,anti-vaccination,polarized area,0.910239226627
+10157,anti-vaccination,discredited,0.62133493456
+10159,anti-vaccination,crazy people,0.910239226627
+10170,anti-vaccination,medical license,0.62133493456
+10198,anti-vaccination,vaccine-preventable diseases,0.910239226627
+10223,cognitive disorders,miracles,0.345976256261
+10234,cognitive disorders,Alfred and Lisa Claire Dwoskin,0.480898346963
+10235,cognitive disorders,pharmaceuticals,0.345976256261
+10242,cognitive disorders,imperfect,0.345976256261
+10250,cognitive disorders,infants,0.345976256261
+10258,cognitive disorders,immune disorders,0.826874603224
+10287,cognitive disorders,National Vaccine Information Center,0.480898346963
+10293,cognitive disorders,effective,0.345976256261
+10333,measles vaccine is safe,rubella vaccination is safe,0.910239226627
+10367,measles vaccine is safe,pertussis vaccine,0.910239226627
+10395,pertussis increase,adolescents,0.389871245251
+10399,pertussis increase,changes,0.389871245251
+10423,pertussis increase,cases,0.389871245251
+10425,pertussis increase,CDC,0.389871245251
+10430,pertussis increase,medical science,0.389871245251
+10442,pertussis increase,pregnant women,0.389871245251
+10453,pertussis increase,effectiveness,0.389871245251
+10484,adolescents,pertussis,1.44269504089
+10486,adolescents,changes,0.389871245251
+10510,adolescents,cases,0.389871245251
+10512,adolescents,CDC,0.389871245251
+10517,adolescents,medical science,0.389871245251
+10529,adolescents,pregnant women,0.389871245251
+10540,adolescents,effectiveness,0.389871245251
+10620,options,SB 277,1.44269504089
+10672,miracles,pharmaceuticals,0.345976256261
+10679,miracles,imperfect,0.345976256261
+10687,miracles,infants,0.345976256261
+10695,miracles,immune disorders,0.345976256261
+10729,miracles,effective,0.345976256261
+10758,Barry Segal,autism,0.721347520444
+10823,committee hearing room,Senate Education Committee,0.314657980444
+10827,committee hearing room,vaccination exemption,0.314657980444
+10834,committee hearing room,low-income family,0.314657980444
+10840,committee hearing room,education,0.314657980444
+10844,committee hearing room,public education,0.314657980444
+10857,committee hearing room,Connie Leyva,0.314657980444
+10858,committee hearing room,changes,0.314657980444
+10859,committee hearing room,personal belief exemption,0.314657980444
+10860,committee hearing room,California,0.314657980444
+10861,committee hearing room,Chairwoman Carol Liu,0.314657980444
+10862,committee hearing room,infectious disease,0.314657980444
+10863,committee hearing room,Senate committee,0.314657980444
+10868,committee hearing room,home-school,0.314657980444
+10888,committee hearing room,Saron Runner,0.314657980444
+10898,committee hearing room,Tina Kimmel,0.314657980444
+10920,age 65 and older,standard vaccine,0.480898346963
+10969,age 65 and older,age 85 and older,0.480898346963
+10974,age 65 and older,mixed findings,0.480898346963
+11050,standard vaccine,age 85 and older,0.480898346963
+11055,standard vaccine,mixed findings,0.480898346963
+11076,artificial vaccine,vaccine refusal,0.910239226627
+11116,artificial vaccine,Tdap vaccine,0.51389834237
+11118,artificial vaccine,PLOS Computational Biology,0.51389834237
+11128,artificial vaccine,whole-cell vaccine,0.51389834237
+11129,artificial vaccine,high-dose flu vaccine,1.44269504089
+11163,wealthy family foundations,polarized area,0.721347520444
+11229,Andrew Wakefield,measles outbreak,0.352956123865
+11238,Andrew Wakefield,Wakefield study,0.352956123865
+11253,Andrew Wakefield,medical belief,0.352956123865
+11257,Andrew Wakefield,politicians,0.352956123865
+11275,Andrew Wakefield,vaccine-injured children,0.352956123865
+11283,Andrew Wakefield,misrepresentation,0.352956123865
+11291,Andrew Wakefield,Jenny McCarthy,1.07430364431
+11294,Andrew Wakefield,anti-vaxxers,0.352956123865
+11303,Andrew Wakefield,open conversations,0.352956123865
+11307,Australia,adults,0.389871245251
+11326,Australia,vaccination,0.389871245251
+11348,Australia,whooping cough,0.389871245251
+11357,Australia,severe coughing,0.389871245251
+11377,Australia,infants,0.389871245251
+11458,infectious disease,Senate Education Committee,0.314657980444
+11461,infectious disease,vaccination exemption,0.314657980444
+11466,infectious disease,low-income family,0.314657980444
+11471,infectious disease,education,0.314657980444
+11475,infectious disease,public education,0.314657980444
+11487,infectious disease,Connie Leyva,0.314657980444
+11488,infectious disease,personal belief exemption,0.314657980444
+11489,infectious disease,California,0.314657980444
+11490,infectious disease,Chairwoman Carol Liu,0.314657980444
+11497,infectious disease,home-school,0.314657980444
+11514,infectious disease,changes,0.314657980444
+11516,infectious disease,Saron Runner,0.314657980444
+11523,infectious disease,Senate committee,0.314657980444
+11525,infectious disease,Tina Kimmel,0.314657980444
+11535,vaccination,adults,0.389871245251
+11570,vaccination,pertussis vaccine,0.721347520444
+11583,vaccination,severe coughing,0.389871245251
+11596,vaccination,whooping cough,0.389871245251
+11599,vaccination,Dr. Anna Acosta,0.721347520444
+11600,vaccination,infants,0.389871245251
+11612,Alfred and Lisa Claire Dwoskin,immune disorders,0.480898346963
+11653,Alfred and Lisa Claire Dwoskin,National Vaccine Information Center,0.480898346963
+11686,pharmaceuticals,immune disorders,0.345976256261
+11716,pharmaceuticals,imperfect,0.345976256261
+11736,pharmaceuticals,effective,0.345976256261
+11747,pharmaceuticals,infants,0.345976256261
+11817,pertussis booster shot,Dr. Anna Acosta,1.44269504089
+11823,Connie Leyva,Senate Education Committee,0.314657980444
+11826,Connie Leyva,vaccination exemption,0.314657980444
+11835,Connie Leyva,education,0.872768606995
+11838,Connie Leyva,public education,0.314657980444
+11848,Connie Leyva,California,0.314657980444
+11849,Connie Leyva,personal belief exemption,0.314657980444
+11851,Connie Leyva,Chairwoman Carol Liu,0.314657980444
+11858,Connie Leyva,home-school,0.872768606995
+11873,Connie Leyva,changes,0.314657980444
+11875,Connie Leyva,Saron Runner,0.314657980444
+11882,Connie Leyva,Senate committee,0.314657980444
+11884,Connie Leyva,Tina Kimmel,0.314657980444
+11892,California,Senate Education Committee,0.314657980444
+11895,California,vaccination exemption,0.314657980444
+11900,California,low-income family,0.314657980444
+11905,California,education,0.314657980444
+11908,California,public education,0.314657980444
+11918,California,personal belief exemption,0.314657980444
+11920,California,Chairwoman Carol Liu,0.314657980444
+11927,California,home-school,0.314657980444
+11942,California,changes,0.314657980444
+11944,California,Saron Runner,0.314657980444
+11951,California,Senate committee,0.314657980444
+11953,California,Tina Kimmel,0.314657980444
+11961,Chairwoman Carol Liu,Senate Education Committee,0.314657980444
+11964,Chairwoman Carol Liu,vaccination exemption,0.314657980444
+11969,Chairwoman Carol Liu,low-income family,0.314657980444
+11974,Chairwoman Carol Liu,education,0.314657980444
+11977,Chairwoman Carol Liu,public education,0.314657980444
+11987,Chairwoman Carol Liu,personal belief exemption,0.314657980444
+11995,Chairwoman Carol Liu,home-school,0.314657980444
+12010,Chairwoman Carol Liu,changes,0.314657980444
+12012,Chairwoman Carol Liu,Saron Runner,0.314657980444
+12019,Chairwoman Carol Liu,Senate committee,0.314657980444
+12020,Chairwoman Carol Liu,Tina Kimmel,0.314657980444
+12028,Senate committee,Senate Education Committee,0.314657980444
+12031,Senate committee,vaccination exemption,0.314657980444
+12036,Senate committee,low-income family,0.314657980444
+12041,Senate committee,education,0.314657980444
+12044,Senate committee,public education,0.314657980444
+12054,Senate committee,personal belief exemption,0.314657980444
+12062,Senate committee,home-school,0.314657980444
+12077,Senate committee,changes,0.314657980444
+12079,Senate committee,Saron Runner,0.314657980444
+12087,Senate committee,Tina Kimmel,0.314657980444
+12168,imperfect,immune disorders,0.345976256261
+12213,imperfect,effective,0.345976256261
+12223,imperfect,infants,0.345976256261
+12258,rubella vaccination is safe,pertussis vaccine,0.910239226627
+12312,pertussis,maternal inoculation,0.910239226627
+12322,pertussis,infant mortality,1.44269504089
+12334,pertussis,data,0.62133493456
+12340,pertussis,CDC,0.62133493456
+12416,severe coughing,adults,0.389871245251
+12467,severe coughing,whooping cough,0.389871245251
+12471,severe coughing,infants,0.389871245251
+12475,cases,medical science,0.389871245251
+12488,cases,pregnant women,0.389871245251
+12502,cases,effectiveness,0.389871245251
+12521,cases,CDC,0.389871245251
+12532,cases,changes,0.389871245251
+12535,Saron Runner,Senate Education Committee,0.314657980444
+12538,Saron Runner,vaccination exemption,0.314657980444
+12541,Saron Runner,low-income family,0.314657980444
+12545,Saron Runner,education,0.314657980444
+12548,Saron Runner,public education,0.314657980444
+12558,Saron Runner,personal belief exemption,0.314657980444
+12565,Saron Runner,home-school,0.314657980444
+12586,Saron Runner,Tina Kimmel,0.314657980444
+12591,Saron Runner,changes,0.314657980444
+12593,CDC,medical science,0.389871245251
+12606,CDC,pregnant women,0.389871245251
+12620,CDC,effectiveness,0.389871245251
+12634,CDC,data,0.62133493456
+12648,CDC,changes,0.389871245251
+12704,mixed findings,age 85 and older,0.480898346963
+12763,vaccine-preventable diseases,open conversations,0.910239226627
+12765,Tina Kimmel,Senate Education Committee,0.314657980444
+12768,Tina Kimmel,vaccination exemption,0.314657980444
+12771,Tina Kimmel,low-income family,0.314657980444
+12775,Tina Kimmel,education,0.314657980444
+12778,Tina Kimmel,public education,0.314657980444
+12787,Tina Kimmel,personal belief exemption,0.314657980444
+12792,Tina Kimmel,home-school,0.314657980444
+12817,Tina Kimmel,changes,0.314657980444
+12821,Jenny McCarthy,measles outbreak,0.352956123865
+12824,Jenny McCarthy,vaccine debate,0.910239226627
+12827,Jenny McCarthy,Wakefield study,0.352956123865
+12838,Jenny McCarthy,medical belief,0.352956123865
+12841,Jenny McCarthy,politicians,0.352956123865
+12849,Jenny McCarthy,vaccine-injured children,0.352956123865
+12852,Jenny McCarthy,side of right and good,0.910239226627
+12856,Jenny McCarthy,misrepresentation,0.352956123865
+12864,Jenny McCarthy,anti-vaxxers,0.352956123865
+12872,Jenny McCarthy,open conversations,0.352956123865
+12876,infants,adults,0.389871245251
+12879,infants,immune disorders,0.345976256261
+12915,infants,effective,0.345976256261
+12922,infants,whooping cough,0.389871245251
+12990,medical science,pregnant women,0.389871245251
+13002,medical science,effectiveness,0.389871245251
+13027,medical science,changes,0.389871245251
+13031,Senate Education Committee,vaccination exemption,0.314657980444
+13034,Senate Education Committee,low-income family,0.314657980444
+13038,Senate Education Committee,education,0.314657980444
+13041,Senate Education Committee,public education,0.314657980444
+13050,Senate Education Committee,personal belief exemption,0.314657980444
+13055,Senate Education Committee,home-school,0.314657980444
+13077,Senate Education Committee,changes,0.314657980444
+13085,measles outbreak,Wakefield study,0.352956123865
+13096,measles outbreak,medical belief,0.352956123865
+13099,measles outbreak,politicians,0.352956123865
+13107,measles outbreak,vaccine-injured children,0.352956123865
+13114,measles outbreak,misrepresentation,0.352956123865
+13122,measles outbreak,anti-vaxxers,0.352956123865
+13128,measles outbreak,open conversations,0.352956123865
+13175,adults,whooping cough,0.389871245251
+13178,vaccination exemption,personal belief exemption,0.314657980444
+13181,vaccination exemption,low-income family,0.314657980444
+13185,vaccination exemption,education,0.314657980444
+13188,vaccination exemption,public education,0.314657980444
+13201,vaccination exemption,home-school,0.314657980444
+13222,vaccination exemption,changes,0.314657980444
+13251,vaccine debate,side of right and good,0.910239226627
+13299,immune disorders,National Vaccine Information Center,0.480898346963
+13306,immune disorders,effective,0.345976256261
+13328,Wakefield study,medical belief,0.352956123865
+13331,Wakefield study,politicians,0.352956123865
+13339,Wakefield study,vaccine-injured children,0.352956123865
+13346,Wakefield study,misrepresentation,0.352956123865
+13354,Wakefield study,anti-vaxxers,0.352956123865
+13360,Wakefield study,open conversations,0.352956123865
+13367,young people,protested,0.910239226627
+13370,young people,SB 277,0.910239226627
+13431,vaccine choice,president,0.910239226627
+13447,education,personal belief exemption,0.314657980444
+13448,education,low-income family,0.314657980444
+13451,education,public education,0.314657980444
+13462,education,pertussis vaccine,0.558110626551
+13464,education,home-school,0.872768606995
+13475,education,whole-cell vaccine,0.558110626551
+13486,education,changes,0.314657980444
+13532,autism,alzheimer's,0.910239226627
+13578,pregnant women,effectiveness,0.389871245251
+13603,pregnant women,changes,0.389871245251
+13605,public education,low-income family,0.314657980444
+13617,public education,home-school,0.314657980444
+13632,public education,personal belief exemption,0.314657980444
+13639,public education,changes,0.314657980444
+13644,protested,SB 277,0.910239226627
+13682,misrepresentation,medical belief,0.352956123865
+13685,misrepresentation,politicians,0.352956123865
+13693,misrepresentation,vaccine-injured children,0.352956123865
+13707,misrepresentation,anti-vaxxers,0.352956123865
+13713,misrepresentation,open conversations,0.352956123865
+13754,SB 277,concerns,1.44269504089
+13757,SB 277,pertussis vaccine,2.00080566744
+13759,SB 277,students,1.44269504089
+13768,SB 277,whole-cell vaccine,0.558110626551
+13783,medical belief,politicians,0.352956123865
+13791,medical belief,vaccine-injured children,0.352956123865
+13805,medical belief,anti-vaxxers,0.352956123865
+13811,medical belief,open conversations,0.352956123865
+13854,crazy people,vaccine-injured children,0.721347520444
+13883,politicians,vaccine-injured children,0.352956123865
+13897,politicians,anti-vaxxers,0.352956123865
+13903,politicians,open conversations,0.352956123865
+13938,Americans,pertussis vaccine,0.910239226627
+13985,effectiveness,changes,0.389871245251
+14003,immunity,high-dose flu vaccine,1.44269504089
+14021,pertussis vaccine,upward trend,1.44269504089
+14027,pertussis vaccine,whole-cell vaccine,0.558110626551
+14034,pertussis vaccine,Tdap vaccine,1.44269504089
+14035,pertussis vaccine,Dr. Anna Acosta,0.721347520444
+14061,home-school,low-income family,0.314657980444
+14077,home-school,personal belief exemption,0.314657980444
+14082,home-school,changes,0.314657980444
+14113,vaccine-injured children,anti-vaxxers,1.07430364431
+14126,vaccine-injured children,open conversations,0.352956123865
+14138,PLOS Computational Biology,Tdap vaccine,0.51389834237
+14145,PLOS Computational Biology,whole-cell vaccine,0.51389834237
+14185,discredited,medical license,0.62133493456
+14253,whole-cell vaccine,Tdap vaccine,0.51389834237
+14300,changes,low-income family,0.314657980444
+14301,changes,personal belief exemption,0.314657980444
+14308,personal belief exemption,low-income family,0.314657980444
+14325,anti-vaxxers,open conversations,0.352956123865
